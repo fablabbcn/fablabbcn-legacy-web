@@ -1,10 +1,12 @@
 /* COLOR REFERENCE
 
-BlueGreen:		#29dcd9
+Aqua:		#29dcd9
+Dark-gray:  ##212121
+White:      #FFFFFF
 
 */
 
-/* ==== GENERAL ===============================================================  GENERAL =================== */ 
+/* ==== GLOBAL ================================================================  GLOBAL =================== */  
 
 body {
 	padding-top: 70px;
@@ -15,10 +17,6 @@ body {
 	text-rendering: optimizelegibility;
 }
 
-
-
-
-/* ==== GLOBAL ================================================================  GLOBAL =================== */ 
 
 h1,h2,h3,h4,h5,h6 {
 	-webkit-font-smoothing: antialiased;
@@ -92,7 +90,65 @@ ol {
 	
 }
 
-/* ==== LAYOUT IDs =============================================================  LAYOUT IDs =============== */ 
+
+/* ==== Navigation =============================================================  Navigation =============== */ 
+
+.navbar{
+	border-radius: 0;
+
+}
+
+.navbar-inverse {
+    background-color: rgba(0, 0, 0, 0.87);
+    border-top: 1px solid #0e0e0e ;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    
+}
+.navbar-fixed-top {
+    top: 20px;
+    border-width: 0px 0px 0px;
+}
+
+.navbar-brand > img {
+	height: 25px;
+}
+
+.navbar-nav > li > a {
+    margin: 18px 0 0px 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 10px;
+}
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+  color: #fff;
+  background-color:  #d630cb;
+  border: none;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #ffffff;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+  color: #29DCD9;
+  background-color: transparent;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+  color: #29DCD9;
+  background-color: transparent;
+}
+
+
+/* ==== Pages Layout ============================================================= Pages Layout =============== */ 
+
 
 #header-pages-blog-title {
 	background: url('../img/header_1.jpg') no-repeat; 
@@ -131,42 +187,10 @@ ol {
 }
 
 
-
-/* ======= hero ===================== */
-
-
-.carousel-caption {
-	padding: 0;
-	font-weight: 500;
-	bottom: 200px;
-	font-size: 1.4em;
-	text-shadow: none;
-}
-
-.carousel-caption li {
-	font-size: 1.6em;
-	list-style: none;
-}
-
-.carousel-caption li a{
-	color: white;
-}
-
-.carousel-caption li a:hover{
-	color: #29dcd9;
-}
-
-#carousel-container {
-	padding: 0;
-
-}
-
-.container-fluid {
-	padding: 0;
-}
+/* ==== Home Page =============================================================== Home Page =============== */ 
 
 
-/* ======= latest news ================== */
+/* ==== Latest News =========================== */ 
 
 
 #news h2{
@@ -231,7 +255,7 @@ ol {
 }
 
 
-/* ==== BLOG ==== */
+/* ==== Blog =============================================================== Blog =============== */ 
 
 #blog-content-container{
 	padding-top: 40px;
@@ -312,84 +336,79 @@ ol {
 	
 }
 
-/* === CUSTOM ICON SPRITES === */
 
 
 
+/* ==== Carousel ============================================================= Carousel =============== */ 
 
 
-/* ==== GENERAL LINK STYLES  ==================================================== GENERAL LINK STYLES  ===== */ 
-
-/* ==== HEADER ================================================================= HEADER ==================== */ 
-
-/* ==== NAVIGATION =============================================================  NAVIGATION =============== */ 
-
-.navbar{
-	border-radius: 0;
-
+#carousel-container {
+	padding: 0;
 }
 
-.navbar-inverse {
-    background-color: rgba(0, 0, 0, 0.87);
-    border-top: 1px solid #0e0e0e ;
-    border-left: none;
-    border-right: none;
-    border-bottom: none;
-    
-}
-.navbar-fixed-top {
-    top: 20px;
-    border-width: 0px 0px 0px;
+.carousel-caption {
+	padding: 0;
+	font-weight: 500;
+	bottom: 200px;
+	font-size: 1.4em;
+	text-shadow: none;
 }
 
-.navbar-brand > img {
-	height: 25px;
+.carousel-caption li {
+	font-size: 1.6em;
+	list-style: none;
 }
 
-.navbar-nav > li > a {
-    margin: 18px 0 0px 0;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    line-height: 10px;
-}
-.navbar-inverse .navbar-nav > .active > a,
-.navbar-inverse .navbar-nav > .active > a:hover,
-.navbar-inverse .navbar-nav > .active > a:focus {
-  color: #fff;
-  background-color:  #d630cb;
-  border: none;
+.carousel-caption li a{
+	color: white;
 }
 
-.navbar-inverse .navbar-nav > li > a {
-    color: #ffffff;
+.carousel-caption li a:hover{
+	color: #29dcd9;
 }
 
-.navbar-inverse .navbar-nav > li > a:hover,
-.navbar-inverse .navbar-nav > li > a:focus {
-  color: #29DCD9;
-  background-color: transparent;
+
+.carousel-fade .carousel-inner .item {
+  -webkit-transition-property: opacity;
+          transition-property: opacity;
+}
+.carousel-fade .carousel-inner .item,
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+  opacity: 0;
+}
+.carousel-fade .carousel-inner .active,
+.carousel-fade .carousel-inner .next.left,
+.carousel-fade .carousel-inner .prev.right {
+  opacity: 1;
+}
+.carousel-fade .carousel-inner .next,
+.carousel-fade .carousel-inner .prev,
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+  left: 0;
+  -webkit-transform: translate3d(0, 0, 0);
+          transform: translate3d(0, 0, 0);
+}
+.carousel-fade .carousel-control {
+  z-index: 2; 
+  
+
+.item:nth-child(1) {
+    background-image: url('../assets/img/a_slider_1.jpg');
 }
 
-.navbar-inverse .navbar-nav > .active > a,
-.navbar-inverse .navbar-nav > .active > a:hover,
-.navbar-inverse .navbar-nav > .active > a:focus {
-  color: #29DCD9;
-  background-color: transparent;
+.item:nth-child(2) {
+        background-image: url('../assets/img/a_slider_2.jpg');
 }
 
-/* ==== collapsed ===== */
-
-.container > .navbar-header, .container-fluid > .navbar-header, .container > .navbar-collapse, .container-fluid > .navbar-collapse {
-    margin-right: 0;
-    margin-left: 5px;
+.item:nth-child(3) {
+        background-image: url('../assets/img/a_slider_3.jpg');
 }
 
-.navbar-inverse .navbar-toggle {
-    border-color: rgba(0, 0, 0, 0.87);    
+.container-fluid {
+	padding: 0;
 }
-
-.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
-    background-color: rgba(0, 0, 0, 0.87);
 
 
 /* === COMMENTS === */
