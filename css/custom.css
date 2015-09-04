@@ -145,3 +145,137 @@ ol {
   color: #29DCD9;
   background-color: transparent;
 }
+
+
+
+/* ======= partners ================ */
+
+#partners {
+    margin-top: 30px;
+    padding-top: 23px;
+	background: rgba(0, 0, 0, 0.87);
+}
+
+
+/* ======= footer ================== */
+
+#footer {
+	text-align: center;
+	background: white;
+	padding: 30px 0 30px 0;
+	
+}
+
+
+/* ==== Carousel ============================================================= Carousel =============== */ 
+
+
+#carousel-container {
+	padding: 0;
+}
+
+.carousel-caption {
+	padding: 0;
+	font-weight: 500;
+	bottom: 200px;
+	font-size: 1.4em;
+	text-shadow: none;
+}
+
+.carousel-caption li {
+	font-size: 1.6em;
+	list-style: none;
+}
+
+.carousel-caption li a{
+	color: white;
+}
+
+.carousel-caption li a:hover{
+	color: #29dcd9;
+}
+
+
+.carousel-fade .carousel-inner .item {
+  -webkit-transition-property: opacity;
+          transition-property: opacity;
+}
+.carousel-fade .carousel-inner .item,
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+  opacity: 0;
+}
+.carousel-fade .carousel-inner .active,
+.carousel-fade .carousel-inner .next.left,
+.carousel-fade .carousel-inner .prev.right {
+  opacity: 1;
+}
+.carousel-fade .carousel-inner .next,
+.carousel-fade .carousel-inner .prev,
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+  left: 0;
+  -webkit-transform: translate3d(0, 0, 0);
+          transform: translate3d(0, 0, 0);
+}
+.carousel-fade .carousel-control {
+  z-index: 2; 
+  
+
+.item:nth-child(1) {
+    background-image: url('../img/a_slider_1.jpg');
+}
+
+.item:nth-child(2) {
+        background-image: url('../img/a_slider_2.jpg');
+}
+
+.item:nth-child(3) {
+        background-image: url('../img/a_slider_3.jpg');
+}
+
+.container-fluid {
+	padding: 0;
+}
+
+
+/* === COMMENTS === */
+
+/* === RESOURCES === */
+
+/* === WIDGETS === */
+
+/* ==== MEDIA QUERIES ==== */
+
+
+/* Large desktops and laptops */
+@media (min-width: 1200px) {
+
+}
+
+/* Landscape tablets and medium desktops */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    #content-blocks h2 {
+		position: absolute;
+		top: 90px !important;  
+	    width: 50% !important;
+	    color: white;
+		z-index: 100;
+	}
+}
+
+/* Portrait tablets and small desktops */
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+/* Landscape phones and portrait tablets */
+@media (max-width: 767px) {
+
+}
+
+/* Portrait phones and smaller */
+@media (max-width: 480px) {
+
+}
