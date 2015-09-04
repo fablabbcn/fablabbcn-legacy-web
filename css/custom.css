@@ -147,8 +147,122 @@ ol {
 }
 
 
+/* ==== Banner ============================ */ 
 
-/* ======= partners ================ */
+
+#news h2{
+	text-align: center;
+}
+
+#latest-news-banner {
+	padding-top: 60px;
+}
+
+#banner-background {
+	color: white;
+	background-color: #FFC300;
+	z-index: -1;	
+}
+
+#banner-text {
+	padding: 30px 0 0 60px;
+}
+
+#banner-background {
+	padding: 0 30px 0 0;
+}
+
+
+/* ======= content blocks ================== */
+
+
+#content-blocks {
+	width: auto;
+	padding-top: 60px;	
+	text-align: center;
+}
+
+.content-blocks-button {
+	background: #000000;    
+}
+
+#latest-news-picture {
+	background: #000000;
+}
+
+.image-fade {
+   opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+}
+
+.image-fade:hover {
+    opacity: 0.5;
+
+}
+
+
+#content-blocks h2 {
+	position: absolute;
+	top: 110px;  
+    width: 90%;
+    color: white;
+
+}
+
+
+/* ======= collaborations ======== */
+
+
+#collaborations {
+	padding-top: 60px;
+	padding-bottom: 60px;
+
+}
+
+#collaborations-text {
+	margin-top: 50px;	
+}
+
+
+/* ======= Suscribe newsletter ======== */
+
+
+#optin {
+	background-image: url('../img/newsletter_banner.jpg');
+	min-height: 140px;
+	margin-top: 30px;
+}
+
+#subscribe {
+	font-size: 1.5em;
+	font-weight: bold;
+	text-align: right;
+	color: #ffffff;
+	padding-top: 55px;
+}
+
+.form-inline {
+	padding-top: 55px;
+}
+
+.form-inline .form-control {
+    display: inline-block;
+    width: 250px;
+    vertical-align: middle;
+    border: none;
+    border-radius: 0;
+}
+
+.btn {
+	margin-left: 30px;
+	border-radius: 5px;
+}
+
+
+
+/* ======= Partners ================ */
 
 #partners {
     margin-top: 30px;
@@ -157,7 +271,7 @@ ol {
 }
 
 
-/* ======= footer ================== */
+/* ======= Footer ================== */
 
 #footer {
 	text-align: center;
