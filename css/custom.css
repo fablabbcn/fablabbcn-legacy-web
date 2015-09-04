@@ -1,0 +1,147 @@
+/* COLOR REFERENCE
+
+Aqua:		#29dcd9
+Dark-gray:  #3d3d3d
+White:      #FFFFFF
+
+*/
+
+/* ==== GLOBAL ================================================================  GLOBAL =================== */  
+
+body {
+	padding-top: 70px;
+	font-family: 'proxima-nova', 'Raleway', Helvetica, sans-serif;
+	font-size: 13px;
+	color: #3d3d3d;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizelegibility;
+}
+
+
+h1,h2,h3,h4,h5,h6 {
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizelegibility;
+	font-weight: bold;
+}
+
+a:link {
+	color: #3d3d3d;
+}
+
+a:visited{
+	color: #29dcd9;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #29dcd9;
+}
+
+img {
+	max-width: 100%;
+}
+
+p {
+	margin: 0;
+}
+
+
+.container{
+	padding: 0 30px 0 30px;
+}
+
+.container-all-edges {
+	background: white;
+	padding-right: 80px;
+	border-right: solid 1px #dedede;
+}
+
+
+
+hr {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-width: 1px 0px 0px;
+    border-style: solid none none;
+    border-color: #dedede; 
+}
+
+ul {
+   list-style: none;
+}
+
+ol {
+	list-style: none;
+}
+
+.col-md-3 {
+	padding-bottom: 29px;
+
+}
+
+#separator {
+    padding-top: 30px;
+    padding-bottom: 30px;
+	border-bottom: 1px solid #dddddd;
+}
+
+#separator-blog {
+	border-bottom: 1px solid #dddddd;
+	
+}
+
+
+/* ==== Navigation =============================================================  Navigation =============== */ 
+
+.navbar{
+	border-radius: 0;
+
+}
+
+.navbar-inverse {
+    background-color: rgba(0, 0, 0, 0.87);
+    border-top: 1px solid #0e0e0e ;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    
+}
+.navbar-fixed-top {
+    top: 20px;
+    border-width: 0px 0px 0px;
+}
+
+.navbar-brand > img {
+	height: 25px;
+}
+
+.navbar-nav > li > a {
+    margin: 18px 0 0px 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 10px;
+}
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+  color: #fff;
+  background-color:  #d630cb;
+  border: none;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #ffffff;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+  color: #29DCD9;
+  background-color: transparent;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+  color: #29DCD9;
+  background-color: transparent;
+}
