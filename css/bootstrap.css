@@ -1600,7 +1600,7 @@ pre code {
 }
 @media (min-width: 1200px) {
   .container {
-    width: 1250px;
+    width: 1170px;
   }
 }
 .container-fluid {
@@ -3673,7 +3673,7 @@ tbody.collapse.in {
   left: auto;
 }
 .dropup .caret,
-.-fixed-bottom .dropdown .caret {
+.navbar-fixed-bottom .dropdown .caret {
   content: "";
   border-top: 0;
   border-bottom: 4px dashed;
@@ -4214,9 +4214,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar {
   position: relative;
   min-height: 50px;
-  margin-bottom: 23px;
+  margin-bottom: 20px;
   border: 1px solid transparent;
-  border-radius: 0px;
 }
 @media (min-width: 768px) {
   .navbar {
@@ -4256,7 +4255,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar-collapse.in {
     overflow-y: visible;
   }
-  .-fixed-top .navbar-collapse,
+  .navbar-fixed-top .navbar-collapse,
   .navbar-static-top .navbar-collapse,
   .navbar-fixed-bottom .navbar-collapse {
     padding-right: 0;
@@ -4373,9 +4372,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   margin: 7.5px -15px;
 }
 .navbar-nav > li > a {
-  padding-top: 15px;
-  padding-bottom: 5px;
-  line-height: 35px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  line-height: 20px;
 }
 @media (max-width: 767px) {
   .navbar-nav .open .dropdown-menu {
@@ -4650,7 +4649,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   background-color: transparent;
 }
 .navbar-inverse .navbar-text {
-  color: #9d9d96;
+  color: #9d9d9d;
 }
 .navbar-inverse .navbar-nav > li > a {
   color: #9d9d9d;
@@ -4664,8 +4663,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 .navbar-inverse .navbar-nav > .active > a:hover,
 .navbar-inverse .navbar-nav > .active > a:focus {
   color: #fff;
-  background-color:  #5b0505;
-  border: solid 1px black;
+  background-color: #080808;
 }
 .navbar-inverse .navbar-nav > .disabled > a,
 .navbar-inverse .navbar-nav > .disabled > a:hover,
@@ -4674,7 +4672,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   background-color: transparent;
 }
 .navbar-inverse .navbar-toggle {
-  border-color: #1dbebb;
+  border-color: #333;
 }
 .navbar-inverse .navbar-toggle:hover,
 .navbar-inverse .navbar-toggle:focus {
