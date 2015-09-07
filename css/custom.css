@@ -22,6 +22,7 @@ h1,h2,h3,h4,h5,h6 {
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizelegibility;
 	font-weight: bold;
+	
 }
 
 a:link {
@@ -56,7 +57,9 @@ p {
 	border-right: solid 1px #dedede;
 }
 
-
+.lead {
+	font-size: medium;
+}
 
 hr {
     margin-top: 10px;
@@ -86,13 +89,14 @@ ol {
 }
 
 #separator-pages-top {
+	margin-bottom: 30px;
 	border-bottom: 1px solid #dddddd;
 	
 }
 
 #separator-pages-bottom {
     padding-top: 30px;
-    padding-bottom: 30px;
+    margin-bottom: 30px;
 	border-bottom: 1px solid #dddddd;
 	
 }
@@ -201,8 +205,7 @@ ol {
 }
 
 
-
-/* ==== Home ============================================== Home ============ */
+/* ==== Home ==================================================== Home ============ */
 
 /* ==== Banner ==================== */ 
 
@@ -318,10 +321,42 @@ ol {
 	color: white;
 }
 
+/* ====== Blog ================================================ Blog ============ */ 
 
+.form-control:focus {
+    border-color: #29dcd9;
+    outline: 0px none;
+    box-shadow: none;
+}
+
+.well {
+	background-color: #f3f3f3;
+	border-radius: 2px;
+    margin-left: 15px;
+    box-shadow: none;
+}
+
+.pager li > a {
+	font-size: 1.3em;
+	border-radius: 2px;
+}
+
+.pager li > a:hover {
+	background-color: #FFF;
+}
+
+
+/* ====== Fab Academy ================================================ Fab Academy ============ */
+
+#fab-academy img {
+	padding-top: 15px;
+}
 
 /* ======= collaborations ======== */
 
+#fab-academy-video-container {
+	padding-bottom: 30px;
+}
 
 #collaborations {
 	padding-top: 60px;
@@ -331,6 +366,11 @@ ol {
 
 #collaborations-text {
 	margin-top: 50px;	
+}
+
+#fab-academy-video-embed {
+	padding-top: 50px;
+	
 }
 
 
