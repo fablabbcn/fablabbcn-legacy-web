@@ -81,11 +81,18 @@ ol {
 
 #separator {
     padding-top: 30px;
-    padding-bottom: 30px;
+    margin-bottom: 30px;
 	border-bottom: 1px solid #dddddd;
 }
 
-#separator-blog {
+#separator-pages-top {
+	border-bottom: 1px solid #dddddd;
+	
+}
+
+#separator-pages-bottom {
+    padding-top: 30px;
+    padding-bottom: 30px;
 	border-bottom: 1px solid #dddddd;
 	
 }
@@ -153,7 +160,51 @@ ol {
 }
 
 
-/* ==== Banner ============================ */ 
+
+/* ==== Pages Layout ============================================================= Pages Layout =============== */ 
+
+
+#header-pages-blog-title {
+	background: url('../img/header_1.jpg') no-repeat; 
+	background-size: cover ;
+	text-align: center;
+}
+
+#header-pages-about-us-title {
+	background: url('../img/header_1.jpg') no-repeat; 
+	background-size: cover ;
+	text-align: center;
+}
+
+#header-pages-contact-title {
+	background: url('../img/header_3.jpg') no-repeat; 
+	background-size: cover ;
+	text-align: center;
+}
+
+
+#header-pages-blog-title h2, #header-pages-about-us-title h2,  #header-pages-contact-title h2 {
+	padding: 30px 0 30px 0px;
+	vertical-align: middle;
+	text-align: center; 
+    color: white;
+
+}
+
+
+#pages-social-icons {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+	font-size: 1.5em;
+	list-style: none;
+}
+
+
+
+/* ==== Home ============================================== Home ============ */
+
+/* ==== Banner ==================== */ 
 
 
 #news h2{
@@ -216,6 +267,57 @@ ol {
     color: white;
 
 }
+
+/* ==== About us ============================================== About us ============ */ 
+
+/* ======= About us menu ================== */
+
+#about-us-menu-1 {
+	margin: 0 20px 0 15px;
+	
+	background: url('../img/content_squares_fab_academy.jpg') no-repeat; 
+	background-size: cover ;
+	background-position: center center;
+}
+
+
+#about-us-menu-2 {
+	margin: 0 20px 0 15px;
+	background: url('../img/content_squares_fabkids.jpg') no-repeat; 
+	background-size: cover ;
+	background-position: center center;
+}
+
+
+#about-us-menu-3 {
+	margin: 0 20px 0 15px;
+	background: url('../img/content_squares_fabpro.jpg') no-repeat; 
+	background-size: cover;
+	background-position: left center;
+}
+
+#about-us-menu-4 {
+	margin: 0 20px 0 15px;
+	background: url('../img/content_squares_popup_fablab.jpg') no-repeat; 
+	background-size: cover;
+	background-position: center bottom;
+}
+
+#about-us-menu-5 {
+	background: url('../img/content_squares_open_days.jpg') no-repeat; 
+	background-size: cover;
+	background-position: center top;
+}
+
+#about-us-menu-1 h3, #about-us-menu-2 h3, #about-us-menu-3 h3, #about-us-menu-4 h3, #about-us-menu-5 h3{
+	color: white;
+	padding: 15px 0 15px 0;
+}
+
+#about-us-menu-divider {
+	color: white;
+}
+
 
 
 /* ======= collaborations ======== */
