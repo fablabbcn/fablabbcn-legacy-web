@@ -352,11 +352,28 @@ ol {
 	padding-top: 15px;
 }
 
+/* ====== Fab Kids ==================================================== Fab Kids ============ */
+
+#fab-kids-col-pic {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#fab-kids-col-txt-1 {
+	font-size: 1.2em;
+    padding-top: 80px;
+
+}
+
+#fab-kids-col-txt-2 {
+	font-size: 1.2em;
+    padding-top: 150px;
+
+}
+
 /* ======= collaborations ======== */
 
-#fab-academy-video-container {
-	padding-bottom: 30px;
-}
+
 
 #collaborations {
 	padding-top: 60px;
