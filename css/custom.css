@@ -207,6 +207,11 @@ ol {
 
 /* ==== Home ==================================================== Home ============ */
 
+#latest-news {
+	padding-top: 30px; 
+}
+
+
 /* ==== Banner ==================== */ 
 
 
@@ -215,7 +220,8 @@ ol {
 }
 
 #latest-news-banner {
-	padding-top: 60px;
+	padding-top: 30px;
+	padding-bottom: 30px;
 }
 
 #banner-background {
@@ -237,8 +243,8 @@ ol {
 
 
 #content-blocks {
-	width: auto;
-	padding-top: 60px;	
+	padding-top: 30px;
+	width: auto;	
 	text-align: center;
 }
 
@@ -450,7 +456,7 @@ ol {
 
 
 #carousel-container {
-	padding: 0;
+	margin-bottom: 30px;
 }
 
 .carousel-caption {
