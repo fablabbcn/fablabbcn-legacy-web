@@ -3575,7 +3575,7 @@ tbody.collapse.in {
   top: 100%;
   left: 0;
   z-index: 1000;
-  display: none;
+  display: block;
   float: left;
   min-width: 160px;
   padding: 5px 0;
