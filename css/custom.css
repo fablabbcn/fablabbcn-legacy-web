@@ -243,6 +243,9 @@ ol {
 	padding-top: 30px; 
 }
 
+.btn-lg {
+    border-radius: 2px;
+}
 
 /* ==== Banner ==================== */ 
 
@@ -366,7 +369,7 @@ ol {
 	color: white;
 }
 
-/* ====== Blog ================================================ Blog ============ */ 
+/* ====== Blog ============================================================ Blog ============ */ 
 
 .form-control:focus {
     border-color: #29dcd9;
@@ -390,6 +393,22 @@ ol {
 	background-color: #FFF;
 }
 
+/* ====== Blog Post ====================================================== Blog Post ========== */
+
+
+#blog-post img {
+	padding-top: 30px;
+	padding-bottom: 30px;
+} 
+
+#comment-input {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+#comment-input btn{
+	padding-left: -20px;
+}
 
 /* ====== Fab Academy ================================================ Fab Academy ============ */
 
@@ -416,10 +435,145 @@ ol {
 
 }
 
+/* ====== projects showcase ==================================== projects showcase ====== */
+
+.project-item {
+    margin-bottom: 30px;
+}
+
+.pagination > li:first-child > a, 
+.pagination > li:first-child > span {
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+}
+
+.pagination > li > a, 
+.pagination > li > span {
+    position: relative;
+    float: none;
+    padding: 6px 12px;
+    margin-left: -1px;
+    line-height: 1.42857;
+    color: #3d3d3d;
+    text-decoration: none;
+    background-color: #FFF;
+    border: 1px solid #DDD;
+}
+
+.pagination > li > a:hover {
+	background: transparent;
+	color: #29dcd9; 
+}
+
+.pagination > .active > a, 
+.pagination > .active > a:focus, 
+.pagination > .active > a:hover, 
+.pagination > .active > span, 
+.pagination > .active > span:focus, 
+.pagination > .active > span:hover {
+    z-index: 2;
+    color: #FFF;
+    cursor: default;
+    background-color: #3d3d3d;
+    border-color: #3d3d3d;
+}
+
+/* ====== project post ================================================ project post ====== */
+
+#project-post-row {
+	padding-top: 30px;
+}
+
+#carousel-example-generic {
+	margin-bottom: 60px;
+}
+
+.carousel-control.right {
+    right: 0px;
+    left: auto;
+    background-image: none;
+    background-repeat: none;
+}
+
+.carousel-control.left {
+    left: 0px;
+    right: auto;
+    background-image: none;
+    background-repeat: none;
+}
+
+#project-post-description {
+	padding-top: 40px;
+}
+
+#project-post-description p {
+	font-size: 1.2em;
+}
+
+#project-post-text {
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+
+
+/* ====== Workshops ================================================ Workshops ============ */
+
+#workshops img {
+	padding-bottom: 40px;
+}
+
+#workshops-description {
+	padding-top: 30px;
+}
+
+.btn-success a,
+.btn-success a:hover {
+	color: white;
+}
+
+/* ====== workshop post ================================================ workshop post ====== */
+
+#workshop-post-row {
+	padding-top: 30px;
+}
+
+#carousel-example-generic {
+	margin-bottom: 60px;
+}
+
+.carousel-control.right {
+    right: 0px;
+    left: auto;
+    background-image: none;
+    background-repeat: none;
+}
+
+.carousel-control.left {
+    left: 0px;
+    right: auto;
+    background-image: none;
+    background-repeat: none;
+}
+
+#workshop-post-description {
+	padding-top: 20px;
+}
+
+#workshop-post-description p {
+	font-size: 1.2em;
+}
+
+#workshop-post-text {
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+
+
+
 /* ====== Contact ==================================================== Contact ============ */
 
 #contact img {
-	padding-bottom: 30px;
+	padding-bottom: 40px;
 }
 
 #contact-col-txt-1 {
@@ -461,22 +615,27 @@ ol {
 /* ======= Suscribe newsletter ======== */
 
 
-#optin {
-	background-image: url('../img/newsletter_banner.jpg');
-	min-height: 140px;
-	margin-top: 30px;
+#subscribe {
+	background: url('../img/subscribe_banner.jpg') no-repeat; 
+	background-size: cover ;
+
 }
 
-#subscribe {
+#subscribe-row {
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+
+#subscribe-text {
 	font-size: 1.5em;
 	font-weight: bold;
 	text-align: right;
 	color: #ffffff;
-	padding-top: 55px;
+	
 }
 
 .form-inline {
-	padding-top: 55px;
+	align-content: left;
 }
 
 .form-inline .form-control {
@@ -487,10 +646,11 @@ ol {
     border-radius: 0;
 }
 
-.btn {
-	margin-left: 30px;
-	border-radius: 5px;
+#subscribe-button {
+	margin-left: 10px;
 }
+
+
 
 
 
