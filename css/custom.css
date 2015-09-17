@@ -77,10 +77,7 @@ ol {
 	list-style: none;
 }
 
-.col-md-3 {
-	padding-bottom: 29px;
 
-}
 
 #separator {
     padding-top: 30px;
@@ -285,10 +282,15 @@ ol {
 
 
 #content-blocks {
-	padding-top: 30px;
+	padding-bottom: 30px;
 	width: auto;	
 	text-align: center;
 }
+
+#content-blocks-row {
+	padding-top: 30px;
+}
+ 
 
 .content-blocks-button {
 	background: #000000;    
@@ -323,50 +325,29 @@ ol {
 
 /* ======= About us menu ================== */
 
-#about-us-menu-1 {
-	margin: 0 20px 0 15px;
-	
-	background: url('../img/content_squares_fab_academy.jpg') no-repeat; 
-	background-size: cover ;
-	background-position: center center;
+
+#about-us-menu-row-1 {
+	padding: 10px 0 10px 0;
 }
 
-
-#about-us-menu-2 {
-	margin: 0 20px 0 15px;
-	background: url('../img/content_squares_fabkids.jpg') no-repeat; 
-	background-size: cover ;
-	background-position: center center;
+#about-us-menu-row-2 {
+	padding: 10px 0 10px 0;
 }
 
-
-#about-us-menu-3 {
-	margin: 0 20px 0 15px;
-	background: url('../img/content_squares_fabpro.jpg') no-repeat; 
-	background-size: cover;
-	background-position: left center;
+.img-circle img-responsive img-center {
+	text-align: center;
 }
 
-#about-us-menu-4 {
-	margin: 0 20px 0 15px;
-	background: url('../img/content_squares_popup_fablab.jpg') no-repeat; 
-	background-size: cover;
-	background-position: center bottom;
+#team-item {
+	padding-bottom: 40px;
 }
 
-#about-us-menu-5 {
-	background: url('../img/content_squares_open_days.jpg') no-repeat; 
-	background-size: cover;
-	background-position: center top;
+#team h3{
+	padding-bottom: 30px;
 }
 
-#about-us-menu-1 h3, #about-us-menu-2 h3, #about-us-menu-3 h3, #about-us-menu-4 h3, #about-us-menu-5 h3{
-	color: white;
-	padding: 15px 0 15px 0;
-}
-
-#about-us-menu-divider {
-	color: white;
+#team li{
+	list-style: none;
 }
 
 /* ====== Blog ============================================================ Blog ============ */ 
@@ -597,13 +578,14 @@ ol {
 
 
 #collaborations {
-	padding-top: 60px;
+	padding-top: 10px;
 	padding-bottom: 60px;
 
 }
 
 #collaborations-text {
-	margin-top: 50px;	
+	padding-left: 70px;
+	margin-top: 105px;	
 }
 
 #fab-academy-video-embed {
