@@ -3,10 +3,10 @@
             <!-- <br><br>
 		    <h2>Latest News</h2>-->	    		     
 		        <div class="row">			    
-			       		{% for news in site.categories.blog_posts %}    			    
+			       		{% for latest_news in site.categories.blog_posts %}    			    
 			        <div class="col-md-3 col-sm-3">				       		
 
-					    <img src="{{site.baseurl}}/img/blog/latest_news_1.jpg" id="latest-news-picture"/>
+					    <img src="{{site.baseurl}}/img/blog/{{.image}}latest_news_1.jpg" id="latest-news-picture"/>
 					    <br>						    
 					    <a href=""><h3>{{news.title}}</h3></a> 
 					    <br>
