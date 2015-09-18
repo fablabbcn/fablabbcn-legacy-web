@@ -1,5 +1,6 @@
 ---
 layout: default
+meta: One of the leading laboratories of the worldwide network of Fab Labs
 ---
 
 <!-- ======== Navbar ================================================================= Navbar ============== -->
@@ -79,7 +80,31 @@ layout: default
 
 <!-- ======== Latest News =========================================================== Latest News ================-->
 
-	{% include latest_news.html %}
+	<section id="news">
+	    <div class="container" id="latest-news">
+            <!-- <br><br>
+		    <h2>Latest News</h2>-->	    		     
+		        <div class="row">			    
+			       		    			 			   			       		
+                    {% include news.html %} 					    					    			        	         			        				 						       		    			         
+				    
+				    {% include news.html %}  
+				    				    
+				    
+				    {% include news.html %}
+
+				    				    
+				    {% include news.html %}
+
+				    </div> <!-- col -->			   
+
+			        					   					    			   
+			    </div> <!-- row --> 
+			    
+			    <a href="{{site.baseurl}}{{blog_post.url}}" class="btn btn-default btn-lg btn-block">Read more here...</a>
+			    			
+	    </div> <!-- container -->    
+	</section> <!-- section -->
 
 <!-- =============================================================================================================-->			    
 <div class="container" id="separator"></div>
