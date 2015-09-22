@@ -1,10 +1,13 @@
+---
+layout: news
+---    
     
-    
-    {{% for blog_post in site.categories.blog_posts %}}
+    {{% for news in site.categories.blog_post %}}
+<div class="row">
     <div class="col-md-3 col-sm-3">				       		
 
                     
-	    <img src="{{site.baseurl}}/img/blog/{{blog_post.image}}78798698.jpg" id="latest-news-picture"/>
+	    <img src="{{site.baseurl}}/img/blog/{{blog_post.image}}" id="latest-news-picture"/>
 	    <br>						    
 	    <a href=""><h3>{{blog_post.title}}</h3></a> 
 	    <br>
@@ -17,3 +20,4 @@
 					    					    
 	 </div> <!-- col -->		      
 			        					   					    			   
+ </div> <!-- row -->

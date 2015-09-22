@@ -243,8 +243,13 @@ ol {
 
 /* ==== Home ==================================================== Home ============ */
 
-#latest-news {
+#latest-news{
 	padding-top: 30px; 
+	padding-bottom: 30px;
+}
+
+#read-more-button {
+	margin-top: 30px;
 }
 
 .btn-lg {
@@ -365,6 +370,7 @@ ol {
     box-shadow: none;
 }
 
+
 .well {
 	background-color: #f3f3f3;
 	border-radius: 2px;
@@ -380,6 +386,7 @@ ol {
 .pager li > a:hover {
 	background-color: #FFF;
 }
+
 
 /* ====== Blog Post ====================================================== Blog Post ========== */
 
@@ -734,43 +741,55 @@ ol {
 }
 
 
-/* === COMMENTS === */
+/* ============= media queries ========================================= media queries ======================= */
 
-/* === RESOURCES === */
-
-/* === WIDGETS === */
-
-/* ==== MEDIA QUERIES ==== */
+/* ============= large devices ======================================= */
 
 
-/* Large desktops and laptops */
-@media (min-width: 1200px) {
+@media (min-width: 1200px) { 
+	
+
 
 }
 
-/* Landscape tablets and medium desktops */
-@media (min-width: 992px) and (max-width: 1199px) {
 
-    #content-blocks h2 {
-		position: absolute;
-		top: 90px !important;  
-	    width: 50% !important;
-	    color: white;
-		z-index: 100;
-	}
-}
+/* ============= medium devices  ======================================= */
 
-/* Portrait tablets and small desktops */
-@media (min-width: 768px) and (max-width: 991px) {
+
+@media (min-width: 992px) and (max-width: 1199px) { 
+
+.carousel-caption {
+    
+    bottom: 50px;
 
 }
+	
+}
 
-/* Landscape phones and portrait tablets */
-@media (max-width: 767px) {
+
+/* ============= small devices ======================================= */
+
+
+@media (min-width: 668px) and (max-width: 991px) {
+	
+.carousel-caption {
+
+    bottom: 20px;
 
 }
 
-/* Portrait phones and smaller */
-@media (max-width: 480px) {
+} 
+
+/* ============= extra small devices ======================================= */
+
+
+@media (min-width: 240px) and (max-width: 667px) { 
+	
+.carousel-caption {
+    position: relative
+    bottom: 20px;
 
 }
+
+
+

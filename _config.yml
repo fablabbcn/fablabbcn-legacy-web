@@ -1,3 +1,3 @@
-markdown: redcarpet
+markdown: redcarpet  
 baseurl: /fablabbcn-web
 exclude: ['README.md']
