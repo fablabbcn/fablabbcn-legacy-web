@@ -20,23 +20,7 @@ layout: default
 
 <!-- ======== pages-social-icons ===========-->
 
-    <section id="pages-social">
-	    
-	    <div class="container" id="pages-social-icons">
-
-	            <li>
-					<li>
-							<a target="_blank" href="https://www.facebook.com/FabLab.BCN"><i class="fa fa-facebook-square fa"></i></a>&nbsp;&nbsp;&nbsp;
-							<a target="_blank" href="https://twitter.com/fablabbcn"><i class="fa fa-twitter fa"></i></a>&nbsp;&nbsp;&nbsp;
-							<a target="_blank" href="https://vimeo.com/fablabbcn"><i class="fa fa-vimeo fa"></i></a>&nbsp;&nbsp;&nbsp;
-							<a target="_blank" href="https://picasaweb.google.com/103318428572698589743"><i class="fa fa-camera fa"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;
-							<a target="_blank" href="https://instagram.com/fablabbcn/"><i class="fa fa-instagram fa"></i></a>&nbsp;&nbsp;&nbsp;
-							<a target="_blank" href="http://wiki.fablabbcn.org/Main_Page"><i class="fa fa-globe fa"></i></a>
-						</li>
-				</li>
-	    </div>
-	    				
-    </section>
+    {% include social.html %}
 
 
 <!-- =============================================================================================================-->
@@ -47,75 +31,22 @@ layout: default
 
     <section id="project-post">
 	    <div class="container">
-		    <div class="row" id="project-post-row">
-			    
-			    <div class="col-md-7">
-				    
-				    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-  						<div class="carousel-inner" role="listbox">
-						    
-						    <div class="item active"><img src="http://placehold.it/720x480" alt="...">
-						     
-						    </div> <!-- item -->
-						    
-						    <div class="item"><img src="http://placehold.it/720x480" alt="...">
-						      
-						    </div> <!-- item -->
-						    
-				        </div> <!-- carousel-inner -->
-						
-						<!-- Controls -->
-						<a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-						    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-						    <span class="sr-only">Previous</span></a>
-						    
-						<a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-						    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-						    <span class="sr-only">Next</span></a>
-						    
-					</div> <!-- carousel-example-generic -->
-				    
-			    </div> <!-- col -->
-			    
-			    <div class="col-md-1"></div>
-			    
-			    <div class="col-md-4" id="project-post-description">
-				    
-				    <h3>{{page.title}}</h3>
+		    	    
+				    <h2>{{page.title}}</h2>
 
 	                <p class="lead">by <a href="#">{{page.author}}</a></p>
-	                <p><span class="glyphicon glyphicon-time"></span> Posted on {{page.date}}</p>
-
+	                
 				    <p>{{page.meta}}</p>
 				    
-			    </div> <!-- col -->
-		    </div> <!-- row --> 
-<!-- =============================================================================================================-->		    
-<div class="container" id="separator-pages-top"></div>		    
-<!-- =============================================================================================================-->		    		    
-		    <div class="row" id="project-post-text">
-			    			    
-			    <div class="col-md-4">
-				    
-				    {{content}}
-					     					     
-			    </div> <!-- col -->
-			    
-			    <div class="col-md-4">
-				    
-				    {{content}}
-				    
-			    </div> <!-- col -->
-			    
-			    <div class="col-md-4">
-				    
-				     {{content}}
-				    
-			    </div> <!-- col --> 
+		</div> <!-- col -->
 		
-		    </div> <!-- row -->     
-		    		    
+		<br>    	    		    
+		    
+		<div class="container">	    			    			    
+				    
+				    {{content}}					     					    			    		     		    		    
 	    </div> <!-- container -->
+	    
     </section> <!-- project-post -->
    
 <!-- =============================================================================================================-->

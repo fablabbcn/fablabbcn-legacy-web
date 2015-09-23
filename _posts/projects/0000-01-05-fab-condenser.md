@@ -20,11 +20,15 @@ The ENDESA WORLD FAB CONDENSER is a thermodynamic prototype — a bioclimatic do
 
 <br>
 
+<img src="{{site.baseurl}}{{ site.url }}/img/projects/fab_condenser/1.gif">
+
+<br>
+
 The prototype explores connections between parametric design, passive climate strategies and local CNC manufacturing.
 
 <br>
 
-<img src="{{site.baseurl}}/assets/fab_condenser/fab_academy_2015/1.gif" alt="1" />
+<img src="{{site.baseurl}}{{ site.url }}/img/projects/fab_condenser/2.jpg">
 
 
 <br>
@@ -37,53 +41,47 @@ The prototype was designed (written in code) in 2 months, manufactured in 5 days
 
 <br>
 
-![image 2]({{site.baseurl}}{{ site.url }}/img/projects/fab_condenser/fab_academy_2015/1.gif)
+<img src="{{site.baseurl}}{{ site.url }}/img/projects/fab_condenser/3.jpg">
 
 <br>
 
-#####DYMAXION WORLD MAP
-distribution of the fab lab network
-
-#####DYMAXION WORLD MAP
-unfolded geometry of the pavilion
-(icosahedron deformed under thermodynamic criteria)
+####DYMAXION WORLD MAP
+* distribution of the fab lab network
+* unfolded geometry of the pavilion (icosahedron deformed under thermodynamic criteria)
 
 <br>
 
-![image 2]({{site.baseurl}}{{ site.url }}/img/projects/fab_condenser/fab_academy_2015/1.gif)
+<img src="{{site.baseurl}}{{ site.url }}/img/projects/fab_condenser/4.png">
 
 <br>
 
-#####GEOMETRIC ADAPTATION
-environmental parametric process to create form
-the original icosahedron is deformed to minimize solar radiation
-
-#####GEOMETRIC ADAPTATION
-environmental parametric process to create form
-the original icosahedron is deformed to minimize solar radiation
-
-GEOMETRIC ADAPTATION
-the skin adapts to maximize natural-artificial ventilation
-the north and south winds (mountain and sea) influence on alternate times of day
+####GEOMETRIC ADAPTATION
+<br>
+* environmental parametric process to create form 
+* the original icosahedron is deformed to minimize solar radiation
+* environmental parametric process to create form
+* the original icosahedron is deformed to minimize solar radiation
+* the skin adapts to maximize natural-artificial ventilation
+* the north and south winds (mountain and sea) influence on alternate times of day
 
 <br>
 
-![image 2]({{site.baseurl}}{{ site.url }}/img/projects/fab_condenser/fab_academy_2015/1.gif)
+<img src="{{site.baseurl}}{{ site.url }}/img/projects/fab_condenser/5.jpg">
 
 <br>
 
-#####COMPONENT LOGIC
+####COMPONENT LOGIC
 the entire pavilion is built with 20 components
 digital fabrication and parametric design logic
 simplify prefabrication and the assembly process.
 
-###01 DIGITAL PREFABRICATION:
+####01 DIGITAL PREFABRICATION:
 
 Digital technologies are transforming the old ways of understanding prefabrication. They are changing the ways in which the industry manages its productive ways. And, most importantly, they are changing the interaction between designer, industry and raw material.
 
 <br>
 
-![image 2]({{site.baseurl}}{{ site.url }}/img/projects/fab_condenser/fab_academy_2015/1.gif)
+<img src="{{site.baseurl}}{{ site.url }}/img/projects/fab_condenser/6.jpg">
 
 <br>
 
@@ -95,17 +93,17 @@ The algorithm (the entire pavilion is a script) was designed in 2 months, prefab
 
 <br>
 
-![image 2]({{site.baseurl}}{{ site.url }}/img/projects/fab_condenser/fab_academy_2015/1.gif)
+<img src="{{site.baseurl}}{{ site.url }}/img/projects/fab_condenser/7.jpg">
 
 <br>
 
-###02 PASSIVE CLIMATE STRATEGIES:
+####02 PASSIVE CLIMATE STRATEGIES:
 
 The dome pursues to render the surrounding thermodynamic and climate processes. The initial geometry (a regular icosahedron) is first deformed and adapted seeking to minimize the incident solar radiation in the summer, and to maximize it in winter.
 
 <br>
 
-<img src="{{site.baseurl}}{{ site.url }}/img/projects/fab_condenser/fab_academy_2015/1.gif"/>
+<img src="{{site.baseurl}}{{ site.url }}/img/projects/fab_condenser/8.jpg">
 
 <br>
 
@@ -113,7 +111,7 @@ The skin bulges or balloons outward, more typical of sailing geometries, to acce
 
 <br>
 
-![image 2]({{site.baseurl}}{{ site.url }}/img/projects/fab_condenser/fab_academy_2015/1.gif)
+<img src="{{site.baseurl}}{{ site.url }}/img/projects/fab_condenser/9.png">
 
 <br>
 
@@ -123,13 +121,12 @@ The surrounding 200m2 wood stage acts as a reservoir of fresh air, naturally inj
 
 <br>
 
-![image 2]({{site.baseurl}}{{ site.url }}.../img/projects/fab_condenser/fab_academy_2015/1.gif)
-
+<img src="{{site.baseurl}}{{ site.url }}/img/projects/fab_condenser/10.png">
 <br>
 
 ##Modules
 
-###03 KM0 ARCHITECTURE:
+####03 KM0 ARCHITECTURE:
 
 Digital fabrication has the ability to bridge the gap between raw material, post-production, designer and end user. The project then becomes the design of the entire projected life cycle of the product. The project is the production chain.
 
@@ -137,7 +134,7 @@ The prototype was designed globally (with the collaboration of the Fab Lab Netwo
 
 <br>
 
-![image 2]({{site.baseurl}}{{ site.url }}/img/projects/fab_condenser/fab_academy_2015/1.gif)
+<img src="{{site.baseurl}}{{ site.url }}/img/projects/fab_condenser/11.jpg">
 
 <br>
 
@@ -147,7 +144,7 @@ Finally, the assembly process is fully reversible. Wood and fabrics are easily r
 
 <br>
 
-![image 2]({{site.baseurl}}{{ site.url }}/img/projects/fab_condenser/fab_academy_2015/1.gif)
+<img src="{{site.baseurl}}{{ site.url }}/img/projects/fab_condenser/12.png">
 
 <br>
 

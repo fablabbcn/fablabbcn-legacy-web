@@ -3,7 +3,7 @@ layout: project_post
 type: project
 projectimg: projects_loop/beehive.jpg
 title: Open Source Beehives
-meta: The Open Source Beehives project is a network of citizen scientists tracking bee decline. We use sensor enhanced beehives and data science to study honeybee colonies throughout the world. All of our technology and methods, from the hive and sensor kit designs to the data, are documented and made openly available for anyone to use.
+meta: The Open Source Beehives project is a network of citizen scientists tracking bee decline. We use sensor enhanced beehives and data science to study honeybee colonies throughout the world. All of our technology and methods, are documented and made openly available for anyone to use.
 author: Fab Lab BCN
 date: 0000-01-08
 

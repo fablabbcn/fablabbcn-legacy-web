@@ -475,40 +475,30 @@ ol {
 
 /* ====== project post ================================================ project post ====== */
 
-#project-post-row {
-	padding-top: 30px;
-}
-
-#carousel-example-generic {
-	margin-bottom: 60px;
-}
-
-.carousel-control.right {
-    right: 0px;
-    left: auto;
-    background-image: none;
-    background-repeat: none;
-}
-
-.carousel-control.left {
-    left: 0px;
-    right: auto;
-    background-image: none;
-    background-repeat: none;
-}
-
-#project-post-description {
-	padding-top: 40px;
-}
-
-#project-post-description p {
-	font-size: 1.2em;
-}
-
-#project-post-text {
-	padding-top: 30px;
+#project-post {
+	display: block;
+	padding-left: auto;
+	padding-right: auto;
 	padding-bottom: 50px;
+
 }
+
+
+#project-post iframe {
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+	padding: 30px 0 30px 0;
+}
+
+#project-post img {
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+    padding: 30px 0 30px 0;
+	
+}
+
 
 
 /* ====== Workshops ================================================ Workshops ============ */
