@@ -1,10 +1,11 @@
 ---
 layout: blog_post
 type: blog
-image: blog_loop/latest_news_4.jpg
+teaserlatest: blog_loop_latest/latest_news_4.jpg
+teaserlist: blog_loop_list/fab_academy_barcelona_rocks_session_2.jpg
 title: Fab Academy Barcelona rocks (Session 2)
 meta: Last week Fab Academy 2015 students presented their last awesome projects! Check what’s been cooking at Fab Lab Barcelona’s kitchen and check what Green Fab Lab students achieved!! Great job guys!! See you all at FAB11
-author: Fab Lab
+author: Fab Lab BCN
 date: 16/08/2015
 category: fab academy
 

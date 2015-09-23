@@ -1,12 +1,13 @@
 ---
 layout: blog_post
 type: blog
-image: blog_loop/78798698.jpg
+teaserlatest: blog_loop_latest/78798698.jpg
+teaserlist: blog_loop_list/history_of_technology_and_architecture.jpg
 title: Latest video on the history of technology and architecture
 meta: "IaaC Fab Lab Barcelona introduces its latest video, created for Beyond Building Barcelona 2015 faire: A History of Architecture. The video narrates the history of technology applied to human housing, from the origins to the (possible) future."
 author: Tomas Diez
 date: 27/09/2015
-category: technology, video
+category: video
 
 ---
 

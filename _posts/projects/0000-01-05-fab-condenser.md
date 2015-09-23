@@ -1,15 +1,16 @@
 ---
 layout: project_post
 type: project
-image: 87657598.jpg
+projectimg: projects_loop/fab_condenser.jpg
 video: https://vimeo.com/111846996
 title: Fab Condenser
 meta: Pavilion for the FAB10 Symposium. Barcelona, July 2nd to 8th, 2014. Initial design by Margen-Lab, produced by IAAC and collaborative designed, build, and customized by the FabLab Network.
-author: Tomas
-date: 16/08/2015
-category: technology, video
+author: Fab Lab BCN
+date: 0000-01-05
 
 ---
+
+<br>
 
 <iframe src="https://player.vimeo.com/video/111846996" width="725" height="483" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -40,10 +41,10 @@ The prototype was designed (written in code) in 2 months, manufactured in 5 days
 
 <br>
 
-DYMAXION WORLD MAP
+#####DYMAXION WORLD MAP
 distribution of the fab lab network
 
-DYMAXION WORLD MAP
+#####DYMAXION WORLD MAP
 unfolded geometry of the pavilion
 (icosahedron deformed under thermodynamic criteria)
 
@@ -53,11 +54,11 @@ unfolded geometry of the pavilion
 
 <br>
 
-GEOMETRIC ADAPTATION
+#####GEOMETRIC ADAPTATION
 environmental parametric process to create form
 the original icosahedron is deformed to minimize solar radiation
 
-GEOMETRIC ADAPTATION
+#####GEOMETRIC ADAPTATION
 environmental parametric process to create form
 the original icosahedron is deformed to minimize solar radiation
 
@@ -71,12 +72,12 @@ the north and south winds (mountain and sea) influence on alternate times of day
 
 <br>
 
-COMPONENT LOGIC
+#####COMPONENT LOGIC
 the entire pavilion is built with 20 components
 digital fabrication and parametric design logic
 simplify prefabrication and the assembly process.
 
-01 DIGITAL PREFABRICATION:
+###01 DIGITAL PREFABRICATION:
 
 Digital technologies are transforming the old ways of understanding prefabrication. They are changing the ways in which the industry manages its productive ways. And, most importantly, they are changing the interaction between designer, industry and raw material.
 
@@ -98,7 +99,7 @@ The algorithm (the entire pavilion is a script) was designed in 2 months, prefab
 
 <br>
 
-02 PASSIVE CLIMATE STRATEGIES:
+###02 PASSIVE CLIMATE STRATEGIES:
 
 The dome pursues to render the surrounding thermodynamic and climate processes. The initial geometry (a regular icosahedron) is first deformed and adapted seeking to minimize the incident solar radiation in the summer, and to maximize it in winter.
 
@@ -116,7 +117,7 @@ The skin bulges or balloons outward, more typical of sailing geometries, to acce
 
 <br>
 
-Stage
+##Stage
 
 The surrounding 200m2 wood stage acts as a reservoir of fresh air, naturally injected into the main space through the perforations on the stands every time the wind blows.
 
@@ -126,9 +127,9 @@ The surrounding 200m2 wood stage acts as a reservoir of fresh air, naturally inj
 
 <br>
 
-Modules
+##Modules
 
-03 KM0 ARCHITECTURE:
+###03 KM0 ARCHITECTURE:
 
 Digital fabrication has the ability to bridge the gap between raw material, post-production, designer and end user. The project then becomes the design of the entire projected life cycle of the product. The project is the production chain.
 

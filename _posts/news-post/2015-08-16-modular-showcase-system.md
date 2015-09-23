@@ -1,7 +1,8 @@
 ---
 layout: blog_post
 type: blog
-image: blog_loop/87657598.jpg
+teaserlatest: blog_loop_latest/87657598.jpg
+teaserlist: blog_loop_list/modular_showcase_system.jpg
 title: Modular Showcase System
 meta: Beyond Building Barcelona 2015 was the largest reunion of the construction sector and associated industries in Spain, Southern Europe, Northern Africa, and Latin America. The Pavilion of Innovation 2015 in Beyond Building Barcelona, curated by IaaC | Fab Lab Barcelona, presents new ideas and construction paradigms emerging from international excellence in research and pilot projects, forming the basis of future buildings and cities.
 author: Tomas Diez

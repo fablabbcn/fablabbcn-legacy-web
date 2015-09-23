@@ -1,7 +1,8 @@
 ---
 layout: blog_post
 type: blog
-image: blog_loop/latest_news_3.jpg
+teaserlatest: blog_loop_latest/latest_news_3.jpg
+teaserlist: blog_loop_list/digital_fashion_and_wearables_exhibition.jpg
 title: Digital Fashion and Wearables Exhibition
 meta: Fab11_Boston invites you to submit your proposal for the Digital Fashion and Wearables Exhibition thats will take place during the Fab Festival, from August 8 and 9 in the cities of Boston, Cambridge and Somerville.
 author: Fab Lab BCN
