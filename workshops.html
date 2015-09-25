@@ -28,119 +28,32 @@ layout: default
 
 <!-- ======== workshops ================================================================= workshops ================= -->  
 
-    <section id="workshops">
-    
+    <section id="workshops">    
 	    <div class="container">
-
-<!-- workshop item ------------------------------------->
 	        <div class="row">
-		        <br>	            
+		        <br>
+
+		     	{% for post in site.posts limit: 50 %}
+                {% if post.type == 'workshop' %}
+                            
 	            <div class="col-md-6">
-	                <a href="#"><img class="img-responsive" src="http://placehold.it/500x300" alt=""></a>
+		            
+	                <a href="{{site.baseurl}}{{post.url}}"><img class="{{site.baseurl}}/img/projects/{{post.workshopimg}}" alt="workshop"></a>
 	            </div>
 	            
 	            <div class="col-md-6" id="workshops-description">
-	                <h3>Workshop</h3>
-	                <h4>Sub-title</h4>
-	                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p> 
+	                <h3>{{post.title}}</h3>
+	                <br>
+	                <p>{{post.meta}}</p> 
 	                <br>
 	                <a class="btn btn-default" id="workshop-join" href="#">Join! <span class="glyphicon glyphicon-chevron-right"></span></a>
 	            </div>
 	            
+	            {% endif %}
+	            {% endfor %}
+	        
 	        </div> <!-- row -->
-	        	
-<!-- =============================================================================================================-->
-    
-<div class="container" id="separator-pages-top"></div>   
-
-<!-- =============================================================================================================-->
-
-	
-<!-- workshop item ------------------------------------->
-	        <div class="row">
-		        <br>	            
-	            <div class="col-md-6">
-	                <a href="#"><img class="img-responsive" src="http://placehold.it/500x300" alt=""></a>
-	            </div>
-	            
-	            <div class="col-md-6" id="workshops-description">
-	                <h3>Workshop</h3>
-	                <h4>Sub-title</h4>
-	                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p> 
-	                <br>
-	                <a class="btn btn-default" id="workshop-join" href="#">Join! <span class="glyphicon glyphicon-chevron-right"></span></a>
-	            </div>
-	            
-	        </div> <!-- row -->
-	        	
-<!-- =============================================================================================================-->
-    
-<div class="container" id="separator-pages-top"></div>   
-
-<!-- =============================================================================================================-->
-	
-
-<!-- workshop item ------------------------------------->
-	        <div class="row">
-		        <br>	            
-	            <div class="col-md-6">
-	                <a href="#"><img class="img-responsive" src="http://placehold.it/500x300" alt=""></a>
-	            </div>
-	            
-	            <div class="col-md-6" id="workshops-description">
-	                <h3>Workshop</h3>
-	                <h4>Sub-title</h4>
-	                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p> 
-	                <br>
-	                <a class="btn btn-default" id="workshop-join" href="workshop_post.html">Read more&nbsp;&nbsp;<span class="glyphicon glyphicon-book"></span></a>
-	            </div>
-	            
-	        </div> <!-- row -->
-	        	
-<!-- =============================================================================================================-->
-    
-<div class="container" id="separator-pages-top"></div>   
-
-<!-- =============================================================================================================-->	
-<!-- workshop item ------------------------------------->
-	        <div class="row">
-		        <br>	            
-	            <div class="col-md-6">
-	                <a href="#"><img class="img-responsive" src="http://placehold.it/500x300" alt=""></a>
-	            </div>
-	            
-	            <div class="col-md-6" id="workshops-description">
-	                <h3>Workshop</h3>
-	                <h4>Sub-title</h4>
-	                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p> 
-	                <br>
-	                <a class="btn btn-default" id="workshop-join" href="workshop_post.html">Read more&nbsp;&nbsp;<span class="glyphicon glyphicon-book"></span></a>
-	            </div>
-	            
-	        </div> <!-- row -->
-	        	
-<!-- =============================================================================================================-->
-    
-<div class="container" id="separator-pages-top"></div>   
-
-<!-- =============================================================================================================-->	
-
-<!-- workshop item ------------------------------------->
-	        <div class="row">
-		        <br>	            
-	            <div class="col-md-6">
-	                <a href="#"><img class="img-responsive" src="http://placehold.it/500x300" alt=""></a>
-	            </div>
-	            
-	            <div class="col-md-6" id="workshops-description">
-	                <h3>Workshop</h3>
-	                <h4>Sub-title</h4>
-	                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p> 
-	                <br>
-	                <a class="btn btn-default" id="workshop-join" href="workshop_post.html">Read more&nbsp;&nbsp;<span class="glyphicon glyphicon-book"></span></a>
-	            </div>
-	            
-	        </div> <!-- row -->
+	    
 	        	
 <!-- =============================================================================================================-->
     
@@ -149,7 +62,7 @@ layout: default
 <!-- =============================================================================================================-->
 	
 	        <!-- Pagination -->
-	        <div class="row text-center">
+	        <!-- <div class="row text-center">
 	            
 	            <div class="col-lg-12">
 	                <ul class="pagination">
@@ -178,7 +91,7 @@ layout: default
 	            </div> <!-- col -->
 	        
 	        
-	        </div> <!-- row -->	
+	        <!-- </div> <!-- row -->	
 	    </div> <!-- container -->
     </section> <!-- workshops -->
 	    

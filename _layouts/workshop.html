@@ -1,0 +1,61 @@
+---
+layout: default
+---
+
+<header>
+	
+	{% include nav.html %} 	
+	
+</header><!-- site-header -->
+
+<!-- ======== Hero ==================================================================== Hero ============-->
+
+    <section id="header-pages-blog">
+	    <div class="container" id="header-pages-blog-title">
+            
+            <h2 class="page-title">Projects</h2>                      
+							
+	    </div> <!-- container -->								        	        	                  	      	                     	            	            		                  			   		   	  		                                                                                          
+    </section> <!-- hero -->
+
+<!-- ======== pages-social-icons ===========-->
+
+    {% include social.html %}
+
+
+<!-- =============================================================================================================-->
+    
+<div class="container" id="separator-pages-top"></div>
+
+<!-- ======== project post ============================================================== project post  ================= --> 
+
+    <section id="project-post">
+	    <div class="container">
+		    	    
+				    <h2>{{page.title}}</h2>
+
+	                <p class="lead">by <a href="#">{{page.author}}</a></p>
+	                
+				    <p>{{page.meta}}</p>
+				    
+		</div> <!-- col -->
+		
+		<br>    	    		    
+		    
+		<div class="container">	    			    			    
+				    
+				    {{content}}					     					    			    		     		    		    
+	    </div> <!-- container -->
+	    
+    </section> <!-- project-post -->
+   
+<!-- =============================================================================================================-->
+    
+<div class="container" id="separator-pages-top"></div>   
+
+<!-- =============================================================================================================-->
+
+
+{% include footer.html %}         
+
+ 
