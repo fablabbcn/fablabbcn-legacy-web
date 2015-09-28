@@ -508,7 +508,8 @@ ol {
 }
 
 #workshops-description {
-	padding-top: 30px;
+	padding-top: 10px;
+	padding-bottom: 60px;
 }
 
 .btn-success a,

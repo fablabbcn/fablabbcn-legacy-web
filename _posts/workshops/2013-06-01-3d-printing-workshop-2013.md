@@ -1,6 +1,6 @@
 ---
 
-layout: workshop
+layout: workshop_post
 type: workshop
 workshopimg: workshops_loop/3d_printing_workshop.jpg
 title: 3D Printing Workshop 2013

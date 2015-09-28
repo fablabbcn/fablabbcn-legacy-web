@@ -1,6 +1,6 @@
 ---
 
-layout: workshop
+layout: workshop_post
 type: workshop
 workshopimg: workshops_loop/arduino_workshop_2015.jpg
 title: Arduino Workshop

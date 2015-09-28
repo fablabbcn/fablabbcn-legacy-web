@@ -1,6 +1,6 @@
 ---
 
-layout: workshop
+layout: workshop_post
 type: workshop
 workshopimg: workshops_loop/computational-couture.jpg
 title: Computational Couture Workshop // May 2015
