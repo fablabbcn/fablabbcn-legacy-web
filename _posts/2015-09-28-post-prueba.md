@@ -1,7 +1,7 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/78798698.jpg
+teaserlatest: blog_loop_latest/latest_news_3.jpg
 teaserlist: blog_loop_list/history_of_technology_and_architecture.jpg
 title: prueba123
 meta: "IaaC Fab Lab Barcelona ...."
@@ -12,8 +12,6 @@ category: video
 jdoidkl<skcdklmjc
 
 jdwoij&ntilde;lajslksjcdkxmzs
-
- 
 
 **<iframe src="https://player.vimeo.com/video/133676785?color=ffffff" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>**
 
