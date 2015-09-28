@@ -1,15 +1,17 @@
 ---
+
 layout: workshop
 type: workshop
 workshopimg: workshops_loop/computational-couture.jpg
 title: Computational Couture Workshop // May 2015
 meta: "COMPUTATIONAL COUTURE WORKSHOP AT BEYOND BUILDING BARCELONA FAIRE
 
-[Expanding the horizons of dress making towards an algorithmic approach]
+Expanding the horizons of dress making towards an algorithmic approach
 
 Clothes can be considered as the very first form of mediators between body, space and events, condensing in their aesthetics not only the evolution of its relation to the physical functions of the body (movement, protection, temperature regulation) but also the evolution of cultural expression precisely by exceeding the purely indexical performative relations, designing not only for the needs but for the desires."
 author: Fab Lab BCN
-date: 2015-05-01
+date: 2015/05/01
+category: workshop
 
 ---
 

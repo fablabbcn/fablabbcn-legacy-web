@@ -1,11 +1,13 @@
 ---
+
 layout: workshop
 type: workshop
-workshopimg: projects_loop/wikihouse_bootcamp.jpg
+workshopimg: workshops_loop/wikihouse_bootcamp.jpg
 title: 4-Day Bootcamp // Wikihouse
 meta: "From April 14th to 17th, AA students participated in a 4-day bootcamp in Green Fab Lab to learn about the applications of digital fabrication in architecture. The workshop topic was to design and make a Wiki House version 4."
 author: Fab Lab BCN
-date: 2015-04-18
+date: 2015/04/18
+category: workshop
 
 ---
 

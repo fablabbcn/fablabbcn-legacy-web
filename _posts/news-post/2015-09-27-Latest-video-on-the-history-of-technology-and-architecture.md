@@ -1,4 +1,5 @@
 ---
+
 layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/78798698.jpg

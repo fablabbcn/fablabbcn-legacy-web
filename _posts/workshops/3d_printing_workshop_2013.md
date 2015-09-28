@@ -1,11 +1,13 @@
 ---
+
 layout: workshop
 type: workshop
 workshopimg: workshops_loop/3d_printing_workshop.jpg
 title: 3D Printing Workshop 2013
 meta: "The past weekend we made the 3d Printing Workshop where the FabLab Barcelona opened its doors to people who wanted to approach this fascinating world."
 author: Fab Lab BCN
-date: 2013-06-01
+date: 2013/06/01
+category: workshop
 
 ---
 

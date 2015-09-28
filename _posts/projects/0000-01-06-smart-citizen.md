@@ -3,9 +3,7 @@ layout: project_post
 type: project
 projectimg: projects_loop/smart_citizen.jpg
 title: Smart Citizen
-meta: "Smart Citizen is a platform, founded by Tomas Diez – IaaC | Fab Lab Barcelona – and Alex Posada – MID, Hangar – for the generation of social participatory processes in urban areas. Connecting data, people and knowledge, the objective of the platform is to serve as a node for building productive and open indicators, and distributed tools, bringing thereafter to the collective construction of the city for and by its own inhabitants.
-
-The project is in constant expansion with more than 1000 kits in the world. Check the project live on smartcitizen.me" 
+meta: "Smart Citizen is a platform for the generation of social participatory processes in urban areas. Connecting data, people and knowledge, the objective of the platform is to serve as a node for building productive and open indicators, and distributed tools, bringing thereafter to the collective construction of the city for and by its own inhabitants."
 
 author: Fab Lab BCN
 date: 0000-01-06

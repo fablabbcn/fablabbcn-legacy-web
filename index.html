@@ -86,10 +86,9 @@ meta: One of the leading laboratories of the worldwide network of Fab Labs
 	
 	<div class="row">	     
 		
-		{% for post in site.posts limit: 20 %}
+		{% for post in site.posts limit: 500 %}
             {% if post.type == 'blog' %}
 		<div class="col-md-3 col-sm-3">				       		
-
                     
 		    <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/blog/{{post.teaserlatest}}" id="latest-news-picture"/></a>
 		        <br>						    	    

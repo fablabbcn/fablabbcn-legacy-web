@@ -28,71 +28,35 @@ layout: default
 
 <!-- ======== workshops ================================================================= workshops ================= -->  
 
-    <section id="workshops">    
-	    <div class="container">
+    <section id="workshops">    	    
+	    <div class="container">	        
 	        <div class="row">
-		        <br>
 
-		     	{% for post in site.posts limit: 50 %}
-                {% if post.type == 'workshop' %}
+                {% for post in site.posts limit: 500 %}
+                {% if post.type == 'workshop' %}                            
                             
-	            <div class="col-md-6">
-		            
-	                <a href="{{site.baseurl}}{{post.url}}"><img class="{{site.baseurl}}/img/projects/{{post.workshopimg}}" alt="workshop"></a>
-	            </div>
-	            
-	            <div class="col-md-6" id="workshops-description">
-	                <h3>{{post.title}}</h3>
-	                <br>
-	                <p>{{post.meta}}</p> 
-	                <br>
-	                <a class="btn btn-default" id="workshop-join" href="#">Join! <span class="glyphicon glyphicon-chevron-right"></span></a>
-	            </div>
+			            <div class="col-md-6">
+				            
+			                <a href="{{site.baseurl}}{{post.url}}"><img class="{{site.baseurl}}/img/workshops/workshops_loop/{{post.workshopimg}}" alt="workshop"></a>
+			            </div>
+			            
+			            <div class="col-md-6" id="workshops-description">
+				            
+			                <h3><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>
+			                <br>
+			                <p>{{post.meta}}</p> 
+			                <br>
+			                <a class="btn btn-default" id="workshop-join" href="#">Join! <span class="glyphicon glyphicon-chevron-right"></span></a>
+			            </div>	        
 	            
 	            {% endif %}
 	            {% endfor %}
-	        
-	        </div> <!-- row -->
-	    
-	        	
-<!-- =============================================================================================================-->
-    
-<div class="container" id="separator-pages-top"></div>   
 
-<!-- =============================================================================================================-->
-	
-	        <!-- Pagination -->
-	        <!-- <div class="row text-center">
-	            
-	            <div class="col-lg-12">
-	                <ul class="pagination">
-	                    <li>
-	                        <a href="#">&laquo;</a>
-	                    </li>
-	                    <li class="active">
-	                        <a href="#">1</a>
-	                    </li>
-	                    <li>
-	                        <a href="#">2</a>
-	                    </li>
-	                    <li>
-	                        <a href="#">3</a>
-	                    </li>
-	                    <li>
-	                        <a href="#">4</a>
-	                    </li>
-	                    <li>
-	                        <a href="#">5</a>
-	                    </li>
-	                    <li>
-	                        <a href="#">&raquo;</a>
-	                    </li>
-	                </ul>
-	            </div> <!-- col -->
-	        
-	        
-	        <!-- </div> <!-- row -->	
+
+	        </div> <!-- row -->	
+
 	    </div> <!-- container -->
+    
     </section> <!-- workshops -->
 	    
 <!-- =============================================================================================================-->

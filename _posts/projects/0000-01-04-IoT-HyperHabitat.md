@@ -3,7 +3,9 @@ layout: project_post
 type: project
 projectimg: projects_loop/hyperhabitat.jpg
 title: IoT - HyperHabitat
-meta: Hyperhabitat is a research project that explores the potential of information technology to reorganize the habitability of the world. From a single small object to the planet itself. Hyperhabitat, reprogramming the world is the biggest Internet Zero network ever built.
+meta: "Hyperhabitat is a research project that explores the potential of information technology to reorganize the habitability of the world. 
+<br>
+From a single small object to the planet itself. Hyperhabitat, reprogramming the world is the biggest Internet Zero network ever built."
 author: Fab Lab BCN
 date: 0000-01-04
 

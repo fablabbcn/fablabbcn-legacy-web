@@ -31,11 +31,9 @@ layout: default
  
     <section id="project-showcase"> 
 	    <div class="container">
-	        <div class="row">
-		  
-<!-- Project item ---------------------------------------->	
+	        <div class="row">	
 	            	  
-	            {% for post in site.posts limit: 50 %}
+	            {% for post in site.posts limit: 500 %}
                 {% if post.type == 'project' %}
 	  
 	            <div class="col-md-4 project-item">

@@ -46,7 +46,7 @@ layout: default
 	                
 	                <h3><a href="{{ post.url }}">{{post.title}}</a></h3>
 	                
-	                <p class="lead">by&nbsp;<u>{{post.author}}</u>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Posted on {{post.date}}</p>
+	                <p class="lead">by&nbsp;<u>{{post.author}}</u>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Posted on <u>{{post.date | date:"%B %d, %Y" }}</u></p>
 	                    <br>	                
 	                <img class="img-responsive" src="{{site.baseurl}}/img/blog/{{post.teaserlist}}" alt="">
                         <br>                    
