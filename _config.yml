@@ -1,3 +1,2 @@
 markdown: redcarpet  
-baseurl: /
 exclude: ['README.md']
