@@ -1,6 +1,6 @@
 ---
 
-layout: workshop
+layout: workshop_post
 type: workshop
 workshopimg: workshops_loop/wikihouse_bootcamp.jpg
 title: 4-Day Bootcamp // Wikihouse

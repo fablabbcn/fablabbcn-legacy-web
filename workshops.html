@@ -32,13 +32,14 @@ layout: default
 	    <div class="container">	        
 	        <div class="row">
 
-                {% for post in site.posts limit: 500 %}
+                {% for post in site.posts limit: 50 %}
                 {% if post.type == 'workshop' %}                            
                             
 			            <div class="col-md-6">
 				            
-			                <a href="{{site.baseurl}}{{post.url}}"><img class="{{site.baseurl}}/img/workshops/workshops_loop/{{post.workshopimg}}" alt="workshop"></a>
-			            </div>
+			                <a href="{{site.baseurl}}{{post.url}}"><img class="{{site.baseurl}}/img/workshops/{{post.workshopimg}}" alt="workshop"></a>
+			                
+			            </div>  <!-- col-->
 			            
 			            <div class="col-md-6" id="workshops-description">
 				            
@@ -47,7 +48,15 @@ layout: default
 			                <p>{{post.meta}}</p> 
 			                <br>
 			                <a class="btn btn-default" id="workshop-join" href="#">Join! <span class="glyphicon glyphicon-chevron-right"></span></a>
-			            </div>	        
+			                
+			            </div>  <!-- col-->	 
+			            
+			            
+<!-- =============================================================================================================-->
+    
+<div class="container" id="separator"></div>   
+
+<!-- =============================================================================================================-->       
 	            
 	            {% endif %}
 	            {% endfor %}
@@ -59,11 +68,7 @@ layout: default
     
     </section> <!-- workshops -->
 	    
-<!-- =============================================================================================================-->
-    
-<div class="container" id="separator"></div>   
 
-<!-- =============================================================================================================-->
 
 
 {% include footer.html %} 
