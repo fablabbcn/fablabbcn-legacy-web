@@ -199,7 +199,23 @@ ol {
   background-color: transparent;
 }
 
+.navbar-wrapper .message-fixed-top {
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    top: 0px;
+    height: 20px;
+    background-color: #f1c40f;
+    border-width: 0px 0px 0px;
+}
 
+.navbar-wrapper .message-fixed-top p{
+    position: relative;
+    text-align: center;
+    margin-top: 0 auto;
+    font-weight: bold;
+}
 
 /* ==== Pages Layout ============================================================= Pages Layout =============== */ 
 
