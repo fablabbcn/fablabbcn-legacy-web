@@ -757,7 +757,7 @@ ol {
 /* ============= large devices ======================================= */
 
 
-@media (min-width: 1200px) { 
+@media screen and (min-width: 1200px) { 
 	
 .carousel-caption {
 
@@ -769,7 +769,7 @@ ol {
 /* ============= medium devices  ======================================= */
 
 
-@media (min-width: 992px) and (max-width: 1199px) { 
+@media screen and (min-width: 992px) and (max-width: 1199px) { 
 
 .carousel-caption {
     bottom: 50px;
@@ -780,10 +780,10 @@ ol {
 /* ============= small devices ======================================= */
 
 
-@media (min-width: 668px) and (max-width: 991px) {
+@media screen and (min-width: 668px) and (max-width: 991px) {
 	
 .carousel-caption {
-    bottom: 50px;
+    bottom: -100px;
 }
 
 .col-sm-4 {
@@ -800,20 +800,13 @@ ol {
 /* ============= extra small devices ======================================= */
 
 
-@media (min-width: 240px) and (max-width: 667px) { 
+@media screen and (min-width: 240px) and (max-width: 667px) { 
 	
 .carousel-caption {
-    bottom: 50px;
+    bottom: -300px;
 }
 
-.col-sm-4 {
-    position: absolute;
-    min-height: 1px;
-    padding-top: 15px;
-    padding-right: 15px;
-    padding-left: 15px;
 
-}
 
 }
 
