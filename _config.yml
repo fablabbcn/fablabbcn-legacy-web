@@ -1,2 +1,3 @@
 markdown: redcarpet  
 exclude: ['README.md']
+gems: [youtube, vimeo, dailymotion]
