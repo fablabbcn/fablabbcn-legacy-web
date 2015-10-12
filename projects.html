@@ -28,31 +28,32 @@ layout: default
 <br> 
 
 <!-- ======== Project showcase ========================================================== Project showcase  ================= --> 
- 
-    <section id="project-showcase"> 
-	    <div class="container">
-	        <div class="row">	
-	            	  
-	            {% for post in site.posts limit: 500 %}
-                {% if post.type == 'project' %}
-	  
-	            <div class="col-md-4 project-item">
-	                
-	                <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/projects/{{post.projectimg}}" alt="project"></a>
-	                
-	                <h3><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>  
-	                
-	                <p>{{post.meta}}</p>
-	                
-	            </div> <!-- col-->
+<section id="projects-menu"> 
+	<div class="container">
+			    
+		        <div id="grid" data-columns >		
+			                		         
+			        {% for post in site.posts limit: 500 %}
+	                {% if post.type == 'project' %}    	 	            	            
+		        		            
+			            <div class="menu-item">
+				            
+				            <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/projects/{{post.projectimg}}" alt="project"></a>
+		                
+		                    <h3><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>  
+			                
+			                <p>{{post.meta}}</p>
+			                
+			            </div> <!-- menu item --> 
+		           	            	        
+			        {% endif %}
+			        {% endfor %}
+		        
+	            </div> <!-- grid --> 
 	            
-	            {% endif %}
-	            {% endfor %}
-	
-	        </div> <!-- row -->
-<hr>
-<br>
-	
+	</div>  <!-- container --> 
+
+</section>	
 <!-- Pagination --------------------------------->
 
 	        <!-- <div class="row text-center">
@@ -70,12 +71,11 @@ layout: default
 	                	                
 	           <!--  </div>  <!-- col -->
 	      <!--   </div> <!-- row -->
-	        
-	        
-	    </div>  <!-- containter -->   
-    </section> <!-- project-showcase -->
+
     
 <!-- =============================================================================================================-->
 
 
+
 {% include footer.html %} 
+
