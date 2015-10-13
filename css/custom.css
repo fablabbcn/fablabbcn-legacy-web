@@ -372,6 +372,27 @@ iframe {
 
 }
 
+/* ============= small devices -tablet- ============= */
+
+
+@media (min-width: 668px) and (max-width: 991px) {
+
+
+#content-blocks h2 {
+	position: absolute;
+	top: 90px;  
+    width: 90%;
+    color: white;
+}
+
+#fab-labs-world h2{
+	top: 55px;    
+}
+
+}
+
+/* ====== media queries ======= */
+
 /* ==== About us ============================================== About us ============ */ 
 
 /* ======= About us menu ================== */
@@ -788,8 +809,8 @@ iframe {
 @media (min-width: 668px) and (max-width: 991px) {
 
 #subscribe-row {
-	padding-top: 30px;
-	padding-bottom: 30px;
+	padding-top: 40px;
+	padding-bottom: 25px;
 }
 
 
