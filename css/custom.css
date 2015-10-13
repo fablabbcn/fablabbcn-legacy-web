@@ -716,10 +716,47 @@ iframe {
 	margin-top: 105px;	
 }
 
-#fab-academy-video-embed {
-	padding-top: 25px;
+/* ============= small devices -ipad- ============= */
+
+
+@media (min-width: 668px) and (max-width: 991px) {
+
+#collaborations-text {
+	padding-left: 10px;
+	margin-top: 80px;	
+}
+
+#collaborations-text h2{
+	font-size: 1.8em;	
+}
+
+}
+
+/* ============= extra small devices -phone- ============================ */
+
+@media (min-width: 240px) and (max-width: 667px) {
+
+#collaborations {
+	padding-top: 0px;
+	padding-bottom: 60px;
+	text-align: center;
+
+}
+
+	
+#collaborations-text {
+	padding-left: 10px;
+	margin-top: 20px;	
+}
+
+#collaborations-text h2{
+	font-size: 2.5em;	
+}
+
 	
 }
+
+/* ================ media queries ================== */
 
 
 /* ======= Suscribe newsletter ======== */
@@ -745,6 +782,56 @@ iframe {
 	
 }
 
+/* ============= small devices -tablet- ============= */
+
+
+@media (min-width: 668px) and (max-width: 991px) {
+
+#subscribe-row {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+
+#subscribe-text {
+	font-size: 1.3em;
+	font-weight: bold;
+	text-align: right;
+	color: #ffffff;
+}
+
+}
+
+/* ============= extra small devices -phone- ============================ */
+
+@media (min-width: 240px) and (max-width: 667px) { 
+
+#subscribe-row {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+
+#subscribe-text {
+	text-align: center;
+	font-size: 2em;
+	font-weight: bold;
+	color: #ffffff;
+}
+
+#subscribe-button {
+	position: relative;
+	padding: 5px 20px 5px 20px;
+	left: 70px;
+}
+	
+
+}
+
+
+/* ================ media queries ================== */
+
+
 .form-inline {
 	align-content: left;
 }
@@ -768,9 +855,30 @@ iframe {
 /* ======= Partners ================ */
 
 #partners {
+	color: white;
     margin-top: 30px;
     padding-top: 23px;
 	background: rgba(0, 0, 0, 0.87);
+}
+
+#partners a {
+	color: white;
+}
+
+/* ============= small devices -tablet- ============= */
+
+
+@media (min-width: 668px) and (max-width: 991px) {
+	
+#partners {
+	padding-bottom: 25px;	
+}
+
+#partners-visit-us,
+#partners-visit-us p a {
+	color: white;
+}
+
 }
 
 
@@ -811,7 +919,7 @@ iframe {
 
 }
 
-/* ============= small devices ============= */
+/* ============= small devices -tablet- ============= */
 
 
 @media (min-width: 668px) and (max-width: 991px) {
@@ -828,18 +936,17 @@ iframe {
 
 } 
 
-/* ========= extra small devices =========== */
-
+/* ========= extra small devices -phone- =========== */
 
 @media (min-width: 240px) and (max-width: 667px) { 
 	
 #carousel-container {
-	padding-top: 0px;
-	height: 400px;
+	padding-top: 50px;
+	height: 550px;
 	background-image: url('../img/hero_slider/a_slider_1.jpg');
 	background-repeat: no-repeat;
 	background-position: -400px;
-	background-size: 900px;
+	background-size: 1000px;
 }
 
 #slider-img {
@@ -930,12 +1037,10 @@ iframe {
 
 /* ============= media queries ========================================= media queries ======================= */
 
-/* ============= large devices ======================================= */
-
+/* ============= large devices =========================================== */
 
 @media (min-width: 1200px) { 
 	
-
 #google-maps {
 	width= 600px;
 	height: 350px;
@@ -943,24 +1048,21 @@ iframe {
 
 }
 
-
-/* ============= medium devices  ======================================= */
+/* ============= medium devices  ========================================= */
 
  
 @media (min-width: 992px) and (max-width: 1199px) { 
 
-
 }
 
-/* ============= small devices ======================================= */
+/* ============= small devices -tablet- ==================================== */
 
 
 @media (min-width: 668px) and (max-width: 991px) {
 
-
 } 
 
-/* ============= extra small devices ======================================= */
+/* ============= extra small devices ===================================== */
 
 
 @media (min-width: 240px) and (max-width: 667px) { 
