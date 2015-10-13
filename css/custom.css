@@ -326,6 +326,42 @@ ol {
 
 /* ======= content blocks ================== */
 
+#grid-main[data-columns]::before {
+	content: '4 .column.size-1of4';
+}
+
+/* These are the classes that are going to be applied: */
+.column { float: left; 
+	
+}
+.size-1of4 { 
+	padding: 15px;
+	width: 25%; 
+	
+}
+
+.main-menu-item {
+    padding: 20px;
+	width: auto;
+
+}
+
+/* Grid */
+
+
+
+.image-fade {
+   opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+}
+
+.image-fade:hover {
+    opacity: 0.5;
+
+}
+
 
 #content-blocks {
 	padding-bottom: 30px;
@@ -464,6 +500,23 @@ ol {
 
 }
 
+/* ====== Fab Pro ==================================================== Fab Pro ============ */
+
+#fab-pro {
+	padding: 0 0 30px 0;
+	font-size: medium;
+}
+
+#fab-pro-machine-list{
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+#tech-assistance {
+	text-align: left;
+	padding-top: 5px;
+}
+
 /* ====== projects showcase ==================================== projects showcase ====== */
 
 .project-item {
@@ -532,11 +585,12 @@ ol {
 
 }
 
+/* ======= Media Queries ======== */
 
 @media (min-width: 992px) and (max-width: 1199px) { 
 
 #grid[data-columns]::before {
-		content: '1 .column.size-1of1';
+		content: '3 .column.size-1of3';
 	}	
 	
 /* These are the classes that are going to be applied: */
@@ -545,10 +599,12 @@ ol {
 
 
 .menu-item {
-	padding-bottom: 10px;
+	padding-bottom: 30px;
 }
 
 }
+
+/* =============== */ 
 
 @media(min-width: 668px) and (max-width: 991px) {
 	
@@ -558,14 +614,17 @@ ol {
 	
 /* These are the classes that are going to be applied: */
 .column { float: left; }
-.size-1of1 { width: 100%; }
+.size-1of3 { width: 100%; }
 
 
 .menu-item {
-	padding-bottom: 10px;
+
+	padding-bottom: 30px;
 }
 
 } 
+
+/* =============== */ 
 
 @media (min-width: 240px) and (max-width: 667px) {
 
@@ -579,7 +638,7 @@ ol {
 
 
 .menu-item {
-	padding-bottom: 10px;
+	padding-bottom: 30px;
 }
 
 }
@@ -764,6 +823,9 @@ ol {
 }
 
 .carousel-caption {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
 	padding: 0;
 	font-weight: 500;
 	bottom: 180px;
@@ -772,7 +834,73 @@ ol {
 }
 
 
+/* ============= medium devices  =========== */
 
+ 
+@media (min-width: 992px) and (max-width: 1199px) { 
+
+
+}
+
+/* ============= small devices ============= */
+
+
+@media (min-width: 668px) and (max-width: 991px) {
+
+.carousel-caption {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	padding: 30px;
+	font-weight: 500;
+	bottom: 10px;
+
+}
+
+} 
+
+/* ========= extra small devices =========== */
+
+
+@media (min-width: 240px) and (max-width: 667px) { 
+	
+#carousel-container {
+	padding-top: 0px;
+	height: 400px;
+	background-image: url('../img/hero_slider/a_slider_1.jpg');
+	background-repeat: no-repeat;
+	background-position: -400px;
+	background-size: 900px;
+}
+
+#slider-img {
+	display: none;
+}
+
+#main-logo {
+	width: 300px;
+} 
+
+.carousel-caption {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 230px;
+	padding-top: 0px;
+	font-weight: 500;
+	top: 50px;
+	font-size: 1.5em;
+
+}
+
+.carousel-caption li a {
+	font-size: 0.7em;
+	list-style: none;
+}
+	
+}
+
+/* =============== */
 
 .carousel-caption li {
 	font-size: 1.6em;
@@ -838,9 +966,6 @@ ol {
 
 @media (min-width: 1200px) { 
 	
-.carousel-caption {
-
-}
 
 #google-maps {
 	width= 600px;
@@ -855,24 +980,13 @@ ol {
  
 @media (min-width: 992px) and (max-width: 1199px) { 
 
-.carousel-caption {
-    bottom: 50px;
-}
-
 
 }
 
 /* ============= small devices ======================================= */
 
 
-@media(min-width: 668px) and (max-width: 991px) {
-	
-.carousel-caption {
-    bottom: -100px;
-}
-
-
-
+@media (min-width: 668px) and (max-width: 991px) {
 
 
 } 
