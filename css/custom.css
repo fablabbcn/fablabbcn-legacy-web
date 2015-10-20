@@ -471,6 +471,7 @@ iframe {
 	padding: 20px 0 0 0;
 }
 
+
 #fab-academy-text {
 	padding-left: 50px;
 }
@@ -484,6 +485,10 @@ iframe {
 }
 #fab-academy-info {
 	padding-bottom: 60px;
+}
+
+#fab-academy-info ul{
+	list-style: disc;
 }
 
 /* ====== Fab Kids ==================================================== Fab Kids ============ */
