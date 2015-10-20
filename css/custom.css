@@ -507,6 +507,20 @@ iframe {
 	padding-top: 5px;
 }
 
+/* ====== Pop Up Fab Lab ============================================= Pop Up Fab Lab  ============ */
+
+#pop-up-fab-lab-content {
+	padding-bottom: 30px;
+}
+
+#pop-up-fab-lab-content h3 {
+	padding-bottom: 15px;
+}
+
+#pop_up_fab_lab_text {
+	padding: 40px 0 30px 0;
+}
+
 /* ====== projects showcase ==================================== projects showcase ====== */
 
 .project-item {
@@ -690,6 +704,19 @@ iframe {
 }
 
 
+/* ====== Join Us ====================================================  Join Us ============ */
+
+#join-us {
+	padding: 30px 0 60px 0;
+}
+
+#join-us ul{
+	list-style: disc;
+}
+
+#join-us-text {
+	padding-left: 60px;
+}
 
 /* ====== Contact ==================================================== Contact ============ */
 
