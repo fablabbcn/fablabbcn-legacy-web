@@ -9,7 +9,7 @@ White:      #FFFFFF
 /* ==== GLOBAL ================================================================  GLOBAL =================== */  
 
 body {
-	padding: 0px ;
+	padding-top: 80px;
 	font-family: 'proxima-nova', 'Raleway', Helvetica, sans-serif;
 	font-size: 13px;
 	color: #3d3d3d;
@@ -34,7 +34,7 @@ a:link {
 }
 
 a:visited{
-	color: #29dcd9;
+	color: #3d3d3d;
 }
 
 a:hover {
@@ -85,6 +85,12 @@ ol {
 	padding: 15px 0 15px;
 }
 
+#separator {
+    padding-top: 30px;
+    margin-bottom: 30px;
+	border-bottom: 1px solid #dddddd;
+}
+
 
 /* ==== Nav ======================================================================  Nav =================== */
 
@@ -96,8 +102,8 @@ ol {
 }
 
 .navbar {
-	margin-top: 20px;
-    position: relative;
+    position: fixed;
+    background-color: rgba(255,   255,   255, 0.9);
     min-height: 50px;
     border-top: 1px solid #a4a4a4;
     border-bottom: 1px solid #a4a4a4;
@@ -126,7 +132,10 @@ ol {
 	color: black;
 }
 
-
+.nav > li > a:focus, .nav > li > a:hover {
+    text-decoration: none;
+    background-color: transparent;
+}
 
 #shop-social-top {
 	text-align: right;
@@ -139,13 +148,116 @@ ol {
 }
 
 
+#go-back-to-fablabbcn {
+	text-align: right;	
+}
+
+#social-instagram {
+	padding-right: 10px; 
+}
+
+#cart {
+	text-align: right;
+	padding-left: 10px; 
+}
 
 /* ==== Shop featured ====================================================================== Shop featured =================== */
 
 #store-featured {
-	padding: 30px 0;
+	padding: 10px 0;
 	
 }
+
+.mask{
+	position: absolute;
+    top: 0;
+    width: 92%;
+    height: 100%;
+	margin-left: 0px;
+    margin-right: 0px;
+	color: white;
+    opacity: 0;
+    background-color: rgba(0, 0, 0, 0.76);
+    transition: all 0.4s ease-in-out;
+    z-index: 1000;
+}
+
+#mask-text {
+	position: absolute;
+	margin-left: 0px;
+	margin-right: 0px;
+	text-align: center;
+	top: 150px;
+	right: 55px;
+}
+
+#mask-text p {
+	font-size: 1.3em;
+}
+
+.button-info {
+	position: absolute;
+	bottom: -30px;
+	right: 50px;
+	width: 100%;
+	margin-left: 0px;
+	margin-right: 0px;
+	color: white;
+	font-size: 2em;
+}
+
+.button-fade a.button-info {
+    position:absolute;
+
+    width: 100%;
+    opacity: 0;
+    transition: opacity 0.5s 0s ease-in-out;
+    background-color: solid rgba(0,0,0,0.7);
+}
+
+.button-fade:hover .mask {
+    opacity: 1;
+    background-color: rgba(0, 0, 0, 0.76);
+}
+
+.button-fade:hover a.button-info {
+   opacity:1;
+   transition-delay: 0.3s;
+}
+
+
+/* ==== Product ======================================================== Product ============= */
+
+
+
+#product-description {
+	padding: 0 0 30px 0;
+}
+
+.slides {
+	padding-left: 0;
+	padding-right: 30px;
+}
+
+#product-info {
+
+	padding: 30px 0 30px 0;
+}
+
+#product-info-col{
+
+	padding-bottom: 30px;
+}
+
+#product-info-col-text {
+
+	padding-bottom: 30px;
+	padding: 50px 50px 30px 50px;
+}
+
+
+/* ==== Footer ======================================================== Footer ============= */
+
 
 
 /* ==== Media Queries ========================================================== Media Queries ============= */
