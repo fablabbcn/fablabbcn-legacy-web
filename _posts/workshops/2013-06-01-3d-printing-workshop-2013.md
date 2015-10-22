@@ -19,6 +19,8 @@ We also had an introduction to Rhino 3D modeling program, in order to manufactur
 
 ### 3D printing workshop
 
+<img src="{{site.baseurl}}{{ site.url }}/img/projects/open_source_beehives/4.jpg">
+
 &nbsp;
 
 Here you can find links and references of the topics covered in the workshop:
