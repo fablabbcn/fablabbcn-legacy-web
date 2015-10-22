@@ -1,7 +1,7 @@
 ---
 layout: workshop_post
 type: workshop
-workshopimg: ''
+workshopimg: projects_loop/fab_house.jpg
 title: 3D Printing Workshop 2013
 meta: The past weekend we made the 3d Printing Workshop where the FabLab Barcelona opened its doors to people who wanted to approach this fascinating world.
 author: Fab Lab BCN
@@ -19,7 +19,7 @@ We also had an introduction to Rhino 3D modeling program, in order to manufactur
 
 ### 3D printing workshop
 
-<img src="{{site.baseurl}}{{ site.url }}/img/workshops/arduino_workshop/1.jpg">
+<img src="{{site.baseurl}}{{ site.url }}/img/workshops/workshops_loop/3d_printing_workshop.jpg">
 
 &nbsp;
 
