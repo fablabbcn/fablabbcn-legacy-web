@@ -19,7 +19,7 @@ We also had an introduction to Rhino 3D modeling program, in order to manufactur
 
 ### 3D printing workshop
 
-<img src="{{site.baseurl}}{{ site.url }}/3d_printing_workshop.jpg">
+<img src="{{site.baseurl}}{{ site.url }}img/workshops/arduino_workshop/1.jpg">
 
 &nbsp;
 
