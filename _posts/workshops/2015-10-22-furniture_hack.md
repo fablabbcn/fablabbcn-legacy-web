@@ -3,7 +3,7 @@
 layout: workshop_post
 type: workshop
 workshopimg: workshops_loop/ephemeral_thumb.jpg
-title: Furniture Hack // November 2015
+title: Furniture Hacking // November 2015
 meta: 
 author: Fab Lab BCN
 date: 2015/10/22
