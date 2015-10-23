@@ -3,8 +3,8 @@
 layout: workshop_post
 type: workshop
 workshopimg: workshops_loop/ephemeral_thumb.jpg
-title: Ephemeral Arts Connection // February 2015
-meta: "Ephemeral Arts Connection: Parametric Fields & Digital Fabrication: architecture, design and publishing. Fab Lab Barcelona"
+title: Furniture Hack // November 2015
+meta: 
 author: Fab Lab BCN
 date: 2015/10/22
 category: workshop
