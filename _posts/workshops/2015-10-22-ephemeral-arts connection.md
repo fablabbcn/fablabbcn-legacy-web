@@ -13,9 +13,6 @@ category: workshop
 
 <br>
 
-##Ephemeral Arts Connection // February 2015
-
-<br>
 
 ###Parametric Fields & Digital Fabrication: architecture, design and publishing
 
