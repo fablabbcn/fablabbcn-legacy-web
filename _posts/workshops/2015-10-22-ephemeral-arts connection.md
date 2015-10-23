@@ -2,7 +2,7 @@
 
 layout: workshop_post
 type: workshop
-workshopimg: workshops_loop/ephemeral_full.jpg
+workshopimg: workshops_loop/ephemeral_thumb.jpg
 title: Ephemeral Arts Connection // February 2015
 meta: "Ephemeral Arts Connection: Parametric Fields & Digital Fabrication: architecture, design and publishing. Fab Lab Barcelona"
 author: Fab Lab BCN
@@ -25,7 +25,7 @@ Open to students and professionals from the field of fine arts, architecture, pr
 
 <br>
 
-TUTORS / LECTURERS
+##TUTORS / LECTURERS
 • Francesco Ducato Stardust* Director 
 • Ricardo Devesa Editor in Chief of Actar Publishers 
 • Anastasia Pistofidou Fab Textiles and Projects manager at Fab Lab Bcn 
@@ -33,12 +33,12 @@ TUTORS / LECTURERS
 
 <br>
 
-FEE FOR PARTICIPANTS
+##FEE FOR PARTICIPANTS
 250 euros. The fee includes materials and fabrication. Plane tickets and accommodation are not  included in the fee.
 
 <br>
 
-REGISTRATION (until 15/5/2015)
+##REGISTRATION (until 15/5/2015)
 
 <br>
 For registration please e-mail at :
