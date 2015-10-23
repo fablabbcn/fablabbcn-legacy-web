@@ -3,7 +3,7 @@
 layout: workshop_post
 type: workshop
 workshopimg: workshops_loop/ephemeral_thumb.jpg
-title: Ephemeral Arts Connection // February 2015
+title: Ephemeral Arts Connection // February 2016
 meta: "Ephemeral Arts Connection: Parametric Fields & Digital Fabrication: architecture, design and publishing. Fab Lab Barcelona"
 author: Fab Lab BCN
 date: 2015/10/22
@@ -33,12 +33,17 @@ Open to students and professionals from the field of fine arts, architecture, pr
 
 <br>
 
+####DATES
+February 10th to 14th, 2016
+
+<br>
+
 ####FEE FOR PARTICIPANTS
 250 euros. The fee includes materials and fabrication. Plane tickets and accommodation are not  included in the fee.
 
 <br>
 
-####REGISTRATION (until 15/5/2015)
+####REGISTRATION 
 
 <br>
 For registration please e-mail at :
