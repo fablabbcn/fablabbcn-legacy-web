@@ -2,7 +2,7 @@
 
 layout: workshop_post
 type: workshop
-workshopimg: workshops_loop/ephemeral_thumb.jpg
+workshopimg: workshops_loop/furniture-hacking-thumb.jpg
 title: Furniture Hacking // November 2015
 meta: 
 author: Fab Lab BCN
@@ -45,6 +45,6 @@ For registration please e-mail at :
 info@fablabbcn.org
 <br>
 
-<img src="{{site.baseurl}}{{ site.url }}/img/workshops/workshops_loop/ephemeral_full.jpg">
+<img src="{{site.baseurl}}{{ site.url }}/img/workshops/workshops_loop/furniture-hacking-full.jpg">
 
 
