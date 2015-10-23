@@ -99,6 +99,6 @@ jonathan@fablabbcn.org
 
 <br>
 
-<img src="{{site.baseurl}}{{ site.url }}/img/workshops/workshops_loop/recursions/2015-full.jpg">
+<img src="{{site.baseurl}}{{ site.url }}/img/workshops/workshops_loop/recursions-2015-full.jpg">
 
 
