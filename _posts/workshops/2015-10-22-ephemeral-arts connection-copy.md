@@ -24,8 +24,11 @@ Open to students and professionals from the field of fine arts, architecture, pr
 
 ####TUTORS / LECTURERS
 • Francesco Ducato Stardust* Director 
+
 • Ricardo Devesa Editor in Chief of Actar Publishers 
+
 • Anastasia Pistofidou Fab Textiles and Projects manager at Fab Lab Bcn 
+
 • Maximiliano Romero Phy.Co Lab Milan
 
 <br>
