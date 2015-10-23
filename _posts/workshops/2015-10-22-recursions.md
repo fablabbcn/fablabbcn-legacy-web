@@ -46,7 +46,7 @@ Jan Pernecky
 November 27th to 29th, 2016
 
 ####SCHEDULE
-Friday 27th November // 16:00
+#####Friday 27th November // 16:00
 
 Tour Green Fab Lab
 Basics of 3D modeling in Rhinoceros
@@ -54,13 +54,13 @@ Basics of Grasshopper
 Open Lecture by Jan Pernecky, founder of rese arch
 
 
-Saturday 28th November // 10 am- 18 pm
+#####Saturday 28th November // 10 am- 18 pm
 
 Recursive iterative methods
 Advanced Topics of looping
 
 
-Sunday 29th November // 10 am – 18 pm
+#####Sunday 29th November // 10 am – 18 pm
 
 Recursive iterative methods
 Final presentation session
