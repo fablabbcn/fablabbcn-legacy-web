@@ -4,7 +4,7 @@ layout: workshop_post
 type: workshop
 workshopimg: workshops_loop/furniture-hacking-thumb.jpg
 title: Furniture Hacking // November 2015
-meta: 
+meta: "Everyday somewhere in Barcelona you will find old or broken furniture even entire apartment interiors after flat restorations on the street. Often these objects only need a little hack / love and restoration for a new life."
 author: Fab Lab BCN
 date: 2015/10/22
 category: workshop
@@ -18,27 +18,29 @@ category: workshop
 
 <br>
 
-Open to students and professionals from the field of fine arts, architecture, product design, graphic design, fashion and all people interested. The workshop aims to explore the new dynamics of the global production system through the new digital tools and interdisciplinary collaborative processes. Parametric/generative design and digital fabrication will be applied on the realization of 2000 unique covers for the book “Ephemeral Arts Connection” by Stardust* edited and distributed worldwide by the leader publisher of groundbreaking books Actar (NY, Bcn).
+Everyday somewhere in Barcelona you will find old or broken furniture even entire apartment interiors after flat restorations on the street. Often these objects only need a little hack / love and restoration for a new life. Participants can bring any furniture / material they want to hack, restore or upgrade with style in Fab Lab´s furniture hospital.
+
+
+Objects can be up-cycled using CNC milling, laser cutting and 3D printing with help from professionals.
 
 <br>
 
 ####TUTORS / LECTURERS
-• Francesco Ducato Stardust* Director 
+• Ingi Freyr Gudjónsson
 
-• Ricardo Devesa Editor in Chief of Actar Publishers 
+• Matteo Guarnaccia
 
-• Anastasia Pistofidou Fab Textiles and Projects manager at Fab Lab Bcn 
-
-• Maximiliano Romero Phy.Co Lab Milan
 
 <br>
 
 ####FEE FOR PARTICIPANTS
-250 euros. The fee includes materials and fabrication. Plane tickets and accommodation are not  included in the fee.
+100 euros. 
+The fee includes materials and fabrication. Broken furniture and wood are available (feel free to bring your own.)
+
 
 <br>
 
-####REGISTRATION (until 15/5/2015)
+####REGISTRATION 
 
 <br>
 For registration please e-mail at :
