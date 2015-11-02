@@ -2,103 +2,72 @@
 
 layout: workshop_post
 type: workshop
-workshopimg: workshops_loop/151007_recursions.jpg
-title: Recursions // November 2015
-meta: "Recursion in mathematics and computer science, is a method in which the function being defined is applied within its own definition.This workshop explores iterative strategies through parametric design."
+workshopimg: workshops_loop/guitar-making.jpg.jpg
+title: Make your own Guitar // February 2015
+meta: "Come to Fab Lab Barcelona andlearn how to design, fabricate and personalize your own guitar."
 author: Fab Lab BCN
-date: 2015/10/22
+date: 2015/11/02
 category: workshop
 
 ---
 
 <br>
 
-##RECURSIONS : ITERATIVE STRATEGIES
+##MAKE YOUR OWN GUITAR
+1. Design your guitar / bass - sketching / 3D modeling with assistance
+2. Fabrication / CNC milling demonstration. All participants designs are made with tutors.
+3. Finishing + assembly. Presentation + demonstration with Helgi Kristjánsson guitar specialist.
 
-Recursion in mathematics and computer science, is a method in which the function being dened is applied within its own denition. The term is also used more generally to describe a process of repeating objects in a self-similar way. This workshop explores iterative strategies through parametric design.
-The main tool for the course will be grasshopper3d and its add-on Anemone. Anemone is a simple but eective plug-in for Grasshopper that enables for loops in a simple and linear way. We will explore several design strategies such iterative growth, L systems, fractals, recursive subdivisions and more.
-The course will focus on how those methods can aect three-dimensional geometries, generating unexpected conformations.
-The workshop is open to all participants, no previous knowledge of Rhinoceros, Grasshopper or tailoring techniques is required (although an introductory knowledge is welcome).
 
-###PROGRAM
-intro to rhino
-intro to grasshopper
-advanced grasshopper
-data management
-intro to loops
-cellular automata
-L-systems
-agent based modelling
+Materials are provided ( wood for body and neck + plastic for covers.)
+Guitar components are available. ( Feel free to bring your own.)
+Participants keep their custom instruments
 
 
 <br>
 ####TUTORS / LECTURERS
-Organized by: Noumena + IaaC | Green Fab Lab Barcelona
+Organized by:Fab Lab Barcelona
 
-Aldo Sollazzo
+Ingi Gudjonsson
 
-Efilena Baseta
+Helgi Kristjánsson
 
-Jan Pernecky
+
 
 <br>
 ####DATES
-November 27th to 29th, 2016
-
-####SCHEDULE
-#####Friday 27th November // 16:00
-
-Tour Green Fab Lab
-Basics of 3D modeling in Rhinoceros
-Basics of Grasshopper
-Open Lecture by Jan Pernecky, founder of rese arch
-
-
-#####Saturday 28th November // 10 am- 18 pm
-
-Recursive iterative methods
-Advanced Topics of looping
-
-
-#####Sunday 29th November // 10 am – 18 pm
-
-Recursive iterative methods
-Final presentation session
+January 23rd to 24th, 2016
+From 10.00 to 14.00 and 15.00 to 19.00hs
 
 <br>
 ####PLACE
-GREEN FAB LAB
+FAB LAB BARCELONA
 
-Ctra. BV-1415 (Horta-Cerdanyola), km 7 
-08290 Cerdanyola del Vallès 
-Barcelona 
+Pujades 102, 
+08005, Barcelona 
 Spain
-+34 617351890 
 
 <br>
 ####FEE FOR PARTICIPANTS
-Option 1 = 200€ +IVA
+Option 1 = 250€
 The course
 
-Option 2 = 350€ +IVA
-The course + accomodation
-
-Students = 20 % Discount
+Option 2 = 30€
+The course + components
 
 
 <br>
 ####REGISTRATION 
 Here:
-www.valldaura.fikket.com
+www.fablab.fikket.com
 
 For more information please e-mail at :
 info@fablabbcn.org
-jonathan@fablabbcn.org
 
 
 
 <br>
 
-<img src="{{site.baseurl}}{{ site.url }}/img/workshops/workshops_loop/recursions-2015-full.jpg">
+<img src="{{site.baseurl}}{{ site.url }}/img/workshops/workshops_loop/guitar-making.jpg">
 
 
