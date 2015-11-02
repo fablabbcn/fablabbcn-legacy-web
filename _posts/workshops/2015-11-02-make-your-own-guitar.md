@@ -2,7 +2,7 @@
 
 layout: workshop_post
 type: workshop
-workshopimg: workshops_loop/guitar-making.jpg.jpg
+workshopimg: workshops_loop/guitar-making.jpg
 title: Make your own Guitar // February 2015
 meta: "Come to Fab Lab Barcelona andlearn how to design, fabricate and personalize your own guitar."
 author: Fab Lab BCN
