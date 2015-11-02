@@ -2,9 +2,9 @@
 
 layout: workshop_post
 type: workshop
-workshopimg: workshops_loop/guitar-making.jpg
-title: Make your own Guitar // February 2015
-meta: "Come to Fab Lab Barcelona andlearn how to design, fabricate and personalize your own guitar."
+workshopimg: workshops_loop/3dprinting-2016.jpg
+title: 3D Printing and Scanning// April 2015
+meta: "Take part in the workshop and learn how 3d printing technology works and the option on technique and machines more suitable for your project. You can choose between different printers and learn to use the programs that control each one. In addition, you will have the opportunity to print an object created by you or by any of the users who share their models in open platforms."
 author: Fab Lab BCN
 date: 2015/11/02
 category: workshop
@@ -14,29 +14,28 @@ category: workshop
 <br>
 
 ##MAKE YOUR OWN GUITAR
-1. Design your guitar / bass - sketching / 3D modeling with assistance
-2. Fabrication / CNC milling demonstration. All participants designs are made with tutors.
-3. Finishing + assembly. Presentation + demonstration with Helgi Kristjánsson guitar specialist.
+3D printing is transforming not only how we produce the objects that surround us, as also the consumption patterns of our society.
 
+Take part in the workshop and learn how 3d printing technology works and the option on technique and machines more suitable for your project.
+You can choose between different printers and learn to use the programs that control each one. In addition, you will have the opportunity to print an object created by you or by any of the users who share their models in open platforms.
 
-Materials are provided ( wood for body and neck + plastic for covers.)
-Guitar components are available. ( Feel free to bring your own.)
-Participants keep their custom instruments
+You will learn to scan , to process the 3D images and then make them on a 3D printer.
+
+Materials are provided.
+
 
 
 <br>
 ####TUTORS / LECTURERS
 Organized by:Fab Lab Barcelona
 
-Ingi Gudjonsson
-
-Helgi Kristjánsson
+Anastasia Pistofidou
 
 
 
 <br>
 ####DATES
-January 23rd to 24th, 2016
+April 2nd to 3rd, 2016
 
 From 10.00 to 14.00 and 15.00 to 19.00hs
 
@@ -50,11 +49,7 @@ Spain
 
 <br>
 ####FEE FOR PARTICIPANTS
-Option 1 = 250€
-The course
-
-Option 2 = 30€
-The course + components
+160 euros
 
 
 <br>
