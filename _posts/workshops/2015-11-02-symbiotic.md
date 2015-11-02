@@ -13,59 +13,73 @@ category: workshop
 
 <br>
 
-##NERO: DATA MATTER
+##SYMBIOTIC ASSOCIATIONS: INTRODUCTION
+As a species, humans are adept at inventing toxins yet equally inept at eliminating them from our environment. Due to current trends, our exposure to dangerous chemicals increases with time as our environment becomes more polluted.
 
-Design; explore emergent behaviors, chaos, fractals and many more inspiring concepts based on the principles of looping data
+Mushrooms may turn out to be important keys to both human and planetary health. Their indispensable role in recycling organic matter has long been known. Mycelium can be selected and trained to break down toxic waste, converting it into harmless metabolites. Mushroom allies may even be able to detoxify chemical warfare agents. The use of fungi to improve the health of the environment by filtering water in order to help trees to grow in forests and plants in gardens is one facet of a larger strategy called by Paul Stamets Mycorestoration.
 
-NOUMENA, in collaboration with IAAC | GREEN FABLAB,present: NERO | networking environmental robotics workshop.The course will be structured in multiple phases, generating a dynamic workflow from digital to analog and vice versa to offer a firsthand experience with aerial robotics, data mapping and data visualization. Aim of the workshop is to create a theoretical and experimental framework, based on open-source tools, with the scope of extracting data from the air to better understand the environment and intervene in design objectives. Main tool of the course will be NERO, an open-source drone developed by NOUMENA and already presented in several international events and exhibitions such as Fab10, Maker Faire Rome, and Beyond Building Barcelona/Construmat.NERO is a project developed in a collaborative manner, pursuing several applications through computation and coding turning a basic drone into a multidisciplinary and professional tool.
+The broader meaning of Mycoremediation is the process which fungi degrades or removes toxins from the environment. Mycoremediation practices involve mixing mycelium with contaminated soil, by placing mycelial mats over toxic sites. The powerful enzymes secreted by specific fungi are able to digest lignin and cellulose, the primary structural components of wood. These digestive enzymes can also break down a surprisingly wide range of toxins that have similar chemical bonds with wood.
 
-The whole workshop is divided in different phases through which participants will develop several skills, mainly focused on DATA.First phase of the workshop is about an Introduction to computational tools, developing a parametric drone. During these phase students willobserve the process of digital fabrication through laser cutting the frame structure and assembling all required parts; program and update the firmware to prepare the drone for its first fly.
+###BRIEF
+Noumena, Green Fab Lab and Fab Lab Barcelona present “SYMBIOTIC ASSOCIATIONS” workshop. The purpose of the course is to explore the relationship between digital and biological manufacturing, as multi-scalar construction techniques. The Workshop will be based on defining a theoretical and experimental framework focused on the convergence between Digital Tectonics and Organic processes. We will focus on the association between biology and architecture in order to manufacture biological mechanisms.
 
-In the second phase of the workshop, students will learn about all correlatedsoftware and hardware to fly and measure the environmental data.  The idea is to understand the strategies to fly drone autonomously in an optimize way and to collect augmented data. This phase involves different devices; mapping the terrain via near-infrared filtered camera and sense the environment by Smart Citizen board to collect other environmental data such as temperature, humidity, noise, co2, etc.
+During the workshop, participants will be involved in a dynamic workflow, studying algorithms based on recursive systems associated with organic and digital manufacturing. The Workshop will be divided into two main phases:
 
-In the last phase of the course, participants will embrace computational techniques, learning how to organize and visualize data, generating environmental 3-Dimensional maps, elaborating these maps and database as a resourceful informative documents to it’s natural and social context.
+- Computational Phase: The students will explore digital iterative actions simulating biological growth.
+
+- Manufacturing Phase:  During this phase we will develop biological reactions, mixing Mycelium with other materials used in rapid prototyping, such as wooden PLA, Clay and biodegradable materials.
+
+
 
 ###TOPICS
-aerial robotics
-electronics
-digital fabrication
-mapping
-data collection
-data visualization
+intro to rhino
+intro to grasshopper
+advanced grasshopper
+data management
+intro to loops
+cellular automata
+l-systems
+agent based modelling
+bio-mimetic simulations
 
 
 <br>
 ####TUTORS / LECTURERS
 Organized by: Noumena + IaaC | Green Fab Lab Barcelona
 
-Chirag Rangholia, Starsky & Rodrigo Bautista
+Aldo Sollazo & Starsky.
 
 
 <br>
 ####DATES
-February 5th to 7th, 2016
+March 18th to 20th, 2016
 
 ####SCHEDULE
-#####Friday 5th // 10 am to 18pm
+#####Friday 18th // 10 am to 18pm
 
-Introduction to Drones;
-Flying principles;
-Open Lecture by Rodrigo Bautista, partner of Forum for the Future.
+Tour at Green Fab Lab
 
+Basics of 3D modeling in Rhinoceros
 
-#####Saturday 6th // 10 am- 18 pm
+Basics of Grasshopper
 
-Introduction to data mapping;
-Autonomous Fly;
-Collection of pictures from the air.
+Recursive iterative methods
 
 
-#####Sunday 7th // 10 am – 18 pm
+#####Saturday 19th // 10 am- 18 pm
 
-Data visualization;
-Photogrammetry;
-3dmensional data models;
-Final presentation session.
+Advanced Topics of looping
+
+Simulation of material growth
+
+Prototyping with  additive manufacturing techniques
+
+
+#####Sunday 20th // 10 am – 18 pm
+
+Experimenting with Mycelium
+
+Final presentation  session
 
 <br>
 ####PLACE
