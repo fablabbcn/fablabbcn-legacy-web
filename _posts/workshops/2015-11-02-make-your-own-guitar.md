@@ -37,6 +37,7 @@ Helgi Kristjánsson
 <br>
 ####DATES
 January 23rd to 24th, 2016
+
 From 10.00 to 14.00 and 15.00 to 19.00hs
 
 <br>
