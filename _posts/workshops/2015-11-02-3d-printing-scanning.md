@@ -13,7 +13,7 @@ category: workshop
 
 <br>
 
-##MAKE YOUR OWN GUITAR
+###3D PRINTING & SCANNING
 3D printing is transforming not only how we produce the objects that surround us, as also the consumption patterns of our society.
 
 Take part in the workshop and learn how 3d printing technology works and the option on technique and machines more suitable for your project.
