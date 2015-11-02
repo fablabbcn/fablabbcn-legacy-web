@@ -63,6 +63,9 @@ www.fablab.fikket.com
 For more information please e-mail at :
 info@fablabbcn.org
 
+More info about the project, here: www.fabtextiles.org
+Get Inspired!:www.pinterest.com/fabtextiles/fab-textiles/
+
 
 
 <br>
