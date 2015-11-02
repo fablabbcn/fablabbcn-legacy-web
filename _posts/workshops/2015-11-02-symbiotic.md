@@ -2,7 +2,7 @@
 
 layout: workshop_post
 type: workshop
-workshopimg: workshops_loop/151007_nero_mapping.jpg
+workshopimg: workshops_loop/151007_symbiotic_associations.jpg
 title: Nero // February 2015
 meta: "Untill now, Drones have always been associated with warfare or as a military robot aircrafts. However these days drone technology is becoming more and more affordable and mainstream, making it ideal for a wide range of applied research applications.  Areal Robotic became a common tool for Construction Techniques, Photogrammetry, Transportation, Agriculture, Security and Rescue, Environmental research and many more applications. The aim of the workshop is to create a theoretical and experimental framework, based on open-source tools, with the scope of extracting data from the air to better understand the environment and intervene in design objectives"
 author: Fab Lab BCN
@@ -101,6 +101,6 @@ jonathan@fablabbcn.org
 
 <br>
 
-<img src="{{site.baseurl}}{{ site.url }}/img/workshops/workshops_loop/nero-2016-full.jpg">
+<img src="{{site.baseurl}}{{ site.url }}/img/workshops/workshops_loop/symbiotic-associations-2016-full.jpg">
 
 
