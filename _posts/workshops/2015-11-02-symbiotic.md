@@ -3,8 +3,8 @@
 layout: workshop_post
 type: workshop
 workshopimg: workshops_loop/151007_symbiotic_associations.jpg
-title: Nero // February 2015
-meta: "Untill now, Drones have always been associated with warfare or as a military robot aircrafts. However these days drone technology is becoming more and more affordable and mainstream, making it ideal for a wide range of applied research applications.  Areal Robotic became a common tool for Construction Techniques, Photogrammetry, Transportation, Agriculture, Security and Rescue, Environmental research and many more applications. The aim of the workshop is to create a theoretical and experimental framework, based on open-source tools, with the scope of extracting data from the air to better understand the environment and intervene in design objectives"
+title: Symbiotic Associations // March  2015
+meta: "The purpose of the course is to explore the relationship between digital and biological manufacturing, as multi-scalar construction techniques. The Workshop will be based on defining a theoretical and experimental framework focused on the convergence between Digital Tectonics and Organic processes. We will focus on the association between biology and architecture in order to manufacture biological mechanisms."
 author: Fab Lab BCN
 date: 2015/11/02
 category: workshop
