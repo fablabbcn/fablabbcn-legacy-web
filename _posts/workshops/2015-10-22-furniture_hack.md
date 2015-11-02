@@ -28,6 +28,10 @@ Objects can be up-cycled using CNC milling, laser cutting and 3D printing with h
 • Matteo Guarnaccia
 
 
+####DATES
+November 21st to 22nd 2015
+
+From 10.00 to 14.00 and 15.00 to 19.00hs
 <br>
 
 ####FEE FOR PARTICIPANTS
