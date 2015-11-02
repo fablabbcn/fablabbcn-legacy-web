@@ -2,8 +2,8 @@
 
 layout: workshop_post
 type: workshop
-workshopimg: workshops_loop/makeit-mapit.jpg
-title: Make it, Map it // February 2015
+workshopimg: workshops_loop/fab-textiles-2016.jpg
+title: Fab Textiles // February 2015
 meta: "Come to Fab Lab Barcelona and learn the basics of Video Mapping and Digital Fabrication."
 author: Fab Lab BCN
 date: 2015/11/02
@@ -13,33 +13,32 @@ category: workshop
 
 <br>
 
-##MAKE IT, MAP IT
-1.Participants design and make a 3D object.
+##FAB TEXTILES
+The fashion world is increasingly incorporating new research in structures and new materials to expand its field of work and experimentation. This application of technology and digital fabrication to traditional manufacturing and industrial techniques are changing the ways of producing and designing clothing.
 
-2.Each object is made using CNC milling / laser cuter or 3D printing.
+The Fab Textiles project is opened to anyone interested in the world of fashion, open-source, wearables and custom creations. Fab Textiles centers its research activities in the field of digital fashion, focusing on new processes, materials and production techniques. 
 
-3.Resolume Arena and After effects software presentation + demonstration with Carlos Nieves video expert.
+During the course of this workshop, participants will learn new tools to design and develop their own clothes and accessories. To achieve that, participants will use the following techniques:
+-laser cutter
+-3D printer
+-digital embroidery
+-pother resources available in the Fab Lab.
 
-4.Photos, videos and illustrations are used to map the 3D objects.
 
-5.Presentation and documentation of each project.
-
-
-Materials for fabrication of physical 3D objects are included.
-Participants work on their own computers using Resolume Arena trial.
+Materials for fabrication are included.
+Participants are invited to use their own computers.
 
 
 <br>
 ####TUTORS / LECTURERS
 Organized by:Fab Lab Barcelona
 
-Ingi Guðjónsson & Carlos Nieves
-
+Anastasia Pistofidou
 
 
 <br>
 ####DATES
-February 20th to 21st, 2016
+February 27th to 28st, 2016
 From 10.00 to 14.00 and 15.00 to 19.00hs
 
 <br>
@@ -52,7 +51,7 @@ Spain
 
 <br>
 ####FEE FOR PARTICIPANTS
-Option 1 = 200€
+Option 1 = 180€
 The course
 
 
@@ -68,6 +67,6 @@ info@fablabbcn.org
 
 <br>
 
-<img src="{{site.baseurl}}{{ site.url }}/img/workshops/workshops_loop/makeit-mapit.jpg">
+<img src="{{site.baseurl}}{{ site.url }}/img/workshops/workshops_loop/fab-textiles-2016.jpg">
 
 
