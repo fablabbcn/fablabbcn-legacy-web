@@ -2,9 +2,9 @@
 
 layout: workshop_post
 type: workshop
-workshopimg: workshops_loop/guitar-making.jpg
-title: Make your own Guitar // February 2015
-meta: "Come to Fab Lab Barcelona andlearn how to design, fabricate and personalize your own guitar."
+workshopimg: workshops_loop/makeit-mapit.jpg
+title: Make it, Map it // February 2015
+meta: "Come to Fab Lab Barcelona and learn the basics of Video Mapping and Digital Fabrication."
 author: Fab Lab BCN
 date: 2015/11/02
 category: workshop
@@ -13,30 +13,33 @@ category: workshop
 
 <br>
 
-##MAKE YOUR OWN GUITAR
-1. Design your guitar / bass - sketching / 3D modeling with assistance
-2. Fabrication / CNC milling demonstration. All participants designs are made with tutors.
-3. Finishing + assembly. Presentation + demonstration with Helgi Kristjánsson guitar specialist.
+##MAKE IT, MAP IT
+1.Participants design and make a 3D object.
+
+2.Each object is made using CNC milling / laser cuter or 3D printing.
+
+3.Resolume Arena and After effects software presentation + demonstration with Carlos Nieves video expert.
+
+4.Photos, videos and illustrations are used to map the 3D objects.
+
+5.Presentation and documentation of each project.
 
 
-Materials are provided ( wood for body and neck + plastic for covers.)
-Guitar components are available. ( Feel free to bring your own.)
-Participants keep their custom instruments
+Materials for fabrication of physical 3D objects are included.
+Participants work on their own computers using Resolume Arena trial.
 
 
 <br>
 ####TUTORS / LECTURERS
 Organized by:Fab Lab Barcelona
 
-Ingi Gudjonsson
-
-Helgi Kristjánsson
+Ingi Guðjónsson & Carlos Nieves
 
 
 
 <br>
 ####DATES
-January 23rd to 24th, 2016
+February 20th to 21st, 2016
 From 10.00 to 14.00 and 15.00 to 19.00hs
 
 <br>
@@ -49,11 +52,8 @@ Spain
 
 <br>
 ####FEE FOR PARTICIPANTS
-Option 1 = 250€
+Option 1 = 200€
 The course
-
-Option 2 = 30€
-The course + components
 
 
 <br>
@@ -68,6 +68,6 @@ info@fablabbcn.org
 
 <br>
 
-<img src="{{site.baseurl}}{{ site.url }}/img/workshops/workshops_loop/guitar-making.jpg">
+<img src="{{site.baseurl}}{{ site.url }}/img/workshops/workshops_loop/makeit-mapit.jpg">
 
 
