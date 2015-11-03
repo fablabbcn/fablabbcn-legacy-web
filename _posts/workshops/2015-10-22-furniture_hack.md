@@ -6,7 +6,7 @@ workshopimg: workshops_loop/furniture-hacking-final.jpg
 title: Furniture Hacking // November 2015
 meta: "Everyday somewhere in Barcelona you will find old or broken furniture even entire apartment interiors after flat restorations on the street. Often these objects only need a little hack / love and restoration for a new life."
 author: Fab Lab BCN
-date: 2015/10/22
+date: 2015/05/05
 category: workshop
 
 ---
