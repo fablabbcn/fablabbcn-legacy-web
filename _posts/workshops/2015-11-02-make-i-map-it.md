@@ -6,7 +6,7 @@ workshopimg: workshops_loop/makeit-mapit.jpg
 title: Make it, Map it // February 2016
 meta: "Come to Fab Lab Barcelona and learn the basics of Video Mapping and Digital Fabrication."
 author: Fab Lab BCN
-date: 2015/11/02
+date: 2015/05/29
 category: workshop
 
 ---
