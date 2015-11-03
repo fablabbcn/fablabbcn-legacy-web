@@ -6,7 +6,7 @@ workshopimg: workshops_loop/151007_recursions.jpg
 title: Recursions // November 2015
 meta: "Recursion in mathematics and computer science, is a method in which the function being defined is applied within its own definition.This workshop explores iterative strategies through parametric design."
 author: Fab Lab BCN
-date: 2015/10/22
+date: 2015/05/10
 category: workshop
 
 ---
