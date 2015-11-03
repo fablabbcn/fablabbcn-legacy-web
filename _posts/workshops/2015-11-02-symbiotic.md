@@ -6,7 +6,7 @@ workshopimg: workshops_loop/151007_symbiotic_associations.jpg
 title: Symbiotic Associations // March  2016
 meta: "The purpose of the course is to explore the relationship between digital and biological manufacturing, as multi-scalar construction techniques. The Workshop will be based on defining a theoretical and experimental framework focused on the convergence between Digital Tectonics and Organic processes. We will focus on the association between biology and architecture in order to manufacture biological mechanisms."
 author: Fab Lab BCN
-date: 2015/06/15
+date: 2015/06/09
 category: workshop
 
 ---
