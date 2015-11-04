@@ -46,9 +46,10 @@ Broken furniture and wood are available (feel free to bring your own.)
 
 ####REGISTRATION 
 
+<a target="_blank" href="http://fablab.fikket.com/event/taller-de-furniture-hacking"><u>Click here</u></a> 
+
 <br>
-For registration please e-mail at :
-info@fablabbcn.org
+More information: info@fablabbcn.org
 <br>
 
 <img src="{{site.baseurl}}{{ site.url }}/img/workshops/workshops_loop/furniture-hacking-final.jpg">
