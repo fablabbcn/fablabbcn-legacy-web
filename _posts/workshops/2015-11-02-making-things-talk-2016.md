@@ -45,7 +45,8 @@ Pujades 10208005, Barcelona Spain
 
 ####FEE FOR PARTICIPANTSOption 1 = 180€ +IVAWith an Arduino Kit
 
-####REGISTRATION Here:www.fablab.fikket.com
+####REGISTRATION
+http://fablab.fikket.com/event/making-things-talk-inputs-outputs
 
 For more information please e-mail at :info@fablabbcn.org
 
