@@ -45,9 +45,10 @@ February 10th to 14th, 2016
 
 ####REGISTRATION 
 
+<a target="_blank" href="http://fablab.fikket.com/event/taller-de-ephemeral-arts-connection"><u>Click here</u></a> 
+
 <br>
-For registration please e-mail at :
-info@fablabbcn.org
+More information: info@fablabbcn.org
 <br>
 
 <img src="{{site.baseurl}}{{ site.url }}/img/workshops/workshops_loop/ephemeral.jpg">
