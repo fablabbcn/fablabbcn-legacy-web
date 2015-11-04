@@ -105,7 +105,7 @@ Students = 20 % Discount
 <br>
 ####REGISTRATION 
 Here:
-www.valldaura.fikket.com
+http://valldaura.fikket.es/event/symbiotic-associations
 
 For more information please e-mail at :
 info@fablabbcn.org
