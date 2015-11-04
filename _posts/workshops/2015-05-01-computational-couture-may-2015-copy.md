@@ -3,7 +3,7 @@
 layout: workshop_post
 type: workshop
 workshopimg: workshops_loop/computational-couture.jpg
-title: Computational Couture Workshop // May 2015
+title: Computational Couture Workshop // May 2015 (CLOSED)
 meta: "COMPUTATIONAL COUTURE WORKSHOP AT BEYOND BUILDING BARCELONA FAIRE
 
 Expanding the horizons of dress making towards an algorithmic approach
