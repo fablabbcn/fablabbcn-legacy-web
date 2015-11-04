@@ -54,11 +54,10 @@ Spain
 
 <br>
 ####REGISTRATION 
-Here:
-www.fablab.fikket.com
 
-For more information please e-mail at :
-info@fablabbcn.org
+<a target="_blank" href="http://fablab.fikket.com/event/taller-de-escaneo-e-impresion-3d--2"><u>Click here</u></a> 
+
+More information: info@fablabbcn.org
 
 
 
