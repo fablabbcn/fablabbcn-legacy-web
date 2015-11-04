@@ -59,8 +59,7 @@ The course
 
 <br>
 ####REGISTRATION 
-Here:
-www.fablab.fikket.com
+<a target="_blank" href="http://fablab.fikket.com/event/taller-de-make-it-map-it"><u>Click here</u></a> 
 
 For more information please e-mail at :
 info@fablabbcn.org
