@@ -59,8 +59,7 @@ The course + components
 
 <br>
 ####REGISTRATION 
-Here:
-www.fablab.fikket.com
+<a target="_blank" href="http://fablab.fikket.com/event/taller-de-guitar-making"><u>Click here</u></a> 
 
 For more information please e-mail at :
 info@fablabbcn.org
