@@ -57,14 +57,14 @@ The course
 
 <br>
 ####REGISTRATION 
-Here:
-www.fablab.fikket.com
 
-For more information please e-mail at :
-info@fablabbcn.org
+<a target="_blank" href="http://fablab.fikket.com/event/taller-de-fab-textiles"><u>Click here</u></a> 
 
-More info about the project, here: www.fabtextiles.org
-Get Inspired!:www.pinterest.com/fabtextiles/fab-textiles/
+More information:info@fablabbcn.org
+
+More info about the Fab Textiless project, <a target="_blank" href="http://fabtextiles.org/"><u>click here</u></a>
+
+Get Inspired!<a target="_blank" href="https://www.pinterest.com/fabtextiles/fab-textiles//"><u>Pinterest board</u></a> 
 
 
 
