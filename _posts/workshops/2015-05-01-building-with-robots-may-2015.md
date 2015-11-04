@@ -3,7 +3,7 @@
 layout: workshop_post
 type: workshop
 workshopimg: workshops_loop/building_with_robots.jpg
-title: Building With Robots // May 2015
+title: Building With Robots // May 2015 (CLOSED)
 meta: "BUILDING WITH ROBOTS AT BEYOND BUILDING BARCELONA FAIRE (Emerging Construction Process) With designers seeking to push the limits of what is a possible using computational design, parametric modeling techniques, and real-time process feedback, industrial robotic tools have emerged as an ideal development platform to reconsider way of materializing digital complexity."
 author: Fab Lab BCN
 date: 2015/05/01
