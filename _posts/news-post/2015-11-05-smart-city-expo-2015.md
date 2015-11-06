@@ -4,11 +4,11 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/fabcity.jpg
 teaserlist: blog_loop_latest/fabcity.jpg
-title: FAB11 - Boston, August 2015
+title: Fab Lab Barcelona @Smart City Expo 2015
 meta: Fab Lab Barcelona and IAAC will be present in the most relevant conference and expo about Smart Cities in the world. November 17th to 19th, Barcelona.
 author: Tomas Diez
 date: 14/09/2015
-category: News
+category: Fabcity
 
 ---
 
