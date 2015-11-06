@@ -16,8 +16,11 @@ Fab Labs for citizen empowerment and urban innovation at the <a target="_blank" 
 
 From Fab Labs to Fab Cities... Fab Lab Barcelona and IAAC will be present in the most relevant conference and expo about Smart Cities in the world. 
 
+<br>
 
 We will be participating in the following sub-events at the main venue of the <a target="_blank" href="http://www.smartcityexpo.com/"><u>SCEWC</u></a>:
+
+<br>
 
 -FAB City meeting: 19th of November during the morning. Exact time and place to be announce via social networks.
 
@@ -25,6 +28,7 @@ We will be participating in the following sub-events at the main venue of the <a
 
 -<a target="_blank" href="http://fablabbcn.org/popup_fab_lab.html"><u>Pop-Lab</u></a>: we will have an entire mini Fab Lab at the main public plaza offering demos, workshops and explanations about the impact of Fab Labs and digital fabrication in the urban ecosystems.
 
+<br>
 
 <a target="_blank" href="http://www.smartcityexpo.com/"><u>More info here.</u></a> 
 
