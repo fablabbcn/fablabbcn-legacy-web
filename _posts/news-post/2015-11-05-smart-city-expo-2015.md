@@ -25,3 +25,6 @@ We will be participating in the following sub-events at the main venue of the <a
 
 -<a target="_blank" href="http://fablabbcn.org/popup_fab_lab.html"><u>Pop-Lab</u></a>: we will have an entire mini Fab Lab at the main public plaza offering demos, workshops and explanations about the impact of Fab Labs and digital fabrication in the urban ecosystems.
 
+
+<a target="_blank" href="http://www.smartcityexpo.com/"><u>More info here.</u></a> 
+
