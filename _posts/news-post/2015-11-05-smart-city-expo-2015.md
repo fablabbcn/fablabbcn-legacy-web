@@ -14,6 +14,8 @@ category: Fabcity
 
 Fab Labs for citizen empowerment and urban innovation at the <a target="_blank" href="http://www.smartcityexpo.com/"><u>Smart City Expo</u></a> 
 
+<br>
+
 From Fab Labs to Fab Cities... Fab Lab Barcelona and IAAC will be present in the most relevant conference and expo about Smart Cities in the world. 
 
 <br>
