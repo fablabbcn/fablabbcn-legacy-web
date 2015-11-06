@@ -28,3 +28,7 @@ We will be participating in the following sub-events at the main venue of the <a
 
 <a target="_blank" href="http://www.smartcityexpo.com/"><u>More info here.</u></a> 
 
+<img src="{{site.baseurl}}{{ site.url }}img/blog/blog_loop_latest/fabcity.jpg">
+
+
+
