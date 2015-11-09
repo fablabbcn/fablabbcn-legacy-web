@@ -53,7 +53,9 @@ Spain
 Option 1 = 250€
 The course
 
-Option 2 = 30€
+
+
+Option 2 = 300€
 The course + components
 
 
