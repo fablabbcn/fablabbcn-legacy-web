@@ -1,7 +1,7 @@
 ---
 layout: workshop_post
 type: workshop
-workshopimg: workshops_loop/making-things-talk-2016.jpg
+workshopteaser: workshops_loop/making-things-talk-2016.jpg
 title: Making Things Talk. Inputs and Outputs // March 2016
 meta: 'Inputs and outputs is a workshop aimed to people without previous experience on electronics, who want to enter the world of physical interaction through the Arduino platform. The Arduino platform allows, with very basic programming skills, read data from our environment by all kinds of sensors such as temperature, light and use these to control all types of actuators such as motors and lights, or your own computer.'
 author: Fab Lab BCN

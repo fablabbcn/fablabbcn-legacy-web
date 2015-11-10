@@ -57,6 +57,8 @@ p {
 	border-right: solid 1px #dedede;
 }
 
+
+
 .lead {
 	font-size: medium;
 }
@@ -78,12 +80,41 @@ ol {
 }
 
 
-
 #separator {
     padding-top: 30px;
     margin-bottom: 30px;
 	border-bottom: 1px solid #dddddd;
 }
+
+.separator-solid{
+	position: relative;
+	background-color: #29dcd9;
+	height: 45px;
+	padding-left: 15px;
+	padding-top: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;	
+}
+
+.separator-solid h3 {
+	color: white;
+	padding: 0px;
+	margin: 0px;
+	position: relative;
+	z-index: 1000;
+}
+
+#separator-solid-read-more {
+	color: white;
+	padding: 0px;
+	margin: 0px;
+	position: relative;
+    text-align: right;
+    padding-top: 5px;
+    padding-right: 30px;
+	z-index: 1000;
+}
+
 
 #separator-pages-top {
 	margin-bottom: 30px;
@@ -266,8 +297,8 @@ iframe {
 /* ==== Home ==================================================== Home ============ */
 
 #latest-news{
-	padding-top: 30px; 
-	padding-bottom: 30px;
+	padding-top: 0px; 
+	padding-bottom: 0px;
 }
 
 #read-more-button {
@@ -282,7 +313,7 @@ iframe {
 
 
 #news h2{
-	text-align: center;
+	text-align: left;
 }
 
 #latest-news-banner {
@@ -963,9 +994,6 @@ iframe {
 /* ==== Carousel ============================================================= Carousel =============== */ 
 
 
-#carousel-container {
-	margin-bottom: 30px;
-}
 
 .carousel-caption {
 	display: block;

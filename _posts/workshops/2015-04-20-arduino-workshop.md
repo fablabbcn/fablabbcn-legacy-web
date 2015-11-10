@@ -2,7 +2,7 @@
 
 layout: workshop_post
 type: workshop
-workshopimg: workshops_loop/arduino_workshop_2015.jpg
+workshopteaser: workshops_loop/arduino_workshop_2015.jpg
 title: Arduino Workshop (CLOSED)
 meta: "APRIL 18-19 – 2015 Arduino Basics: Inputs and outputs es un workshop dirigido a todas aquellas personas con y sin experiencia previa que quieran introducirse al mundo de la interacción física a través de la plataforma Arduino."
 author: Fab Lab BCN
