@@ -22,9 +22,9 @@ ciutadania (commons).
 En aquesta jornada parlarem sobre els bens comuns com a model de governança col·lectiva, de la xarxa "Long Range" (LoRa) i el Things Network, de les possibilitats de desplegar-ho a Barcelona i Catalunya, de les oportunitats però també limitacions i riscs de l'Internet de les Coses, del paper transformador de l'Arduino i de com pensar en models de negoci dins d'ecosistemes sostenibles.
 
 Moderador: Ricard Faura: Generalitat de Catalunya / Societat de Coneixement
-<br>
 
-Ponents:
+
+<br><br>Ponents:
 
 
 * Guillem Camprodon; Mara Balestrini: FabLab BCN
@@ -37,25 +37,23 @@ Ponents:
 
 * Xavier Pi: Coordinador Embedded Systems, Col·legi Oficial d'Enginyers Industrial de Catalunya
 
-<br>
 
-
-On: FabLab BCN, Carrer de Pujades, 102, Barcelona
+<br><br>On: FabLab BCN, Carrer de Pujades, 102, Barcelona
 
 Quan: Dilluns 16 Nov, 18 - 20:00
 
 Accés gratuït
-<br>
 
 
-/////////////////////////////
+
+<br><br>/////////////////////////////
 
 
 ####Building the Smart City from down to top: Now is the time
 
 
-<br>
-For years people have been working to build smart cities by connecting sensors and actuators to the network. But we wonder what can we do to encourage technological independence and social autonomy.
+
+<br><br>For years people have been working to build smart cities by connecting sensors and actuators to the network. But we wonder what can we do to encourage technological independence and social autonomy.
 
 Last summer a group of citizens in Amsterdam placed 10 antennas of a new technology of free radio (LoRa) to cover the city with an open access data network  (called The Things Network). This model is being replicated around the world and has the potential to lay the foundations for a smart city built from below and in the hands of
 Citizens (commons).
@@ -64,8 +62,8 @@ During this conference we'll talk about the commons goods as a model of collecti
 
 Moderator: Ricard Faura: Generalitat de Catalunya / Societat de Coneixement
 
-<br>
-Speakers:
+
+<br><br>Speakers:
 
 
 * Guillem Camprodon; Mara Balestrini: FabLab BCN
@@ -78,18 +76,16 @@ Speakers:
 
 * Xavier Pi: Embedded Systems Coordinator, Col·legi Oficial d'Enginyers Industrial de Catalunya
 
-<br>
 
-Where: FabLab BCN, Carrer de Pujades, 102, Barcelona
+
+<br><br>Where: FabLab BCN, Carrer de Pujades, 102, Barcelona
 
 When: Monday 16 Nov, from  18 - 20:00 hs
 
 Free access
 
 
-<br>
-
-<a target="_blank" href="http://thethingsnetwork.org/c/barcelona/post/49"><u>More info here.</u></a> 
+<br><br><a target="_blank" href="http://thethingsnetwork.org/c/barcelona/post/49"><u>More info here.</u></a> 
 
 
 
