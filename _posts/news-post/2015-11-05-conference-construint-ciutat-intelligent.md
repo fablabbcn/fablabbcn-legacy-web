@@ -27,15 +27,15 @@ Moderador: Ricard Faura: Generalitat de Catalunya / Societat de Coneixement
 <br><br>Ponents:
 
 
-* Guillem Camprodon; Mara Balestrini: FabLab BCN
+* -Guillem Camprodon; Mara Balestrini: FabLab BCN
 
-* Wouter Tebbens: impulsor Things Network Barcelona / president del Free Knowledge Institute
+* -Wouter Tebbens: impulsor Things Network Barcelona / president del Free Knowledge Institute
 
-* Marco Berlinguer: investigador IGOPnet, co-fundador Escola dels Comuns Barcelona
+* -Marco Berlinguer: investigador IGOPnet, co-fundador Escola dels Comuns Barcelona
 
-* Javi Creus: Ideas4change
+* -Javi Creus: Ideas4change
 
-* Xavier Pi: Coordinador Embedded Systems, Col·legi Oficial d'Enginyers Industrial de Catalunya
+* -Xavier Pi: Coordinador Embedded Systems, Col·legi Oficial d'Enginyers Industrial de Catalunya
 
 
 <br><br>On: FabLab BCN, Carrer de Pujades, 102, Barcelona
@@ -66,15 +66,15 @@ Moderator: Ricard Faura: Generalitat de Catalunya / Societat de Coneixement
 <br><br>Speakers:
 
 
-* Guillem Camprodon; Mara Balestrini: FabLab BCN
+* -Guillem Camprodon; Mara Balestrini: FabLab BCN
 
-* Wouter Tebbens: Things Network Barcelona promoter / President of the Free Knowledge Institute
+* -Wouter Tebbens: Things Network Barcelona promoter / President of the Free Knowledge Institute
 
-* Marco Berlinguer: IGOPnet researcher, co-founder of the Escola dels Comuns Barcelona
+* -Marco Berlinguer: IGOPnet researcher, co-founder of the Escola dels Comuns Barcelona
 
-* Javi Creus: Ideas4change
+* -Javi Creus: Ideas4change
 
-* Xavier Pi: Embedded Systems Coordinator, Col·legi Oficial d'Enginyers Industrial de Catalunya
+* -Xavier Pi: Embedded Systems Coordinator, Col·legi Oficial d'Enginyers Industrial de Catalunya
 
 
 
