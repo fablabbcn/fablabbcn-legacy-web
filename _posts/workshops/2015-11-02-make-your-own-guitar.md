@@ -50,12 +50,12 @@ Spain
 
 <br>
 ####FEE FOR PARTICIPANTS
-Option 1 = 250€
+Option 1 = 300€
 The course
 
 
 
-Option 2 = 300€
+Option 2 = 350€
 The course + components
 
 
