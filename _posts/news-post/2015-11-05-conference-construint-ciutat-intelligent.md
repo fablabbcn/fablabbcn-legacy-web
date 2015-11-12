@@ -25,6 +25,8 @@ Moderador: Ricard Faura: Generalitat de Catalunya / Societat de Coneixement
 <br>
 
 Ponents:
+
+
 * Guillem Camprodon; Mara Balestrini: FabLab BCN
 
 * Wouter Tebbens: impulsor Things Network Barcelona / president del Free Knowledge Institute
@@ -36,13 +38,19 @@ Ponents:
 * Xavier Pi: Coordinador Embedded Systems, Col·legi Oficial d'Enginyers Industrial de Catalunya
 
 <br>
+
+
 On: FabLab BCN, Carrer de Pujades, 102, Barcelona
 
 Quan: Dilluns 16 Nov, 18 - 20:00
 
 Accés gratuït
 <br>
+
+
 /////////////////////////////
+
+
 <br>
 For years people have been working to build smart cities by connecting sensors and actuators to the network. But we wonder what can we do to encourage technological independence and social autonomy.
 
@@ -55,6 +63,8 @@ Moderator: Ricard Faura: Generalitat de Catalunya / Societat de Coneixement
 
 <br>
 Speakers:
+
+
 * Guillem Camprodon; Mara Balestrini: FabLab BCN
 
 * Wouter Tebbens: Things Network Barcelona promoter / President of the Free Knowledge Institute
