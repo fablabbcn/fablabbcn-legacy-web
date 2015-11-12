@@ -14,14 +14,13 @@ category: Fabcity
 
 ####*Construint la Ciutat Intel·ligent des de baix: Ara és LoRa*
 
-Fa anys que s'està treballant per construir ciutats intel·ligents connectant sensors i actuadors a la xarxa. Ens preguntem però de quina manera ho podem fer per fomentar la independència tecnològica i l'autonomia social.
+Fa anys que s'està treballant per construir ciutats intel·ligents connectant sensors i actuadors a la xarxa. Ens preguntem però de quina manera ho podem fer per fomentar la independència tecnològica i l'autonomia social.<br>
 
-<br>L'estiu passat a Amsterdam un grup de ciutadans van col·locar 10 antenes d'una nova tecnologia de radio lliure (LoRa) per cobrir la ciutat amb una xarxa de dades d'accés lliure (denominada Things Network). Aquest model s'està replicant arreu del món i té el potencial de posar les bases d'una ciutat intel·ligent construïda des de baix i en mans de la
-ciutadania (commons).
+<br>L'estiu passat a Amsterdam un grup de ciutadans van col·locar 10 antenes d'una nova tecnologia de radio lliure (LoRa) per cobrir la ciutat amb una xarxa de dades d'accés lliure (denominada Things Network). Aquest model s'està replicant arreu del món i té el potencial de posar les bases d'una ciutat intel·ligent construïda des de baix i en mans de la ciutadania (commons).<br>
 
-<br>En aquesta jornada parlarem sobre els bens comuns com a model de governança col·lectiva, de la xarxa "Long Range" (LoRa) i el Things Network, de les possibilitats de desplegar-ho a Barcelona i Catalunya, de les oportunitats però també limitacions i riscs de l'Internet de les Coses, del paper transformador de l'Arduino i de com pensar en models de negoci dins d'ecosistemes sostenibles.
+<br>En aquesta jornada parlarem sobre els bens comuns com a model de governança col·lectiva, de la xarxa "Long Range" (LoRa) i el Things Network, de les possibilitats de desplegar-ho a Barcelona i Catalunya, de les oportunitats però també limitacions i riscs de l'Internet de les Coses, del paper transformador de l'Arduino i de com pensar en models de negoci dins d'ecosistemes sostenibles.<br>
 
-<br>Moderador: Ricard Faura: Generalitat de Catalunya / Societat de Coneixement
+<br>Moderador: Ricard Faura: Generalitat de Catalunya / Societat de Coneixement<br>
 
 
 <br>Ponents:
