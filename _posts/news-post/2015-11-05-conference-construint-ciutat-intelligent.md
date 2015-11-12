@@ -51,6 +51,9 @@ Accés gratuït
 /////////////////////////////
 
 
+####Building the Smart City from down to top: Now is the time
+
+
 <br>
 For years people have been working to build smart cities by connecting sensors and actuators to the network. But we wonder what can we do to encourage technological independence and social autonomy.
 
