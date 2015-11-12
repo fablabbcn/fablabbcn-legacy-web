@@ -4,8 +4,8 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/thethingsnetwork.jpg
 teaserlist: blog_loop_latest/thethingsnetwork.jpg
-title: Conference. Building the Smart City from down to top
-meta: Open conference around collective governance models of the "Long Range" network (LoRa) and the Things Network, the possibilities to deploy it in Barcelona and Catalonia, the limits and risks of the Internet of Things, the transforming role of Arduino and how to think about business models within sustainable ecosystems.
+title: Building the Smart City from down to top
+meta: Open CONFERENCE around collective governance models of the "Long Range" network (LoRa) and the Things Network, the possibilities to deploy it in Barcelona and Catalonia, the limits and risks of the Internet of Things, the transforming role of Arduino and how to think about business models within sustainable ecosystems.
 date: 12/11/2015
 category: Fabcity
 
