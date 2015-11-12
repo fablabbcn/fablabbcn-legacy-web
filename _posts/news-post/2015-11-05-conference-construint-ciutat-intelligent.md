@@ -4,7 +4,7 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/thethingsnetwork_thumb.png
 teaserlist: blog_loop_latest/thethingsnetwork_thumb.png
-title: Conferencia: Construint la Ciutat Intel·ligent des de baix // Building the Smart City from down to top
+title: Conferencia Construint la Ciutat Intel·ligent des de baix // Building the Smart City from down to top
 meta: Open conference around collective governance models of the "Long Range" network (LoRa) and the Things Network, the possibilities to deploy it in Barcelona and Catalonia, the limits and risks of the Internet of Things, the transforming role of Arduino and how to think about business models within sustainable ecosystems.
 date: 12/11/2015
 category: Fabcity
@@ -41,7 +41,8 @@ On: FabLab BCN, Carrer de Pujades, 102, Barcelona
 Quan: Dilluns 16 Nov, 18 - 20:00
 
 Accés gratuït
-
+<br>
+/////////////////////////////
 <br>
 For years people have been working to build smart cities by connecting sensors and actuators to the network. But we wonder what can we do to encourage technological independence and social autonomy.
 
@@ -66,9 +67,9 @@ Speakers:
 
 <br>
 
-Where: FabLab BCN Carrer de Pujades, 102, Barcelona
+Where: FabLab BCN, Carrer de Pujades, 102, Barcelona
 
-When: Monday 16 Nov 18 - 20:00
+When: Monday 16 Nov, from  18 - 20:00 hs
 
 Free access
 
