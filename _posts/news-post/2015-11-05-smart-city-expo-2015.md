@@ -11,6 +11,8 @@ date: 14/09/2015
 category: Fabcity
 
 ---
+<img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabcity_smartcityexpo.jpg">
+
 
 Fab Labs for citizen empowerment and urban innovation at the <a target="_blank" href="http://www.smartcityexpo.com/"><u>Smart City Expo</u></a> 
 
@@ -35,7 +37,7 @@ We will be participating in the following sub-events at the main venue of the <a
 <a target="_blank" href="http://www.smartcityexpo.com/"><u>More info here.</u></a> 
 
 
-<img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabcity.jpg">
+
 
 
 
