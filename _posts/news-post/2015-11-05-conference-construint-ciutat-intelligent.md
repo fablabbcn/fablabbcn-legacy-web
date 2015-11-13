@@ -11,6 +11,7 @@ category: Fabcity
 
 ---
 <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/thethingsnetwork.png">
+<img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/19503962930_a21904facc_z.jpg">
 
 ####*Construint la Ciutat Intel·ligent des de baix: Ara és LoRa*
 
@@ -37,7 +38,8 @@ Fa anys que s'està treballant per construir ciutats intel·ligents connectant s
 * -Xavier Pi: Coordinador Embedded Systems, Col·legi Oficial d'Enginyers Industrial de Catalunya
 
 
-<br>On: FabLab BCN, Carrer de Pujades, 102, Barcelona
+<br>On: FabLab BCN (Headquarters of <a target="_blank" href="http://www.smartcitizen.me"><u>Smart Citizen</u></a>)
+<br>Carrer de Pujades, 102, Barcelona
 
 Quan: Dilluns 16 Nov, 18 - 20:00
 
@@ -76,7 +78,8 @@ Citizens (commons).
 * -Xavier Pi: Embedded Systems Coordinator, Col·legi Oficial d'Enginyers Industrial de Catalunya
 
 
-<br>Where: FabLab BCN, Carrer de Pujades, 102, Barcelona
+<br>On: FabLab BCN (Headquarters of <a target="_blank" href="http://www.smartcitizen.me"><u>Smart Citizen</u></a>)
+<br>Carrer de Pujades, 102, Barcelona
 
 When: Monday 16 Nov, from  18 - 20:00 hs
 
