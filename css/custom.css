@@ -640,28 +640,10 @@ iframe {
 
 }
 
-/* ======= Media Queries ======== */
-
-@media (min-width: 992px) and (max-width: 1199px) { 
-
-#grid[data-columns]::before {
-		content: '3 .column.size-1of3';
-	}	
-	
-/* These are the classes that are going to be applied: */
-.column { float: left; }
-.size-1of3 { width: 100%; }
-
-
-.menu-item {
-	padding-bottom: 30px;
-}
-
-}
 
 /* =============== */ 
 
-@media(min-width: 668px) and (max-width: 991px) {
+@media (min-width: 668px) and (max-width: 991px) {
 	
 #grid[data-columns]::before {
 		content: '3 .column.size-1of3';
@@ -675,7 +657,7 @@ iframe {
 .menu-item {
 
 	padding-bottom: 30px;
-}
+    }
 
 } 
 
@@ -694,19 +676,42 @@ iframe {
 
 .menu-item {
 	padding-bottom: 30px;
-}
-
-#project-body {
-	padding: 0px 10px 0px 10px;
-	text-align: center;
-}
+    }
 
 }
 
 #project-body {
-	padding: 0px 190px 50px 190px;
+	padding: 0px 200px 50px 200px;
 	text-align: left;
 }
+
+@media (min-width: 1200px) {
+	#project-body {
+		padding: 0px 200px 50px 200px; 
+	}	
+}
+
+@media (min-width: 992px) and (max-width: 1199px) { 
+	#project-body {
+        padding: 0px 130px 50px 130px;
+    }	
+}
+
+
+@media (min-width: 668px) and (max-width: 991px) {
+	#project-body {
+        padding: 0px 50px 50px 50px;
+    }
+} 
+
+@media (min-width: 240px) and (max-width: 667px) { 
+
+    #project-body {
+	    padding: 0px 10px 0px 10px;
+	    text-align: center;
+    }
+}
+
 
 #project-body  img {
 	display: block;
@@ -719,7 +724,7 @@ iframe {
 
 #workshops-body {
 	font-size: 1.1em;
-	padding: 0px 190px 50px 190px;
+	padding: 0px 200px 50px 200px;
 	text-align: left;
 }
 
@@ -729,12 +734,31 @@ iframe {
     margin-right: auto;
 }
 
+@media (min-width: 1200px) {
+	#workshops-body {
+		padding: 0px 200px 50px 200px; 
+	}	
+}
+
+@media (min-width: 992px) and (max-width: 1199px) { 
+	#workshops-body {
+        padding: 0px 130px 50px 130px;
+        }	
+}
+
+
+@media (min-width: 668px) and (max-width: 991px) {
+	#workshops-body {
+        padding: 0px 50px 50px 50px;
+        }
+} 
+
 @media (min-width: 240px) and (max-width: 667px) { 
 
 #workshops-body {
 	padding: 0px 10px 0px 10px;
 	text-align: center;
-}
+    }
 }
 
 #workshops img {
