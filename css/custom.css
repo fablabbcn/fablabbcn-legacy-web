@@ -696,19 +696,59 @@ iframe {
 	padding-bottom: 30px;
 }
 
+#project-body {
+	padding: 0px 10px 0px 10px;
+	text-align: center;
+}
+
+}
+
+#project-body {
+	padding: 0px 150px 50px 150px;
+	text-align: left;
+}
+
+#project-body  img {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
 /* ====== Workshops ================================================ Workshops ============ */
+
+#workshops-body {
+	font-size: 1.1em;
+	padding: 0px 150px 50px 150px;
+	text-align: left;
+}
+
+#workshops-body img {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media (min-width: 240px) and (max-width: 667px) { 
+
+#workshops-body {
+	padding: 0px 10px 0px 10px;
+	text-align: center;
+}
+}
 
 #workshops img {
 	padding-bottom: 40px;
 }
 
 #workshops-description {
+	font-size: 1.1em;
 	padding-top: 10px;
 	padding-bottom: 60px;
 }
+
+
+
 
 .btn-success a,
 .btn-success a:hover {
@@ -1171,6 +1211,7 @@ iframe {
     text-shadow: none;
     color: black;
 }
+
 
 #google-maps {
 	width= 200px;
