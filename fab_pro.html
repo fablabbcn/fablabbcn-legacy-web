@@ -28,13 +28,72 @@ layout: default
 
 <!-- =============================================================================================================-->
 
+<section id="projects-menu"> 
+	<div class="container">
+			    
+		        <div id="grid" data-columns >		
+			                		         
+			        {% for post in site.posts limit: 500 %}
+	                {% if post.type == 'fabpro' %}    	 	            	            
+		        		            
+			            <div class="menu-item">
+				            
+				            <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/fabpro/{{post.fabproteaser}}" alt="fabpro"></a>
+		                
+		                    <h3><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>  
+			                
+			                <p>{{post.meta}}</p>
+			                
+			            </div> <!-- menu item --> 
+
+		           	            	        
+			        {% endif %}
+			        {% endfor %}
+		        
+	            </div> <!-- grid --> 
+	            
+	</div>  <!-- container --> 
+
+</section>	
+
+
+<!------------------------------------------------->
+<div class="container" id="separator"></div>
+<!-------------------------------------------------> 
+
+
 <section id="fab-pro">
    
+    <div class="continer" id="tech-assistance">
+	
+	        <h3>Technical assistance / Asistencia Técnica<br>
+	        <small>(Los precios de máquina incluyen la manipulación de material por nuestro personal y el uso de archivos finales)</small>
+        </h3>
+        
+        <br>
+        <p>Modelado 3D y preparación de archivos para producción: <strong>35 €/hora</strong></p></br>
+        <p>Impresión 3D post proceso de separación de la base y limpiado de superficie: <strong>20 €/Ud</strong></p>
+</br>
+<p>Para pedir presupuesto, porfavor enviar un correo explicando el proyecto a <a href="mailto:pro@fablabbcn.org"><u>pro@fablabbcn.org</u></a>. Adjuntar los ficheros del diseño, si los tiene, o imágenes y dibujos.</p>
+</br>
+<p>Los horarios de atención al público son Martes, Miércoles y Viernes de 16:00 a 19.30hs, <strong>UNICAMENTE CON CITA PREVIA.</strong> Pedir cita a <a href="mailto:pro@fablabbcn.org"><u>pro@fablabbcn.org</u></a>
+</p>
+</br>
+<a target="_blank" href="https://docs.google.com/spreadsheets/d/1QDix_FGf8ncrQtlRYnkU9QCP4PKaF5f84a-cW4SvKu8/edit"><u>Ver lista de proveedores de materiales aqui.</u></a>        
+        
+    </div> <!-- container -->
+    
+    
+<!------------------------------------------------->
+<div class="container" id="separator"></div>
+<!------------------------------------------------->   
+ 
    
     <div class="container" id="fab-pro-machine-list">
-<div class="container" id="fabpro intro">
+    <div class="container" id="fabpro intro">
 	<br>
-	<p>Si eres un estudiante o un profesional puedes venir a fabricar al Fab Lab Bcn; estas son las máquinas que puedes usar:</p></div>
+	<p>Si eres un estudiante o un profesional puedes venir a fabricar al Fab Lab Bcn; estas son las máquinas que puedes usar:</p>
+	</div>
 	<br> 	    
         <div class="row">
 	        	        
@@ -131,24 +190,7 @@ layout: default
 <!------------------------------------------------->
 
 
-<div class="continer" id="tech-assistance">
-	
-	        <h3>Technical assistance / Asistencia Técnica<br>
-	        <small>(Los precios de máquina incluyen la manipulación de material por nuestro personal y el uso de archivos finales)</small>
-        </h3>
-        
-        <br>
-        <p>Modelado 3D y preparación de archivos para producción: <strong>35 €/hora</strong></p></br>
-        <p>Impresión 3D post proceso de separación de la base y limpiado de superficie: <strong>20 €/Ud</strong></p>
-</br>
-<p>Para pedir presupuesto, porfavor enviar un correo explicando el proyecto a <a href="mailto:pro@fablabbcn.org"><u>pro@fablabbcn.org</u></a>. Adjuntar los ficheros del diseño, si los tiene, o imágenes y dibujos.</p>
-</br>
-<p>Los horarios de atención al público son Martes, Miércoles y Viernes de 16:00 a 19.30hs, <strong>UNICAMENTE CON CITA PREVIA.</strong> Pedir cita a <a href="mailto:pro@fablabbcn.org"><u>pro@fablabbcn.org</u></a>
-</p>
-</br>
-<a target="_blank" href="https://docs.google.com/spreadsheets/d/1QDix_FGf8ncrQtlRYnkU9QCP4PKaF5f84a-cW4SvKu8/edit"><u>Ver lista de proveedores de materiales aqui.</u></a>        
-        
-    </div> <!-- container -->
+
 </section> <!-- fab pro -->
 
 <!-- =============================================================================================================-->
