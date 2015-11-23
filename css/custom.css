@@ -402,7 +402,7 @@ iframe {
 
 
 #job-openings .row {
-	padding: 0 60px 50px 0px;
+	padding: 0px 30px 50px 30px;
 }
 
 #job-openings .col-md-6 {
@@ -1055,9 +1055,6 @@ iframe {
 	 height: 300px;  
 	
 }
-
-
-
 
 
 /* ============= media queries ========================================= media queries ======================= */
