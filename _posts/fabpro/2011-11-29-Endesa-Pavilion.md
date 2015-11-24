@@ -23,15 +23,15 @@ ENDESA Pavilion is a self-sufficient solar prototype installed at the Marina Doc
 
 <br>
 
-<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_condenser/endesa_pavillion-4.jpg">
+<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_pavillion/endesa_pavillion-4.jpg">
 
 <br>
 
-<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_condenser/endesa_pavillion-5.jpg">
+<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_pavillion/endesa_pavillion-5.jpg">
 
 <br>
 
-<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_condenser/endesa_pavillion-9.jpg">
+<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_pavillion/endesa_pavillion-9.jpg">
 
 <br>
 
@@ -39,11 +39,11 @@ The pavillion is actually the prototype of a multi-scale construction system. A 
 
 <br>
 
-<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_condenser/endesa_pavillion-10.jpg">
+<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_pavillion/endesa_pavillion-10.jpg">
 
 <br>
 
-<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_condenser/endesa_pavillion-7.jpg">
+<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_pavillion/endesa_pavillion-7.jpg">
 
 <br>
 
@@ -51,23 +51,23 @@ From follows function (classic XX century statement) to form follows energy. The
 
 <br>
 
-<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_condenser/endesa_pavillion-6.jpg">
+<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_pavillion/endesa_pavillion-6.jpg">
 
 <br>
 
-<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_condenser/endesa_pavillion-8.jpg">
+<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_pavillion/endesa_pavillion-8.jpg">
 
 <br>
 
-<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_condenser/endesa_pavillion-12.jpg">
+<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_pavillion/endesa_pavillion-12.jpg">
 
 <br>
 
-<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_condenser/endesa_pavillion-3.jpg">
+<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_pavillion/endesa_pavillion-3.jpg">
 
 <br>
 
-<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_condenser/endesa_pavillion-2.jpg">
+<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_pavillion/endesa_pavillion-2.jpg">
 
 <br>
 
