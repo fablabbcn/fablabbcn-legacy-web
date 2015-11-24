@@ -341,7 +341,32 @@ iframe {
 	
 }
 
+/* ====== Contact ==================================================== Contact ============ */
 
+#contact img {
+	padding-bottom: 40px;
+}
+
+#contact-col-txt-1 {
+	font-size: 1.2em;
+    padding-top: 10px;
+
+}
+
+#contact-col-txt-2 {
+	font-size: 1.2em;
+    padding-top: 0px;
+
+}
+
+#map-info {
+	padding: 30px 0;
+}
+
+#map-container { 
+	 height: 300px;  
+	
+}
 
 
 /* ==== Pages Layout ============================================================= Pages Layout =============== */ 
@@ -593,8 +618,8 @@ iframe {
 
 .carousel-caption {
 	display: block;
-    margin-left: 0px;
-    margin-right: 0px;
+    margin-left: auto;
+    margin-right: auto;
 	width: 260px;
 	padding-top: 0px;
 	font-weight: 500;
@@ -932,7 +957,7 @@ iframe {
 
 #workshops-body {
 	padding: 0px 10px 0px 10px;
-	text-align: center;
+	text-align: left;
     }
 }
 
@@ -1029,32 +1054,7 @@ iframe {
 	padding-left: 60px;
 }
 
-/* ====== Contact ==================================================== Contact ============ */
 
-#contact img {
-	padding-bottom: 40px;
-}
-
-#contact-col-txt-1 {
-	font-size: 1.2em;
-    padding-top: 10px;
-
-}
-
-#contact-col-txt-2 {
-	font-size: 1.2em;
-    padding-top: 0px;
-
-}
-
-#map-info {
-	padding: 30px 0;
-}
-
-#map-container { 
-	 height: 300px;  
-	
-}
 
 
 /* ============= media queries ========================================= media queries ======================= */
@@ -1157,7 +1157,7 @@ header {
 }
 
 .container {
-    padding: 0px 20px;
+    padding: 0px 10px;
 }
 
 .navbar-brand {
