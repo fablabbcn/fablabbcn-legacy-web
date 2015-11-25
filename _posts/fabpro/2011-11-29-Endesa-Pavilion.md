@@ -6,7 +6,6 @@ title: Endesa Pavillion
 meta: "ENDESA Pavilion is a self-sufficient solar prototype installed at the Marina Dock, within the framework of the International BCN Smart City Congress."
 author: Fab Lab BCN
 date: 2011-11-29
-
 ---
 
 <br>
