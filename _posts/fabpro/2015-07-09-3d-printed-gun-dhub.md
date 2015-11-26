@@ -2,7 +2,7 @@
 layout: fabpro_post
 type: fabpro
 fabproteaser: fabpro_loop/3d_gun_dhub.jpg
-title: 3D printed gun @ DHuB
+title: 3D printed gun @ dhub
 meta: "Fab Lab Barcelona has been invited to participate in this international collective show in which designers, artists and architects were challenged to transcend categories and conventions to explore unrecognized ways to make and design, to disrupt systems and processes."
 author: Fab Lab BCN
 date: 2015-07-09
