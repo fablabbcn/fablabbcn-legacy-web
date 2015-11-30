@@ -617,9 +617,13 @@ iframe {
 } 
 
 .carousel-caption {
-	display: block;
-    margin-left: auto;
-    margin-right: auto;
+	position: absolute;
+        top: 10%;
+        left: 15%;
+        margin-right: 10%;
+        transform: translate(-10%, -10%)
+	
+	
 	width: 260px;
 	padding-top: 0px;
 	font-weight: 500;
