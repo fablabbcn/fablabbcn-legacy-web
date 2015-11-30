@@ -599,12 +599,12 @@ iframe {
 	
 	
 	#carousel-container {
-	padding-top: 50px;
+	padding-top: 40px;
 	padding-bottom: 0px;
-	height: 430px;
+	height: 400px;
 	background-image: url('../img/hero_slider/a_slider_1.jpg');
 	background-repeat: no-repeat;
-	background-position: -210px;
+	background-position: center center;
 	background-size: 800px;
 }
 
@@ -629,7 +629,7 @@ iframe {
 }
 
 .carousel-caption li a {
-	font-size: 0.8em;
+	font-size: 0.9em;
 	list-style: none;
 }
 
