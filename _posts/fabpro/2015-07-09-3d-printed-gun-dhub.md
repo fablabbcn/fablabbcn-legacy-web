@@ -25,7 +25,7 @@ The lower receiver was designed by Ben Denio and Cody Wilson, founders of <a hr
 
 <br>
 
-<a href="http://old.fablabbcn.org/wp-content/uploads/2015/07/IMG_9866-Medium.jpg"><img class="  wp-image-6590 alignnone" src="http://old.fablabbcn.org/wp-content/uploads/2015/07/IMG_9866-Medium.jpg" alt="IMG_9866 (Medium)" width="736" height="561" /></a>
+<img src="http://old.fablabbcn.org/wp-content/uploads/2015/07/IMG_9866-Medium.jpg" alt="IMG_9866 (Medium)" width="900" /></a>
 <em>Image: Gun's lower receiver, fabricated by Fab Lab Barcelona</em>
 
 <br>
@@ -34,16 +34,15 @@ The rest of the gun was designed and fabricated by Ingi Freyr Gudjonsson, from 
 
 <br>
 
-<a href="http://old.fablabbcn.org/wp-content/uploads/2015/07/3-proposals-sel-Small1.jpg"><img class="  wp-image-6598 alignnone" src="http://old.fablabbcn.org/wp-content/uploads/2015/07/3-proposals-sel-Small1.jpg" alt="3 proposals sel (Small)))" width="742" height="150" /></a><em>Image: gun's renders, designed by Ingi Gudjonsson </em>
+<img src="http://old.fablabbcn.org/wp-content/uploads/2015/07/3-proposals-sel-Small1.jpg" alt="3 proposals sel (Small)))" width="900"/><em>Image: gun's renders, designed by Ingi Gudjonsson </em>
 
 <br>
 
-<a href="http://old.fablabbcn.org/wp-content/uploads/2015/07/IMG_9866-Medium.jpg">
-</a><a href="http://old.fablabbcn.org/wp-content/uploads/2015/07/1-selected-Medium.jpg"><img class="  wp-image-6614 alignnone" src="http://old.fablabbcn.org/wp-content/uploads/2015/07/1-selected-Medium.jpg" alt="1 selected (Medium)" width="819" height="559" /></a>
+<img src="http://old.fablabbcn.org/wp-content/uploads/2015/07/1-selected-Medium.jpg" alt="1 selected (Medium)" width="900" />
 
 <br>
 
-<a href="http://old.fablabbcn.org/wp-content/uploads/2015/07/gunn-Small.jpg"><img class="  wp-image-6595 alignnone" src="http://old.fablabbcn.org/wp-content/uploads/2015/07/gunn-Small.jpg" alt="gunn (Small)" width="726" height="244" /></a><em>Image: printed gun, designed and fabricated by Ingi Gudjonsson </em>
+<img src="http://old.fablabbcn.org/wp-content/uploads/2015/07/gunn-Small.jpg" alt="gunn (Small)" width="900" /><em>Image: printed gun, designed and fabricated by Ingi Gudjonsson </em>
 
 <br>
 
@@ -55,7 +54,7 @@ So, we'll keep 3D printing, but I guess we'll play with something else...
 
 <br>
 
-<a href="http://old.fablabbcn.org/wp-content/uploads/2015/07/gunnnn-Small.jpg"><img class="  wp-image-6596 alignnone" src="http://old.fablabbcn.org/wp-content/uploads/2015/07/gunnnn-Small.jpg" alt="gunnnn (Small)" width="728" height="349" /></a><em>Image: ...playing with plastic guns</em>
+<img src="http://old.fablabbcn.org/wp-content/uploads/2015/07/gunnnn-Small.jpg" alt="gunnnn (Small)" width="900"  /><em>Image: ...playing with plastic guns</em>
 
 <br>
 
@@ -63,4 +62,4 @@ Exhibition credits:
 
 <br>
 
-<a href="http://old.fablabbcn.org/wp-content/uploads/2015/07/8-selected.jpg"><img class="  wp-image-6615 alignnone" src="http://old.fablabbcn.org/wp-content/uploads/2015/07/8-selected.jpg" alt="8 selected" width="457" height="641" /></a>
+<img src="http://old.fablabbcn.org/wp-content/uploads/2015/07/8-selected.jpg" alt="8 selected" width="900" />
