@@ -1,72 +1,72 @@
 ---
 layout: fabpro_post
 type: fabpro
-fabproteaser: fabpro_loop/endesa_pavillion.jpg
-title: Endesa Pavillion
-meta: "ENDESA Pavilion is a self-sufficient solar prototype installed at the Marina Dock, within the framework of the International BCN Smart City Congress."
+fabproteaser: fabpro_loop/leka_furniture.jpg
+title: LEKA furniture
+meta: "Open source furniture for LEKA restaurant."
 author: Fab Lab BCN
-date: 2011-11-29
+date: 2015-12-03
 ---
 
 <br>
 
-Endesa Pavilion
+####Joints
 
 <br>
 
-####Smart Cities control room
+All the furniture has been designed with the same system of joints: pressfit system without the use of screws or glue.
 
 <br>
 
-ENDESA Pavilion is a self-sufficient solar prototype installed at the Marina Dock, within the framework of the International BCN Smart City Congress. Over a period of one year it will be used as control room for monitoring and testing several projects related to intelligent power management.
+<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/img01.jpg.jpg">
+
 
 <br>
 
-<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_pavillion/endesa_pavillion-4.jpg">
+####Chair
 
 <br>
 
-<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_pavillion/endesa_pavillion-5.jpg">
+Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.
 
 <br>
 
-<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_pavillion/endesa_pavillion-9.jpg">
+<!----- Image Slider ----------------------------- Image Slider -------------->
+
+
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+
+<!--------------- Wrapper for slides --------------->
+
+  <div class="carousel-inner" role="listbox">
+   
+    <div class="item active">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/chair01.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/chair02.jpg" />
+    </div>
+
+
+  </div>
+
+<!-------------------- Controls --------------------->
+
+  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+<!----- Image Slider ----------------------------- Image Slider -------------->
+
 
 <br>
 
-The pavillion is actually the prototype of a multi-scale construction system. A facade composed by modular components, like solar brick, that respond to photovoltaic gaining, solar protection, insulation, ventilation, lighting ... The same parametric logic adapt faÁade geometries to the specific environmental requirements for each point of the building. It is is a single component that integrates all levels of intelligence that the building needs.
 
-<br>
-
-<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_pavillion/endesa_pavillion-10.jpg">
-
-<br>
-
-<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_pavillion/endesa_pavillion-7.jpg">
-
-<br>
-
-From follows function (classic XX century statement) to form follows energy. The facade opens reacting to the solar path, being active and becoming permeable towards south, while becoming closed and protective towards north. The behavior of this skin makes visible the environmental and climatic processes that surrounds the prototype.
-
-<br>
-
-<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_pavillion/endesa_pavillion-6.jpg">
-
-<br>
-
-<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_pavillion/endesa_pavillion-8.jpg">
-
-<br>
-
-<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_pavillion/endesa_pavillion-12.jpg">
-
-<br>
-
-<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_pavillion/endesa_pavillion-3.jpg">
-
-<br>
-
-<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_pavillion/endesa_pavillion-2.jpg">
-
-<br>
 
