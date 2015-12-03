@@ -20,8 +20,12 @@ All the furniture has been designed with the same system of joints: pressfit sys
 
 <br>
 
+<br>
+
 <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/img01.jpg">
 
+
+<br>
 
 <br>
 
