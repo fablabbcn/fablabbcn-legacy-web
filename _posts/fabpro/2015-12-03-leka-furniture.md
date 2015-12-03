@@ -10,6 +10,8 @@ date: 2015-12-03
 
 <br>
 
+<br>
+
 ####Joints
 
 <br>
@@ -28,6 +30,8 @@ All the furniture has been designed with the same system of joints: pressfit sys
 <br>
 
 Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.
+
+<br>
 
 <br>
 
