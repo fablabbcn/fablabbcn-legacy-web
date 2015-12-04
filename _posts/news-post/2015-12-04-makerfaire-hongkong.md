@@ -66,6 +66,9 @@ Participants where introduced to parametric design and laser cutting on soft mat
     <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong kong-12.jpg" />
     </div>
+      <div class="item">
+      <img src="http://static1.squarespace.com/static/55c1e26ee4b09ad05fa39502/564f5feae4b07f88bd50301e/564f5feae4b0e21822e99981/1448042479623/hongkongparticipatory.jpg?format=1000w" />
+    </div>
  
   </div>
 
@@ -82,10 +85,6 @@ Participants where introduced to parametric design and laser cutting on soft mat
 </div>
 
 <!----- Image Slider ----------------------------- Image Slider -------------->
-
-<br>
-
-<iframe src="https://player.vimeo.com/video/59825472" width="900" height="506" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <br>
 
