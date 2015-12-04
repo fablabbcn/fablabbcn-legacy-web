@@ -14,12 +14,13 @@ date: 2015-12-03
 <br>
 
 ####Joints
-<br>
+
 
 All the furniture has been designed with the same system of joints: pressfit system without the use of screws or glue.
 
 <br>
 
+<br>
 <br>
 
 <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/img01.jpg">
@@ -30,12 +31,14 @@ All the furniture has been designed with the same system of joints: pressfit sys
 <br>
 <br>
 <br>
+<br>
 
 ####Chair
 
-<br>
+
 Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.
 
+<br>
 <br>
 
 <br>
