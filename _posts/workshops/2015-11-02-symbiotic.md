@@ -2,7 +2,7 @@
 
 layout: workshop_post
 type: workshop
-workshopteaser: workshops_loop/151007_symbiotic_associations.jpg
+workshopteaser: workshops_loop/_dsc4511.jpg
 title:  Associations // March  2016
 meta: "asdasdasdlknasldnansdnansdlkna asdjaskdnanskdna janskdjnaksndka"
 author: Fab Lab BCN
