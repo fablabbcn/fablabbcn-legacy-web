@@ -2,65 +2,92 @@
 
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/123456.jpg
-teaserlist: blog_loop_latest/123456.jpg
-title: NEW WORKSHOP SERIES // 2015-2016
-meta: Join us at Fab Lab Barcelona for the next weekend workshop series. Learn how to make stuff, to hack stuff, to interact with stuff and to design the environment that surrounds you.
-author: Luciana Asinari
-date: 05/11/2015
-category: video
+teaserlatest: makerfaire_hongkong/makerfaire-hong kong-0.jpg
+teaserlist: makerfaire_hongkong/makerfaire-hong kong-0.jpg
+title: Fab Textiles @ MakerFaire Hong Kong // 2015-2016
+meta: "Fab Textiles was invited to participate at Maker Faire Hong Kong and organized a workshop of a participatory laser cut carpet on the 28th and 29th of November at PolyU University"
+author: Anastasia Pistofidou
+date: 04/12/2015
+category: fabtextiles
 
 
 ---
-<img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/poster-talleres-fablabbcn_2015-16.jpg">
+<br>
+<img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong kong-1.jpg">
+<br>
+#### MakerFaire Hong Kong - Workshop of Participatory Laser Cut Carpet by FabTextiles
+
+Participants where introduced to parametric design and laser cutting on soft material. In this session the participants created different variations of a module that interlocks, aggregates and populates and they have learned the possibilities of digital design . The ages were from 8 to 50 years old and most of them had no previous experience with digital fabrication . The activity resulted to be very creative since the modular system gave them the opportunity to create multiple and different 2d or 3d structures . Soft fabrication is one of the most successful approaches of introducing digital fabrication to a wider public since its is light , fast in production and uses materials that are in our everyday life , such as our clothing .
+
+<br>
+ <!----- Image Slider ----------------------------- Image Slider -------------->
 
 
-21-22 November: <a target="_blank" href="http://fablabbcn.org/workshop/2015/05/05/furniture_hack.html"><u>Furniture Hacking</u></a> (@Fab Lab Barcelona)
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+
+<!--------------- Wrapper for slides --------------->
+
+  <div class="carousel-inner" role="listbox">
+   
+    <div class="item active">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong kong-10.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong kong-1.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong kong-2.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong kong-3.jpg" />
+    </div>
+ <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong kong-4.jpg" />
+    </div>
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong kong-5.jpg" />
+    </div>
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong kong-6.jpg" />
+    </div>
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong kong-7.jpg" />
+    </div>
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong kong-8.jpg" />
+    </div>
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong kong-9.jpg" />
+    </div>
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong kong-11.jpg" />
+    </div>
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong kong-12.jpg" />
+    </div>
+ 
+  </div>
+
+<!-------------------- Controls --------------------->
+
+  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+<!----- Image Slider ----------------------------- Image Slider -------------->
+
+
 
 <br>
 
-27-29 November: <a target="_blank" href="http://fablabbcn.org/workshop/2015/05/10/recursions.html"><u>Recursions</u></a> (@Green Fab Lab)
-
-<br>
-
-23-24 January: <a target="_blank" href="http://fablabbcn.org/workshop/2015/05/15/make-your-own-guitar.html"><u>Guitar Making</u></a> (@Fab Lab Barcelona)
-
-<br>
-
-05-07 February: <a target="_blank" href="http://fablabbcn.org/workshop/2015/05/20/nero.html"><u>Nero</u></a> (@Green Fab Lab)
-
-<br>
-
-10-14 February: <a target="_blank" href="http://fablabbcn.org/workshop/2015/05/25/ephemeral-arts%20connection.html"><u>Ephemeral Arts Connection</u></a> (@Fab Lab Barcelona)
-
-<br>
-
-20-21 February: <a target="_blank" href="http://fablabbcn.org/workshop/2015/05/29/make-i-map-it.html"><u>Make it, Map it</u></a> (@Fab Lab Barcelona)
-
-<br>
-
-27-28 February: <a target="_blank" href="http://fablabbcn.org/workshop/2015/06/05/fab-textiles.html"><u>Fab Textiles</u></a> (@Fab Lab Barcelona)
-
-<br>
-
-05-06 March: <a target="_blank" href="http://fablabbcn.org/workshop/2015/06/08/making-things-talk-2016.html"><u>Making thinks talk: Inputs and Outputs</u></a> (@Fab Lab Barcelona)
-
-<br>
-
-18-20 March: <a target="_blank" href="http://fablabbcn.org/workshop/2015/06/09/symbiotic.html"><u>Symbiotic Associations</u></a> (@Green Fab Lab)
-
-<br>
-
-02-03 April: <a target="_blank" href="http://fablabbcn.org/workshop/2015/06/15/3d-printing-scanning.html"><u>3D Printing & Scanning</u></a> (@Fab Lab Barcelona)
-
-<br>
-
-09-10 April: <a target="_blank" href="http://fablabbcn.org/workshop/2015/06/20/ceramics.html"><u>Digital Molding Ceramics</u></a> (@Fab Lab Barcelona)
-
-<br>More information <a target="_blank" href="http://fablabbcn.org/workshops.html"><u>HERE</u></a>.
-
-<br>Or contact us: info@fablabbcn.org
-
-####<br><a target="_blank" href="http://fablab.fikket.es/"><u> REGISTER HERE</u></a>
 
 
