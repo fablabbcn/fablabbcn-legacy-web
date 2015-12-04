@@ -128,23 +128,15 @@ Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidu
     <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/table02.jpg" />
     </div>
-
-  <div class="item">
+    
+    <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/table03.jpg" />
     </div>
     
-      <div class="item">
+    <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/table04.jpg" />
     </div>
-    
-      <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/table05.jpg" />
-    </div>
-       <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/table06.jpg" />
-    </div>
-    
-  
+ 
   </div>
 
 <!-------------------- Controls --------------------->
@@ -159,16 +151,7 @@ Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidu
   </a>
 </div>
 
-
-
 <!----- Image Slider ----------------------------- Image Slider -------------->
-
-
-<br>
-<br>
-<br>
-<br>
-
 
 
 
