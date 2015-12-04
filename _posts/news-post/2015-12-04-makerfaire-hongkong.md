@@ -2,8 +2,8 @@
 
 layout: blog_post
 type: blog
-teaserlatest: makerfaire_hongkong/makerfaire-hong kong-0.jpg
-teaserlist: makerfaire_hongkong/makerfaire-hong kong-0.jpg
+teaserlatest: makerfaire_hongkong/makerfaire-hong-kong-square.jpg
+teaserlist: makerfaire_hongkong/makerfaire-hong-kong-square.jpg
 title: Fab Textiles @ MakerFaire Hong Kong // 2015-2016
 meta: "Fab Textiles was invited to participate at Maker Faire Hong Kong and organized a workshop of a participatory laser cut carpet on the 28th and 29th of November at PolyU University"
 author: Anastasia Pistofidou
