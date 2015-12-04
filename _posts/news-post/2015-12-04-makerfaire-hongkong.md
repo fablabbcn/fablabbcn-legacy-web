@@ -20,8 +20,6 @@ category: fabtextiles
 Participants where introduced to parametric design and laser cutting on soft material. In this session the participants created different variations of a module that interlocks, aggregates and populates and they have learned the possibilities of digital design . The ages were from 8 to 50 years old and most of them had no previous experience with digital fabrication . The activity resulted to be very creative since the modular system gave them the opportunity to create multiple and different 2d or 3d structures . Soft fabrication is one of the most successful approaches of introducing digital fabrication to a wider public since its is light , fast in production and uses materials that are in our everyday life , such as our clothing .
 
 <br>
- <!----- Image Slider ----------------------------- Image Slider -------------->
-
 
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 
