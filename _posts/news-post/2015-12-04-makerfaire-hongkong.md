@@ -63,7 +63,7 @@ Participants where introduced to parametric design and laser cutting on soft mat
       <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong kong-9.jpg" />
     </div>
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong kong-11.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong-kong-11.jpg" />
     </div>
     <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong kong-12.jpg" />
