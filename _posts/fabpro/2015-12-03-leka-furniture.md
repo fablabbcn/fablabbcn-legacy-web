@@ -64,13 +64,10 @@ Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidu
     </div>
     
       <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/chair05.jpg" />
-    </div>
-    
-        <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/chair06.jpg" />
     </div>
-
+    
+  
   </div>
 
 <!-------------------- Controls --------------------->
