@@ -83,7 +83,9 @@ Participants where introduced to parametric design and laser cutting on soft mat
 
 <!----- Image Slider ----------------------------- Image Slider -------------->
 
+<br>
 
+<iframe src="https://player.vimeo.com/video/59825472" width="900" height="506" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <br>
 
