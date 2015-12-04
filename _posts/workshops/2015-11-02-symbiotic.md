@@ -13,14 +13,15 @@ category: workshop
 
 <br>
 
-SYMBIOTIC ASSOCIATIONS: INTRODUCTION
-
-
+###INTRODUCTION
 
 As a species, humans are adept at inventing toxins yet equally inept at eliminating them from our environment. Due to current trends, our exposure to dangerous chemicals increases with time as our environment becomes more polluted.
+As a species, humans are adept at inventing toxins yet equally inept at eliminating them from our environment. Due to current trends, our exposure to dangerous chemicals increases with time as our environment becomes more polluted.As a species, humans are adept at inventing toxins yet equally inept at eliminating them from our environment. Due to current trends, our exposure to dangerous chemicals increases with time as our environment becomes more polluted.
+<br>
+polluted.As a species, humans are adept at inventing toxins yet equally inept at eliminating them from our environment. Due to current trends, our exposure to dangerous chemicals increases with time as our environment becomes more polluted.
+<br>
 
-
-
+<img src="{{site.baseurl}}{{ site.url }}/img workshops arduino_workshop 1.jpg">
 
 
 <br>
