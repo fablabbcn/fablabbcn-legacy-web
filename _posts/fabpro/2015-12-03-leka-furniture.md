@@ -152,6 +152,10 @@ Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidu
       <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/table12.jpg" />
     </div>
+    
+      <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/table13.jpg" />
+    </div>
  
   </div>
 
