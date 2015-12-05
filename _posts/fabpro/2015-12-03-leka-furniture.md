@@ -252,7 +252,7 @@ Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidu
 <!----- Image Slider ----------------------------- Image Slider -------------->
 
 
-<div id="carousel-example-generic2" class="carousel slide" data-ride="carousel">
+<div id="carousel-example-generic3" class="carousel slide" data-ride="carousel">
 
 <!--------------- Wrapper for slides --------------->
 
@@ -279,7 +279,7 @@ Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidu
 
 <!-------------------- Controls --------------------->
 
-  <a class="left carousel-control" href="#carousel-example-generic2" role="button" data-slide="prev">
+  <a class="left carousel-control" href="#carousel-example-generic3" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
