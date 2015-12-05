@@ -259,19 +259,19 @@ Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidu
   <div class="carousel-inner" role="listbox">
    
     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/table07.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/hightable01.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/table08.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/hightable02.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/table09.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/hightable03.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/table10.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/hightable04.jpg" />
     </div>
     
  
