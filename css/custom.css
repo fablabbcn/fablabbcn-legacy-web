@@ -331,7 +331,11 @@ iframe {
 	white-space: nowrap; 
 	width: auto;}
 	
-#mc_embed_signup .button:hover {background-color:#2fb5b2;}
+#mc_embed_signup .button:hover {
+	background-color:#2fb5b2;
+	
+}
+
 #mc_embed_signup .small-meta {font-size: 11px;}
 #mc_embed_signup .nowrap {white-space:nowrap;}
 
@@ -650,7 +654,7 @@ iframe {
     margin-right: auto;
     padding: 0px;
     font-weight: 500;
-    bottom: 180px;
+    bottom: 130px;
     font-size: 1.4em;
     text-shadow: none;
     color: white;
