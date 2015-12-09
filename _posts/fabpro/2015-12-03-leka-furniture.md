@@ -3,7 +3,7 @@ layout: fabpro_post
 type: fabpro
 fabproteaser: fabpro_loop/leka_furniture.jpg
 title: LEKA furniture
-meta: "Open source furniture for  <a href="http://www.restauranteleka.com" target="_blank">LEKA Restaurant</a> "
+meta: "Open source furniture for LEKA Restaurant"
 author: Fab Lab BCN
 date: 2015-12-03
 ---
@@ -11,6 +11,9 @@ date: 2015-12-03
 <br>
 <br>
 
+<br>
+More info at  <a href="http://www.restauranteleka.com" target="_blank">LEKA Restaurant web</a> 
+<br>
 <br>
 
 ####Modularity
