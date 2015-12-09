@@ -25,9 +25,7 @@ Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidu
 
 <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/modularity.gif">
 
-<br>
-<br>
-<br>
+
 <br>
 <br>
 <br>
