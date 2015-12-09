@@ -12,7 +12,7 @@ date: 2015-12-03
 <br>
 
 <br>
-More info at  <a href="http://www.restauranteleka.com" target="_blank">LEKA Restaurant web</a> 
+More info at <a href="http://www.restauranteleka.com" target="_blank">LEKA Restaurant web</a>
 <br>
 <br>
 
