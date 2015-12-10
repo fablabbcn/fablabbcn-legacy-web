@@ -1,5 +1,5 @@
 ---
-layout: project_post
+layout: project_ post
 type: project
 projectimg: projects_loop/ft_dresselate.jpg
 title: Fab Textiles - Dresselate
