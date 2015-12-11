@@ -2,13 +2,12 @@
 layout: fabpro_post
 type: fabpro
 fabproteaser: fabpro_loop/3d_gun_dhub.jpg
-title: Carrousel
-meta: "Carrousel test"
+title: Pentrix
+meta: "Hemos fabricado una serie de mesas para la exposición ya inaugurada el 19 de Junio con motivo del cierre del máster de este año y donde se pueden ver algunos de los trabajos de los estudiantes."
 author: Fab Lab BCN
-date: 2015-07-09
+date: 2012-06-26
 ---
 <br>
-
 
 <!----- Image Slider ----------------------------- Image Slider -------------->
 
@@ -53,8 +52,13 @@ date: 2015-07-09
 
 <br>
 
-From June 30th to October 31st, DHUB <a href="https://www.google.es/maps/place/FAD.+Foment+de+les+Arts+i+del+Disseny/@41.402569,2.188104,17z/data=!3m1!4b1!4m6!1m3!3m2!1s0x0000000000000000:0x42579be23f1ad740!2sFAD.+Foment+de+les+Arts+i+del+Disseny!3m1!1s0x0000000000000000:0x42579be23f1ad740?hl=es" target="_blank">Disseny Hub Barcelona</a> will host the "<a href="http://fadfest.cat/website/exposicio-fora-de-lloc-2/?lang=en">Out of Place</a>" Exhibition, produced by <a href="http://www.fad.cat/">FAD</a>, in the context of yearly show <a href="http://fadfest.cat/website/?lang=en">FAD Fest</a>.
+El concepto se basa en una composición irregular formada por pentágonos (parte superior de cada mesa) que se apoyan en tres puntos. Esta composición es rica en número de  agrupaciones posibles. Geométricamente es un ejercicio en el que se construye un pentágono a base de triangulaciones con los puntos de apoyo. Los planos que forman estas triangulaciones son el soporte, sin requerir ninguna estructura extra. Por lo tanto, la Mesa Pentrix es el paso de pentágono a triángulo mediante la fabricación con la Precix.
 
 <br>
 
+Diseño y fabricación: Miguel Guerrero Píñar (con la ayuda de muchos).
+
+<br>
+
+http://old.fablabbcn.org/wp-content/uploads/2012/06/00_GrassCompo.jpg
 

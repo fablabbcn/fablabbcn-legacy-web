@@ -714,9 +714,9 @@ iframe {
 	
 	#carousel-container {
 	padding-top: 40px;
-	padding-bottom: 0px;
-	height: 400px;
-	background-image: url('../img/hero_slider/a_slider_1.jpg');
+	margin-bottom: 20px;
+	height: 350px;
+	background-image: url('../img/hero_slider/a_slider_5.jpg');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: 800px;
@@ -735,7 +735,7 @@ iframe {
 	width: 250px;
 	padding-top: 0px;
 	font-weight: 500;
-	top: 60px;
+	top: 40px;
 	font-size: 1.2em;
 
 }
