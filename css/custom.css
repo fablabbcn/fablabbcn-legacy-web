@@ -731,10 +731,8 @@ iframe {
 } 
 
 .carousel-caption {
-	display: block;
-    margin-left: auto;
-    margin-right: auto;	
-	width: 260px;
+	display: block;	
+	width: 250px;
 	padding-top: 0px;
 	font-weight: 500;
 	top: 60px;
@@ -743,12 +741,12 @@ iframe {
 }
 
 .carousel-caption li a {
-	font-size: 0.9em;
+	font-size: 0.7em;
 	list-style: none;
 }
 
 #job-openings .col-md-6 {
-	padding: 0px 15px 0px 0px;
+	padding: 0px 20px 0px 20px;
 }
 
 	
@@ -1274,7 +1272,7 @@ header {
 
 
 .container {
-    padding: 0px;
+    padding: 0 15px 0 15px;
 }
 
 .navbar-brand {
