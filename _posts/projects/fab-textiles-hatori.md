@@ -1,8 +1,8 @@
 ---
-layout: project_ post
+layout: project_post
 type: project
 projectimg: projects_loop/ft_dresselate.jpg
-title: Fab Textiles - Dresselate
+title: Fab Textiles - hatori
 meta: Dressellate explores folding techniques by transforming a 2D pattern and a piece of fabric, into a 3D volume. The prototype, made from thin plastic sheets is a study of the volumetry of the body. The final piece is a double sided organic fabric covered with a natural resin that provides rigidness.
 author: Fab Lab BCN
 date: 0000-01-02
