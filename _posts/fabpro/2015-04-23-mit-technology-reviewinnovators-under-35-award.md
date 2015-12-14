@@ -9,15 +9,15 @@ date: 2015-04-23
 ---
 <br>
 
-<a href="http://old.fablabbcn.org/wp-content/uploads/2015/04/mit-fab-lab-2.jpg"><img src="http://old.fablabbcn.org/wp-content/uploads/2015/04/mit-fab-lab-2.jpg" /></a> 
-
-<br>
-
-Have a look of the awarded innovators <a href="http://www.innovatorsunder35.com/innovators-under-35-france" target="_blank">HERE!</a>
+<iframe src="https://player.vimeo.com/video/126390313" width="900" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <br>
 
 We developed different design proposals for a Trophy to nominate young creators. The idea was to have an interactive award which when you rotate, it lights up, like a good idea.
+
+<br>
+
+<img src="http://old.fablabbcn.org/wp-content/uploads/2015/04/mit-fab-lab-1.jpg" />
 
 <br>
 
@@ -29,15 +29,12 @@ Designed and fabricated by: <strong>Ingi Freyr Gudjohnsson</strong>
 
 <br>
 
-<a href="http://old.fablabbcn.org/wp-content/uploads/2015/04/mit-fab-lab-3.jpg"><img src="http://old.fablabbcn.org/wp-content/uploads/2015/04/mit-fab-lab-3.jpg" /></a>
+<img src="http://old.fablabbcn.org/wp-content/uploads/2015/04/mit-fab-lab-2.jpg" />
 
 <br>
 
-<iframe src="https://player.vimeo.com/video/126390313" width="600" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<img src="http://old.fablabbcn.org/wp-content/uploads/2015/04/mit-fab-lab-4.jpg"/>
 
 <br>
 
-<a href="http://old.fablabbcn.org/wp-content/uploads/2015/04/mit-fab-lab-4.jpg"><img src="http://old.fablabbcn.org/wp-content/uploads/2015/04/mit-fab-lab-4.jpg"/></a>
-
-<br>
-
+####Take a look at awarded innovators [HERE!](http://www.innovatorsunder35.com/innovators-under-35-france)
