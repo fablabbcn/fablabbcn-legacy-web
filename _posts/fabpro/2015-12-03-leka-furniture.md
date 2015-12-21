@@ -18,7 +18,7 @@ More info at <a href="http://www.restauranteleka.com" target="_blank">LEKA Resta
 ####Modularity
 
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.
+El mobiliario está concebido como una familia. Su geometría está inspirada en las triangulaciones del proyecto y se adapta a los requisitos de diseño de cada mueble; pensados para tener múltiples combinaciones según la configuración cambiante del restaurante.
 
 
 <br>
@@ -33,7 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidu
 ####Joints
 
 
-All the furniture has been designed with the same system of joints: pressfit system without the use of screws or glue.
+La construcción de los diferentes muebles se realiza con la misma técnica: un diseño común en la unión entre piezas. Esta unión proporciona la rigidez necesaria para soportar el continuo movimiento del restaurante y permitir un montaje rápido.  
 
 <br>
 
@@ -53,7 +53,7 @@ All the furniture has been designed with the same system of joints: pressfit sys
 ####Chair
 
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.
+Concebidas con ergonomía y para ser apiladas liberando espacio en el restaurante. 
 
 
 <br>
@@ -122,7 +122,7 @@ Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidu
 ####Table for four
 
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.
+Las mesas están pensadas para ser combinadas en distintas disposiciones, desde una composición lineal para una máxima densidad de comensales a una composición en conjunto para una gran mesa de celebraciones
 
 <br>
 <br>
@@ -200,8 +200,6 @@ Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidu
 ####Table for two
 
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.
-
 <br>
 <br>
 
@@ -261,7 +259,7 @@ Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidu
 ####High table
 
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.
+Las mesas altas son triangulares en planta, se combinan en disposiciones lineales, orgánicas e incluso hexágonos. 
 
 <br>
 <br>
@@ -325,7 +323,7 @@ Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidu
 ####Stool
 
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.
+Los taburetes tienen un diseño ergonómico, de nuevo, a base de triangulaciones. La mayoría se disponen en la barra, formando un alzado en el que las letras L – E – K – A juegan dentro del conjunto.
 
 <br>
 <br>
@@ -387,7 +385,6 @@ Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidu
 
 ####Bottellero
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.
 
 <br>
 <br>
@@ -438,7 +435,7 @@ Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidu
 
 ####Mueble de platos
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.
+
 
 <br>
 <br>
