@@ -3,14 +3,23 @@ layout: fabpro_post
 type: fabpro
 fabproteaser: fabpro_loop/3d_gun_dhub.jpg
 title: Logos interactivos
-meta: "Hemos fabricado una serie de mesas para la exposición ya inaugurada el 19 de Junio con motivo del cierre del máster de este año y donde se pueden ver algunos de los trabajos de los estudiantes."
+meta: "Hemos desarrollado la integración de logos, dos de ellos interactivos, en varios restaurantes para Illy y Estrella Damm."
 author: Fab Lab BCN
 date: 2012-06-26
 ---
 <br>
 
+Illy: el logo parpadea cada vez que se hace un café. Diseñado en madera y metacrilato, con un sensor de proximidad situado cerca de la máquina.
+
+<br>
+
+ <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_pavillion/endesa_pavillion-4.jpg" />
+ 
+ <br>
+
 <iframe src="https://player.vimeo.com/video/149680831" width="900" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/149680831">Illy interactive  logo making off</a> from <a href="https://vimeo.com/fablabbcn">Fab Lab Barcelona</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<br>
 
 <!----- Image Slider ----------------------------- Image Slider -------------->
 
