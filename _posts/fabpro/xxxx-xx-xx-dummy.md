@@ -9,15 +9,19 @@ date: 2012-06-26
 ---
 <br>
 
-Illy: el logo parpadea cada vez que se hace un café. Diseñado en madera y metacrilato, con un sensor de proximidad situado cerca de la máquina.
+Illy: el logo parpadea cada vez que se hace un café en el restaurante. Diseñado en madera, metacrilato mas los componentes electrónicos (con un sensor de proximidad situado cerca de la máquina).
 
 <br>
 
- <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_pavillion/endesa_pavillion-4.jpg" />
+ <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/interactive-logos/archivo_000.jpeg" />
  
  <br>
 
 <iframe src="https://player.vimeo.com/video/149680831" width="900" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<br>
+
+Estrella Damm: El logo se acciona a través del sonido del restaurante o la música. Diseñado en madera, metacrilato mas los componentes electrónicos (con un sensor de de sonido situado en la estrella).
 
 <br>
 
@@ -31,19 +35,31 @@ Illy: el logo parpadea cada vez que se hace un café. Diseñado en madera y meta
   <div class="carousel-inner" role="listbox">
    
     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_pavillion/endesa_pavillion-4.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/interactive-logos/leka_estrella_01.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_pavillion/endesa_pavillion-2.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/interactive-logos/leka_estrella_02.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_pavillion/endesa_pavillion-5.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/interactive-logos/leka_estrella_03.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/endesa_pavillion/endesa_pavillion-7.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/interactive-logos/leka_estrella_06a.jpg" />
+    </div>
+ 
+  <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/interactive-logos/leka_estrella_06b.jpg" />
+    </div>
+    
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/interactive-logos/leka_estrella_06c.jpg" />
+    </div>
+    
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/interactive-logos/leka_estrella_06d.jpg" />
     </div>
  
   </div>
@@ -61,6 +77,10 @@ Illy: el logo parpadea cada vez que se hace un café. Diseñado en madera y meta
 </div>
 
 <!----- Image Slider ----------------------------- Image Slider -------------->
+
+<br>
+
+Estrella Damm: Diseño no interactivo fabricado en corcho.
 
 <br>
 
