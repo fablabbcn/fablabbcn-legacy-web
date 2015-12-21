@@ -1,7 +1,7 @@
 ---
 layout: fabpro_post
 type: fabpro
-fabproteaser: fabpro_loop/3d_gun_dhub.jpg
+fabproteaser: fabpro_loop/leka_estrella_06d.jpg
 title: Logos interactivos
 meta: "Hemos desarrollado la integración de logos, dos de ellos interactivos, en varios restaurantes para Illy y Estrella Damm."
 author: Fab Lab BCN
