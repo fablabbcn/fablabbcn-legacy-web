@@ -818,6 +818,14 @@ iframe {
 	list-style: none;
 }
 
+
+#calendar-frame {
+	display: block;
+	align-content: center;
+}
+
+
+
 /* ====== Blog ============================================================ Blog ============ */ 
 
 .form-control:focus {
