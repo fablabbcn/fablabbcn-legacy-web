@@ -818,6 +818,7 @@ iframe {
 	list-style: none;
 }
 
+/* ====== Calendar ============================================================ Calendar ============ */ 
 
 #calendar-frame {
 	display: block;
@@ -919,6 +920,61 @@ iframe {
 #fab-pro {
 	padding: 0 0 30px 0;
 	font-size: medium;
+}
+
+#fabpro-description {
+	padding-bottom: 15px;
+}
+
+#fabpro-description-2 {
+	border-left: solid 1px #dedede;
+	padding-left: 50px;
+}
+
+#fabpro-hr {
+	display: none;
+}
+
+#fabpro-our-clients {
+	padding-top: 10px;
+}
+
+#fabpro-our-clients h3 {
+	text-align: center;
+}
+
+#fabpro-our-clients img {
+	width: 100px;
+}
+
+
+@media (min-width: 668px) and (max-width: 991px) {
+	
+	#fabpro-hr {
+	display: block;
+	padding: 20px 20px 20px 15px;
+    }
+    
+    #fabpro-description-2 {
+	border-left: none;
+	padding-left: 15px;
+	}
+} 
+
+@media (min-width: 240px) and (max-width: 660px) { 
+
+    #fabpro-hr {
+	display: block;
+	padding: 10px 20px 10px 15px;
+    }
+    
+    #fabpro-description-2 {
+	border-left: none;
+	padding-left: 15px;
+	}
+	
+	
+
 }
 
 #fab-pro-machine-list{
