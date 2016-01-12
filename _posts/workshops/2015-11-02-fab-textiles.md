@@ -6,7 +6,7 @@ workshopteaser: workshops_loop/fab-textiles-2016.jpg
 title: Fab Textiles // February 2016
 meta: "The fashion world is increasingly incorporating new research in structures and new materials to expand its field of work and experimentation. This application of technology and digital fabrication to traditional manufacturing and industrial techniques are changing the ways of producing and designing clothing. The Fab Textiles project is opened to anyone interested in the world of fashion, open-source, wearables and custom creations. Fab Textiles centers its research activities in the field of digital fashion, focusing on new processes, materials and production techniques."
 author: Fab Lab BCN
-date: 2015/06/05
+date: 2015/12/15
 category: workshop
 
 ---
