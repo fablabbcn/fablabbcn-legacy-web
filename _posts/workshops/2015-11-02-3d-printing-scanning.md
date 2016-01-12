@@ -63,6 +63,6 @@ More information: info@fablabbcn.org
 
 <br>
 
-<img src="{{site.baseurl}}{{ site.url }}/img/workshops/workshops_loop/guitar-making.jpg">
+<img src="{{site.baseurl}}{{ site.url }}/img/workshops/workshops_loop/3dprinting-2016.jpg">
 
 
