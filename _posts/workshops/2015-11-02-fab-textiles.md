@@ -6,7 +6,7 @@ workshopteaser: workshops_loop/fab-textiles-2016.jpg
 title: Fab Textiles // February 2016
 meta: "The fashion world is increasingly incorporating new research in structures and new materials to expand its field of work and experimentation. This application of technology and digital fabrication to traditional manufacturing and industrial techniques are changing the ways of producing and designing clothing. "
 author: Fab Lab BCN
-date: 2015/12/15
+date: 2015/11/15
 category: workshop
 
 ---
