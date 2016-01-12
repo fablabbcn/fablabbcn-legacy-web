@@ -6,7 +6,7 @@ workshopteaser: workshops_loop/3dprinting-2016.jpg
 title: 3D Printing and Scanning// April 2016
 meta: "Take part in the workshop and learn how 3d printing technology works and the option on technique and machines more suitable for your project. You can choose between different printers and learn to use the programs that control each one. In addition, you will have the opportunity to print an object created by you or by any of the users who share their models in open platforms."
 author: Fab Lab BCN
-date: 2015/06/15
+date: 2015/12/01
 category: workshop
 
 ---
