@@ -493,6 +493,33 @@ Leka es un restaurante fabricado localmente en el barrio de Poblenou 22@, desarr
 
 <br>
 <br>
+<br>
+<br>
+<!----- Image Slider ----------------------------- Image Slider -------------->
+
+
+<div id="carousel-example-generic6" class="carousel slide" data-ride="carousel">
+
+<!--------------- Wrapper for slides --------------->
+
+  <div class="carousel-inner" role="listbox">
+   
+    <div class="item active">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (1).jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (2).jpg" />
+    </div>
+    
+ 
+ 
+  </div>
+
+
+<br>
+<br>
+<br>
 
 
 
