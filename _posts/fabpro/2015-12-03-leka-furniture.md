@@ -478,6 +478,7 @@ Los taburetes tienen un diseño ergonómico, de nuevo, a base de triangulaciones
 
 <!----- Image Slider ----------------------------- Image Slider -------------->
 
-
+<br>
+Diseño de Ingi Freyr.
 
 
