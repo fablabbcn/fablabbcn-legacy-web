@@ -428,7 +428,7 @@ Los taburetes tienen un diseño ergonómico, de nuevo, a base de triangulaciones
 <!----- Image Slider ----------------------------- Image Slider -------------->
 
 <br>
-<br>
+Mesas, taburetes y botellero diseñados por Miguel Guerrero
 <br>
 <br>
 <br>
