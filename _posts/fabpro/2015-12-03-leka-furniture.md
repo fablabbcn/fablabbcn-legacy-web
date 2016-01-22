@@ -495,6 +495,8 @@ Leka es un restaurante fabricado localmente en el barrio de Poblenou 22@, desarr
 <br>
 <br>
 <br>
+
+
 <!----- Image Slider ----------------------------- Image Slider -------------->
 
 
@@ -512,103 +514,80 @@ Leka es un restaurante fabricado localmente en el barrio de Poblenou 22@, desarr
       <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (2).jpg" />
     </div>
     
- 
+  <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (3).jpg" />
+    </div>
+    
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (4).jpg" />
+    </div>
+    
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (5).jpg" />
+    </div>
+    
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (6).jpg" />
+    </div>
+    
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (7).jpg" />
+    </div>
+    
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (8).jpg" />
+    </div>
+    
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (9).jpg" />
+    </div>
+    
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (10).jpg" />
+    </div>
+    
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (11).jpg" />
+    </div>
+    
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (12).jpg" />
+    </div>
+    
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (13).jpg" />
+    </div>
+    
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (14).jpg" />
+    </div>
+    
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (15).jpg" />
+    </div>
+    
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (16).jpg" />
+    </div>
+    
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (17).jpg" />
+    </div>
+    
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (18).jpg" />
+    </div>
+    
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (19).jpg" />
+    </div>
+    
+    
  
   </div>
 
 
-<br>
-<br>
-<br>
 
-
-
-<!----- Image Slider ----------------------------- Image Slider -------------->
-
-
-<div id="carousel-example-generic3" class="carousel slide" data-ride="carousel">
-
-<!--------------- Wrapper for slides --------------->
-
-  <div class="carousel-inner" role="listbox">
-   
-    <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (1).jpg" />
-    </div>
-    
-    <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (2).jpg" />
-    </div>
-    
-     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (3).jpg" />
-    </div>
-    
-     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (4).jpg" />
-    </div>
-    
-     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (5).jpg" />
-    </div>
-    
-     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (6).jpg" />
-    </div>
-    
-     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (7).jpg" />
-    </div>
-    
-     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (8).jpg" />
-    </div>
-    
-     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (9).jpg" />
-    </div>
-    
-     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (10).jpg" />
-    </div>
-    
-     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (11).jpg" />
-    </div>
-    
-     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (12).jpg" />
-    </div>
-     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (13).jpg" />
-    </div>
-    
-     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (14).jpg" />
-    </div>
-    
-     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (15).jpg" />
-    </div>
-    
-     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (16).jpg" />
-    </div>
-    
-     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (17).jpg" />
-    </div>
-    
-     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (18).jpg" />
-    </div>
-    
-     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (19).jpg" />
-    </div>
-  
-    
- 
   </div>
 
 <!-------------------- Controls --------------------->
