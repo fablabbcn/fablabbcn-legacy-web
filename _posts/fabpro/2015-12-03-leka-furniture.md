@@ -432,6 +432,7 @@ Mesas, taburetes y botellero diseñados por Miguel Guerrero
 <br>
 <br>
 <br>
+<br>
 
 
 ####Mueble de platos
@@ -480,5 +481,55 @@ Mesas, taburetes y botellero diseñados por Miguel Guerrero
 
 <br>
 Diseño de Ingi Freyr.
+<br>
+<br>
+<br>
+<br>
+
+####Making off
+
+
+Leka es un restaurante fabricado localmente en el barrio de Poblenou 22@, desarrollado y fabricado en Fablab Barcelona; que también forma parte del barrio. Una red local de distribuidores y oficios completan el proceso.
+
+<br>
+<br>
+
+
+
+<!----- Image Slider ----------------------------- Image Slider -------------->
+
+
+<div id="carousel-example-generic3" class="carousel slide" data-ride="carousel">
+
+<!--------------- Wrapper for slides --------------->
+
+  <div class="carousel-inner" role="listbox">
+   
+    <div class="item active">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/makingoff (1).jpg" />
+    </div>
+    
+   
+    
+ 
+  </div>
+
+<!-------------------- Controls --------------------->
+
+  <a class="left carousel-control" href="#carousel-example-generic3" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic3" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+<!----- Image Slider ----------------------------- Image Slider -------------->
+
+
+<br>
+<br>
 
 
