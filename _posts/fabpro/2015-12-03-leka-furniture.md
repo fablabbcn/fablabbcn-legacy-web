@@ -18,7 +18,7 @@ More info at <a href="http://www.restauranteleka.com" target="_blank">LEKA Resta
 ####Modularity
 
 
-El mobiliario está concebido como una familia. Su geometría está inspirada en las triangulaciones del proyecto y se adapta a los requisitos de diseño de cada mueble; pensados para tener múltiples combinaciones según la configuración cambiante del restaurante.
+El mobiliario está concebido como una familia. Su geometría está inspirada en las triangulaciones del proyecto y se adapta a los requisitos de diseño de cada mueble; pensados para tener múltiples combinaciones según la configuración cambiante del restaurante y soportar un movimiento constante.
 
 
 <br>
@@ -113,6 +113,7 @@ Concebidas con ergonomía y para ser apiladas liberando espacio en el restaurant
 
 
 <br>
+Diseño de Ingi Freyr y Miguel Guerrero.
 <br>
 <br>
 <br>
