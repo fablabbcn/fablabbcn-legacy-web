@@ -32,7 +32,7 @@ This edition of the Mini Makers Faire will host different activities merging new
 
 ### Making in the city
 
-[Discussion panels and conferences](http://makerfairebcn.org/conferencia/) lead by international experts that will debate:
+Amazing [d](__notset__)[iscussion panels and conferences](http://makerfairebcn.org/conferencia/) lead by international experts that will debate:
 
 * Education
 * Community
