@@ -68,7 +68,7 @@ A playground for big and small with activities, workshops and interactive demons
 * **[3D pen](http://makerfairebcn.org/taller-3d-pen/)**: learn how to use this creative tool and sculpt your drawings.
 * **[Deflydrone](http://makerfairebcn.org/deflydrone-educacion-con-drones-diseno-construccion-y-programacion/)**: discover how to build and program your drone.
 
-![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/minimakersfaire.jpg)
+![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/codibot.png)
 &nbsp;
 
 ## When & Where
