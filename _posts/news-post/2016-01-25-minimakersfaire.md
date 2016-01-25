@@ -70,7 +70,7 @@ A playground for big and small with activities, workshops and interactive demons
 * **[LittleBits Space - Barcelona Dreamakers](http://makerfairebcn.org/taller-littlebits-by-dreamkers/)**: bring us three activity areas focused on: Internet of Things, Wireless Remote and Arduino basics.
 * **[Unity 3D](http://makerfairebcn.org/taller-all-vr-education/)**: you will create your first virtual reality scenario and viewer.
 * **[3D pen](http://makerfairebcn.org/taller-3d-pen/)**: learn how to use this creative tool and sculpt your drawings.
-* **[Deflydrone](http://makerfairebcn.org/deflydrone-educacion-con-drones-diseno-construccion-y-programacion/)**: discover how to build and program your drone.
+* ##### **[Deflydrone](http://makerfairebcn.org/deflydrone-educacion-con-drones-diseno-construccion-y-programacion/)**: discover how to build and program your drone.
 
 
 &nbsp;
