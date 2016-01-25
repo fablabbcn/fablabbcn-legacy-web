@@ -64,23 +64,14 @@ Our [exhibitors](http://makerfairebcn.org/exhibitors/) run exceptional projects 
 A playground for big and small with activities, workshops and interactive demonstrations.
 
 * LittleBits Space - Barcelona Dreamakers bring us three activity areas focused on: Internet of Things, Wireless Remote and Arduino basics.
-* Unity 3D: you will create your first virtual reality scenario
+* Unity 3D: you will create your first virtual reality scenario and viewer.
+* 3D pen: learn how to use this creative tool and sculpt your drawings.
 
+
+&nbsp;
 
 &nbsp;
 
 ---
 
-Fabricate your Christmas presents at the Fab Lab!
-Join us at Fab Lab Barceloba, next December 17th for the Fab Xmas Party. We'll have fabrication, DJ's music, live visuals, fantastic people, and tons of ideas and projects to learn and share. You can bring your drawings from home, or you can come and find inspiration here to fabricate your Christmas presents. We'll also have a Fab Market, where you can buy local fabricated presents for an honest price.
-
-GENERAL ENTRANCE: free ENTRANCE + FABRICATION: 15\*
-\*Allows you to book a 30 minute slot for one of the machines available at Fab Lab to fabricate your designs. Send the files previously to pro@fablabbcn.org. You must buy your ticket here: book now
-
-LIMITED PLACES AVAILABLE
-
-Ven a farbicar, conversar y festejar con nosotros!
-
-El proximo viernes 20 de Noviembre, desde las 17.00hs en Carrer Pujades 102, Poblenou.
-
-Muy importante: cupos limitados! [<u>Apuntate aqui</u>](http://fablab.fikket.es/event/fab-x-mas-2015-fabrica-tus-adornos-de-navidad) !
+&nbsp;
