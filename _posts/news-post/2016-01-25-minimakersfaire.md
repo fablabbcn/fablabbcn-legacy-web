@@ -20,7 +20,6 @@ category: Events
 
 ### Let’s check out what’s coming next!
 
-### &nbsp;
 
 ##### Barcelona Mini Makers Faire 2016 is the creators, inventors, designers and makers community gathering of the year.
 
