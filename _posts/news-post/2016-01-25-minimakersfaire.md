@@ -38,8 +38,14 @@ Amazing [discussion panels and conferences](http://makerfairebcn.org/conferencia
 
 &nbsp;
 
-* [Education](http://makerfairebcn.org/conferencia/). Involving: CityLab, CTC/CESIRE Generalitat, Fab@School and La Salle Barcelona.
+* [Education](http://makerfairebcn.org/conferencia/). Involving: CityLab, CTC/CESIRE Generalitat, Fab@School and La Salle Barcelona. 
+
+&nbsp;
+
 * [Community](http://makerfairebcn.org/conferencia/). Involving: Ateneus de Fabricaci&oacute;, Betahaus, Fab Cafe, Fab Lab BCN, MADE and Makespace Madrid.
+
+&nbsp;
+
 * [Economy](http://makerfairebcn.org/conferencia/). Involving: HP-3D Printing Laboratory, BCN 3D Technologies, Laser Projects and Ultra-lab.
 
 
