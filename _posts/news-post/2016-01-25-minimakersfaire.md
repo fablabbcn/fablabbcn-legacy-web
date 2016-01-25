@@ -1,15 +1,13 @@
 ---
-
 layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/caganerheadersquares.jpg
 teaserlist: blog_loop_latest/caganerheadersquares.jpg
-title: Fab X-Mas Party // fabrica tus adornos de navidad!
-meta: Fab Lab Barcelona invites you to our closing Christmas party, to celebrate and make your Christmas gifts, locally with our experts help!
-author: Anastasia Pistofidou
-date: 12/12/2015
+title: Barcelona Mini Makers Faire 2016
+meta: 'Fab Lab Barcelona invites you to the Barcelona Mini Makers Faire 2016, the greatest makers community gathering of the year.'
+author: Maria Ustarroz
+date: 2015-12-11T23:00:00.000Z
 category: Events
-
 ---
 <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/caganerheadersquares.jpg">
 
