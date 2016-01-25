@@ -47,23 +47,23 @@ Our [exhibitors](http://makerfairebcn.org/exhibitors/) run exceptional projects 
 
 * [Social Goods](http://makerfairebcn.org/in3-una-incubadora-de-bajo-coste/)
 * [Biohacking](http://opensourcebeehives.net/)
-* [Business]()
-* [Education]()
-* [Textiles]()
-* [3Dprinting]()
-* [Music]()
-* [Arts&Craft]()
-* [Engineering]()
-* [Drones]()
-* [Community Building]()
-* [Robots&Research]()
+* [Business](http://makerfairebcn.org/bcn3d-technologies/)
+* [Education](http://makerfairebcn.org/makeit-with-scratch-4-arduino-learning-board/)
+* [Textiles](http://makerfairebcn.org/dressed-in-music-musica-donde-y-cuando-quieras/)
+* [3Dprinting](http://makerfairebcn.org/stalactite-3d/)
+* [Music](http://makerfairebcn.org/rockin-tech-projects/)
+* [Arts&Craft](http://makerfairebcn.org/carton-lleno-colaborativa/)
+* [Engineering](http://makerfairebcn.org/littlepnp-smt-pick-and-place-machine/)
+* [Drones](http://makerfairebcn.org/nero/)
+* [Community Building](http://makerfairebcn.org/1750-2/)
+* [Robots&Research](http://makerfairebcn.org/robots-tibi-y-dabo/)
 
 
 ### Workshops
 
 A playground for big and small with activities, workshops and interactive demonstrations.
 
-* LittleBits Space - Barcelona Dreamakers bring us three activity areas focused on: Internet of Things, Wireless Remote and Arduino basics.
+* [LittleBits Space - Barcelona Dreamakers](http://makerfairebcn.org/taller-littlebits-by-dreamkers/) bring us three activity areas focused on: Internet of Things, Wireless Remote and Arduino basics.
 * Unity 3D: you will create your first virtual reality scenario and viewer.
 * 3D pen: learn how to use this creative tool and sculpt your drawings.
 * [Deflydrone](http://makerfairebcn.org/deflydrone-educacion-con-drones-diseno-construccion-y-programacion/): discover how to build and program your drone.
