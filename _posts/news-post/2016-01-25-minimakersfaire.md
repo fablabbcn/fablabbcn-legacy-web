@@ -34,7 +34,7 @@ This edition of the Mini Makers Faire will host different activities merging new
 
 ### Making in the city
 
-Amazing**[discussion panels and conferences](http://makerfairebcn.org/conferencia/)**lead by local and international experts that will debate:
+Amazing **[discussion panels and conferences](http://makerfairebcn.org/conferencia/)** lead by local and international experts that will debate:
 
 &nbsp;
 
@@ -49,10 +49,10 @@ Amazing**[discussion panels and conferences](http://makerfairebcn.org/conferenci
 
 Our [exhibitors](http://makerfairebcn.org/exhibitors/) run exceptional projects from different areas:
 
-* [Social Goods](http://makerfairebcn.org/in3-una-incubadora-de-bajo-coste/)
-* [Biohacking](http://opensourcebeehives.net/)
-* [Business](http://makerfairebcn.org/bcn3d-technologies/)
-* [Education](http://makerfairebcn.org/makeit-with-scratch-4-arduino-learning-board/)
+* **[Social Goods](http://makerfairebcn.org/in3-una-incubadora-de-bajo-coste/)**
+* **[Biohacking](http://opensourcebeehives.net/)**
+* **[Business](http://makerfairebcn.org/bcn3d-technologies/)**
+* **[Education](http://makerfairebcn.org/makeit-with-scratch-4-arduino-learning-board/)**
 * [Textiles](http://makerfairebcn.org/dressed-in-music-musica-donde-y-cuando-quieras/)
 * [3Dprinting](http://makerfairebcn.org/stalactite-3d/)
 * [Music](http://makerfairebcn.org/rockin-tech-projects/)
