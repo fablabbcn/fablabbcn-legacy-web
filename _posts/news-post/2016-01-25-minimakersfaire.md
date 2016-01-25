@@ -6,7 +6,7 @@ teaserlist: blog_loop_latest/caganerheadersquares.jpg
 title: Barcelona Mini Makers Faire 2016
 meta: 'Fab Lab Barcelona invites you to the Barcelona Mini Makers Faire 2016, the greatest makers community gathering of the year.'
 author: Maria Ustarroz
-date: 2015-12-11T23:00:00.000Z
+date: 2016-01-25T23:00:00.000Z
 category: Events
 ---
 
