@@ -16,9 +16,11 @@ category: Events
 
 &nbsp;
 
-# Do you want to join the future? Let’s check out what’s coming next!
+## Do you want to join the future?
 
-# &nbsp;
+### Let’s check out what’s coming next!
+
+### &nbsp;
 
 Barcelona Mini Makers Faire 2016 is the creators, inventors, designers and makers community gathering of the year.
 
@@ -36,9 +38,9 @@ Amazing [discussion panels and conferences](http://makerfairebcn.org/conferencia
 
 &nbsp;
 
-* - [Education](http://makerfairebcn.org/conferencia/) participants: CityLab, CTC/CESIRE Generalitat, Fab@School and La Salle Barcelona.
-* - [Community](http://makerfairebcn.org/conferencia/) participants: Ateneus de Fabricació, Betahaus, Fab Cafe, Fab Lab BCN, MADE and Makespace Madrid.
-* - [Economy](http://makerfairebcn.org/conferencia/) participants: HP-3D Printing Laboratory, BCN 3D Technologies, Laser Projects and Ultra-lab.
+* * [Education](http://makerfairebcn.org/conferencia/) participants: CityLab, CTC/CESIRE Generalitat, Fab@School and La Salle Barcelona.
+* * [Community](http://makerfairebcn.org/conferencia/) participants: Ateneus de Fabricaci&oacute;, Betahaus, Fab Cafe, Fab Lab BCN, MADE and Makespace Madrid.
+* * [Economy](http://makerfairebcn.org/conferencia/) participants: HP-3D Printing Laboratory, BCN 3D Technologies, Laser Projects and Ultra-lab.
 
 
 &nbsp;
@@ -75,9 +77,7 @@ A playground for big and small with activities, workshops and interactive demons
 
 ## When & Where
 
-Join us on 7th February 2016 from 10 to 19h at:
-[CosmoCaixa - C/Isaac Newton, 26, Barcelona](https://www.google.es/maps/place/Carrer+d'Isaac+Newton,+26,+08022+Barcelona/@41.4126681,2.1293809,17z/data=!3m1!5s0x12a4981a6bb7cae9:0xe730d349828e391c!4m7!1m4!3m3!1s0x12a4981a3b5fefef:0x2060b69b2cf90de2!2sCarrer+d'Isaac+Newton,+26,+08022+Barcelona!3b1!3m1!1s0x12a4981a3b5fefef:0x2060b69b2cf90de2)
-
+Join us on 7th February 2016 from 10 to 19h at: [CosmoCaixa - C/Isaac Newton, 26, Barcelona](https://www.google.es/maps/place/Carrer+d'Isaac+Newton,+26,+08022+Barcelona/@41.4126681,2.1293809,17z/data=!3m1!5s0x12a4981a6bb7cae9:0xe730d349828e391c!4m7!1m4!3m3!1s0x12a4981a3b5fefef:0x2060b69b2cf90de2!2sCarrer+d'Isaac+Newton,+26,+08022+Barcelona!3b1!3m1!1s0x12a4981a3b5fefef:0x2060b69b2cf90de2)
 
 &nbsp;
 
