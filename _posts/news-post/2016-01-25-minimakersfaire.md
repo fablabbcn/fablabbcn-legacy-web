@@ -12,7 +12,7 @@ category: Events
 
 &nbsp;
 
-![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/caganerheadersquares.jpg)
+![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/minimakersfaire.jpg)
 
 &nbsp;
 
