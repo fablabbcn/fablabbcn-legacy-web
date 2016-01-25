@@ -26,7 +26,7 @@ Barcelona Mini Makers Faire 2016 is the creators, inventors, designers and maker
 
 ## What you will find
 
-This edition of the Mini Makers Faire will host different activities merging new technologies,
+This edition of the Mini Makers Faire will host different activities merging new technologies,&nbsp;
 
 &nbsp;
 
