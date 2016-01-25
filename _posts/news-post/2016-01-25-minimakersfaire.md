@@ -22,7 +22,7 @@ category: Events
 
 ### &nbsp;
 
-#### Barcelona Mini Makers Faire 2016 is the creators, inventors, designers and makers community gathering of the year.
+##### Barcelona Mini Makers Faire 2016 is the creators, inventors, designers and makers community gathering of the year.
 
 &nbsp;
 
