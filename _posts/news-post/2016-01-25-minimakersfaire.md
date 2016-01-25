@@ -46,7 +46,7 @@ Amazing [discussion panels and conferences](http://makerfairebcn.org/conferencia
 Our [exhibitors](http://makerfairebcn.org/exhibitors/) run exceptional projects from different areas:
 
 * [Social Goods](http://makerfairebcn.org/in3-una-incubadora-de-bajo-coste/)
-* [Biohacking]()
+* [Biohacking](http://opensourcebeehives.net/)
 * [Business]()
 * [Education]()
 * [Textiles]()
