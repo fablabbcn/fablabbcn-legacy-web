@@ -66,7 +66,7 @@ A playground for big and small with activities, workshops and interactive demons
 * LittleBits Space - Barcelona Dreamakers bring us three activity areas focused on: Internet of Things, Wireless Remote and Arduino basics.
 * Unity 3D: you will create your first virtual reality scenario and viewer.
 * 3D pen: learn how to use this creative tool and sculpt your drawings.
-* Deflydrone: discover how to build and program your drone.
+* [Deflydrone](http://makerfairebcn.org/deflydrone-educacion-con-drones-diseno-construccion-y-programacion/): discover how to build and program your drone.
 
 
 &nbsp;
