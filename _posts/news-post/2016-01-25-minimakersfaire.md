@@ -34,9 +34,9 @@ This edition of the Mini Makers Faire will host different activities merging new
 
 Amazing [discussion panels and conferences](http://makerfairebcn.org/conferencia/) lead by international experts that will debate:
 
-* [Education](__notset__)
-* [Community](__notset__)
-* [Economy](__notset__)
+* [Education](http://makerfairebcn.org/conferencia/)
+* [Community](http://makerfairebcn.org/conferencia/)
+* [Economy](http://makerfairebcn.org/conferencia/)
 
 
 &nbsp;
@@ -45,7 +45,7 @@ Amazing [discussion panels and conferences](http://makerfairebcn.org/conferencia
 
 Our [exhibitors](http://makerfairebcn.org/exhibitors/) run exceptional projects from different areas:
 
-* Social Goods
+* [Social Goods](http://makerfairebcn.org/in3-una-incubadora-de-bajo-coste/)
 * Biohacking
 * Business
 * Education
