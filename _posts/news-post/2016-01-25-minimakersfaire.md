@@ -34,19 +34,13 @@ This edition of the Mini Makers Faire will host different activities merging new
 
 ### Making in the city
 
-Amazing [discussion panels and conferences](http://makerfairebcn.org/conferencia/) lead by local and international experts that will debate:
+Amazing**[discussion panels and conferences](http://makerfairebcn.org/conferencia/)**lead by local and international experts that will debate:
 
 &nbsp;
 
-* [Education](http://makerfairebcn.org/conferencia/). Involving: CityLab, CTC/CESIRE Generalitat, Fab@School and La Salle Barcelona. 
-
-&nbsp;
-
-* [Community](http://makerfairebcn.org/conferencia/). Involving: Ateneus de Fabricaci&oacute;, Betahaus, Fab Cafe, Fab Lab BCN, MADE and Makespace Madrid.
-
-&nbsp;
-
-* [Economy](http://makerfairebcn.org/conferencia/). Involving: HP-3D Printing Laboratory, BCN 3D Technologies, Laser Projects and Ultra-lab.
+* **[Education](http://makerfairebcn.org/conferencia/).** Involving: CityLab, CTC/CESIRE Generalitat, Fab@School and La Salle Barcelona.
+* **[Community](http://makerfairebcn.org/conferencia/).** Involving: Ateneus de Fabricaci&oacute;, Betahaus, Fab Cafe, Fab Lab BCN, MADE and Makespace Madrid.
+* **[Economy](http://makerfairebcn.org/conferencia/).** Involving: HP-3D Printing Laboratory, BCN 3D Technologies, Laser Projects and Ultra-lab.
 
 
 &nbsp;
