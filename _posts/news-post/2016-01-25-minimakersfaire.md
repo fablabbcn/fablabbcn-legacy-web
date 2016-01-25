@@ -20,23 +20,23 @@ category: Events
 
 # &nbsp;
 
-Barcelona Mini Makers Faire 2016 is the creators, inventors, designers and makers gathering of the year.
+Barcelona Mini Makers Faire 2016 is the creators, inventors, designers and makers community gathering of the year.
 
 &nbsp;
 
-## What you will find
+## What you are going to find
 
-This edition of the Mini Makers Faire will host different activities merging new technologies,&nbsp;
+This edition of the Mini Makers Faire will host different activities merging new technologies, &nbsp;
 
 &nbsp;
 
 ### Making in the city
 
-Amazing [discussion panels and conferences](http://makerfairebcn.org/conferencia/) lead by international experts that will debate:
+Amazing [discussion panels and conferences](http://makerfairebcn.org/conferencia/) lead by local and international experts that will debate:
 
-* [Education](http://makerfairebcn.org/conferencia/)
-* [Community](http://makerfairebcn.org/conferencia/)
-* [Economy](http://makerfairebcn.org/conferencia/)
+* [Education](http://makerfairebcn.org/conferencia/) participants: CityLab, CTC/CESIRE Generalitat, Fab@School and La Salle Barcelona.
+* [Community](http://makerfairebcn.org/conferencia/) participants: Ateneus de Fabricació, Betahaus, Fab Cafe, Fab Lab BCN, MADE and Makespace Madrid.
+* [Economy](http://makerfairebcn.org/conferencia/) participants: HP-3D Printing Laboratory, BCN 3D Technologies, Laser Projects and Ultra-lab.
 
 
 &nbsp;
@@ -63,9 +63,9 @@ Our [exhibitors](http://makerfairebcn.org/exhibitors/) run exceptional projects 
 
 A playground for big and small with activities, workshops and interactive demonstrations.
 
-* [LittleBits Space - Barcelona Dreamakers](http://makerfairebcn.org/taller-littlebits-by-dreamkers/) bring us three activity areas focused on: Internet of Things, Wireless Remote and Arduino basics.
-* Unity 3D: you will create your first virtual reality scenario and viewer.
-* 3D pen: learn how to use this creative tool and sculpt your drawings.
+* [LittleBits Space - Barcelona Dreamakers](http://makerfairebcn.org/taller-littlebits-by-dreamkers/): bring us three activity areas focused on: Internet of Things, Wireless Remote and Arduino basics.
+* [Unity 3D](http://makerfairebcn.org/taller-all-vr-education/): you will create your first virtual reality scenario and viewer.
+* [3D pen](http://makerfairebcn.org/taller-3d-pen/): learn how to use this creative tool and sculpt your drawings.
 * [Deflydrone](http://makerfairebcn.org/deflydrone-educacion-con-drones-diseno-construccion-y-programacion/): discover how to build and program your drone.
 
 
