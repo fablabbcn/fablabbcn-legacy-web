@@ -42,7 +42,6 @@ Amazing **[discussion panels and conferences](http://makerfairebcn.org/conferenc
 * **[Economy](http://makerfairebcn.org/conferencia/).** Involving: HP-3D Printing Laboratory, BCN 3D Technologies, Laser Projects and Ultra-lab.
 
 
-&nbsp;
 
 ### Exhibitors&Shops
 
