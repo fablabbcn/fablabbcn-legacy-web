@@ -73,7 +73,7 @@ A playground for big and small with activities, workshops and interactive demons
 
 #### Join us on **7th February 2016 from 10 to 19h**
 
-#### @**[CosmoCaixa](https://www.google.es/maps/place/Carrer+d'Isaac+Newton,+26,+08022+Barcelona/@41.4126681,2.1293809,17z/data=!3m1!5s0x12a4981a6bb7cae9:0xe730d349828e391c!4m7!1m4!3m3!1s0x12a4981a3b5fefef:0x2060b69b2cf90de2!2sCarrer+d'Isaac+Newton,+26,+08022+Barcelona!3b1!3m1!1s0x12a4981a3b5fefef:0x2060b69b2cf90de2)** [C/Isaac Newton, 26, Barcelona](https://www.google.es/maps/place/Carrer+d'Isaac+Newton,+26,+08022+Barcelona/@41.4126681,2.1293809,17z/data=!3m1!5s0x12a4981a6bb7cae9:0xe730d349828e391c!4m7!1m4!3m3!1s0x12a4981a3b5fefef:0x2060b69b2cf90de2!2sCarrer+d'Isaac+Newton,+26,+08022+Barcelona!3b1!3m1!1s0x12a4981a3b5fefef:0x2060b69b2cf90de2)
+#### @**[CosmoCaixa](https://www.google.es/maps/place/Carrer+d'Isaac+Newton,+26,+08022+Barcelona/@41.4126681,2.1293809,17z/data=!3m1!5s0x12a4981a6bb7cae9:0xe730d349828e391c!4m7!1m4!3m3!1s0x12a4981a3b5fefef:0x2060b69b2cf90de2!2sCarrer+d'Isaac+Newton,+26,+08022+Barcelona!3b1!3m1!1s0x12a4981a3b5fefef:0x2060b69b2cf90de2)** [c/Isaac Newton, 26, Barcelona](https://www.google.es/maps/place/Carrer+d'Isaac+Newton,+26,+08022+Barcelona/@41.4126681,2.1293809,17z/data=!3m1!5s0x12a4981a6bb7cae9:0xe730d349828e391c!4m7!1m4!3m3!1s0x12a4981a3b5fefef:0x2060b69b2cf90de2!2sCarrer+d'Isaac+Newton,+26,+08022+Barcelona!3b1!3m1!1s0x12a4981a3b5fefef:0x2060b69b2cf90de2)
 
 &nbsp;
 
@@ -139,6 +139,6 @@ Un patio de juegos para grandes y pequeños con actividades, talleres y demostra
 
 #### Ven a visitarnos el **7 de Febrero de 2016 de 10 a 19h**
 
-#### @**[CosmoCaixa](https://www.google.es/maps/place/Carrer+d'Isaac+Newton,+26,+08022+Barcelona/@41.4126681,2.1293809,17z/data=!3m1!5s0x12a4981a6bb7cae9:0xe730d349828e391c!4m7!1m4!3m3!1s0x12a4981a3b5fefef:0x2060b69b2cf90de2!2sCarrer+d'Isaac+Newton,+26,+08022+Barcelona!3b1!3m1!1s0x12a4981a3b5fefef:0x2060b69b2cf90de2)** [C/Isaac Newton, 26, Barcelona](https://www.google.es/maps/place/Carrer+d'Isaac+Newton,+26,+08022+Barcelona/@41.4126681,2.1293809,17z/data=!3m1!5s0x12a4981a6bb7cae9:0xe730d349828e391c!4m7!1m4!3m3!1s0x12a4981a3b5fefef:0x2060b69b2cf90de2!2sCarrer+d'Isaac+Newton,+26,+08022+Barcelona!3b1!3m1!1s0x12a4981a3b5fefef:0x2060b69b2cf90de2)
+#### @**[CosmoCaixa](https://www.google.es/maps/place/Carrer+d'Isaac+Newton,+26,+08022+Barcelona/@41.4126681,2.1293809,17z/data=!3m1!5s0x12a4981a6bb7cae9:0xe730d349828e391c!4m7!1m4!3m3!1s0x12a4981a3b5fefef:0x2060b69b2cf90de2!2sCarrer+d'Isaac+Newton,+26,+08022+Barcelona!3b1!3m1!1s0x12a4981a3b5fefef:0x2060b69b2cf90de2)** [c/Isaac Newton, 26, Barcelona](https://www.google.es/maps/place/Carrer+d'Isaac+Newton,+26,+08022+Barcelona/@41.4126681,2.1293809,17z/data=!3m1!5s0x12a4981a6bb7cae9:0xe730d349828e391c!4m7!1m4!3m3!1s0x12a4981a3b5fefef:0x2060b69b2cf90de2!2sCarrer+d'Isaac+Newton,+26,+08022+Barcelona!3b1!3m1!1s0x12a4981a3b5fefef:0x2060b69b2cf90de2)
 
 &nbsp;
