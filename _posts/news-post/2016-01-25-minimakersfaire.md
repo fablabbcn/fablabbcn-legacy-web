@@ -84,7 +84,7 @@ A playground for big and small with activities, workshops and interactive demons
 
 ## Quieres descubrir cómo será futuro?
 
-### Ven a descubrir qué será lo próximo!
+### Ven a ver qué será lo próximo!
 
 La Barcelona Mini Maker Faire 2016 es la reunión de creadores, inventores, diseñadores y de la comunidad maker del año.
 
