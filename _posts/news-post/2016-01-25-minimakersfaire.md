@@ -20,7 +20,7 @@ category: Events
 
 ### Let’s check out what’s coming next!
 
-Barcelona Mini Maker Faire 2016 is the creators, inventors, designers and makers community gathering of the year.
+**[Barcelona Mini Maker Faire 2016](http://makerfairebcn.org/)** is the creators, inventors, designers and makers community gathering of the year.
 
 &nbsp;
 
@@ -86,7 +86,7 @@ A playground for big and small with activities, workshops and interactive demons
 
 ### Ven a ver qué será lo próximo!
 
-La Barcelona Mini Maker Faire 2016 es la reunión de creadores, inventores, diseñadores y de la comunidad maker del año.
+La **[Barcelona Mini Maker Faire 2016](http://makerfairebcn.org/)** es la reunión de creadores, inventores, diseñadores y de la comunidad maker del año.
 
 &nbsp;
 
