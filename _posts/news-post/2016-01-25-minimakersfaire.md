@@ -3,7 +3,7 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/minimakerfairebcn.png
 teaserlist: blog_loop_latest/minimakerfairebcn.png
-title: Barcelona Mini Makers Faire 2016
+title: Barcelona Mini Maker Faire 2016
 meta: 'Fab Lab Barcelona invites you to the Barcelona Mini Makers Faire 2016, the greatest makers community gathering of the year.'
 author: Maria Ustarroz
 date: 2016-01-25T23:00:00.000Z
@@ -20,13 +20,13 @@ category: Events
 
 ### Let’s check out what’s coming next!
 
-Barcelona Mini Makers Faire 2016 is the creators, inventors, designers and makers community gathering of the year.
+Barcelona Mini Maker Faire 2016 is the creators, inventors, designers and makers community gathering of the year.
 
 &nbsp;
 
 ## What you are going to find
 
-This edition of the Mini Makers Faire will host different activities merging new technologies, interactive demonstrations, new materials, community building and much more!
+This edition of the Mini Maker Faire will host different activities merging new technologies, interactive demonstrations, new materials, community building and much more!
 
 &nbsp;
 
@@ -86,13 +86,13 @@ A playground for big and small with activities, workshops and interactive demons
 
 ### Ven a descubrir qué será lo próximo!
 
-La Barcelona Mini Makers Faire 2016 es la reunión de creadores, inventores, diseñadores y de la comunidad maker del año.
+La Barcelona Mini Maker Faire 2016 es la reunión de creadores, inventores, diseñadores y de la comunidad maker del año.
 
 &nbsp;
 
 ## Qué vas a encontrar
 
-Esta edición del Mini Makers Faire albergará diferentes actividades que unen nuevas tecnologías, demostracions interactivas, nuevos materiales, construcción de la comunidad y muchas cosas más.
+Esta edición del Mini Maker Faire albergará diferentes actividades que unen nuevas tecnologías, demostracions interactivas, nuevos materiales, construcción de la comunidad y muchas cosas más.
 
 &nbsp;
 
@@ -133,7 +133,6 @@ Un patio de juegos para grandes y pequeños con actividades, talleres y demostra
 * **[3D pen](http://makerfairebcn.org/taller-3d-pen/)**: aprenderás cómo usar esta herramienta creativa que esculpe tus dibujos!
 * **[Deflydrone](http://makerfairebcn.org/deflydrone-educacion-con-drones-diseno-construccion-y-programacion/)**: descubrirás cómo construir y programar tu dron.
 
-![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/codibot.png)
 &nbsp;
 
 ## Cuándo & Dónde
