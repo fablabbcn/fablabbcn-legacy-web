@@ -1,8 +1,8 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/minimakersfairebcn.png
-teaserlist: blog_loop_latest/minimakersfairebcn.png
+teaserlatest: blog_loop_latest/minimakerfairebcn.png
+teaserlist: blog_loop_latest/minimakerfairebcn.png
 title: Barcelona Mini Makers Faire 2016
 meta: 'Fab Lab Barcelona invites you to the Barcelona Mini Makers Faire 2016, the greatest makers community gathering of the year.'
 author: Maria Ustarroz
