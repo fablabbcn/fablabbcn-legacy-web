@@ -6,7 +6,7 @@ workshopteaser: workshops_loop/ephemeral.jpg
 title: Ephemeral Arts Connection // February 2016
 meta: "Ephemeral Arts Connection: Parametric Fields & Digital Fabrication: architecture, design and publishing. Fab Lab Barcelona"
 author: Fab Lab BCN
-date: 2015/12/22
+date: 2016/01/10
 category: workshop
 
 ---
