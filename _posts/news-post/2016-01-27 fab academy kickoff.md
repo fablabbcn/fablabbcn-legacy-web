@@ -16,11 +16,10 @@ category: fab academy
 
 &nbsp;
 
-## Do you want to join the future?
+## IT starts!
 
-### Let’s check out what’s coming next!
+Last Wednesday, Tomas Diez, Director of FabLab Barcelona, introduced the first FabAcademy session including a lesson of Neil Gershenfeld, director of MIT's Center for Bits and Atoms. Students also met Luciana Asinari, Coordinator of FabLab Barcelona, **[Ferdinand Meier](http://iaac.net/iaac/people/ferdinand-meier/) and **[Santiago Fuentemilla](http://iaac.net/iaac/people/santi-fuentemilla/), FabAcademy Guru's.
 
-**[Barcelona Mini Maker Faire 2016](http://makerfairebcn.org/)** is the creators, inventors, designers and makers community gathering of the year.
 
 &nbsp;
 
