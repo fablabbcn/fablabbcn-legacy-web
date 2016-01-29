@@ -23,9 +23,9 @@ Last Wednesday, **[Tomas Diez](http://iaac.net/iaac/people/tomas-diez/)**, Direc
 
 &nbsp;
 
-## What you are going to find
+## What about the students?
 
-This edition of the Mini Maker Faire will host different activities merging new technologies, interactive demonstrations, new materials, community building and much more!
+This edition of the FabAcademy 
 
 &nbsp;
 
