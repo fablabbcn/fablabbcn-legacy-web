@@ -12,7 +12,7 @@ category: fab academy
 
 &nbsp;
 
-![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/XXXXXX)
+![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademygeneral.jpg)
 
 &nbsp;
 
