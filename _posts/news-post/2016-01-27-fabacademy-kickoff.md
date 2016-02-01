@@ -105,7 +105,7 @@ Follow all this amazing process on **[FabAcademy Group](https://www.facebook.com
 
 ### IT starts!
 
-Last Wednesday, **[Tomas Diez](http://iaac.net/iaac/people/tomas-diez/)**, Director of **[FabLab Barcelona](http://fablabbcn.org)**, introduced the first **[FabAcademy](http://fabacademy.org/)** session including a lesson of **[Neil Gershenfeld](http://ng.cba.mit.edu/)**, director of **[MIT's Center for Bits and Atoms](http://cba.mit.edu/)**. Students also met **[Luciana Asinari](http://iaac.net/iaac/people/luciana-asinari/)**, Coordinator of FabLab Barcelona, and FabAcademy Guru's: **[Ferdinand Meier](http://iaac.net/iaac/people/ferdinand-meier/)** and **[Santiago Fuentemilla](http://iaac.net/iaac/people/santi-fuentemilla/)**.
+El pasado miércoles, **[Tomás Diez](http://iaac.net/iaac/people/tomas-diez/)**, Director del **[FabLab Barcelona](http://fablabbcn.org)**, presentó la primera sesión del **[FabAcademy](http://fabacademy.org/)** con una charla inaugural a cargo de **[Neil Gershenfeld](http://ng.cba.mit.edu/)**, director del **[MIT's Center for Bits and Atoms](http://cba.mit.edu/)**. Los estudiantes conocieron también a **[Luciana Asinari](http://iaac.net/iaac/people/luciana-asinari/)**, Coordinadora del FabLab Barcelona, y a los FabAcademy Guru's: **[Ferdinand Meier](http://iaac.net/iaac/people/ferdinand-meier/)** y **[Santiago Fuentemilla](http://iaac.net/iaac/people/santi-fuentemilla/)**.
 
 
 &nbsp;
