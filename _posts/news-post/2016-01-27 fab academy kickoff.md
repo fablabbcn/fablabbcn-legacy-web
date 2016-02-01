@@ -18,7 +18,7 @@ category: fab academy
 
 ## IT starts!
 
-Last Wednesday, **[Tomas Diez](http://iaac.net/iaac/people/tomas-diez/)**, Director of **[FabLab Barcelona](http://fablabbcn.org)**, introduced the first **[FabAcademy](http://fabacademy.org/)** session including a lesson of **Neil Gershenfeld[]()**, director of **[MIT's Center for Bits and Atoms](http://cba.mit.edu/)**. Students also met **[Luciana Asinari](http://iaac.net/iaac/people/luciana-asinari/), Coordinator of FabLab Barcelona, **[Ferdinand Meier](http://iaac.net/iaac/people/ferdinand-meier/)** and **[Santiago Fuentemilla](http://iaac.net/iaac/people/santi-fuentemilla/)**, FabAcademy Guru's.
+Last Wednesday, **[Tomas Diez](http://iaac.net/iaac/people/tomas-diez/)**, Director of **[FabLab Barcelona](http://fablabbcn.org)**, introduced the first **[FabAcademy](http://fabacademy.org/)** session including a lesson of **Neil Gershenfeld[]()**, director of **[MIT's Center for Bits and Atoms](http://cba.mit.edu/)**. Students also met **[Luciana Asinari](http://iaac.net/iaac/people/luciana-asinari/)**, Coordinator of FabLab Barcelona, and FabAcademy Guru's: **[Ferdinand Meier](http://iaac.net/iaac/people/ferdinand-meier/)** and **[Santiago Fuentemilla](http://iaac.net/iaac/people/santi-fuentemilla/)**.
 
 
 &nbsp;
