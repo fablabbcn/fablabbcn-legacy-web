@@ -148,7 +148,7 @@ Este diploma combina 19 certificados que familiarizarán a los estudiantes con d
 ![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademystudents1.jpg)
 &nbsp;
 
-Students at the Fab Academy also learn:
+Los estudiantes de Fab Academy también aprenderán:
 
 - How to use a Fab Lab’s digital fabrication tools for rapid prototyping:
 
