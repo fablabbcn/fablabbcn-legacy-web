@@ -171,7 +171,8 @@ Los estudiantes de Fab Academy también aprenderán:
 
 &nbsp;
 
-To reinforce this learning, we view and participate in global lectures broadcast from MIT on Wednesdays at 9:00 am – 12:00 pm EST. The lectures are recorded and available to students throughout the semester. In addition to the lectures, there are two lab days each week where students have access the digital fabrication equipment and personal help with projects.
+Para reforzar todo este aprendizaje, formamos parte de las conferencias a nivel mundial impartidas desde el MIT los miércoles de 9:00 am – 12:00 pm EST (Eastern Standard Time). Estas conferencias quedan registradas y están disponibles para los estudiantes durante todo el semestre. Junto a estas conferencias, dos días a la semana los estudiantes tienen a su disposición todas las herramientas de fabricación digital y ayuda personalizada para sus proyectos.
+
 
 ### Stay tuned!
 
