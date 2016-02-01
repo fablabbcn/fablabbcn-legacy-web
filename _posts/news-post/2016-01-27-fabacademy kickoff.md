@@ -55,9 +55,14 @@ The diploma combines 19 certificates provide familiarity with technical options 
     Invention, intellectual property, and business models – 1 week
     Digital fabrication project development – 2 weeks
 
+&nbsp;
+
+![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademystudents1.jpg)
+&nbsp;
+
 Students at the Fab Academy also learn:
 
-- How to use a Fab Lab’s digital fabrication tools for rapid prototyping
+- How to use a Fab Lab’s digital fabrication tools for rapid prototyping:
 
     Epilog Mini Lasercutter
     Roland MDX-20 Milling Machine
@@ -67,10 +72,14 @@ Students at the Fab Academy also learn:
 
 - Electronics design and production by producing circuit boards using a variety of sensors and output devices.
 
-- How to program AVR microcontrollers on the boards they have produced.
+- How to program AVR microcontrollers on the boards they have produced:
 
     Molding and casting
     3D scanning and printing
+
+&nbsp;
+
+![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademystudents2.jpg)
 
 &nbsp;
 
