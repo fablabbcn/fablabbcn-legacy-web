@@ -55,7 +55,7 @@ The diploma combines 19 certificates provide familiarity with technical options 
     Invention, intellectual property, and business models – 1 week
     Digital fabrication project development – 2 weeks
 
-Students at the Fab Academy learn:
+Students at the Fab Academy also learn:
 
 - How to use a Fab Lab’s digital fabrication tools for rapid prototyping
 
@@ -64,7 +64,6 @@ Students at the Fab Academy learn:
     3D printer
     Roland CAMM-1 Servo GX-24 Desktop Vinyl Cutter
     ShopBot
-
 
 - Electronics design and production by producing circuit boards using a variety of sensors and output devices.
 
