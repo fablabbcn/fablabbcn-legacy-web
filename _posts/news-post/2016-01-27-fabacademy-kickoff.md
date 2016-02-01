@@ -132,16 +132,16 @@ Este diploma combina 19 certificados que familiarizarán a los estudiantes con d
     Corte controlado por ordenador – 1 semana
     Producción y diseño electrónico – 2 semanas
     Mecanizado controlado por ordenador – 1 semana
-    Embedded programming – 1 week
-    3D molding and casting – 1 week
-    3D scanning and printing – 1 week
-    Sensors, actuators, and displays – 2 weeks
-    Interface and application programming – 1 week
-    Embedded networking and communications – 1 week
-    Machine design – 2 weeks
-    Digital fabrication applications and implications – 1 week
-    Invention, intellectual property, and business models – 1 week
-    Digital fabrication project development – 2 weeks
+    Programación incrustada – 1 semana
+    Modelaje y fundición 3D – 1 semana
+    Impresión y escaneado 3D – 1 semana
+    Sensores, actuadores y pantallas – 2 semanas
+    Interfaz y aplicaciones de programación – 1 semana
+    Networking y comunicación incrustada – 1 semana
+    Diseño de máquinas – 2 semanas
+    Aplicaciones e implicaciones de fabricación digital – 1 semana
+    Invención, propiedad intelectual y modelos de negocio – 1 semana
+    Desarrollo de proyectos de fabricación digital – 2 semanas
 
 &nbsp;
 
