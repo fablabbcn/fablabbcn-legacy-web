@@ -121,7 +121,7 @@ Este año, la FabAcademy cuenta con veinte estudiantes en el **[FabLab Barcelona
 
 &nbsp;
 
-## What is their plan?
+## Cuál es su plan?
 
 During this 5 month part-time program, students learn how to envision, prototype and document their projects and ideas through many hours of hands-on experience with digital fabrication tools, taking a variety of code formats and turning them into physical objects. 
 The diploma combines 19 certificates provide familiarity with technical options and capabilities, hands-on experience, and direction for further study. The certificates are:
