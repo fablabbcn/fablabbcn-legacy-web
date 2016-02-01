@@ -94,25 +94,20 @@ To reinforce this learning, we view and participate in global lectures broadcast
 <a name="spanish">
 ![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademygeneral.jpg)
 </a>
-&nbsp;
 
 # Esto empieza!
 
 El pasado miércoles, **[Tomás Diez](http://iaac.net/iaac/people/tomas-diez/)**, Director del **[FabLab Barcelona](http://fablabbcn.org)**, presentó la primera sesión del **[FabAcademy](http://fabacademy.org/)** con una charla inaugural a cargo de **[Neil Gershenfeld](http://ng.cba.mit.edu/)**, director del **[MIT's Center for Bits and Atoms](http://cba.mit.edu/)**. Los estudiantes conocieron también a **[Luciana Asinari](http://iaac.net/iaac/people/luciana-asinari/)**, Coordinadora del FabLab Barcelona, y a los FabAcademy Guru's: **[Ferdinand Meier](http://iaac.net/iaac/people/ferdinand-meier/)** y **[Santiago Fuentemilla](http://iaac.net/iaac/people/santi-fuentemilla/)**.
 
-
-&nbsp;
+![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademystudents.jpg)
 
 ## Quiénes son los estudiantes?
 
 Este año, la FabAcademy cuenta con veinte estudiantes en el **[FabLab Barcelona](http://fablabbcn.org/fab_academy.html)** y cinco en el **[Green FabLab](http://greenfablab.org/)**. Nuestros estudiantes son de 18 nacionalidades y vienen de bonitos lugares como: Guatemala, Alemania, Malta, Méjico, Irán, Uruguay, Portugal, Turquía, Italia, Corea del Sur, España, Estados Unidos, Líbano, Nueva Zelanda, Francia, Islandia, Eslovaquia y Grecia.
 
-&nbsp;
 
-![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademystudents.jpg)
+![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademystudents2.jpg)
 
-
-&nbsp;
 
 ## Cuál es su plan?
 
@@ -136,10 +131,10 @@ Este diploma combina 19 certificados que familiarizarán a los estudiantes con d
 - Invención, propiedad intelectual y modelos de negocio – 1 semana
 - Desarrollo de proyectos de fabricación digital – 2 semanas
 
-&nbsp;
 
-![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademystudents2.jpg)
-&nbsp;
+
+![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademydetalle.jpg)
+
 
 Los estudiantes de Fab Academy también aprenderán:
 
@@ -158,11 +153,8 @@ Los estudiantes de Fab Academy también aprenderán:
     Moldeado y fundición
     Impresión y escaneado 3D
 
-&nbsp;
 
-![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademydetalle.jpg)
-
-&nbsp;
+![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademystudents1.jpg)
 
 Para reforzar todo este aprendizaje, formamos parte de las conferencias a nivel mundial impartidas desde el MIT los miércoles de 9:00 am – 12:00 pm EST (Eastern Standard Time). Estas conferencias quedan registradas y están disponibles para los estudiantes durante todo el semestre. Junto a estas conferencias, dos días a la semana los estudiantes tienen a su disposición todas las herramientas de fabricación digital y ayuda personalizada para sus proyectos.
 
@@ -173,7 +165,7 @@ Para reforzar todo este aprendizaje, formamos parte de las conferencias a nivel 
 
 &nbsp;
 
-![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademystudents1.jpg)
+
 ---
 
 
