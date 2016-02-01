@@ -29,7 +29,7 @@ This year, FabAcademy has twenty students at **[FabLab Barcelona](http://fablabb
 
 &nbsp;
 
-![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/XXXXXX)
+![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademystudents.jpg)
 
 
 &nbsp;
