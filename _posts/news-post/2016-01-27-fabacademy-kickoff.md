@@ -40,21 +40,21 @@ This year, FabAcademy has twenty students at **[FabLab Barcelona](http://fablabb
 During this 5 month part-time program, students learn how to envision, prototype and document their projects and ideas through many hours of hands-on experience with digital fabrication tools, taking a variety of code formats and turning them into physical objects. 
 The diploma combines 19 certificates provide familiarity with technical options and capabilities, hands-on experience, and direction for further study. The certificates are:
 
-    Digital fabrication principles and practices – 1 week
-    Computer-aided design, manufacturing, and modeling – 1 week
-    Computer-controlled cutting – 1 week
-    Electronics design and production – 2 weeks
-    Computer-controlled machining – 1 week
-    Embedded programming – 1 week
-    3D molding and casting – 1 week
-    3D scanning and printing – 1 week
-    Sensors, actuators, and displays – 2 weeks
-    Interface and application programming – 1 week
-    Embedded networking and communications – 1 week
-    Machine design – 2 weeks
-    Digital fabrication applications and implications – 1 week
-    Invention, intellectual property, and business models – 1 week
-    Digital fabrication project development – 2 weeks
+- Digital fabrication principles and practices – 1 week
+- Computer-aided design, manufacturing, and modeling – 1 week
+- Computer-controlled cutting – 1 week
+- Electronics design and production – 2 weeks
+- Computer-controlled machining – 1 week
+- Embedded programming – 1 week
+- 3D molding and casting – 1 week
+- 3D scanning and printing – 1 week
+- Sensors, actuators, and displays – 2 weeks
+- Interface and application programming – 1 week
+- Embedded networking and communications – 1 week
+- Machine design – 2 weeks
+- Digital fabrication applications and implications – 1 week
+- Invention, intellectual property, and business models – 1 week
+- Digital fabrication project development – 2 weeks
 
 &nbsp;
 
