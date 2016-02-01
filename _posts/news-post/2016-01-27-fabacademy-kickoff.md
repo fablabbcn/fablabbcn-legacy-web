@@ -158,12 +158,12 @@ Los estudiantes de Fab Academy también aprenderán:
     Cortadora de vinilo Roland CAMM-1 Servo GX-24 Desktop 
     ShopBot
 
-- Electronics design and production by producing circuit boards using a variety of sensors and output devices.
+- Diseño y producción electrónica fabricando placas de circuitos con gran variedad de sensores y dispositivos de salida.
 
-- How to program AVR microcontrollers on the boards they have produced:
+- Cómo programar microcontroladores AVR en las placas fabricadas utilizando:
 
-    Molding and casting
-    3D scanning and printing
+    Moldeado y fundición
+    Impresión y escaneado 3D
 
 &nbsp;
 
