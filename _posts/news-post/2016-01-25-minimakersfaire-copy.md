@@ -1,13 +1,14 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/makersfaire.jpg
-teaserlist: blog_loop_latest/makersfaire.jpg
-title: 7th February // Barcelona Mini Maker Faire 2016
-meta: 'Fab Lab Barcelona invites you to the Barcelona Mini Maker Faire 2016, the greatest makers community gathering of the year.'
+teaserlatest: blog_loop_latest/fabacademystudents1.jpg
+teaserlist: blog_loop_latest/fabacademystudents1.jpg
+title: Fab Academy Kickoff // IT starts!
+meta: 'Fab Academy Kickoff with Tomas Diez, Director of FabLab Barcelona, introducing the first lesson of Neil Gershenfeld, director of MIT's Center for Bits and Atoms.'
 author: Maria Ustarroz
 date: 2016-01-25T23:00:00.000Z
-category: Events
+category: fab academy
+
 ---
 
 ### <a href="#spanish"> Here you can read this post in Spanish </a>
