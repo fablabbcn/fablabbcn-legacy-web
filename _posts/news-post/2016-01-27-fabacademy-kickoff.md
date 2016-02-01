@@ -9,6 +9,7 @@ author: Maria Ustarroz
 date: 2016-01-27T23:00:00.000Z
 category: fab academy
 ---
+## 
 <a href="#spanish"> Here you can read this post in Spanish </a>
 
 &nbsp;
@@ -17,7 +18,7 @@ category: fab academy
 
 &nbsp;
 
-### IT starts!
+# IT starts!
 
 Last Wednesday, **[Tomas Diez](http://iaac.net/iaac/people/tomas-diez/)**, Director of **[FabLab Barcelona](http://fablabbcn.org)**, introduced the first **[FabAcademy](http://fabacademy.org/)** session including a lesson of **[Neil Gershenfeld](http://ng.cba.mit.edu/)**, director of **[MIT's Center for Bits and Atoms](http://cba.mit.edu/)**. Students also met **[Luciana Asinari](http://iaac.net/iaac/people/luciana-asinari/)**, Coordinator of FabLab Barcelona, and FabAcademy Guru's: **[Ferdinand Meier](http://iaac.net/iaac/people/ferdinand-meier/)** and **[Santiago Fuentemilla](http://iaac.net/iaac/people/santi-fuentemilla/)**.
 
@@ -98,7 +99,7 @@ Follow all this amazing process on **[FabAcademy Group](https://www.facebook.com
 &nbsp;
 
 &nbsp;
-## 
+
 <a name="spanish">
 ![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademygeneral.jpg)
 </a>
