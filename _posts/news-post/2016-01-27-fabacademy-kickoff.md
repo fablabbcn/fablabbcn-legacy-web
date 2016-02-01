@@ -17,7 +17,6 @@ category: fab academy
 
 ![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademygeneral.jpg)
 
-&nbsp;
 
 # IT starts!
 
