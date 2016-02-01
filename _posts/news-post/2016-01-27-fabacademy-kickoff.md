@@ -129,9 +129,9 @@ Este diploma combina 19 certificados que familiarizarán a los estudiantes con d
 
     Principios y prácticas de la fabricación digital – 1 semana
     Diseño, fabricación y modelado asistido por ordenador – 1 semana
-    Computer-controlled cutting – 1 week
-    Electronics design and production – 2 weeks
-    Computer-controlled machining – 1 week
+    Corte controlado por ordenador – 1 semana
+    Producción y diseño electrónico – 2 semanas
+    Mecanizado controlado por ordenador – 1 semana
     Embedded programming – 1 week
     3D molding and casting – 1 week
     3D scanning and printing – 1 week
