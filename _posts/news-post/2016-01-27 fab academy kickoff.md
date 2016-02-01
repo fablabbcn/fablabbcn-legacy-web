@@ -72,7 +72,7 @@ Students at the Fab Academy also learn:
     Molding and casting
     3D scanning and printing
 
-
+Beside all this 
 We view and participate in global lectures broadcast from MIT on Wednesdays at 9:00 am – 12:00 pm EST. The lectures are recorded and available to students throughout the semester. In addition to the lectures, there are two lab days each week where students have access the digital fabrication equipment and personal help with projects.
 
 
