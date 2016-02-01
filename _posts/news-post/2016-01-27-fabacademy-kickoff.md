@@ -91,7 +91,7 @@ To reinforce this learning, we view and participate in global lectures broadcast
 
 ### Stay tuned!
 
-Follow all this amazing process on **[FabAcademy Group](https://www.facebook.com/FabLab.BCN)**, **[FabLab Twitter](https://twitter.com/fablabbcn)** and **[FabAcademy](http://fabacademy.org/)**.
+#### Follow all this amazing process on **[FabAcademy Group](https://www.facebook.com/FabLab.BCN)**, **[FabLab Twitter](https://twitter.com/fablabbcn)** and **[FabAcademy](http://fabacademy.org/)**.
 
 &nbsp;
 
