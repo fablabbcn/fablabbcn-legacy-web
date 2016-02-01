@@ -34,7 +34,7 @@ This year, FabAcademy has twenty students at **[FabLab Barcelona](http://fablabb
 
 &nbsp;
 
-![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademystudents.jpg)
+![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademystudents2.jpg)
 
 
 &nbsp;
@@ -61,8 +61,7 @@ The diploma combines 19 certificates provide familiarity with technical options 
 - Digital fabrication project development – 2 weeks
 
 &nbsp;
-
-![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademystudents1.jpg)
+![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademydetalle.jpg)
 &nbsp;
 
 Students at the Fab Academy also learn:
@@ -84,7 +83,7 @@ Students at the Fab Academy also learn:
 
 &nbsp;
 
-![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademystudents2.jpg)
+![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademystudents1.jpg)
 
 &nbsp;
 
