@@ -91,8 +91,6 @@ To reinforce this learning, we view and participate in global lectures broadcast
 
 &nbsp;
 
-&nbsp;
-
 <a name="spanish">
 ![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademygeneral.jpg)
 </a>
