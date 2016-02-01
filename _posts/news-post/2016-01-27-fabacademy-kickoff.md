@@ -125,7 +125,7 @@ Este año, la FabAcademy cuenta con veinte estudiantes en el **[FabLab Barcelona
 
 Durante los cinco meses del programa a media jornada, los estudiantes aprenderán cómo visionar, prototipar y documentar sus proyectos e ideas gracias a las múltiples horas de trabajo directo con herramientas de fabricación digital, diferentes formatos de código y su transformación a objetos físicos.
 
-Este diploma combina 19 certificados que familiarizarán a los estudiantes con diferentes capacidades técnicas, herramientas, experiencia de uso y 
+Este diploma combina 19 certificados que familiarizarán a los estudiantes con diferentes capacidades técnicas, herramientas y experiencia de uso que les permitirán 
 The diploma combines 19 certificates provide familiarity with technical options and capabilities, hands-on experience, and direction for further study. The certificates are:
 
     Digital fabrication principles and practices – 1 week
