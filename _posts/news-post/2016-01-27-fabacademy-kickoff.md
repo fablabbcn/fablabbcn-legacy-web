@@ -150,12 +150,12 @@ Este diploma combina 19 certificados que familiarizarán a los estudiantes con d
 
 Los estudiantes de Fab Academy también aprenderán:
 
-- How to use a Fab Lab’s digital fabrication tools for rapid prototyping:
+- Cómo utilizar las siguientes herramientas de fabricación digital de un FabLab para prototipaje rápido:
 
-    Epilog Mini Lasercutter
-    Roland MDX-20 Milling Machine
-    3D printer
-    Roland CAMM-1 Servo GX-24 Desktop Vinyl Cutter
+    Cortadora Láser Epilog Mini
+    Roland MDX-20 Milling 
+    Impresora 3D 
+    Cortadora de vinilo Roland CAMM-1 Servo GX-24 Desktop 
     ShopBot
 
 - Electronics design and production by producing circuit boards using a variety of sensors and output devices.
