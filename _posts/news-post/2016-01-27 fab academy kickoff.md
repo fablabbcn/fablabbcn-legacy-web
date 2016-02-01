@@ -25,18 +25,13 @@ Last Wednesday, **[Tomas Diez](http://iaac.net/iaac/people/tomas-diez/)**, Direc
 
 ## What about the students?
 
-This year, FabAcademy has twenty students at **[FabLab Barcelona](http://fablabbcn.org/fab_academy.html)** and five at **[Green FabLab](http://greenfablab.org/)**, from 18 different nationalities. They come from beautiful countries like:  Guatemala, Germany, Malta, Mexico, Iran, Uruguay, Portugal, Turkey, Italy, South Korea, Spain, United States, Lebanon, New Zealand, France, Iceland, Slovakia and Greece.
+This year, FabAcademy has twenty students at **[FabLab Barcelona](http://fablabbcn.org/fab_academy.html)** and five at **[Green FabLab](http://greenfablab.org/)**. Students are from 18 different nationalities and they come from beautiful countries like:  Guatemala, Germany, Malta, Mexico, Iran, Uruguay, Portugal, Turkey, Italy, South Korea, Spain, United States, Lebanon, New Zealand, France, Iceland, Slovakia and Greece.
 
 &nbsp;
 
 ## What is their plan?
 
-Amazing **[discussion panels and conferences](http://makerfairebcn.org/conferencia/)** lead by local and international experts that will debate:
-
-* **[Education](http://makerfairebcn.org/conferencia/).** Involving: CityLab, CTC/CESIRE Generalitat, Fab@School and La Salle Barcelona.
-* **[Community](http://makerfairebcn.org/conferencia/).** Involving: Ateneus de Fabricació;, Betahaus, Fab Cafe, Fab Lab BCN, MADE and Makespace Madrid.
-* **[Economy](http://makerfairebcn.org/conferencia/).** Involving: HP-3D Printing Laboratory, BCN 3D Technologies, Laser Projects and Ultra-lab.
-
+During this 5 month part-time program, students learn how to envision, prototype and document their projects and ideas through many hours of hands-on experience with digital fabrication tools, taking a variety of code formats and turning them into physical objects. - See more at: http://fablabbcn.org/fab_academy.html#sthash.zSisIxLr.dpuf
 
 
 ### Stay tuned!
