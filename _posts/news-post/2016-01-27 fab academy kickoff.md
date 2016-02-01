@@ -29,7 +29,7 @@ This edition of the FabAcademy
 
 &nbsp;
 
-### What is their plan?
+## What is their plan?
 
 Amazing **[discussion panels and conferences](http://makerfairebcn.org/conferencia/)** lead by local and international experts that will debate:
 
