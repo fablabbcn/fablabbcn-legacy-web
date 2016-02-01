@@ -6,7 +6,7 @@ teaserlist: blog_loop_latest/fabacademystudents1.jpg
 title: Fab Academy Kickoff // IT starts!
 meta: 'Fab Academy Kickoff with Tomas Diez, Director of FabLab Barcelona, introducing the first lesson of Neil Gershenfeld, director of MIT's Center for Bits and Atoms.'
 author: Maria Ustarroz
-date: 2016-01-29T23:00:00.000Z
+date: 2016-01-27T23:00:00.000Z
 category: fab academy
 ---
 
