@@ -98,12 +98,13 @@ Follow all this amazing process on **[FabAcademy Group](https://www.facebook.com
 &nbsp;
 
 &nbsp;
+## 
 <a name="spanish">
 ![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademygeneral.jpg)
 </a>
 &nbsp;
 
-### Esto empieza!
+# Esto empieza!
 
 El pasado miércoles, **[Tomás Diez](http://iaac.net/iaac/people/tomas-diez/)**, Director del **[FabLab Barcelona](http://fablabbcn.org)**, presentó la primera sesión del **[FabAcademy](http://fabacademy.org/)** con una charla inaugural a cargo de **[Neil Gershenfeld](http://ng.cba.mit.edu/)**, director del **[MIT's Center for Bits and Atoms](http://cba.mit.edu/)**. Los estudiantes conocieron también a **[Luciana Asinari](http://iaac.net/iaac/people/luciana-asinari/)**, Coordinadora del FabLab Barcelona, y a los FabAcademy Guru's: **[Ferdinand Meier](http://iaac.net/iaac/people/ferdinand-meier/)** y **[Santiago Fuentemilla](http://iaac.net/iaac/people/santi-fuentemilla/)**.
 
@@ -127,21 +128,21 @@ Durante los cinco meses del programa a media jornada, los estudiantes aprenderá
 
 Este diploma combina 19 certificados que familiarizarán a los estudiantes con diferentes capacidades técnicas, herramientas y experiencia de uso, además de dotarles con conocimientos para dirigir sus futuras investigaciones. Estos certificados son:
 
-    Principios y prácticas de la fabricación digital – 1 semana
-    Diseño, fabricación y modelado asistido por ordenador – 1 semana
-    Corte controlado por ordenador – 1 semana
-    Producción y diseño electrónico – 2 semanas
-    Mecanizado controlado por ordenador – 1 semana
-    Programación incrustada – 1 semana
-    Modelaje y fundición 3D – 1 semana
-    Impresión y escaneado 3D – 1 semana
-    Sensores, actuadores y pantallas – 2 semanas
-    Interfaz y aplicaciones de programación – 1 semana
-    Networking y comunicación incrustada – 1 semana
-    Diseño de máquinas – 2 semanas
-    Aplicaciones e implicaciones de fabricación digital – 1 semana
-    Invención, propiedad intelectual y modelos de negocio – 1 semana
-    Desarrollo de proyectos de fabricación digital – 2 semanas
+- Principios y prácticas de la fabricación digital – 1 semana
+- Diseño, fabricación y modelado asistido por ordenador – 1 semana
+- Corte controlado por ordenador – 1 semana
+- Producción y diseño electrónico – 2 semanas
+- Mecanizado controlado por ordenador – 1 semana
+- Programación incrustada – 1 semana
+- Modelaje y fundición 3D – 1 semana
+- Impresión y escaneado 3D – 1 semana
+- Sensores, actuadores y pantallas – 2 semanas
+- Interfaz y aplicaciones de programación – 1 semana
+- Networking y comunicación incrustada – 1 semana
+- Diseño de máquinas – 2 semanas
+- Aplicaciones e implicaciones de fabricación digital – 1 semana
+- Invención, propiedad intelectual y modelos de negocio – 1 semana
+- Desarrollo de proyectos de fabricación digital – 2 semanas
 
 &nbsp;
 
