@@ -103,16 +103,16 @@ Follow all this amazing process on **[FabAcademy Group](https://www.facebook.com
 </a>
 &nbsp;
 
-### IT starts!
+### Esto empieza!
 
 El pasado miércoles, **[Tomás Diez](http://iaac.net/iaac/people/tomas-diez/)**, Director del **[FabLab Barcelona](http://fablabbcn.org)**, presentó la primera sesión del **[FabAcademy](http://fabacademy.org/)** con una charla inaugural a cargo de **[Neil Gershenfeld](http://ng.cba.mit.edu/)**, director del **[MIT's Center for Bits and Atoms](http://cba.mit.edu/)**. Los estudiantes conocieron también a **[Luciana Asinari](http://iaac.net/iaac/people/luciana-asinari/)**, Coordinadora del FabLab Barcelona, y a los FabAcademy Guru's: **[Ferdinand Meier](http://iaac.net/iaac/people/ferdinand-meier/)** y **[Santiago Fuentemilla](http://iaac.net/iaac/people/santi-fuentemilla/)**.
 
 
 &nbsp;
 
-## What about the students?
+## Quiénes son los estudiantes?
 
-This year, FabAcademy has twenty students at **[FabLab Barcelona](http://fablabbcn.org/fab_academy.html)** and five at **[Green FabLab](http://greenfablab.org/)**. Students are from 18 different nationalities and they come from beautiful countries like:  Guatemala, Germany, Malta, Mexico, Iran, Uruguay, Portugal, Turkey, Italy, South Korea, Spain, United States, Lebanon, New Zealand, France, Iceland, Slovakia and Greece.
+Este año, la FabAcademy cuenta con veinte estudiantes en el **[FabLab Barcelona](http://fablabbcn.org/fab_academy.html)** y cinco en el **[Green FabLab](http://greenfablab.org/)**. Nuestros estudiantes son de 18 nacionalidades y vienen de bonitos lugares como: Guatemala, Alemania, Malta, Méjico, Irán, Uruguay, Portugal, Turquía, Italia, Corea del Sur, España, Estados Unidos, Líbano, Nueva Zelanda, Francia, Islandia, Eslovaquia y Grecia.
 
 &nbsp;
 
