@@ -94,7 +94,6 @@ Follow all this amazing process on **[FabAcademy Group](https://www.facebook.com
 ![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademydetalle.jpg)
 ---
 
-&nbsp;
 
 
 
