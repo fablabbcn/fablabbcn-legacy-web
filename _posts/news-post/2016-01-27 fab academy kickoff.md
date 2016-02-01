@@ -25,7 +25,7 @@ Last Wednesday, **[Tomas Diez](http://iaac.net/iaac/people/tomas-diez/)**, Direc
 
 ## What about the students?
 
-This edition of the FabAcademy 
+This year, FabAcademy has twenty students at **[FabLab Barcelona](http://fablabbcn.org/fab_academy.html)** and five at **[Green FabLab](http://greenfablab.org/)**. Our students are from 18 different nationalitiesGuatemala, Germany, Malta, Mexico, Iran, Uruguay, Portugal, Turkey, Italy, South Korea, Spain, United States, Lebanon, New Zealand, France, Iceland, Slovakia and Greece.
 
 &nbsp;
 
