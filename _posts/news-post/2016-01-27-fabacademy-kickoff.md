@@ -148,7 +148,7 @@ Este diploma combina 19 certificados que familiarizarán a los estudiantes con d
 
 &nbsp;
 
-![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademystudents1.jpg)
+![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademystudents2.jpg)
 &nbsp;
 
 Los estudiantes de Fab Academy también aprenderán:
@@ -170,7 +170,7 @@ Los estudiantes de Fab Academy también aprenderán:
 
 &nbsp;
 
-![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademystudents2.jpg)
+![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademydetalle.jpg)
 
 &nbsp;
 
@@ -183,7 +183,7 @@ Puedes seguir este asombroso proceso en **[FabAcademy Group](https://www.faceboo
 
 &nbsp;
 
-![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademydetalle.jpg)
+![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademystudents1.jpg)
 ---
 
 
