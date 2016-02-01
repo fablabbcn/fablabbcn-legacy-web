@@ -23,6 +23,9 @@ category: fab academy
 
 Last Wednesday, **[Tomas Diez](http://iaac.net/iaac/people/tomas-diez/)**, Director of **[FabLab Barcelona](http://fablabbcn.org)**, introduced the first **[FabAcademy](http://fabacademy.org/)** session including a lesson of **[Neil Gershenfeld](http://ng.cba.mit.edu/)**, director of **[MIT's Center for Bits and Atoms](http://cba.mit.edu/)**. Students also met **[Luciana Asinari](http://iaac.net/iaac/people/luciana-asinari/)**, Coordinator of FabLab Barcelona, and FabAcademy Guru's: **[Ferdinand Meier](http://iaac.net/iaac/people/ferdinand-meier/)** and **[Santiago Fuentemilla](http://iaac.net/iaac/people/santi-fuentemilla/)**.
 
+&nbsp;
+
+![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademystudents.jpg)
 
 &nbsp;
 
