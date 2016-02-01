@@ -174,9 +174,9 @@ Los estudiantes de Fab Academy también aprenderán:
 Para reforzar todo este aprendizaje, formamos parte de las conferencias a nivel mundial impartidas desde el MIT los miércoles de 9:00 am – 12:00 pm EST (Eastern Standard Time). Estas conferencias quedan registradas y están disponibles para los estudiantes durante todo el semestre. Junto a estas conferencias, dos días a la semana los estudiantes tienen a su disposición todas las herramientas de fabricación digital y ayuda personalizada para sus proyectos.
 
 
-### Stay tuned!
+### Síguenos!
 
-Follow all this amazing process on **[FabAcademy Group](https://www.facebook.com/FabLab.BCN)**, **[FabLab Twitter](https://twitter.com/fablabbcn)** and **[FabAcademy](http://fabacademy.org/)**.
+Puedes seguir este asombroso proceso en **[FabAcademy Group](https://www.facebook.com/FabLab.BCN)**, **[FabLab Twitter](https://twitter.com/fablabbcn)** y **[FabAcademy](http://fabacademy.org/)**.
 
 &nbsp;
 
