@@ -31,7 +31,9 @@ This year, FabAcademy has twenty students at **[FabLab Barcelona](http://fablabb
 
 ## What is their plan?
 
-During this 5 month part-time program, students learn how to envision, prototype and document their projects and ideas through many hours of hands-on experience with digital fabrication tools, taking a variety of code formats and turning them into physical objects. - See more at: http://fablabbcn.org/fab_academy.html#sthash.zSisIxLr.dpuf
+During this 5 month part-time program, students learn how to envision, prototype and document their projects and ideas through many hours of hands-on experience with digital fabrication tools, taking a variety of code formats and turning them into physical objects. 
+
+
 
 
 ### Stay tuned!
