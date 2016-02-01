@@ -13,8 +13,6 @@ category: fab academy
 #####<a href="#spanish"> Aquí puedes leer la notícia en castellano. </a>
 #####<a href="#spanish"> Here you can read this post in Spanish </a>
 
-&nbsp;
-
 ![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademygeneral.jpg)
 
 
@@ -26,8 +24,6 @@ Last Wednesday, **[Tomas Diez](http://iaac.net/iaac/people/tomas-diez/)**, Direc
 
 ![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademystudents.jpg)
 
-&nbsp;
-
 ## What about the students?
 
 This year, FabAcademy has twenty students at **[FabLab Barcelona](http://fablabbcn.org/fab_academy.html)** and five at **[Green FabLab](http://greenfablab.org/)**. Students are from 18 different nationalities and they come from beautiful countries like:  Guatemala, Germany, Malta, Mexico, Iran, Uruguay, Portugal, Turkey, Italy, South Korea, Spain, United States, Lebanon, New Zealand, France, Iceland, Slovakia and Greece.
@@ -36,8 +32,6 @@ This year, FabAcademy has twenty students at **[FabLab Barcelona](http://fablabb
 
 ![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademystudents2.jpg)
 
-
-&nbsp;
 
 ## What is their plan?
 
@@ -60,7 +54,6 @@ The diploma combines 19 certificates provide familiarity with technical options 
 - Invention, intellectual property, and business models – 1 week
 - Digital fabrication project development – 2 weeks
 
-&nbsp;
 ![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademydetalle.jpg)
 &nbsp;
 
@@ -81,7 +74,6 @@ Students at the Fab Academy also learn:
     Molding and casting
     3D scanning and printing
 
-&nbsp;
 
 ![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademystudents1.jpg)
 
