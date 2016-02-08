@@ -3,8 +3,8 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/makersfaire.jpg
 teaserlist: blog_loop_latest/makersfaire.jpg
-title: 7th February // Barcelona Mini Maker Faire 2016
-meta: 'Fab Lab Barcelona invites you to the Barcelona Mini Maker Faire 2016, the greatest makers community gathering of the year.'
+title: 7th February // Barcelona Mini Maker Faire 2016 Overview
+meta: 'Fab Lab Barcelona overview of the Barcelona Mini Maker Faire 2016, the greatest makers community gathering of the year in the city.'
 author: Maria Ustarroz
 date: 2016-01-25T23:00:00.000Z
 category: Events
