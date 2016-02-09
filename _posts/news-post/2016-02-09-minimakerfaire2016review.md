@@ -22,7 +22,7 @@ category: Events
 &nbsp;
 
 ###What we did
-
+&nbsp;
 ####Pop Up Fab Lab & Smart Citizen Stand
 
 
@@ -35,7 +35,7 @@ category: Events
 Fab Lab Barcelona also showed the **[Smart Citizen](http://fablabbcn.org/0000/01/06/smart-citizen.html)** project. Smart Citizen is a **[platform](https://smartcitizen.me/)** for the generation of social participatory processes in urban areas. Connecting data, people and knowledge, the objective of the platform is to serve as a node for building productive and open indicators, and distributed tools, bringing thereafter to the collective construction of the city for and by its own inhabitants.
 
 
-
+&nbsp;
 ####Fab Textiles Stand
 
 <img src= "http://www.fablabbcn.org/img/blog/makerfaire_barcelona16/dsc_5984.jpg"> </img>
@@ -43,9 +43,9 @@ Fab Lab Barcelona also showed the **[Smart Citizen](http://fablabbcn.org/0000/01
 In this stand we showed some results of the **[Fab Textiles](http://fablabbcn.org/0000/01/01/fab-textiles-seamless.html)** projects. For example, how using digital computing and fabrication methods we are able to rapidly prototype and assemble new designs. Using any 2D or 3D software we create patterns ready for cutting. Our **[machines at Fab Lab Barcelona](http://fablabbcn.org/machines.html)** allow a us a wide range of possibilities, so we try to take advantage of the accuracy, precision, and repetitions these machines can achieve.
 
 
-
+&nbsp;
 ####Community Panel
-
+<img src= "http://www.fablabbcn.org/img/blog/makerfaire_barcelona16/dsc_6178.jpg"> </img>
 **[Tomas Diez](http://fablabbcn.org/about_us.html)**, director of Fab Lab Barcelona, participated in the Community Panel together with other experts as Jordi Reynés (Ateneus de Fabricació), David Tena (Fab Cafe), Ian Collingwood (MADE) and Sara Alvarellos (akespace Madrid). The discussion of this panel revolved around the different models and types of organization and how they build the maker community.
 
 
@@ -122,9 +122,7 @@ In this stand we showed some results of the **[Fab Textiles](http://fablabbcn.or
     <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6160.jpg" />
     </div>
-  <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6178.jpg" />
-    </div>
+ 
     
     
     
