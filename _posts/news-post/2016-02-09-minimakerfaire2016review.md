@@ -34,9 +34,6 @@ category: Events
       <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5992.jpg" />
     </div>
     
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5998.jpg" />
-    </div>
  <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5970.jpg" />
     </div>
