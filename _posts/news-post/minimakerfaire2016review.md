@@ -17,11 +17,9 @@ category: Events
 
 ![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/makersfaire2016/dsc_5949.png)
 
-As announced, last 7th of February the Mini Maker Faire Barcelona 2016 took place at CosmoCaixa. It reached 7000 visitors and XXXX exhibitors. 
+As announced, last 7th of February the Mini Maker Faire Barcelona 2016 took place at CosmoCaixa. It reached 7000 visitors and XXXX exhibitors. Part of them are directly related with Fab Lab Barcelona as Alumni or collaborations with our project managers, like: **[Fab Lab Sant Cugat](http://fablab-sant-cugat.webflow.io/)**, **[Twistab](http://www.twistab.org)**, **[N.E.R.O.](http://iaac.net/fab-labs/green-fab-lab/workshops/nero-mapping/)**, **[Open Source Beehives](http://opensourcebeehives.net/)**, etc.
 
-XXXXX of them are directly related with Fab Lab Barcelona, 
-
-Fab Lab Barcelona also presented some of our projects and participated in different activities.
+Fab Lab Barcelona also presented some of our main projects and participated in different activities.
 
 
 ###What we did
