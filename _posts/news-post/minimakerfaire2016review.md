@@ -29,7 +29,7 @@ Fab Lab Barcelona also presented some of our main projects and participated in d
 
 Santi was in charge of the **[Pop Up Fab Lab](http://fablabbcn.org/popup_fab_lab.html)**. This basic infrastructure for small-scale production is our mobile Fab Lab, which small size allows movement and transportation to any location. This way, we bring the Fab Lab to the public when the public cannot reach the Fab Lab. 
 
-Fab Lab Barcelona also showed the **[Smart Citizen](http://fablabbcn.org/0000/01/06/smart-citizen.html)** project. Smart Citizen is a platform for the generation of social participatory processes in urban areas. Connecting data, people and knowledge, the objective of the platform is to serve as a node for building productive and open indicators, and distributed tools, bringing thereafter to the collective construction of the city for and by its own inhabitants.
+Fab Lab Barcelona also showed the **[Smart Citizen](http://fablabbcn.org/0000/01/06/smart-citizen.html)** project. Smart Citizen is a **[platform](https://smartcitizen.me/)** for the generation of social participatory processes in urban areas. Connecting data, people and knowledge, the objective of the platform is to serve as a node for building productive and open indicators, and distributed tools, bringing thereafter to the collective construction of the city for and by its own inhabitants.
 
 ![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/makersfaire2016/dsc_5949.png)
 
