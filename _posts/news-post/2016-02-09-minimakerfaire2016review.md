@@ -11,8 +11,11 @@ date: 09/02/2016
 category: Events
 
 ---
-<img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/makersfaire2016/dsc_5949.jpg">
 
+#####<a href="#spanish"> Aquí puedes leer la notícia en castellano. </a>
+#####<a href="#spanish"> Here you can read this post in Spanish </a>
+
+![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/makersfaire2016/dsc_5949.jpg)
 
 
 
