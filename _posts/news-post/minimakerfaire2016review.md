@@ -153,9 +153,6 @@ XXXXXXXXXXXX
   <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6178.jpg" />
     </div>
-     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6160.jpg" />
-    </div>
     
   </div>
 
