@@ -202,13 +202,12 @@ En este stand también se mostró el proyecto **[Smart Citizen](http://fablabbcn
 
 <img src= "http://www.fablabbcn.org/img/blog/makerfaire_barcelona16/dsc_5984.jpg"> </img>
 
-En este stand mostramos algunos de los resultados de los proyectos de **[Fab Textiles](http://fablabbcn.org/0000/01/01/fab-textiles-seamless.html)**. Por ejemplo, cómo usando métodos de fabricación y computación digital podemos prototipar y crear rápidamente nuevos diseños. Usando cualquier software 2D o 3D creamos patrones listos para cortar. Nuestras **[máquinas en Fab Lab Barcelona](http://fablabbcn.org/machines.html)** nos permiten un ámplio abanico de posibilidades, por eso intentamos aprovechar toda la precisión, allow a us a wide range of possibilities, so we try to take advantage of the accuracy, precision, and repetitions these machines can achieve.
-
+En este stand mostramos algunos de los resultados de los proyectos de **[Fab Textiles](http://fablabbcn.org/0000/01/01/fab-textiles-seamless.html)**. Por ejemplo, cómo usando métodos de fabricación y computación digital podemos prototipar y crear rápidamente nuevos diseños. Usando cualquier software 2D o 3D creamos patrones listos para cortar. Nuestras **[máquinas en Fab Lab Barcelona](http://fablabbcn.org/machines.html)** nos permiten un ámplio abanico de posibilidades, por eso intentamos aprovechar toda la precisión, exactitud y repeticiones que estas máquinas permiten.
 
 &nbsp;
 ####Community Panel
 <img src= "http://www.fablabbcn.org/img/blog/makerfaire_barcelona16/dsc_6178.jpg"> </img>
-**[Tomas Diez](http://fablabbcn.org/about_us.html)**, director of Fab Lab Barcelona, participated in the Community Panel together with other experts as Jordi Reynés (Ateneus de Fabricació), David Tena (Fab Cafe), Ian Collingwood (MADE) and Sara Alvarellos (akespace Madrid). The discussion of this panel revolved around the different models and types of organization and how they build the maker community.
+**[Tomas Diez](http://fablabbcn.org/about_us.html)**, director del Fab Lab Barcelona, participó en el Panel de Comunidad junto con otros expertos como Jordi Reynés (Ateneus de Fabricació), David Tena (Fab Cafe), Ian Collingwood (MADE) y Sara Alvarellos (akespace Madrid). El debate giró entorno a los diferentes modelos y tipos de organización y cómo estos construyen la comunidad maker.
 
 
 &nbsp;
@@ -216,7 +215,7 @@ En este stand mostramos algunos de los resultados de los proyectos de **[Fab Tex
 ####Taska Workshop
 <img src= "http://www.fablabbcn.org/img/blog/makerfaire_barcelona16/dsc_6211.jpg"> </img>
 
-**[Anastasia Pistofidou and Ingi Freyr](http://fablabbcn.org/about_us.html)**, one of our project manager's and our advanced manufacturing specialist, host the Taska Workshop, where participants could make their own **[Taska Bag](https://fabtextiles.org/taska/)**.
+**[Anastasia Pistofidou y Ingi Freyr](http://fablabbcn.org/about_us.html)**, una de nuestras project manager y nuestro especialista en fabricación avanzada, impartieron el Taska Workshop, donde los participantes pudieron crear su propia **[Taska Bag](https://fabtextiles.org/taska/)**.
 &nbsp;
 
 
