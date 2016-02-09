@@ -22,8 +22,6 @@ Last 7th of February, the Mini Maker Faire Barcelona 2016 took place at CosmoCai
 
 ###What we did
 
-####
-
-
-
+####Pop Up Fab Lab
+Santi was in charge of the **[Pop Up Fab Lab](http://fablabbcn.org/popup_fab_lab.html)**. This basic infrastructure for small-scale production is our mobile Fab Lab, which small size allows movement and transportation to any location. We bring the Fab Lab to the public when the public cannot reach the Fab Lab. 
 
