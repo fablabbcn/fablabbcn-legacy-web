@@ -49,10 +49,14 @@ In this stand we showed some results of the **[Fab Textiles](http://fablabbcn.or
 **[Tomas Diez](http://fablabbcn.org/about_us.html)**, director of Fab Lab Barcelona, participated in the Community Panel together with other experts as Jordi Reynés (Ateneus de Fabricació), David Tena (Fab Cafe), Ian Collingwood (MADE) and Sara Alvarellos (akespace Madrid). The discussion of this panel revolved around the different models and types of organization and how they build the maker community.
 
 
+&nbsp;
 
 ####Taska Workshop
+<img src= "http://www.fablabbcn.org/img/blog/makerfaire_barcelona16/dsc_6211.jpg"> </img>
 
 **[Anastasia Pistofidou and Ingi Freyr](http://fablabbcn.org/about_us.html)**, one of our project manager's and our advanced manufacturing specialist, host the Taska Workshop, where participants could make their own **[Taska Bag](https://fabtextiles.org/taska/)**.
+&nbsp;
+
 
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 
@@ -86,11 +90,6 @@ In this stand we showed some results of the **[Fab Textiles](http://fablabbcn.or
     </div>
     
     
-    
-    
-    <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5984.jpg" />
-    </div>
     
     <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6079.jpg" />
@@ -148,9 +147,7 @@ In this stand we showed some results of the **[Fab Textiles](http://fablabbcn.or
     <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6112.jpg" />
     </div>
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6211.jpg" />
-    </div>
+ 
  
     
     
@@ -218,9 +215,6 @@ In this stand we showed some results of the **[Fab Textiles](http://fablabbcn.or
     
     
     
-    
-  
-    
     <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6079.jpg" />
     </div>
@@ -251,9 +245,7 @@ In this stand we showed some results of the **[Fab Textiles](http://fablabbcn.or
     <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6160.jpg" />
     </div>
-  <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6178.jpg" />
-    </div>
+ 
     
     
     
@@ -279,9 +271,7 @@ In this stand we showed some results of the **[Fab Textiles](http://fablabbcn.or
     <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6112.jpg" />
     </div>
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6211.jpg" />
-    </div>
+ 
  
     
     
