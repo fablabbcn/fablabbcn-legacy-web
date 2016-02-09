@@ -136,21 +136,27 @@ XXXXXXXXXXXX
   <div class="carousel-inner" role="listbox">
    
     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5984.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6147.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6079.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6148.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5979.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6187.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5985.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6160.jpg" />
     </div>
- 
+  <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6178.jpg" />
+    </div>
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6160.jpg" />
+    </div>
+    
   </div>
 
 <!-------------------- Controls --------------------->
