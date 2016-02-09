@@ -15,11 +15,60 @@ category: Events
 #####<a href="#spanish"> Aquí puedes leer la notícia en castellano. </a>
 #####<a href="#spanish"> Here you can read this post in Spanish </a>
 
-![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/makersfaire2016/dsc_5949.png)
 
-As announced, last 7th of February the Mini Maker Faire Barcelona 2016 took place at CosmoCaixa. It reached 7000 visitors and XXXX exhibitors. Part of them are directly related with Fab Lab Barcelona as Alumni or collaborations with our project managers, like: **[Fab Lab Sant Cugat](http://fablab-sant-cugat.webflow.io/)**, **[Twistab](http://www.twistab.org)**, **[N.E.R.O.](http://iaac.net/fab-labs/green-fab-lab/workshops/nero-mapping/)**, **[Open Source Beehives](http://opensourcebeehives.net/)**, etc.
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 
-Fab Lab Barcelona also presented some of our main projects and participated in different activities.
+<!--------------- Wrapper for slides --------------->
+
+  <div class="carousel-inner" role="listbox">
+   
+    <div class="item active">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5949.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5998.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5992.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5998.jpg" />
+    </div>
+ <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5970.jpg" />
+    </div>
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6008.jpg" />
+    </div>
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6046.jpg" />
+    </div>
+ <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6064.jpg" />
+    </div>
+  </div>
+
+<!-------------------- Controls --------------------->
+
+  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+<!----- Image Slider ----------------------------- Image Slider -------------->
+
+<br>
+
+
+**[As announced](http://fablabbcn.org/events/2016/01/25/minimakersfaire.html)**, last 7th of February the Mini Maker Faire Barcelona 2016 took place at CosmoCaixa. It reached 7000 visitors and hosted 70 exhibitors. Part of them are directly related with Fab Lab Barcelona as Alumni or collaborations with our project managers, like: **[Fab Lab Sant Cugat](http://fablab-sant-cugat.webflow.io/)**, **[Twistab](http://www.twistab.org)**, **[N.E.R.O.](http://iaac.net/fab-labs/green-fab-lab/workshops/nero-mapping/)**, **[Open Source Beehives](http://opensourcebeehives.net/)**, etc. **[Fab Lab Barcelona](http://fablabbcn.org/)** also presented some of our main **[projects](http://fablabbcn.org/projects.html)** and participated in different activities.
 
 
 ###What we did
