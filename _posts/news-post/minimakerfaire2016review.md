@@ -43,15 +43,11 @@ Fab Lab Barcelona also showed the **[Smart Citizen](http://fablabbcn.org/0000/01
 
 ####Community Panel
 
-Comunidad: Panel (Moderador Albert Cañigueral)
-Ateneus de Fabricació -Núria Martínez, Verónica Martínez i Jordi Reynés (Públic)
-Fab Cafe – Cecilia Tham (CoWorking)
-Fab Lab BCN – Tomas Diez (Academic Setting)
-MADE – Ian Collingwood (Association)
-Makespace Madrid – Sara Alvarellos i Cesar Garcia Saez (Association)
+**[Tomas Diez](http://fablabbcn.org/about_us.html)**, director of Fab Lab Barcelona, participated in the Community Panel together with other experts as Jordi Reynés (Ateneus de Fabricació), David Tena (Fab Cafe), Ian Collingwood (MADE) and Sara Alvarellos (akespace Madrid).
 
 ####Taska Workshop
 
+**[Anastasia Pistofidou and Ingi Freyr](http://fablabbcn.org/about_us.html)**, one of our project manager's and our advanced manufacturing specialist, host the Taska Workshop, where participants could make their own **[Taska Bag](https://fabtextiles.org/taska/)**.
 
 ---
 
