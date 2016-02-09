@@ -180,7 +180,11 @@ In this stand we showed some results of the **[Fab Textiles](http://fablabbcn.or
 
 &nbsp;
 
-<a name="spanish"></a>
+<a name="spanish">
+
+<img src= "http://www.fablabbcn.org/img/blog/makerfaire_barcelona16/dsc_5949.jpg"> </img>
+
+</a>
 
 
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
