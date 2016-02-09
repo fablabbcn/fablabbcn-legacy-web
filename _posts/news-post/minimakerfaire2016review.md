@@ -57,46 +57,28 @@ Fab Lab Barcelona also showed the **[Smart Citizen](http://fablabbcn.org/0000/01
   <div class="carousel-inner" role="listbox">
    
     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong kong-10.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6216.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong kong-1.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6097.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong kong-2.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6095.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong kong-3.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6228.jpg" />
     </div>
  <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong kong-4.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6108.jpg" />
     </div>
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong kong-5.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6112.jpg" />
     </div>
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong kong-6.jpg" />
-    </div>
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong kong-7.jpg" />
-    </div>
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong kong-8.jpg" />
-    </div>
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong kong-9.jpg" />
-    </div>
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong-kong-11.jpg" />
-    </div>
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_hongkong/makerfaire-hong kong-12.jpg" />
-    </div>
-      <div class="item">
-      <img src="http://static1.squarespace.com/static/55c1e26ee4b09ad05fa39502/564f5feae4b07f88bd50301e/564f5feae4b0e21822e99981/1448042479623/hongkongparticipatory.jpg?format=1000w" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6211.jpg" />
     </div>
  
   </div>
