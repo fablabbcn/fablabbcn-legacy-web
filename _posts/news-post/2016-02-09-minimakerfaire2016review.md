@@ -16,55 +16,6 @@ category: Events
 #####<a href="#spanish"> Here you can read this post in Spanish </a>
 
 
-<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-
-<!--------------- Wrapper for slides --------------->
-
-  <div class="carousel-inner" role="listbox">
-   
-    <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5949.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5998.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5992.jpg" />
-    </div>
-    
- <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5970.jpg" />
-    </div>
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6008.jpg" />
-    </div>
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6046.jpg" />
-    </div>
- <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6064.jpg" />
-    </div>
-  </div>
-
-<!-------------------- Controls --------------------->
-
-  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-
-<!----- Image Slider ----------------------------- Image Slider -------------->
-
-<br>
-
-
 **[As announced](http://fablabbcn.org/events/2016/01/25/minimakersfaire.html)**, last 7th of February the Mini Maker Faire Barcelona 2016 took place at CosmoCaixa. It reached 7000 visitors and hosted 70 exhibitors. Part of them are directly related with Fab Lab Barcelona as Alumni or collaborations with our project managers, like: **[Fab Lab Sant Cugat](http://fablab-sant-cugat.webflow.io/)**, **[Twistab](http://www.twistab.org)**, **[N.E.R.O.](http://iaac.net/fab-labs/green-fab-lab/workshops/nero-mapping/)**, **[Open Source Beehives](http://opensourcebeehives.net/)**, etc. **[Fab Lab Barcelona](http://fablabbcn.org/)** also presented some of our main **[projects](http://fablabbcn.org/projects.html)** and participated in different activities.
 
 &nbsp;
@@ -84,12 +35,57 @@ Fab Lab Barcelona also showed the **[Smart Citizen](http://fablabbcn.org/0000/01
 
 
 
+####Fab Textiles Stand
+
+XXXXXXXXXXXX
+
+
+
+
+####Community Panel
+
+**[Tomas Diez](http://fablabbcn.org/about_us.html)**, director of Fab Lab Barcelona, participated in the Community Panel together with other experts as Jordi Reynés (Ateneus de Fabricació), David Tena (Fab Cafe), Ian Collingwood (MADE) and Sara Alvarellos (akespace Madrid). The discussion of this panel revolved around the different models and types of organization and how they build the maker community.
+
+
+
+####Taska Workshop
+
+**[Anastasia Pistofidou and Ingi Freyr](http://fablabbcn.org/about_us.html)**, one of our project manager's and our advanced manufacturing specialist, host the Taska Workshop, where participants could make their own **[Taska Bag](https://fabtextiles.org/taska/)**.
+
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 
 <!--------------- Wrapper for slides --------------->
 
   <div class="carousel-inner" role="listbox">
    
+    <div class="item active">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5949.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5998.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5992.jpg" />
+    </div>
+
+ <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5970.jpg" />
+    </div>
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6008.jpg" />
+    </div>
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6046.jpg" />
+    </div>
+ <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6064.jpg" />
+    </div>
+    
+    
+    
+    
     <div class="item active">
       <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5984.jpg" />
     </div>
@@ -105,34 +101,10 @@ Fab Lab Barcelona also showed the **[Smart Citizen](http://fablabbcn.org/0000/01
     <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5985.jpg" />
     </div>
- 
-  </div>
-
-<!-------------------- Controls --------------------->
-
-  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-
-<!----- Image Slider ----------------------------- Image Slider -------------->
-
-
-####Fab Textiles Stand
-
-XXXXXXXXXXXX
-
-<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-
-<!--------------- Wrapper for slides --------------->
-
-  <div class="carousel-inner" role="listbox">
-   
+    
+    
+    
+    
     <div class="item active">
       <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6147.jpg" />
     </div>
@@ -152,35 +124,9 @@ XXXXXXXXXXXX
       <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6178.jpg" />
     </div>
     
-  </div>
-
-<!-------------------- Controls --------------------->
-
-  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-
-<!----- Image Slider ----------------------------- Image Slider -------------->
-
-####Community Panel
-
-**[Tomas Diez](http://fablabbcn.org/about_us.html)**, director of Fab Lab Barcelona, participated in the Community Panel together with other experts as Jordi Reynés (Ateneus de Fabricació), David Tena (Fab Cafe), Ian Collingwood (MADE) and Sara Alvarellos (akespace Madrid). The discussion of this panel revolved around the different models and types of organization and how they build the maker community.
-
-
-
-
-<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-
-<!--------------- Wrapper for slides --------------->
-
-  <div class="carousel-inner" role="listbox">
-   
+    
+    
+    
     <div class="item active">
       <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6216.jpg" />
     </div>
@@ -206,6 +152,8 @@ XXXXXXXXXXXX
       <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6211.jpg" />
     </div>
  
+    
+    
   </div>
 
 <!-------------------- Controls --------------------->
@@ -222,20 +170,17 @@ XXXXXXXXXXXX
 
 <!----- Image Slider ----------------------------- Image Slider -------------->
 
-
-####Taska Workshop
-
-**[Anastasia Pistofidou and Ingi Freyr](http://fablabbcn.org/about_us.html)**, one of our project manager's and our advanced manufacturing specialist, host the Taska Workshop, where participants could make their own **[Taska Bag](https://fabtextiles.org/taska/)**.
-
 <br>
-
+<br>
 
 
 ---
 
 &nbsp;
 
-<a name="spanish">
+<a name="spanish"></a>
+
+
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 
 <!--------------- Wrapper for slides --------------->
@@ -253,10 +198,7 @@ XXXXXXXXXXXX
     <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5992.jpg" />
     </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5998.jpg" />
-    </div>
+
  <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5970.jpg" />
     </div>
@@ -269,6 +211,78 @@ XXXXXXXXXXXX
  <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6064.jpg" />
     </div>
+    
+    
+    
+    
+    <div class="item active">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5984.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6079.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5979.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5985.jpg" />
+    </div>
+    
+    
+    
+    
+    <div class="item active">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6147.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6148.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6187.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6160.jpg" />
+    </div>
+  <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6178.jpg" />
+    </div>
+    
+    
+    
+    
+    <div class="item active">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6216.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6097.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6095.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6228.jpg" />
+    </div>
+ <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6108.jpg" />
+    </div>
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6112.jpg" />
+    </div>
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6211.jpg" />
+    </div>
+ 
+    
+    
   </div>
 
 <!-------------------- Controls --------------------->
@@ -286,5 +300,3 @@ XXXXXXXXXXXX
 <!----- Image Slider ----------------------------- Image Slider -------------->
 
 <br>
-
-</a>
