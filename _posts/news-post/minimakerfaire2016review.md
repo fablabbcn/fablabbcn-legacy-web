@@ -172,11 +172,9 @@ XXXXXXXXXXXX
 
 ####Community Panel
 
-**[Tomas Diez](http://fablabbcn.org/about_us.html)**, director of Fab Lab Barcelona, participated in the Community Panel together with other experts as Jordi Reynés (Ateneus de Fabricació), David Tena (Fab Cafe), Ian Collingwood (MADE) and Sara Alvarellos (akespace Madrid).
+**[Tomas Diez](http://fablabbcn.org/about_us.html)**, director of Fab Lab Barcelona, participated in the Community Panel together with other experts as Jordi Reynés (Ateneus de Fabricació), David Tena (Fab Cafe), Ian Collingwood (MADE) and Sara Alvarellos (akespace Madrid). The discussion of this panel revolved around the different models and types of organization and how they build the maker community.
 
-####Taska Workshop
 
-**[Anastasia Pistofidou and Ingi Freyr](http://fablabbcn.org/about_us.html)**, one of our project manager's and our advanced manufacturing specialist, host the Taska Workshop, where participants could make their own **[Taska Bag](https://fabtextiles.org/taska/)**.
 
 
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
@@ -225,6 +223,11 @@ XXXXXXXXXXXX
 </div>
 
 <!----- Image Slider ----------------------------- Image Slider -------------->
+
+
+####Taska Workshop
+
+**[Anastasia Pistofidou and Ingi Freyr](http://fablabbcn.org/about_us.html)**, one of our project manager's and our advanced manufacturing specialist, host the Taska Workshop, where participants could make their own **[Taska Bag](https://fabtextiles.org/taska/)**.
 
 <br>
 
