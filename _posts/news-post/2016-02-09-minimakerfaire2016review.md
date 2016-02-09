@@ -17,6 +17,13 @@ category: Events
 
 ![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/makersfaire2016/dsc_5949.jpg)
 
+Last 7th of February, the Mini Maker Faire Barcelona 2016 took place at CosmoCaixa. It reached 7000 visitors and we are very proud with our participation!
+
+
+###What we did
+
+####
+
 
 
 
