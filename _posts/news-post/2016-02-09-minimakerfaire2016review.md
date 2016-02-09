@@ -71,9 +71,10 @@ category: Events
 
 ###What we did
 
-![]({{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5976.jpg)
-
 ####Pop Up Fab Lab & Smart Citizen Stand
+
+
+![]({{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5976.jpg)
 
 **[Santi](http://fablabbcn.org/about_us.html)**, one of our Fab Academy guru's, was in charge of the **[Pop Up Fab Lab](http://fablabbcn.org/popup_fab_lab.html)**. This basic infrastructure for small-scale production is our mobile Fab Lab, which small size allows movement and transportation to any location. This way, we bring the Fab Lab to the public when the public cannot reach the Fab Lab. 
 
