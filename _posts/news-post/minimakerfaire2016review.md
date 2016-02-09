@@ -75,7 +75,7 @@ category: Events
 ###What we did
 
 
-![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/makersfaire2016/santi.png)
+![]({{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5976.jpg)
 
 ####Pop Up Fab Lab & Smart Citizen Stand
 
