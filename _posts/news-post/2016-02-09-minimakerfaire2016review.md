@@ -180,11 +180,11 @@ In this stand we showed some results of the **[Fab Textiles](http://fablabbcn.or
 
 </a>
 
-**[As announced](http://fablabbcn.org/events/2016/01/25/minimakersfaire.html)**, last 7th of February the Mini Maker Faire Barcelona 2016 took place at CosmoCaixa. It reached 7000 visitors and hosted 70 exhibitors. Part of them are directly related with Fab Lab Barcelona as Alumni or collaborations with our project managers, like: **[Fab Lab Sant Cugat](http://fablab-sant-cugat.webflow.io/)**, **[Twistab](http://www.twistab.org)**, **[N.E.R.O.](http://iaac.net/fab-labs/green-fab-lab/workshops/nero-mapping/)**, **[Open Source Beehives](http://opensourcebeehives.net/)**, etc. **[Fab Lab Barcelona](http://fablabbcn.org/)** also presented some of our main **[projects](http://fablabbcn.org/projects.html)** and participated in different activities.
+**[Como anunciamos](http://fablabbcn.org/events/2016/01/25/minimakersfaire.html)**, el pasado 7 de febrero la Mini Maker Faire Barcelona 2016 tuvo lugar en CosmoCaixa. La feria llegó a los 7000 visitantes y contó con 70 exhibidores. Muchos de ellos directamente relacionados con el Fab Lab Barcelona como Alumni o colaboraciones directas con nuestros project managers, como por ejemplo: **[Fab Lab Sant Cugat](http://fablab-sant-cugat.webflow.io/)**, **[Twistab](http://www.twistab.org)**, **[N.E.R.O.](http://iaac.net/fab-labs/green-fab-lab/workshops/nero-mapping/)**, **[Open Source Beehives](http://opensourcebeehives.net/)**, etc. Como **[Fab Lab Barcelona](http://fablabbcn.org/)** también presentamos algunos de nuestros **[proyectos](http://fablabbcn.org/projects.html)** y participamos en diferentes actividades de la feria.
 
 &nbsp;
 
-###What we did
+###Qué hicimos
 &nbsp;
 ####Pop Up Fab Lab & Smart Citizen Stand
 
