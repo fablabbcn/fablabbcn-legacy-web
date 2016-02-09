@@ -124,8 +124,6 @@ Fab Lab Barcelona also showed the **[Smart Citizen](http://fablabbcn.org/0000/01
 
 <!----- Image Slider ----------------------------- Image Slider -------------->
 
-<br>
-
 
 ####Fab Textiles Stand
 
