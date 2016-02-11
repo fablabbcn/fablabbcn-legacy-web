@@ -10,6 +10,8 @@ date: 2016/01/10
 category: workshop
 
 ---
+#####<a href="#spanish"> Aquí puedes leer la información en castellano. </a>
+#####<a href="#spanish"> Here you can read this information in Spanish </a>
 
 <br>
 
