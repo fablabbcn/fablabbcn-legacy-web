@@ -19,6 +19,8 @@ category: workshop
 ###Parametric Fields & Digital Fabrication: architecture, design and publishing
 
 <br>
+Explora las nuevas dinámicas del sistema de producción global generadas por las nuevas herramientas digitales y procesos colaborativos multidisciplinares. Además, utilizarás diseño paramétrico/generativo junto a la fabricación digital para realizar una de las 2000 portadas para el libro Ephemeral Arts Connection de Stardust* que será distribuido en todo el mundo por Actar (NY, Bcn).
+
 
 Open to students and professionals from the field of fine arts, architecture, product design, graphic design, fashion and all people interested. The workshop aims to explore the new dynamics of the global production system through the new digital tools and interdisciplinary collaborative processes. Parametric/generative design and digital fabrication will be applied on the realization of 2000 unique covers for the book “Ephemeral Arts Connection” by Stardust* edited and distributed worldwide by the leader publisher of groundbreaking books Actar (NY, Bcn).
 
@@ -35,36 +37,23 @@ Open to students and professionals from the field of fine arts, architecture, pr
 
 <br>
 
-####DATES
+####DATES & PROGRAM
 February 10th to 14th, 2016
-
-<br>
-
-####Programa EAC 2016_BARCELONA
-
 From 10am to 2pm | 3pm to 7pm
-
-First day | Introduction
+<br>
+#####First day | Introduction
 
 Lecture by **Ricardo Devesa** | Editor in Chief of Actar Publishers | 
 
-The new challenge for publishing, the book as a piece of art + 
+The new challenge for publishing, the book as a piece of art + Project presentation by Actar
 
-Project presentation by Actar
+Lecture by **Francesco Ducato** | Stardust* Director | 
 
-Lecture by **Francesco Ducato** | Stardust* Director | Digital 
+Digital fabrication and the application in built architecture + Project presentation by Stardust*
 
-fabrication and the application in built architecture + Project 
+Lecture by **Anastasia Pistofidou** | Fab Textiles and Projects manager at Fab Lab Bcn | 
 
-presentation by Stardust*
-
-Lecture by **Anastasia Pistofidou** | Fab Textiles and Projects 
-
-manager at Fab Lab Bcn | Tools for parametric/generative 
-
-design and digital fabrication + Project presentation by 
-
-IAAC/FAB LAB BCN   
+Tools for parametric/generative design and digital fabrication + Project presentation by IAAC/FAB LAB BCN   
 
 #####Second day | Tutorials 
 
@@ -72,15 +61,14 @@ Parametric/Generative Design and Digital Fabrication
 
 #####Third day | Lecture + Production
 
-Lecture by Maximiliano Romero | Operations director of the 
-
-Phy.Co Lab Milan | Data fluxes and digital fabrications 
+Lecture by **Maximiliano Romero** | Operations director of the Phy.Co Lab Milan | 
+Data fluxes and digital fabrications 
 
 Visit at Automatica
 
 #####Fourth day | Production
 
-Fifth day | Production  + Final Jury
+#####Fifth day | Production + Final Jury
 
 
 ####REGISTRATION 
@@ -98,4 +86,8 @@ More information: info@fablabbcn.org
 250 euros. The fee includes materials and fabrication. Plane tickets and accommodation are not  included in the fee.
 
 <br>
+
+
+
+Explora las nuevas dinámicas del sistema de producción global generadas por las nuevas herramientas digitales y procesos colaborativos multidisciplinares. Además, utilizarás diseño paramétrico/generativo junto a la fabricación digital para realizar una de las 2000 portadas para el libro Ephemeral Arts Connection de Stardust* que será distribuido en todo el mundo por Actar (NY, Bcn).
 
