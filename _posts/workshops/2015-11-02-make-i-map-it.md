@@ -107,8 +107,8 @@ Spain
 
 <br>
 ####FEE FOR PARTICIPANTS
-Option 1 = 200€
-The course
+200€ (It includes materials and fabrication)
+
 
 
 <br>
