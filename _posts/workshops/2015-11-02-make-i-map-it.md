@@ -89,9 +89,9 @@ February 20th to 21st, 2016
 
 **17:00 - 19:00     SHOW IT**
 
- - Project presentation
+- Project presentation
 
--  Project analyses
+- Project analyses
 
 <br>
 ####PLACE
