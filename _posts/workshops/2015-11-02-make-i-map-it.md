@@ -38,10 +38,67 @@ Ingi Guðjónsson & Carlos Nieves
 
 
 <br>
-####DATES
+####DATES&SCHEDULE
 February 20th to 21st, 2016
 
-From 10.00 to 14.00 and 15.00 to 19.00hs
+#####Saturday 20th
+
+**10:00 -11:30   INTRODUCTION**
+
+- Participant introduction
+
+- Mapping softwares - History
+
+- Digital fabrication machines
+
+- 3D modeling softwares
+
+- Mapping technique examples (Demonstration)
+
+**11:30 - 14:00 THINK IT**  
+
+- Design of a 3D object**
+
+- Selection of Video materials
+
+**14:00 - 15:00   LUNCH**
+
+**15:00 - 18:00    MAKE IT**
+
+Fabrication of the object
+
+**18:00 - 20:00   MAP IT**
+
+- Object in a space - analyses
+
+- Video material preparation  
+
+  (2D / 3D - loops / Real time)
+
+
+#####Sunday 21th
+
+**10:00 - 14:00     MAP IT**
+
+- Video material preparation
+
+   (2D / 3D - loops / Real time)
+
+-  Warping techniques (Resolume 4, VPT, Mad mapper)
+
+- Space installation and preparation
+
+**14:00 - 15:00     LUNCH**
+
+**15:00 - 17:00    MAP IT**
+
+- Space installation
+
+**17:00 - 19:00     SHOW IT**
+
+ - Project presentation
+
+-  Project analyses
 
 <br>
 ####PLACE
