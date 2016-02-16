@@ -54,7 +54,7 @@ February 20th to 21st, 2016
 
 **11:30 - 14:00 THINK IT**  
 
-- Design of a 3D object**
+- Design of a 3D object
 
 - Selection of Video materials
 
