@@ -70,7 +70,7 @@ February 20th to 21st, 2016
 
 - Video material preparation (2D / 3D - loops / Real time)
 
-
+<br>
 #####Sunday 21th
 
 **10:00 - 14:00     MAP IT**
