@@ -33,8 +33,7 @@ Participants work on their own computers using Resolume Arena trial.
 ####TUTORS / LECTURERS
 Organized by:Fab Lab Barcelona
 
-Ingi Guðjónsson & Carlos Nieves
-
+Ingi Guðjónsson, Carlos Nieves & Cristiano Rizzuti
 
 
 <br>
