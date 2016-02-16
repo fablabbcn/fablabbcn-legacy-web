@@ -64,7 +64,7 @@ February 20th to 21st, 2016
 
 **15:00 - 18:00    MAKE IT**
 
-Fabrication of the object
+- Fabrication of the object
 
 **18:00 - 20:00   MAP IT**
 
