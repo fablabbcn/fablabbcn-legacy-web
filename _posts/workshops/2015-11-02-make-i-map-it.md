@@ -24,7 +24,6 @@ category: workshop
 
 5.Presentation and documentation of each project.
 
-
 Materials for fabrication of physical 3D objects are included.
 Participants work on their own computers using Resolume Arena trial.
 
