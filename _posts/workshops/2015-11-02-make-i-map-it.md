@@ -31,7 +31,7 @@ Participants work on their own computers using Resolume Arena trial.
 <br>
 ####TUTORS
 
-Ingi Guðjónsson, Carlos Nieves & Cristiano Rizzuti
+Ingi Guðjónsson, Carlos Nieves & Cristian Rizzuti
 
 
 <br>
@@ -54,6 +54,8 @@ February 20th to 21st, 2016
 
 **11:30 - 14:00 THINK IT**  
 
+- Concept making
+
 - Design of a 3D object
 
 - Selection of Video materials
@@ -68,16 +70,16 @@ February 20th to 21st, 2016
 
 - Object in a space - analyses
 
-- Video material preparation (2D / 3D - loops / Real time)
+- Video material preparation 
 
 <br>
 #####Sunday 21th
 
 **10:00 - 14:00     MAP IT**
 
-- Video material preparation (2D / 3D - loops / Real time)
+- Video material preparation 
 
--  Warping techniques (Resolume 4, VPT, Mad mapper)
+- Warping techniques (Resolume 4, VPT, Mad mapper)
 
 - Space installation and preparation
 
@@ -88,6 +90,8 @@ February 20th to 21st, 2016
 - Space installation
 
 **17:00 - 19:00     SHOW IT**
+
+- Exhibition
 
 - Project presentation
 
