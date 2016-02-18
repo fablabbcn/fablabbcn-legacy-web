@@ -15,11 +15,9 @@ category: Events
 #####<a href="#spanish"> Aquí puedes leer la notícia en castellano. </a>
 #####<a href="#spanish"> Here you can read this post in Spanish </a>
 
-<<<<<<< Updated upstream
+
 <img src= "http://www.fablabbcn.org/img/blog/makerfaire_barcelona16/dsc_5949.jpg"> </img>
-=======
-<img src="({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/makersfaire2016/santi.png)/>
->>>>>>> Stashed changes
+
 
 **[As announced](http://fablabbcn.org/events/2016/01/25/minimakersfaire.html)**, last 7th of February the Mini Maker Faire Barcelona 2016 took place at CosmoCaixa. It reached 7000 visitors and hosted 70 exhibitors. Part of them are directly related with Fab Lab Barcelona as Alumni or collaborations with our project managers, like: **[Fab Lab Sant Cugat](http://fablab-sant-cugat.webflow.io/)**, **[Twistab](http://www.twistab.org)**, **[N.E.R.O.](http://iaac.net/fab-labs/green-fab-lab/workshops/nero-mapping/)**, **[Open Source Beehives](http://opensourcebeehives.net/)**, etc. **[Fab Lab Barcelona](http://fablabbcn.org/)** also presented some of our main **[projects](http://fablabbcn.org/projects.html)** and participated in different activities.
 
