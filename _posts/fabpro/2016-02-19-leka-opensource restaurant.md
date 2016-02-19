@@ -125,30 +125,18 @@ El techo acústico se concibe como una malla triangular que rompe la onda sonora
   <div class="carousel-inner" role="listbox">
    
     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/chair03.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/ceiling/img_1451.jpg" />
     </div>
     
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/chair04.jpg" />
-    </div>
-
-  <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/chair05.jpg" />
+    <div class="item active">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/ceiling/img_1441.jpg" />
     </div>
     
-      <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/chair06.jpg" />
+     <div class="item active">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/ceiling/a1.png" />
     </div>
     
-      <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/chair01.jpg" />
-    </div>
-       <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/chair02.jpg" />
-    </div>
-    
-  
-  </div>
+</div>
 
 <!-------------------- Controls --------------------->
 
