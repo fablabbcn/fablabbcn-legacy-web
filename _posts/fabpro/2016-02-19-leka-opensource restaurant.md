@@ -50,43 +50,43 @@ La fase de desarrollo y prototipado se gestó durante un período de 8 meses, pa
     </div>
 
   <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-102.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-102.jpg" />
     </div>
     
       <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-126.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-126.jpg" />
     </div>
     
       <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-155.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-155.jpg" />
     </div>
     
      <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-202.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabproleka_gral/gral/1423-202.jpg" />
     </div>
     
      <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-226.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-226.jpg" />
     </div>
     
      <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-254.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-254.jpg" />
     </div>
     
      <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-273.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-273.jpg" />
     </div>
     
      <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-285.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-285.jpg" />
     </div>
     
      <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-304.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-304.jpg" />
     </div>
     
      <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-290.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-290.jpg" />
     </div>
      
   </div>
@@ -105,10 +105,10 @@ La fase de desarrollo y prototipado se gestó durante un período de 8 meses, pa
 
 <br>
 
-####Chair
+####Techo origami
 
 
-Concebidas con ergonomía y para ser apiladas liberando espacio en el restaurante. 
+El techo acústico se concibe como una malla triangular que rompe la onda sonora. Una forma ligera suspendida, plegada para conseguir rigidez. De nuevo un puzzle, sin tornillos, sin pegamento; sólo encaje entre las piezas. 
 
 
 <br>
