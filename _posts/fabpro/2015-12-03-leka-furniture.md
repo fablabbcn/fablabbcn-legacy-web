@@ -401,17 +401,16 @@ La construcción de los diferentes muebles se realiza con la misma técnica: un 
   <div class="carousel-inner" role="listbox">
    
     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/bottellero01.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/bottellero02.jpg" />
-    </div>
-    
-     <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-126.jpg" />
     </div>
     
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/bottellero01.jpg" />
+    </div>
+    
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/bottellero02.jpg" />
+    </div>
  
  
   </div>
