@@ -362,19 +362,19 @@ Los taburetes tienen un diseño ergonómico, de nuevo, a base de triangulaciones
   <div class="carousel-inner" role="listbox">
    
     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/stool06.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/stool_06.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/stool07.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/stool_07.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/stool08.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/stool_08.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/stool09.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/stool_09.jpg" />
     </div>
     
     <div class="item">
