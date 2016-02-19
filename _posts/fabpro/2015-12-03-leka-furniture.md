@@ -460,6 +460,11 @@ Mesas, taburetes y botellero diseñados por Miguel Guerrero
       <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/mueble_de_platos02.jpg" />
     </div>
     
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-202.jpg" />
+        </div>
+        
+    
  
  
   </div>
