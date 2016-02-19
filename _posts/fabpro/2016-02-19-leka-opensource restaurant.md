@@ -2,10 +2,10 @@
 layout: fabpro_post
 type: fabpro
 fabproteaser: fabpro_loop/leka_furniture.jpg
-title: LEKA furniture
-meta: "Open source furniture for LEKA Restaurant"
-author: Fab Lab BCN
-date: 2015-12-03
+title: LEKA opensource restaurant
+meta: "Locally made in Poblenou, Barcelona"
+author: Anastasia Pistofidou y Miguel Guerrero Fab Lab BCN
+date: 2016-02-16
 ---
 
 
@@ -15,10 +15,16 @@ More info at <a href="http://www.restauranteleka.com" target="_blank">LEKA Resta
 <br>
 <br>
 
-####Modularity
+####Concepto y desarrollo.
 
 
-El mobiliario está concebido como una familia. Su geometría está inspirada en las triangulaciones del proyecto y se adapta a los requisitos de diseño de cada mueble; pensados para tener múltiples combinaciones según la configuración cambiante del restaurante y soportar un movimiento constante.
+Leka es un restaurante fabricado localmente en el barrio de Poblenou 22@, desarrollado y fabricado en Fablab Barcelona; que también forma parte del barrio. Una red local de distribuidores y oficios completan el proceso.
+
+Leka es un restaurante familiar que integra cocina tradicional, innovación e interacción con sus clientes más allá de la comida. A través de la web, los clientes pueden monitorizar su consumo de calorías, descargarse recetas o descargarse los diseños con los que se ha construido el restaurante. De esta forma un cliente podrá seguir con el sabor del Leka cocinándose un plato típico o fabricándose alguno de sus muebles.
+
+El proyecto se ordena en varias familias: mobiliario, elementos acústicos, elementos interactivos, etc. Cada uno de ellos requiere de un sistema constructivo distinto, los muebles han de ser recios, preparados para un movimiento constante, el techo ligero, con una geometría que rompa el sonido... Para su desarrollo, creamos una definición paramétrica por cada familia; obteniendo sistemas exportables. De esta forma el mobiliario comparte la misma unión, a su vez los distintos triángulos del techo y así sucesivamente.
+
+La fase de desarrollo y prototipado se gestó durante un período de 8 meses, para luego realizar la fabricación y el montaje en un tiempo mínimo. De esta forma se minimizan los costes de obra. Gracias al acceso a los medios de fabricación digital, nos podemos permitir todo un proceso de prototipado necesario para la producción de sistemas no estándares. El detalle constructivo está en la definición paramétrica, en el archivo; que se va desarrollando durante el prototipado y que podrá ser exportado a un siguiente proyecto.
 
 
 <br>
