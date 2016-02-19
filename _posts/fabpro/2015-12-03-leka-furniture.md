@@ -164,19 +164,7 @@ Las mesas están pensadas para ser combinadas en distintas disposiciones, desde 
   <div class="carousel-inner" role="listbox">
    
     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/table13.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/table12.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/table11.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/table06.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/table04.jpg" />
     </div>
     
     <div class="item">
@@ -184,21 +172,25 @@ Las mesas están pensadas para ser combinadas en distintas disposiciones, desde 
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/table04.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/table06.jpg" />
     </div>
     
-      <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/table03.jpg" />
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/table01.jpg" />
     </div>
-  
-      <div class="item">
+    
+    <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/table02.jpg" />
     </div>
     
-      <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/table01.jpg" />
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/table13.jpg" />
     </div>
- 
+    
+      <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/table12.jpg" />
+    </div>
+    
   </div>
 
 <!-------------------- Controls --------------------->
