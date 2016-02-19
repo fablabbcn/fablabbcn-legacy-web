@@ -28,6 +28,7 @@ El mobiliario está concebido como una familia. Su geometría está inspirada en
 
 <br>
 <br>
+
 <!----- Image Slider ----------------------------- Image Slider -------------->
 
 
