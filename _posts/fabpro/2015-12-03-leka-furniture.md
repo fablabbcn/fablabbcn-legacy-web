@@ -183,6 +183,11 @@ Las mesas están pensadas para ser combinadas en distintas disposiciones, desde 
       <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/table02.jpg" />
     </div>
     
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/table03.jpg" />
+    </div>
+    
+    
     <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/table13.jpg" />
     </div>
