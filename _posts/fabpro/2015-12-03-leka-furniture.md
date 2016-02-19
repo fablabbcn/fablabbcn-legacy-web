@@ -30,26 +30,6 @@ El mobiliario está concebido como una familia. Su geometría está inspirada en
 <br>
 <br>
 
-####Joints
-
-
-La construcción de los diferentes muebles se realiza con la misma técnica: un diseño común en la unión entre piezas. Esta unión proporciona la rigidez necesaria para soportar el continuo movimiento del restaurante y permitir un montaje rápido.  
-
-<br>
-
-<br>
-<br>
-
-<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/img01.jpg">
-
-
-<br>
-
-<br>
-<br>
-<br>
-<br>
-
 ####Chair
 
 
@@ -380,11 +360,30 @@ Los taburetes tienen un diseño ergonómico, de nuevo, a base de triangulaciones
 <br>
 <br>
 <br>
+####Joinery
+
+
+La construcción de los diferentes muebles se realiza con la misma técnica: un diseño común en la unión entre piezas. Esta unión proporciona la rigidez necesaria para soportar el continuo movimiento del restaurante y permitir un montaje rápido.  
+
+<br>
+
+<br>
+<br>
+
+<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/img01.jpg">
+
+
+<br>
+
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 
 
-####Bottellero
+####Botellero
 
 
 <br>
