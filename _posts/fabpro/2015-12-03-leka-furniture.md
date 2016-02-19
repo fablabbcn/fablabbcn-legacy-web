@@ -293,6 +293,10 @@ Las mesas altas son triangulares en planta, se combinan en disposiciones lineale
   <div class="carousel-inner" role="listbox">
    
     <div class="item active">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/hightable03.jpg" />
+    </div>
+    
+    <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/hightable05.jpg" />
     </div>
     
@@ -301,15 +305,11 @@ Las mesas altas son triangulares en planta, se combinan en disposiciones lineale
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/hightable03.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/hightable01.jpg" />
     </div>
     
     <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/hightable02.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/hightable01.jpg" />
     </div>
     
  
