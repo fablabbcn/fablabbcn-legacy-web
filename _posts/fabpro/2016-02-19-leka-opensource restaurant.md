@@ -100,6 +100,8 @@ La fase de desarrollo y prototipado se gestó durante un período de 8 meses, pa
 </div>
 
 <br>
+<br>
+<br>
 
 ####Techo origami
 
