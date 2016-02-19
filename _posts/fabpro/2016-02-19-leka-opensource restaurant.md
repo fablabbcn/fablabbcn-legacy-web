@@ -27,12 +27,9 @@ El proyecto se ordena en varias familias: mobiliario, elementos acústicos, elem
 La fase de desarrollo y prototipado se gestó durante un período de 8 meses, para luego realizar la fabricación y el montaje en un tiempo mínimo. De esta forma se minimizan los costes de obra. Gracias al acceso a los medios de fabricación digital, nos podemos permitir todo un proceso de prototipado necesario para la producción de sistemas no estándares. El detalle constructivo está en la definición paramétrica, en el archivo; que se va desarrollando durante el prototipado y que podrá ser exportado a un siguiente proyecto.
 
 
-<br>
-
-<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/modularity.gif">
 
 
-<br>
+
 <br>
 
 <!----- Image Slider ----------------------------- Image Slider -------------->
@@ -49,19 +46,47 @@ La fase de desarrollo y prototipado se gestó durante un período de 8 meses, pa
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-009.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-054.jpg" />
     </div>
 
   <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-031.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-102.jpg" />
     </div>
     
       <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-037.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-126.jpg" />
     </div>
     
       <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-041.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-155.jpg" />
+    </div>
+    
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-202.jpg" />
+    </div>
+    
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-226.jpg" />
+    </div>
+    
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-254.jpg" />
+    </div>
+    
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-273.jpg" />
+    </div>
+    
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-285.jpg" />
+    </div>
+    
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-304.jpg" />
+    </div>
+    
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-290.jpg" />
     </div>
      
   </div>
@@ -226,6 +251,13 @@ Las mesas están pensadas para ser combinadas en distintas disposiciones, desde 
 
 
 ####Table for two
+
+<br>
+
+<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/modularity.gif">
+
+
+<br>
 
 
 <br>
