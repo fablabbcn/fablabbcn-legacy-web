@@ -1,7 +1,7 @@
 ---
 layout: fabpro_post
 type: fabpro
-fabproteaser: fabpro_loop/leka_furniture.jpg
+fabproteaser: fabpro_loop/leka_gral/gral/1423-054.jpg
 title: LEKA opensource restaurant
 meta: "Locally made in Poblenou, Barcelona"
 author: Anastasia Pistofidou y Miguel Guerrero Fab Lab BCN
