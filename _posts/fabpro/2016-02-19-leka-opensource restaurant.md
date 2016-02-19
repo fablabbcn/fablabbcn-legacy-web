@@ -42,13 +42,9 @@ La fase de desarrollo y prototipado se gestó durante un período de 8 meses, pa
   <div class="carousel-inner" role="listbox">
    
     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/fablab_leka_plantamobiliario.png" />
-    </div>
-    
-    <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-054.jpg" />
     </div>
-
+    
   <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-102.jpg" />
     </div>
@@ -109,6 +105,12 @@ La fase de desarrollo y prototipado se gestó durante un período de 8 meses, pa
 
 
 El techo acústico se concibe como una malla triangular que rompe la onda sonora. Una forma ligera suspendida, plegada para conseguir rigidez. De nuevo un puzzle, sin tornillos, sin pegamento; sólo encaje entre las piezas. 
+
+
+<br>
+<br>
+
+<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/ceiling/gif_ceiling.gif">
 
 
 <br>
