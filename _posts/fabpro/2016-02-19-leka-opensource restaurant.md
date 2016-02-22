@@ -132,11 +132,11 @@ El techo acústico se concibe como una malla triangular que rompe la onda sonora
       <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/ceiling/img_1451.jpg" />
     </div>
     
-    <div class="item active">
+    <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/ceiling/img_1441.jpg" />
     </div>
     
-     <div class="item active">
+     <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/ceiling/a1.png" />
     </div>
     
