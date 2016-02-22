@@ -129,6 +129,7 @@ Concebidas con ergonomía y para ser apiladas liberando espacio en el restaurant
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
+
 </div>
 
 
@@ -158,7 +159,7 @@ Las mesas están pensadas para ser combinadas en distintas disposiciones, desde 
 <!----- Image Slider ----------------------------- Image Slider -------------->
 
 
-<div id="carousel-example-generic1" class="carousel slide" data-ride="carousel">
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 
 <!--------------- Wrapper for slides --------------->
 
@@ -231,7 +232,7 @@ Las mesas están pensadas para ser combinadas en distintas disposiciones, desde 
 <!----- Image Slider ----------------------------- Image Slider -------------->
 
 
-<div id="carousel-example-generic2" class="carousel slide" data-ride="carousel">
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 
 <!--------------- Wrapper for slides --------------->
 
@@ -292,7 +293,7 @@ Las mesas altas son triangulares en planta, se combinan en disposiciones lineale
 <!----- Image Slider ----------------------------- Image Slider -------------->
 
 
-<div id="carousel-example-generic3" class="carousel slide" data-ride="carousel">
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 
 <!--------------- Wrapper for slides --------------->
 
@@ -356,7 +357,7 @@ Los taburetes tienen un diseño ergonómico, de nuevo, a base de triangulaciones
 <!----- Image Slider ----------------------------- Image Slider -------------->
 
 
-<div id="carousel-example-generic4" class="carousel slide" data-ride="carousel">
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 
 <!--------------- Wrapper for slides --------------->
 
@@ -448,7 +449,7 @@ La construcción de los diferentes muebles se realiza con la misma técnica: un 
 <!----- Image Slider ----------------------------- Image Slider -------------->
 
 
-<div id="carousel-example-generic5" class="carousel slide" data-ride="carousel">
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 
 <!--------------- Wrapper for slides --------------->
 
@@ -503,7 +504,7 @@ Mesas, taburetes y botellero diseñados por Miguel Guerrero
 <!----- Image Slider ----------------------------- Image Slider -------------->
 
 
-<div id="carousel-example-generic6" class="carousel slide" data-ride="carousel">
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 
 <!--------------- Wrapper for slides --------------->
 
@@ -561,7 +562,7 @@ Leka es un restaurante fabricado localmente en el barrio de Poblenou 22@, desarr
 <!----- Image Slider ----------------------------- Image Slider -------------->
 
 
-<div id="carousel-example-generic6" class="carousel slide" data-ride="carousel">
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 
 <!--------------- Wrapper for slides --------------->
 
