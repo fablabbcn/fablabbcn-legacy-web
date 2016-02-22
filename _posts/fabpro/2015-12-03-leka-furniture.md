@@ -137,6 +137,7 @@ Concebidas con ergonomía y para ser apiladas liberando espacio en el restaurant
 
 
 <br>
+
 Diseño de Ingi Freyr y Miguel Guerrero.
 <br>
 <br>
