@@ -24,7 +24,7 @@ During the course of this workshop, participants will learn new tools to design 
 -laser cutter
 -3D printer
 -digital embroidery
--pother resources available in the Fab Lab.
+-other resources available in the Fab Lab.
 
 
 Materials for fabrication are included.
