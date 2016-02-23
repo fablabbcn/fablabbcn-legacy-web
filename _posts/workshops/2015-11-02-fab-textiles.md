@@ -13,8 +13,6 @@ category: workshop
 
 <br>
 
-The Fab Textiles project is opened to anyone interested in the world of fashion, open-source, wearables and custom creations. Fab Textiles centers its research activities in the field of digital fashion, focusing on new processes, materials and production techniques.
-
 ##FAB TEXTILES
 The fashion world is increasingly incorporating new research in structures and new materials to expand its field of work and experimentation. This application of technology and digital fabrication to traditional manufacturing and industrial techniques are changing the ways of producing and designing clothing.
 
@@ -54,11 +52,15 @@ Spain
 <br>
 ####FEE FOR PARTICIPANTS
 Option 1 = 180€
-The course
+The course + Materials
+
+Bring your laptop!
 
 
 <br>
 ####REGISTRATION 
+
+No previous knowledge needed.
 
 <a target="_blank" href="http://fablab.fikket.com/event/taller-de-fab-textiles"><u>Click here</u></a> 
 
@@ -66,7 +68,7 @@ More information:info@fablabbcn.org
 
 More info about the Fab Textiless project, <a target="_blank" href="http://fabtextiles.org/"><u>click here</u></a>
 
-Get Inspired!<a target="_blank" href="https://www.pinterest.com/fabtextiles/fab-textiles//"><u>Pinterest board</u></a> 
+Get Inspired! <a target="_blank" href="https://www.pinterest.com/fabtextiles/fab-textiles//"><u>Pinterest board</u></a> 
 
 
 
