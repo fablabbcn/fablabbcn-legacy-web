@@ -22,7 +22,7 @@ As part of the **[Design & The City conference](http://designandthecity.eu/)**, 
 
 Experts in the field of participatory sensing will deliver a comprehensive introduction and state of the art. Secondly, participants will engage in a hands-on exploration of citizen-driven measuring tools and strategies using a novel participatory sensing toolbox comprising maps, scenarios and technologies. We conclude with a discussion on how we might critically deploy the imagined devices in scenarios of desired futures to achieve positive change, while negotiating and sharing concerns and challenges with policy makers.
 
-To apply to the **Workshop “Making Sense: Advances and Explorations in Participatory Sensing”** please fill out [this form](https://docs.google.com/forms/d/1LAvzJjt31aAJLEyMhXThQpn4LiXQvLAaN_gJOEYtDrQ/viewform?c=0&w=1) **before March 1st.**
+**[To apply to the Workshop “Making Sense: Advances and Explorations in Participatory Sensing” please fill out this form before March 1st.](https://docs.google.com/forms/d/1LAvzJjt31aAJLEyMhXThQpn4LiXQvLAaN_gJOEYtDrQ/viewform?c=0&w=1)**
 
 <br>
 
