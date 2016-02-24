@@ -36,9 +36,21 @@ To apply to the **Workshop “Making Sense: Advances and Explorations in Partici
 
 <a name="spanish">
 
-<img src= "http://www.fablabbcn.org/img/blog/makerfaire_barcelona16/dsc_5949.jpg"> </img>
+<img src= "http://www.fablabbcn.org/img/blog/bolg_loop_latest/0586 hva_ci d&tc banner 500x250 blauw-groen(1).png"> </img>
 
 </a>
+
+
+Cpomo parte la **[Design & The City conference](http://designandthecity.eu/)**, os invitamos a participar en el **“Making Sense” workshop** el **viernes 22 de April en Amsterdam**. This workshop will demonstrate how open source software, open source hardware, digital maker practices and open design can be used by local communities to appropriate their own sensing technologies, make sense of their environments and address environmental issues. It will discuss how tools and methodologies can empower citizens and communities to enhance their everyday environmental awareness and to adopt more sustainable individual and collective practices . Finally, it will stimulate reflection and knowledge sharing.
+
+**What you will get out of this workshop**
+
+Experts in the field of participatory sensing will deliver a comprehensive introduction and state of the art. Secondly, participants will engage in a hands-on exploration of citizen-driven measuring tools and strategies using a novel participatory sensing toolbox comprising maps, scenarios and technologies. We conclude with a discussion on how we might critically deploy the imagined devices in scenarios of desired futures to achieve positive change, while negotiating and sharing concerns and challenges with policy makers.
+
+To apply to the **Workshop “Making Sense: Advances and Explorations in Participatory Sensing”** please fill out [this form](https://docs.google.com/forms/d/1LAvzJjt31aAJLEyMhXThQpn4LiXQvLAaN_gJOEYtDrQ/viewform?c=0&w=1) **before March 1st.**
+
+<br>
+
 
 **[Como anunciamos](http://fablabbcn.org/events/2016/01/25/minimakersfaire.html)**, el pasado 7 de febrero la Mini Maker Faire Barcelona 2016 tuvo lugar en CosmoCaixa. La feria llegó a los 7000 visitantes y contó con 70 exhibidores. Muchos de ellos directamente relacionados con el Fab Lab Barcelona como Alumni o colaboraciones directas con nuestros project managers, como por ejemplo: **[Fab Lab Sant Cugat](http://fablab-sant-cugat.webflow.io/)**, **[Twistab](http://www.twistab.org)**, **[N.E.R.O.](http://iaac.net/fab-labs/green-fab-lab/workshops/nero-mapping/)**, **[Open Source Beehives](http://opensourcebeehives.net/)**, etc. Como **[Fab Lab Barcelona](http://fablabbcn.org/)** también presentamos algunos de nuestros **[proyectos](http://fablabbcn.org/projects.html)** y participamos en diferentes actividades de la feria.
 
