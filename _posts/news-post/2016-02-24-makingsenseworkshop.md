@@ -11,7 +11,8 @@ date: 24/02/2016
 category: Events
 
 ---
-
+#####<a href="#spanish"> Aquí puedes leer la notícia en castellano. </a>
+#####<a href="#spanish"> Here you can read this post in Spanish </a>
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/designcity.png" align="middle"> </img>
 
