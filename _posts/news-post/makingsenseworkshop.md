@@ -5,9 +5,9 @@ type: blog
 teaserlatest: blog_loop_latest/mmfbcn.jpg
 teaserlist: blog_loop_latest/mmfbcn.jpg
 title: Mini Maker Faire Barcelona 2016 // Review
-meta: Check out what happened on the Mini Maker Faire Barcelona 2016 and how Fab Lab Barcelona took part.
+meta: Design & The City conference, Workshop Making Sense
 author: Maria Ustarroz
-date: 09/02/2016
+date: 24/02/2016
 category: Events
 
 ---
