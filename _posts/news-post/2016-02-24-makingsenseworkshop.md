@@ -2,8 +2,8 @@
 
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/0586 hva_ci d&tc banner 500x250 blauw-groen(1).png
-teaserlist: blog_loop_latest/0586 hva_ci d&tc banner 500x250 blauw-groen(1).png
+teaserlatest: blog_loop_latest/makingsenseworkshop.png
+teaserlist: blog_loop_latest/makingsenseworkshop.png
 title: Design & The City conference // Making Sense Workshop
 meta: Participate in the Making Sense Workshop at Design & The City conference, 22nd of April in Amsterdam.
 author: Maria Ustarroz
@@ -13,7 +13,7 @@ category: Events
 ---
 
 
-<img src= "http://www.fablabbcn.org/img/blog/bolg_loop_latest/0586 hva_ci d&tc banner 500x250 blauw-groen(1).png "> </img>
+<img src= "http://www.fablabbcn.org/img/blog/bolg_loop_latest/makingsenseworkshop.png"> </img>
 
 
 As part of the **[Design & The City conference](http://designandthecity.eu/)**, we invite you to participate in the **“Making Sense” workshop** on **Friday 22nd of April in Amsterdam**. This workshop will demonstrate how open source software, open source hardware, digital maker practices and open design can be used by local communities to appropriate their own sensing technologies, make sense of their environments and address environmental issues. It will discuss how tools and methodologies can empower citizens and communities to enhance their everyday environmental awareness and to adopt more sustainable individual and collective practices . Finally, it will stimulate reflection and knowledge sharing.
@@ -33,7 +33,7 @@ To apply to the **Workshop “Making Sense: Advances and Explorations in Partici
 
 <a name="spanish">
 
-<img src= "http://www.fablabbcn.org/img/blog/bolg_loop_latest/0586 hva_ci d&tc banner 500x250 blauw-groen(1).png"> </img>
+<img src= "http://www.fablabbcn.org/img/blog/bolg_loop_latest/makingsenseworkshop.png"> </img>
 
 </a>
 
