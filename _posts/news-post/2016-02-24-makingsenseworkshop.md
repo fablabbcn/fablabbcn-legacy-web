@@ -2,8 +2,8 @@
 
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/makingsenseworkshop.png
-teaserlist: blog_loop_latest/makingsenseworkshop.png
+teaserlatest: blog_loop_latest/designcity.png
+teaserlist: blog_loop_latest/designcity.png
 title: Design & The City conference // Making Sense Workshop
 meta: Participate in the Making Sense Workshop at Design & The City conference, 22nd of April in Amsterdam.
 author: Maria Ustarroz
