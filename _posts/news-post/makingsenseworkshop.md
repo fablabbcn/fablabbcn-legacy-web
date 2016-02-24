@@ -19,158 +19,13 @@ category: Events
 <img src= "http://www.fablabbcn.org/img/blog/makerfaire_barcelona16/mmfbcn.jpg"> </img>
 
 
-**[As announced](http://fablabbcn.org/events/2016/01/25/minimakersfaire.html)**, last 7th of February the Mini Maker Faire Barcelona 2016 took place at CosmoCaixa. It reached 7000 visitors and hosted 70 exhibitors. Part of them are directly related with Fab Lab Barcelona as Alumni or collaborations with our project managers, like: **[Fab Lab Sant Cugat](http://fablab-sant-cugat.webflow.io/)**, **[Twistab](http://www.twistab.org)**, **[N.E.R.O.](http://iaac.net/fab-labs/green-fab-lab/workshops/nero-mapping/)**, **[Open Source Beehives](http://opensourcebeehives.net/)**, etc. **[Fab Lab Barcelona](http://fablabbcn.org/)** also presented some of our main **[projects](http://fablabbcn.org/projects.html)** and participated in different activities.
+As part of the **[Design & The City conference](http://designandthecity.eu/)**, we invite you to participate in the **“Making Sense” workshop** on **Friday 22nd of April in Amsterdam**. This workshop will demonstrate how open source software, open source hardware, digital maker practices and open design can be used by local communities to appropriate their own sensing technologies, make sense of their environments and address environmental issues. It will discuss how tools and methodologies can empower citizens and communities to enhance their everyday environmental awareness and to adopt more sustainable individual and collective practices . Finally, it will stimulate reflection and knowledge sharing.
 
-&nbsp;
-&nbsp;
+**What you will get out of this workshop**
 
-###What we did
-&nbsp;
-####Pop Up Fab Lab & Smart Citizen Stand
+Experts in the field of participatory sensing will deliver a comprehensive introduction and state of the art. Secondly, participants will engage in a hands-on exploration of citizen-driven measuring tools and strategies using a novel participatory sensing toolbox comprising maps, scenarios and technologies. We conclude with a discussion on how we might critically deploy the imagined devices in scenarios of desired futures to achieve positive change, while negotiating and sharing concerns and challenges with policy makers.
 
-
-![]({{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5976.jpg)
-
-**[Santi](http://fablabbcn.org/about_us.html)**, one of our Fab Academy guru's, was in charge of the **[Pop Up Fab Lab](http://fablabbcn.org/popup_fab_lab.html)**. This basic infrastructure for small-scale production is our mobile Fab Lab, which small size allows movement and transportation to any location. This way, we bring the Fab Lab to the public when the public cannot reach the Fab Lab. 
-
-<img src= "http://www.fablabbcn.org/img/projects/smart_citizen/2.jpg"> </img>
-
-Fab Lab Barcelona also showed the **[Smart Citizen](http://fablabbcn.org/0000/01/06/smart-citizen.html)** project. Smart Citizen is a **[platform](https://smartcitizen.me/)** for the generation of social participatory processes in urban areas. Connecting data, people and knowledge, the objective of the platform is to serve as a node for building productive and open indicators, and distributed tools, bringing thereafter to the collective construction of the city for and by its own inhabitants.
-
-&nbsp;
-&nbsp;
-####Fab Textiles Stand
-
-<img src= "http://www.fablabbcn.org/img/blog/makerfaire_barcelona16/dsc_5984.jpg"> </img>
-
-In this stand we showed some results of the **[Fab Textiles](http://fablabbcn.org/0000/01/01/fab-textiles-seamless.html)** projects. For example, how using digital computing and fabrication methods we are able to rapidly prototype and assemble new designs. Using any 2D or 3D software we create patterns ready for cutting. Our **[machines at Fab Lab Barcelona](http://fablabbcn.org/machines.html)** allow a us a wide range of possibilities, so we try to take advantage of the accuracy, precision, and repetitions these machines can achieve.
-
-&nbsp;
-
-&nbsp;
-####Community Panel
-<img src= "http://www.fablabbcn.org/img/blog/makerfaire_barcelona16/dsc_6178.jpg"> </img>
-**[Tomas Diez](http://fablabbcn.org/about_us.html)**, director of Fab Lab Barcelona, participated in the Community Panel together with other experts as Jordi Reynés (Ateneus de Fabricació), David Tena (Fab Cafe), Ian Collingwood (MADE) and Sara Alvarellos (akespace Madrid). The discussion of this panel revolved around the different models and types of organization and how they build the maker community.
-
-
-&nbsp;
-&nbsp;
-
-####Taska Workshop
-<img src= "http://www.fablabbcn.org/img/blog/makerfaire_barcelona16/dsc_6211.jpg"> </img>
-
-**[Anastasia Pistofidou and Ingi Freyr](http://fablabbcn.org/about_us.html)**, one of our project manager's and our advanced manufacturing specialist, host the Taska Workshop, where participants could make their own **[Taska Bag](https://fabtextiles.org/taska/)**.
-&nbsp;
-
-
-<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-
-<!--------------- Wrapper for slides --------------->
-
-  <div class="carousel-inner" role="listbox">
-   
-    <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5949.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5998.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5992.jpg" />
-    </div>
-
- <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5970.jpg" />
-    </div>
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6008.jpg" />
-    </div>
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6046.jpg" />
-    </div>
- <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6064.jpg" />
-    </div>
-    
-    
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6079.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5979.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5985.jpg" />
-    </div>
-    
-    
-    
-    
-    <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6147.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6148.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6187.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6160.jpg" />
-    </div>
- 
-    
-    
-    
-    
-    <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6216.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6097.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6095.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6228.jpg" />
-    </div>
- <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6108.jpg" />
-    </div>
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6112.jpg" />
-    </div>
- 
- 
-    
-    
-  </div>
-
-<!-------------------- Controls --------------------->
-
-  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-
-<!----- Image Slider ----------------------------- Image Slider -------------->
+To apply to the **Workshop “Making Sense: Advances and Explorations in Participatory Sensing”** please fill out [this form](https://docs.google.com/forms/d/1LAvzJjt31aAJLEyMhXThQpn4LiXQvLAaN_gJOEYtDrQ/viewform?c=0&w=1) **before March 1st.**
 
 <br>
 
@@ -191,7 +46,7 @@ In this stand we showed some results of the **[Fab Textiles](http://fablabbcn.or
 &nbsp;
 
 
-###Qué hicimos
+##Qué hicimos
 &nbsp;
 ####Pop Up Fab Lab & Smart Citizen Stand
 
