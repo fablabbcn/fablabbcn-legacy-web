@@ -41,7 +41,9 @@ To apply to the **Workshop “Making Sense: Advances and Explorations in Partici
 </a>
 
 
-Cpomo parte la **[Design & The City conference](http://designandthecity.eu/)**, os invitamos a participar en el **“Making Sense” workshop** el **viernes 22 de April en Amsterdam**. This workshop will demonstrate how open source software, open source hardware, digital maker practices and open design can be used by local communities to appropriate their own sensing technologies, make sense of their environments and address environmental issues. It will discuss how tools and methodologies can empower citizens and communities to enhance their everyday environmental awareness and to adopt more sustainable individual and collective practices . Finally, it will stimulate reflection and knowledge sharing.
+Como parte la **[Design & The City conference](http://designandthecity.eu/)**, os invitamos a participar en el **“Making Sense” workshop** el **viernes 22 de April en Amsterdam**. Este workshop tratará sobre cómo el software y hardware de código abierto, las prácticas de fabricación digital y el diseño abierto pueden ser utilizados por las comunidades locales para generar
+
+demonstrate how open source software, open source hardware, digital maker practices and open design can be used by local communities to appropriate their own sensing technologies, make sense of their environments and address environmental issues. It will discuss how tools and methodologies can empower citizens and communities to enhance their everyday environmental awareness and to adopt more sustainable individual and collective practices . Finally, it will stimulate reflection and knowledge sharing.
 
 **What you will get out of this workshop**
 
