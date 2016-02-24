@@ -2,10 +2,10 @@
 
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/mmfbcn.jpg
-teaserlist: blog_loop_latest/mmfbcn.jpg
+teaserlatest: blog_loop_latest/0586 hva_ci d&tc banner 500x250 blauw-groen(1).png
+teaserlist: blog_loop_latest/0586 hva_ci d&tc banner 500x250 blauw-groen(1).png
 title: Design & The City conference // Making Sense Workshop
-meta: Design & The City conference, Workshop Making Sense
+meta: Participate in the Making Sense Workshop at Design & The City conference, 22nd of April in Amsterdam.
 author: Maria Ustarroz
 date: 24/02/2016
 category: Events
