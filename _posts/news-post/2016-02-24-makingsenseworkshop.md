@@ -14,7 +14,7 @@ category: Events
 #####<a href="#spanish"> Aquí puedes leer la notícia en castellano. </a>
 #####<a href="#spanish"> Here you can read this post in Spanish </a>
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/designcity.png" align="middle"> </img>
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/makingsenseworkshop.png" align="middle"> </img>
 
 
 As part of the **[Design & The City conference](http://designandthecity.eu/)**, we invite you to participate in the <mark>Making Sense Workshop on Friday 22nd of April in Amsterdam</mark>. This workshop will demonstrate how open source software, open source hardware, digital maker practices and open design can be used by local communities to appropriate their own sensing technologies, make sense of their environments and address environmental issues. It will discuss how tools and methodologies can empower citizens and communities to enhance their everyday environmental awareness and to adopt more sustainable individual and collective practices. Finally, it will stimulate reflection and knowledge sharing.
@@ -36,7 +36,7 @@ Experts in the field of participatory sensing will deliver a comprehensive intro
 
 <a name="spanish">
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/designcity.png"> </img>
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/makingsenseworkshop.png"> </img>
 
 </a>
 
