@@ -520,10 +520,8 @@ Mesas, taburetes y botellero diseñados por Miguel Guerrero
     
     <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/mueble_de_platos02.jpg" />
-        </div>
+    </div>
         
-    
- 
  
   </div>
 
@@ -557,6 +555,8 @@ Leka es un restaurante fabricado localmente en el barrio de Poblenou 22@, desarr
 <br>
 <br>
 <br>
+
+
 
 
 <!----- Image Slider ----------------------------- Image Slider -------------->
