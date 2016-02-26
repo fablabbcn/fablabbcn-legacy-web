@@ -13,7 +13,7 @@ category: workshop
 
 <br>
 
-##FAB TEXTILE
+##FAB TEXTILES
 The fashion world is increasingly incorporating new research in structures and new materials to expand its field of work and experimentation. This application of technology and digital fabrication to traditional manufacturing and industrial techniques are changing the ways of producing and designing clothing.
 
 The Fab Textiles project is opened to anyone interested in the world of fashion, open-source, wearables and custom creations. Fab Textiles centers its research activities in the field of digital fashion, focusing on new processes, materials and production techniques. 
@@ -31,14 +31,13 @@ Participants are invited to use their own computers.
 
 <br>
 ####TUTORS / LECTURERS
-Organized by:Fab Lab Barcelona
-
 Anastasia Pistofidou
 
 
 <br>
 ####DATES
-February 27th to 28st, 2016
+February 27th to 28th, 2016
+<br>
 From 10.00 to 14.00 and 15.00 to 19.00hs
 
 <br>
@@ -51,22 +50,24 @@ Spain
 
 <br>
 ####FEE FOR PARTICIPANTS
-Option 1 = 180€
-The course + Materials
+180€ <br>
+Materials Included
 
+####OBSERVATIONS
+You don't need any previous knowdlege to join the workshop.<br>
 Bring your laptop!
 
 
 <br>
 ####REGISTRATION 
 
-No previous knowledge needed.
+You can book this workshop using the <a target="_blank" href="http://fablab.fikket.com/event/taller-de-fab-textiles"><u>online registration</u></a> 
 
-<a target="_blank" href="http://fablab.fikket.com/event/taller-de-fab-textiles"><u>Click here</u></a> 
+More info: <br>
 
-More information:info@fablabbcn.org
+info@fablabbcn.org<br>
 
-More info about the Fab Textiless project, <a target="_blank" href="http://fabtextiles.org/"><u>click here</u></a>
+<a target="_blank" href="http://fabtextiles.org/"><u>Fab Textiless project</u></a>
 
 Get Inspired! <a target="_blank" href="https://www.pinterest.com/fabtextiles/fab-textiles//"><u>Pinterest board</u></a> 
 
