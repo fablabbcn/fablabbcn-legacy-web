@@ -25,34 +25,35 @@ The workshop will be mostly practical and will be structured in **four parts:**
 
 4.**More.** To document all projects and advanced capabilities of the Arduino platform so that participants can continue to develop their own projects at home.
 </li>
+<br>
 Software: Arduino / Processing / Fritzing
 
 Exercise: Developing a prototype with at least one input and one output.
-
+<br>
 ####TUTOR
 
 **[Guillem Camprodon](http://iaac.net/iaac/people/guillem-camprodon/)**
-
+<br>
 #### LANGUAGE
 
 Spanish and English
-
+<br>
 ####DATES
 
 March 5th to 6th, 2016.
 
 From 10.00 to 14.00 and 15.00 to 19.00hs
-
+<br>
 ####PLACE
 
 FAB LAB BARCELONA
 
 Pujades 10208005, Barcelona - Spain
-
+<br>
 ####FEE FOR PARTICIPANTS
 
 180€ +IVA Includes an Arduino Kit
-
+<br>
 ####REGISTRATION
 
 You can book this workshop using the <a target="_blank" href="http://fablab.fikket.com/event/making-things-talk-inputs-outputs"><u> online registration</u></a> 
