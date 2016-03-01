@@ -54,7 +54,7 @@ Pujades, 102 <br>
 <br>
 ####FEE FOR PARTICIPANTS
 
-180€ +IVA <br>Includes an Arduino Kit
+180€ +IVA <br>sIncludes an Arduino Kit
 <br>
 ####REGISTRATION
 
@@ -62,7 +62,7 @@ You can book this workshop using the <a target="_blank" href="http://fablab.fikk
 
 
 For more information please e-mail at: info@fablabbcn.org
-
-
+<br>
+<br>
 
 ![]({{site.baseurl}}{{ site.url }}/img/workshops/workshops_loop/making-things-talk-2016.jpg)
