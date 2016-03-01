@@ -24,7 +24,8 @@ The broader meaning of Mycoremediation is the process which fungi degrades or re
 <br>
 
 ####BRIEF
-**Noumena, Green Fab Lab and Fab Lab Barcelona present “SYMBIOTIC ASSOCIATIONS” workshop.** The purpose of the course is to explore the relationship between digital and biological manufacturing, as multi-scalar construction techniques. The Workshop will be based on defining a theoretical and experimental framework focused on the convergence between Digital Tectonics and Organic processes. We will focus on the association between biology and architecture in order to manufacture biological mechanisms.
+**Noumena, Green Fab Lab and Fab Lab Barcelona present “SYMBIOTIC ASSOCIATIONS” workshop.** The purpose of the course is to explore the relationship between digital and biological manufacturing, as multi-scalar construction techniques. The Workshop will be based on defining a theoretical and experimental framework focused on the convergence between Digital Tectonics and Organic processes. We will focus on the association between biology and architecture in order to manufacture biological mechanisms.<br>
+
 
 During the workshop, participants will be involved in a dynamic workflow, studying algorithms based on recursive systems associated with organic and digital manufacturing. The Workshop will be divided into **two main phases:**
 
