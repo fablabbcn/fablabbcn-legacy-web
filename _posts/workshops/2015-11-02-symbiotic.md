@@ -40,15 +40,15 @@ During the workshop, participants will be involved in a dynamic workflow, studyi
 
 ####TOPICS
 <ul>
-Intro to rhino
-Intro to grasshopper
-Advanced grasshopper
-Data management
-Intro to loops
-Cellular automata
-L-systems
-Agent based modelling
-Bio-mimetic simulations
+Intro to rhino<br>
+Intro to grasshopper<br>
+Advanced grasshopper<br>
+Data management<br>
+Intro to loops<br>
+Cellular automata<br>
+L-systems<br>
+Agent based modelling<br>
+Bio-mimetic simulations<br>
 </ul>
 
 
