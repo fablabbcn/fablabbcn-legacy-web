@@ -14,14 +14,13 @@ category: workshop
 <br>
 
 ####SYMBIOTIC ASSOCIATIONS: INTRODUCTION
-As a species, humans are adept at inventing toxins yet equally inept at eliminating them from our environment. Due to current trends, our exposure to dangerous chemicals increases with time as our environment becomes more polluted.
-<br>
+As a species, humans are adept at inventing toxins yet equally inept at eliminating them from our environment. Due to current trends, our exposure to dangerous chemicals increases with time as our environment becomes more polluted.<br>
+
 
 Mushrooms may turn out to be important keys to both human and planetary health. Their indispensable role in recycling organic matter has long been known. Mycelium can be selected and trained to break down toxic waste, converting it into harmless metabolites. Mushroom allies may even be able to detoxify chemical warfare agents. The use of fungi to improve the health of the environment by filtering water in order to help trees to grow in forests and plants in gardens is one facet of a larger strategy called by Paul Stamets Mycorestoration.<br>
 
 
-The broader meaning of Mycoremediation is the process which fungi degrades or removes toxins from the environment. Mycoremediation practices involve mixing mycelium with contaminated soil, by placing mycelial mats over toxic sites. The powerful enzymes secreted by specific fungi are able to digest lignin and cellulose, the primary structural components of wood. These digestive enzymes can also break down a surprisingly wide range of toxins that have similar chemical bonds with wood.
-<br>
+The broader meaning of Mycoremediation is the process which fungi degrades or removes toxins from the environment. Mycoremediation practices involve mixing mycelium with contaminated soil, by placing mycelial mats over toxic sites. The powerful enzymes secreted by specific fungi are able to digest lignin and cellulose, the primary structural components of wood. These digestive enzymes can also break down a surprisingly wide range of toxins that have similar chemical bonds with wood.<br>
 
 ####BRIEF
 **Noumena, Green Fab Lab and Fab Lab Barcelona present “SYMBIOTIC ASSOCIATIONS” workshop.** The purpose of the course is to explore the relationship between digital and biological manufacturing, as multi-scalar construction techniques. The Workshop will be based on defining a theoretical and experimental framework focused on the convergence between Digital Tectonics and Organic processes. We will focus on the association between biology and architecture in order to manufacture biological mechanisms.<br>
@@ -54,9 +53,10 @@ Bio-mimetic simulations<br>
 
 <br>
 ####TUTORS / LECTURERS
-Organized by: Noumena + IaaC | Green Fab Lab Barcelona
 
-Aldo Sollazo & Starsky.
+Aldo Sollazo & Starsky.<br>
+
+Organized by: Noumena + IaaC | Green Fab Lab Barcelona
 
 
 <br>
