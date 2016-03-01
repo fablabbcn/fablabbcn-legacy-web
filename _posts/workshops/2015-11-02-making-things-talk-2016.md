@@ -3,7 +3,7 @@ layout: workshop_post
 type: workshop
 workshopteaser: workshops_loop/making-things-talk-2016.jpg
 title: Making Things Talk. Inputs and Outputs // March 2016
-meta: ''
+meta: 'Arduino Basics: Inputs and outputs is a workshop aimed to people without previous experience on electronics, who want to enter the world of physical interaction through the Arduino platform.'
 author: Fab Lab BCN
 date: 2015/11/10
 category: workshop
