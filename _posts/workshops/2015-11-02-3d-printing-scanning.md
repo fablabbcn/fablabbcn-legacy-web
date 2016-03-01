@@ -4,7 +4,7 @@ layout: workshop_post
 type: workshop
 workshopteaser: workshops_loop/3dprinting-2016.jpg
 title: 3D Printing and Scanning// April 2016
-meta: "Take part in the workshop and learn how 3d printing technology works and the option on technique and machines more suitable for your project. You can choose between different printers and learn to use the programs that control each one. In addition, you will have the opportunity to print an object created by you or by any of the users who share their models in open platforms."
+meta: "Take part in the workshop and learn how 3d printing technology works and discover the most suitable technique for your project. In addition, you will have the opportunity to print an object created by you or by any of the users who share their models in open platforms."
 author: Fab Lab BCN
 date: 2015/11/01
 category: workshop
@@ -17,12 +17,7 @@ category: workshop
 3D printing is transforming not only how we produce the objects that surround us, as also the consumption patterns of our society.<br>
 
 
-Take part in the workshop and learn how 3d printing technology works and the option on technique and machines more suitable for your project.<br>
-
-You can choose between different printers and learn to use the programs that control each one. In addition, you will have the opportunity to print an object created by you or by any of the users who share their models in open platforms.<br>
-
-
-You will learn to scan , to process the 3D images and then make them on a 3D printer.<br>
+Take part in the workshop and learn how 3d printing technology works. You can choose between different printers and learn to use the programs that control each one. You will learn to scan, to process the 3D images and then make them on a 3D printer. This way, you will have the opportunity to print your own 3D object or any of the open source designs available online.<br>
 
 
 
