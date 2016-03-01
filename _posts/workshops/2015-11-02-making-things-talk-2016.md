@@ -9,8 +9,6 @@ date: 2015/11/10
 category: workshop
 ---
 
-#### MAKING THINGS TALK: INPUTS AND OUTPUTS
-
 The Arduino platform allows, with very basic programming skills, read data from our environment by all kinds of sensors such as temperature, light and use these to control all types of actuators such as motors and lights, or your own computer.
 
 <br>
