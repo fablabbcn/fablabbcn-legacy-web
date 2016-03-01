@@ -14,23 +14,22 @@ category: workshop
 <br>
 
 ###3D PRINTING & SCANNING
-3D printing is transforming not only how we produce the objects that surround us, as also the consumption patterns of our society.
+3D printing is transforming not only how we produce the objects that surround us, as also the consumption patterns of our society.<br>
 
-Take part in the workshop and learn how 3d printing technology works and the option on technique and machines more suitable for your project.
-You can choose between different printers and learn to use the programs that control each one. In addition, you will have the opportunity to print an object created by you or by any of the users who share their models in open platforms.
 
-You will learn to scan , to process the 3D images and then make them on a 3D printer.
+Take part in the workshop and learn how 3d printing technology works and the option on technique and machines more suitable for your project.<br>
 
-Materials are provided.
+You can choose between different printers and learn to use the programs that control each one. In addition, you will have the opportunity to print an object created by you or by any of the users who share their models in open platforms.<br>
+
+
+You will learn to scan , to process the 3D images and then make them on a 3D printer.<br>
 
 
 
 <br>
 ####TUTORS / LECTURERS
-Organized by:Fab Lab Barcelona
 
 Anastasia Pistofidou
-
 
 
 <br>
@@ -50,12 +49,12 @@ Spain
 <br>
 ####FEE FOR PARTICIPANTS
 160 euros
-
+Includes materials
 
 <br>
 ####REGISTRATION 
 
-<a target="_blank" href="http://fablab.fikket.com/event/taller-de-escaneo-e-impresion-3d--2"><u>Click here</u></a> 
+You can book this workshop using the <a target="_blank" href="http://fablab.fikket.com/event/taller-de-escaneo-e-impresion-3d--2"><u>online registration</u></a> 
 
 More information: info@fablabbcn.org
 
