@@ -13,34 +13,38 @@ category: workshop
 
 <br>
 
-##SYMBIOTIC ASSOCIATIONS: INTRODUCTION
+####SYMBIOTIC ASSOCIATIONS: INTRODUCTION
 As a species, humans are adept at inventing toxins yet equally inept at eliminating them from our environment. Due to current trends, our exposure to dangerous chemicals increases with time as our environment becomes more polluted.
 
 Mushrooms may turn out to be important keys to both human and planetary health. Their indispensable role in recycling organic matter has long been known. Mycelium can be selected and trained to break down toxic waste, converting it into harmless metabolites. Mushroom allies may even be able to detoxify chemical warfare agents. The use of fungi to improve the health of the environment by filtering water in order to help trees to grow in forests and plants in gardens is one facet of a larger strategy called by Paul Stamets Mycorestoration.
 
 The broader meaning of Mycoremediation is the process which fungi degrades or removes toxins from the environment. Mycoremediation practices involve mixing mycelium with contaminated soil, by placing mycelial mats over toxic sites. The powerful enzymes secreted by specific fungi are able to digest lignin and cellulose, the primary structural components of wood. These digestive enzymes can also break down a surprisingly wide range of toxins that have similar chemical bonds with wood.
+<br>
 
-###BRIEF
-Noumena, Green Fab Lab and Fab Lab Barcelona present “SYMBIOTIC ASSOCIATIONS” workshop. The purpose of the course is to explore the relationship between digital and biological manufacturing, as multi-scalar construction techniques. The Workshop will be based on defining a theoretical and experimental framework focused on the convergence between Digital Tectonics and Organic processes. We will focus on the association between biology and architecture in order to manufacture biological mechanisms.
+####BRIEF
+**Noumena, Green Fab Lab and Fab Lab Barcelona present “SYMBIOTIC ASSOCIATIONS” workshop.** The purpose of the course is to explore the relationship between digital and biological manufacturing, as multi-scalar construction techniques. The Workshop will be based on defining a theoretical and experimental framework focused on the convergence between Digital Tectonics and Organic processes. We will focus on the association between biology and architecture in order to manufacture biological mechanisms.
 
-During the workshop, participants will be involved in a dynamic workflow, studying algorithms based on recursive systems associated with organic and digital manufacturing. The Workshop will be divided into two main phases:
+During the workshop, participants will be involved in a dynamic workflow, studying algorithms based on recursive systems associated with organic and digital manufacturing. The Workshop will be divided into **two main phases:**
 
-- Computational Phase: The students will explore digital iterative actions simulating biological growth.
+**- Computational Phase:** The students will explore digital iterative actions simulating biological growth.
 
-- Manufacturing Phase:  During this phase we will develop biological reactions, mixing Mycelium with other materials used in rapid prototyping, such as wooden PLA, Clay and biodegradable materials.
+**- Manufacturing Phase:**  During this phase we will develop biological reactions, mixing Mycelium with other materials used in rapid prototyping, such as wooden PLA, Clay and biodegradable materials.
 
 
+<br>
 
-###TOPICS
-intro to rhino
-intro to grasshopper
-advanced grasshopper
-data management
-intro to loops
-cellular automata
-l-systems
-agent based modelling
-bio-mimetic simulations
+####TOPICS
+<ul>
+Intro to rhino
+Intro to grasshopper
+Advanced grasshopper
+Data management
+Intro to loops
+Cellular automata
+L-systems
+Agent based modelling
+Bio-mimetic simulations
+</ul>
 
 
 <br>
