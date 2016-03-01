@@ -94,10 +94,12 @@ Final presentation  session
 ####PLACE
 GREEN FAB LAB
 
-Ctra. BV-1415 (Horta-Cerdanyola), km 7 
-08290 Cerdanyola del Vallès 
-Barcelona 
-Spain
+Ctra. BV-1415 (Horta-Cerdanyola), km 7 <br>
+
+08290 Cerdanyola del Vallès <br>
+
+Barcelona - Spain<br>
+
 +34 617351890 
 
 <br>
@@ -114,7 +116,7 @@ Students = 20 % Discount
 <br>
 ####REGISTRATION 
 
-<a target="_blank" href="http://valldaura.fikket.es/event/symbiotic-associations"><u>Click here</u></a>    
+You can book this workshop using the <a target="_blank" href="http://valldaura.fikket.es/event/symbiotic-associations"><u>online registration</u></a>    
 
 
 For more information please e-mail at :
