@@ -15,7 +15,8 @@ The Arduino platform allows, with very basic programming skills, read data from 
 
 <br>
 
-The workshop will be mostly practical and will be structured in **four parts:**<br>
+The workshop will be mostly practical and will be structured in **four parts:**
+<br>
 <li>
 **Introduction.** Introduction to the basics of Arduino and electronics in general, its design and programming.
 <li>
