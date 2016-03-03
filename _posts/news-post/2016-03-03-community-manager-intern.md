@@ -11,7 +11,7 @@ category: Jobs
 
 ---
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/internship-program.jpg" align="middle"> </img></ul>
+<ul><img src="http://www.fablabbcn.org/img/blog/blog_loop_latest/internship-program.jpg" align="middle"> </img></ul>
 
 Our Community Platforms Coordinator Intern will be supporting **[Fab Lab Barcelona](http://fablabbcn.org/)** in the development our two of our projects at : **[FabLab.io](https://www.fablabs.io/)** and **[Smart Citizen](https://smartcitizen.me/)**
 
