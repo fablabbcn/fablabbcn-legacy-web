@@ -16,6 +16,6 @@ Our Community Platforms Coordinator Intern will be supporting **[Fab Lab Barcelo
 As the Community Platforms Coordinator you will work alongside the creative and communications directors. You will be responsible for the day-to-day operational tasks involved in building our communities around FabLab.io and Smart Citizen. You will manage social media accounts, forum discussions and organise community events in Barcelona and possibly other places in the world. You will work on a part-time flexible schedule with our team at our office at Fab Lab Barcelona. 
 <br>
 <br>
-####If you you are interested, check **[this link](https://docs.google.com/document/d/1yRnIGIXvyMhIeKUIApGyWI116FJed0bGHrMi7cIzFqc/edit?usp=sharing)** for more info 
+####**[If you you are interested, check this link for more info](https://docs.google.com/document/d/1yRnIGIXvyMhIeKUIApGyWI116FJed0bGHrMi7cIzFqc/edit?usp=sharing)**  
 <br>
 <br>
