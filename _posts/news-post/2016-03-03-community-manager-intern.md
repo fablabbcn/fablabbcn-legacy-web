@@ -10,6 +10,7 @@ date: 2016/03/03
 category: Jobs
 ---
 
+<img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/internship-program.jpg">
 
 Our Community Platforms Coordinator Intern will be supporting **[Fab Lab Barcelona](http://fablabbcn.org/)** in the development our two of our projects at : **[FabLab.io](https://www.fablabs.io/)** and **[Smart Citizen](https://smartcitizen.me/)**
 
