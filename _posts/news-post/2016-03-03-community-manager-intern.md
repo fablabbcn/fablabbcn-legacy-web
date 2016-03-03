@@ -3,7 +3,7 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/intprfablab.jpg
 teaserlist: blog_loop_latest/intprfablab.jpg
-title: Join our team: Community Platforms Coordinator Intern needed
+title: Join our team // Community Platforms Coordinator Intern needed
 meta: 'We are looking for a Community Platforms Coordinator Intern to support the development our two compelling projects at Fab Lab Barcelona: FabLab.io and Smartitizen.'
 author: Luciana Asinari
 date: 2016/03/03
