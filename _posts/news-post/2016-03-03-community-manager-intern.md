@@ -21,6 +21,6 @@ As the Community Platforms Coordinator you will work alongside the creative and 
 <br>
 ####**[If you are interested, check this link for more info](https://docs.google.com/document/d/1yRnIGIXvyMhIeKUIApGyWI116FJed0bGHrMi7cIzFqc/edit?usp=sharing)**
 
-####Or contact us: info@fablabbcn.org
+Or contact us: info@fablabbcn.org
 <br>
 <br>
