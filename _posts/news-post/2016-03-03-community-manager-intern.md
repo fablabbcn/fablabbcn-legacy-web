@@ -8,7 +8,6 @@ meta: We are looking for a Community Platforms Coordinator Intern to support the
 author: Luciana Asinari
 date: 03/03/2016
 category: Jobs
-
 ---
 
 <ul><img src="http://www.fablabbcn.org/img/blog/blog_loop_latest/internship-program.jpg" align="middle"> </img></ul>
