@@ -1,5 +1,4 @@
 ---
----
 layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/modular-fabtextiles.jpg
