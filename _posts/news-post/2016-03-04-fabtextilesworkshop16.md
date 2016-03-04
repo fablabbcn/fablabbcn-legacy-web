@@ -14,7 +14,7 @@ category: workshops
 
 During the Fab Textiles workshop participants navigated through the Digital Fabrication technologies and had an overview of the techniques and applications to the Fab Textiles project together with other references and inspiration.
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/fab-textiles/ftw16a.jpg" align="middle"> </img></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/fab-textiles/ftw16a.jpg" align="left"> </img></ul>
 
 <br>
 The workshop included 3D printing Rhinoceros tutorial oriented in the creation of chain geometries that can work as flexible meshes for the body; laser cutting patterns exercises to test on the material properties, like flexibility , volume, texture; manipulation on different fabrics; digitalising images and converting them to stitches for the digital embroidery machine; rastering; printing on fabrics; etc.
