@@ -15,17 +15,17 @@ category: workshops
 During the Fab Textiles workshop participants navigated through the Digital Fabrication technologies and had an overview of the techniques and applications to the Fab Textiles project together with other references and inspiration.
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab-textiles/ftw16a.jpg" align="middle"> </img></ul>
-<br>
+
 <br>
 The workshop included 3D printing Rhinoceros tutorial oriented in the creation of chain geometries that can work as flexible meshes for the body; laser cutting patterns exercises to test on the material properties, like flexibility , volume, texture; manipulation on different fabrics; digitalising images and converting them to stitches for the digital embroidery machine; rastering; printing on fabrics; etc.
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab-textiles/ftw16b.jpg" align="middle"> </img></ul>
-<br>
+
 <br>
 Everybody made his Taska Bag, check more for our product **[here](http://fablabbcn.org/product)**
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab-textiles/taska-making-web.jpg" align="middle"> </img></ul>
-<br>
+
 <br>
 More info and pictures **[here](https://fabtextiles.org/)**
 
