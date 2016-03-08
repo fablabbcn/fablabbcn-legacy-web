@@ -3,7 +3,7 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/modular-fabtextiles.jpg
 teaserlist: blog_loop_latest/modular-fabtextiles.jpg
-title: Check the amazing results of Fab Textiles Workshop
+title: Check out the results of last Fab Textiles Workshop!
 meta: The Fab Textiles project focuses in the intersection between the world of fashion and new technologies focusing on new processes, materials and production techniques.
 author: Luciana Asinari
 date: 2016/03/04
