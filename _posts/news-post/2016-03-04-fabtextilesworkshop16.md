@@ -38,7 +38,7 @@ More info and pictures **[at Fab Textiles website](https://fabtextiles.org/)**
 
 <a name="spanish">
 
-During the Fab Textiles workshop participants navigated through the Digital Fabrication technologies and had an overview of the techniques and applications to the Fab Textiles project together with other references and inspiration.
+Los participantes del taller de Fab Textiles pudieron descubrir varias tecnologías de Fabricación Digital. Además, conocieron las diferentes técnicas y aplicaciones que se les da en el proyecto Fab Textiles y pudieron entrar en contacto con otras referencias e inspiración para sus proyectos.
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab-textiles/ftw16a.jpg" align="left"> </img></ul>
 </a>
