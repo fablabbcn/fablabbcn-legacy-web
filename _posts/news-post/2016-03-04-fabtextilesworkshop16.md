@@ -27,7 +27,7 @@ Everybody made their Taska Bag.
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab-textiles/taska-making-web.jpg" align="middle"> </img></ul>
 
 <br>
-More info and pictures **[here](https://fabtextiles.org/)**
+More info and pictures **[at Fab Textiles website](https://fabtextiles.org/)**
 
 
 
