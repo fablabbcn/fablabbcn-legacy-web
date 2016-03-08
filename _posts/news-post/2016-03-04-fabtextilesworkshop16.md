@@ -13,7 +13,7 @@ category: workshops
 #####<a href="#spanish"> Aquí puedes leer la notícia en castellano. </a>
 #####<a href="#spanish"> Here you can read this post in Spanish </a>
 
-
+<br>
 During the Fab Textiles workshop participants navigated through the Digital Fabrication technologies and had an overview of the techniques and applications to the Fab Textiles project together with other references and inspiration.
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab-textiles/ftw16a.jpg" align="left"> </img></ul>
