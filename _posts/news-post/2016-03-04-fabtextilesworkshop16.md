@@ -31,17 +31,16 @@ Everybody made their Taska Bag.
 <br>
 More info and pictures at **[Fab Textiles website](https://fabtextiles.org/)**
 
-
----
-
-&nbsp;
-
+<br>
 <a name="spanish">
+---
+</a>
+&nbsp;
 
 Los participantes del taller de Fab Textiles pudieron descubrir varias tecnologías de Fabricación Digital. Además, conocieron las diferentes técnicas y aplicaciones que se les da en el proyecto Fab Textiles y pudieron entrar en contacto con otras referencias e inspiración para sus proyectos.
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab-textiles/ftw16a.jpg" align="left"> </img></ul>
-</a>
+
 
 <br>
 El taller incluyó: un tutorial de impresión 3D con Rhinoceros orientado a la creación de cadenas geométricas que pueden funcionar como mallas flexibles sobre el cuerpo; ejercicios de corte láser de patrones para probar las diferentes propiedades del material, como su flexibilidad, volumen, textura, etc; ejercicios de digitalización de imágenes y conversión de éstas a bordados usando la bordadora digital; tramado, pintura en tela, etc.
