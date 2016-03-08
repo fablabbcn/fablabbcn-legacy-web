@@ -49,7 +49,7 @@ El taller incluyó: un tutorial de impresión 3D con Rhinoceros orientado a la c
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab-textiles/ftw16b.jpg" align="middle"> </img></ul>
 
-<br>
+
 Los participantes también hicieron su propia **[Taska Bag](https://fabtextiles.org/taska/)**.
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab-textiles/taska-making-web.jpg" align="middle"> </img></ul>
