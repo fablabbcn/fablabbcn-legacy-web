@@ -32,6 +32,7 @@ Everybody made their Taska Bag.
 More info and pictures at **[Fab Textiles website](https://fabtextiles.org/)**
 
 <br>
+---
 <a name="spanish">
 ---
 </a>
