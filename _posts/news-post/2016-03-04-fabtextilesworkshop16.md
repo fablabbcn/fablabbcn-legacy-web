@@ -24,7 +24,7 @@ The workshop included 3D printing Rhinoceros tutorial oriented in the creation o
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab-textiles/ftw16b.jpg" align="middle"> </img></ul>
 
 <br>
-Everybody made their Taska Bag.
+Everybody made their **Taska Bag**.
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab-textiles/taska-making-web.jpg" align="middle"> </img></ul>
 
@@ -50,7 +50,7 @@ El taller incluyó: un tutorial de impresión 3D con Rhinoceros orientado a la c
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab-textiles/ftw16b.jpg" align="middle"> </img></ul>
 
 <br>
-Los participantes también hicieron su propia Taska Bag.
+Los participantes también hicieron su propia **Taska Bag**.
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab-textiles/taska-making-web.jpg" align="middle"> </img></ul>
 
