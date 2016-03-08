@@ -23,7 +23,7 @@ The workshop included 3D printing Rhinoceros tutorial oriented in the creation o
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab-textiles/ftw16b.jpg" align="middle"> </img></ul>
 
-<br>
+
 Everybody made their **[Taska Bag](https://fabtextiles.org/taska/)**.
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab-textiles/taska-making-web.jpg" align="middle"> </img></ul>
