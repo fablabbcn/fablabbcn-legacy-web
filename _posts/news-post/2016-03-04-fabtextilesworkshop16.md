@@ -29,7 +29,7 @@ Everybody made their Taska Bag.
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab-textiles/taska-making-web.jpg" align="middle"> </img></ul>
 
 <br>
-More info and pictures **[at Fab Textiles website](https://fabtextiles.org/)**
+More info and pictures at **[Fab Textiles website](https://fabtextiles.org/)**
 
 
 ---
@@ -44,16 +44,16 @@ Los participantes del taller de Fab Textiles pudieron descubrir varias tecnolog�
 </a>
 
 <br>
-The workshop included 3D printing Rhinoceros tutorial oriented in the creation of chain geometries that can work as flexible meshes for the body; laser cutting patterns exercises to test on the material properties, like flexibility , volume, texture; manipulation on different fabrics; digitalising images and converting them to stitches for the digital embroidery machine; rastering; printing on fabrics; etc.
+El taller incluyó: un tutorial de impresión 3D con Rhinoceros orientado a la creación de cadenas geométricas que pueden funcionar como mallas flexibles sobre el cuerpo; ejercicios de corte láser de patrones para probar las diferentes propiedades del material, como su flexibilidad, volumen, textura, etc; ejercicios de digitalización de imágenes y conversión de éstas a bordados usando la bordadora digital; tramado, pintura en tela, etc.
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab-textiles/ftw16b.jpg" align="middle"> </img></ul>
 
 <br>
-Everybody made their Taska Bag.
+Los participantes también hicieron su propia Taska Bag.
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab-textiles/taska-making-web.jpg" align="middle"> </img></ul>
 
 <br>
-More info and pictures **[at Fab Textiles website](https://fabtextiles.org/)**
+Podéis encotrar más información y fotografías en la web de **[Fab Textiles](https://fabtextiles.org/)**
 
 
