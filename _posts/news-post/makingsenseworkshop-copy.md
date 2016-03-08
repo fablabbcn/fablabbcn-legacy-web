@@ -13,16 +13,49 @@ category: Events
 ---
 
 
-<img src= "http://www.fablabbcn.org/img/blog/bolg_loop_latest/0586 hva_ci d&tc banner 500x250 blauw-groen(1).png"> </img>
+#####<a href="#spanish"> Aquí puedes leer la notícia en castellano. </a>
+#####<a href="#spanish"> Here you can read this post in Spanish </a>
+
+<br>
+During the Fab Textiles workshop participants navigated through the Digital Fabrication technologies and had an overview of the techniques and applications to the Fab Textiles project together with other references and inspiration.
+
+<ul><img src= "http://www.fablabbcn.org/img/blog/fab-textiles/ftw16a.jpg" align="left"> </img></ul>
+
+<br>
+The workshop included 3D printing Rhinoceros tutorial oriented in the creation of chain geometries that can work as flexible meshes for the body; laser cutting patterns exercises to test on the material properties, like flexibility , volume, texture; manipulation on different fabrics; digitalising images and converting them to stitches for the digital embroidery machine; rastering; printing on fabrics; etc.
+
+<ul><img src= "http://www.fablabbcn.org/img/blog/fab-textiles/ftw16b.jpg" align="middle"> </img></ul>
 
 
-As part of the **[Design & The City conference](http://designandthecity.eu/)**, we invite you to participate in the **“Making Sense” workshop** on **Friday 22nd of April in Amsterdam**. This workshop will demonstrate how open source software, open source hardware, digital maker practices and open design can be used by local communities to appropriate their own sensing technologies, make sense of their environments and address environmental issues. It will discuss how tools and methodologies can empower citizens and communities to enhance their everyday environmental awareness and to adopt more sustainable individual and collective practices . Finally, it will stimulate reflection and knowledge sharing.
+Everybody made their **[Taska Bag](https://fabtextiles.org/taska/)**.
 
-**What you will get out of this workshop**
+<ul><img src= "http://www.fablabbcn.org/img/blog/fab-textiles/taska-making-web.jpg" align="middle"> </img></ul>
 
-Experts in the field of participatory sensing will deliver a comprehensive introduction and state of the art. Secondly, participants will engage in a hands-on exploration of citizen-driven measuring tools and strategies using a novel participatory sensing toolbox comprising maps, scenarios and technologies. We conclude with a discussion on how we might critically deploy the imagined devices in scenarios of desired futures to achieve positive change, while negotiating and sharing concerns and challenges with policy makers.
+<br>
+More info and pictures at **[Fab Textiles website](https://fabtextiles.org/)**
 
-To apply to the **Workshop “Making Sense: Advances and Explorations in Participatory Sensing”** please fill out [this form](https://docs.google.com/forms/d/1LAvzJjt31aAJLEyMhXThQpn4LiXQvLAaN_gJOEYtDrQ/viewform?c=0&w=1) **before March 1st.**
+<br>
+<hr>
+
+<a name="spanish">
+---
+</a>
+&nbsp;
+
+Los participantes del taller de Fab Textiles pudieron descubrir varias tecnologías de Fabricación Digital. Además, conocieron las diferentes técnicas y aplicaciones que se les da en el proyecto Fab Textiles y pudieron entrar en contacto con otras referencias e inspiración para sus proyectos.
+
+<ul><img src= "http://www.fablabbcn.org/img/blog/fab-textiles/ftw16a.jpg" align="left"> </img></ul>
 
 
 <br>
+El taller incluyó: un tutorial de impresión 3D con Rhinoceros orientado a la creación de cadenas geométricas que pueden funcionar como mallas flexibles sobre el cuerpo; ejercicios de corte láser de patrones para probar las diferentes propiedades del material, como su flexibilidad, volumen, textura, etc; ejercicios de digitalización de imágenes y conversión de éstas a bordados usando la bordadora digital; tramado, pintura en tela, etc.
+
+<ul><img src= "http://www.fablabbcn.org/img/blog/fab-textiles/ftw16b.jpg" align="middle"> </img></ul>
+
+
+Los participantes también hicieron su propia **[Taska Bag](https://fabtextiles.org/taska/)**.
+
+<ul><img src= "http://www.fablabbcn.org/img/blog/fab-textiles/taska-making-web.jpg" align="middle"> </img></ul>
+
+<br>
+Podéis encotrar más información y fotografías en la web de **[Fab Textiles](https://fabtextiles.org/)**
