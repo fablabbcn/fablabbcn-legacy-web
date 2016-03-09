@@ -28,6 +28,8 @@ A ‘FabCity Campus’ has been set up as part of **[Europe by People](http://eu
 Nowadays cities are where most of the planet’s population live, they offer the best opportunity to effect practical change at scale in a context to which people can relate. Cities are at the heart of addressing the social and environmental challenges of the 21st century.  
 
 FAB City project comprises an international think tank of civic leaders, makers, urbanists and innovators working on changing the paradigm of the current industrial economy where the city operates on a linear model of importing products and producing waste. 
+<br>
+<ul><img src= "http://www.fablabbcn.org/img/blog/fab_city/fabcityworld.jpg" align="middle"> </img></ul>
 
 FAB City is a new urban model of transforming and shaping cities that shifts how they source and use materials from ‘Products In Trash Out’ (PITO) to ‘Data In Data Out’ (DIDO). This means that more production occurs inside the city, along with recycling materials and meeting local needs through local inventiveness. A city’s imports and exports would mostly be found in the form of data (information, knowledge, design, code).
 
