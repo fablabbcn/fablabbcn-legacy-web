@@ -13,7 +13,7 @@ category: Events
 ---
 
 
-##### <a href="#spanish"> Aquí puedes leer la notícia en castellano.</a>
+##### <a href="#spanish"> Aquí puedes leer la notícia en castellano.</a> <br>
 ##### <a href="#spanish"> Here you can read this post in Spanish.</a>
 
 <br>
