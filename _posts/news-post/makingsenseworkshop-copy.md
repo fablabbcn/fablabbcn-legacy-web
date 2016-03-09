@@ -4,7 +4,7 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/0586 hva_ci d&tc banner 500x250 blauw-groen(1).png
 teaserlist: blog_loop_latest/0586 hva_ci d&tc banner 500x250 blauw-groen(1).png
-title: Design & The City conference // Making Sense Workshop
+title: This April FabCity Campus in Amsterdam!
 meta: Design & The City conference, Workshop Making Sense
 author: Maria Ustarroz
 date: 24/02/2016
@@ -18,9 +18,7 @@ category: Events
 
 <br>
 
-
-
-A ‘FabCity Campus’ has been set up as part of ‘Europe by People’, the Amsterdam EU2016 Arts & Design programme and is inspired by the ‘Fab City’ initiative that started in Barcelona two years ago. 
+A ‘FabCity Campus’ has been set up as part of **[Europe by People](http://europebypeople.nl/)**, the Amsterdam EU2016 Arts & Design programme and is inspired by the ‘Fab City’ initiative that started in Barcelona two years ago. 
 
 Fab City is a global project to develop locally productive and globally connected cities. By the year 2054 cities should be self-sufficient. FAB City started as the Barcelona pledge: a countdown during the Fab10 event held on July 7th 2014 in Barcelona. Launched by the Institut d’Arquitectura Avançada de Catalunya, the MIT Center for Bits and Atoms, the Fab Foundation and the Barcelona City Council. This initiative is open for other cities, towns or communities to join in order to collectively build in a collective manner a more human and inhabitable new world.
 
