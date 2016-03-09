@@ -82,8 +82,6 @@ Para continuar este proyecto, en abril de 2016 se establecerá un Fab City Campu
 
 **El Fab City Campus tendrá lugar desde el 11 de abril hasta el 26 de junio.** Será habitado por estudiantes, científicos y emprendedores sociales, y funcionará como un **gran maker space**; un lugar donde experimentar colectivamente, prototipar y probar nuevas maneras de crear un entorno urbano futuro mejor. Fab City Campus también contará con diferentes pavellones que mostrarán ideas innovadoras para la ciudad autosuficiente, circular y conectada, entre los cuales habrá la **[Wikkelhouse de Fiction Factory](http://www.fictionfactory.nl/home.php?p=whouse)** y la **[impresora de hormigón BAM 3D](https://citiesintransition.eu/publicatie/bam-3d-concrete-printer-at-fabcity-campus)**.
 
-It will be inhabited by students, scientists and (social) entrepreneurs, and will also function as a **big maker space**; a place to collectively experiment, prototype and test new ways of creating an improved future urban environment. FabCity continues from April until the end of June and will consist of several pavilions showing different innovative ideas for the connected, self-sufficient and circular city, among which the cardboard **[Wikkelhouse by Fiction Factory](http://www.fictionfactory.nl/home.php?p=whouse)** and the **[BAM 3D concrete printer](https://citiesintransition.eu/publicatie/bam-3d-concrete-printer-at-fabcity-campus)**.
-
 <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab_city/campus-plattegrond.png" align="middle"> </img></ul>
 
