@@ -72,10 +72,7 @@ El proyecto Fab City consta de un think tank internacional de líderes civiles, 
 
 Fab City es un nuevo modelo urbano de transformación y formación de ciudades que cambia cómo éstas generan y usan materiales, del ‘Products In Trash Out’ (PITO) al ‘Data In Data Out’ (DIDO). Esto supone más producción dentro de la ciudad, juntamente con el reciclaje de los materiales y la resolución de necesidades locales a través del ingenio local. Las importaciones y exportaciones de una ciudad deberían ser fundamentalmente en forma de data (información, conocimiento, diseño, código, etc.).
 
-En este sentido, los ciudadanos y la ciudad se empoderan para ser los dueños de su propio destino, su capacidad de adaptarse aumenta y se desarrolla un sistema más ecológico, ya que 
-
-
-In this way, the citizens and the city are empowered to be the masters of their own destiny, their resilience is increased and a more ecological system is developed because the movements of materials and the current energy consumption and carbon emissions are drastically reduced. In order for this to be possible, the city must be locally productive and globally connected to knowledge, economic and social networks, making cooperation between cities, citizens and knowledge centers the basis of the scientific knowledge. 
+En este sentido, los ciudadanos y la ciudad se empoderan para ser los dueños de su propio destino, su capacidad de adaptarse aumenta y se desarrolla un sistema más ecológico, ya que el transporte de materiales, el consumo de energía y las emisiones de carbono actuales son drásticamente reducidas. Para hacer esto posible, la ciudad debe ser localmente productiva y estar globalmente conectada al conocimiento y a redes económicas y sociales. Esta cooperación entre ciudades, ciudadanos y centros de conocimiento centra la base del conocimiento científico.
 
 <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab_city/fabcity-campus.jpg" align="middle"> </img></ul>
