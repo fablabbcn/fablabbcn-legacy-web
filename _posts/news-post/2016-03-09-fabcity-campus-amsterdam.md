@@ -14,7 +14,7 @@ category: Events
 
 
 #####<a href="#spanish"> Aquí puedes leer la notícia en castellano.</a>
-#####<a href="#spanish"> Here you can read this post in Spanish </a>
+#####<a href="#spanish"> Here you can read this post in Spanish.</a>
 
 <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcitybarcelona.jpg" align="middle"> </img></ul>
