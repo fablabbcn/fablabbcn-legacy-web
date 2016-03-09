@@ -57,16 +57,16 @@ In early April 2016 a temporary, a freely accessible Fab City Campus will be bui
 
 Un ‘FabCity Campus’ formará parte del **[Europe by People](http://europebypeople.nl/)**, dentro del programa EU2016 Arts & Design de la ciudad de Amsterdam, inspirado por el proyecto Fab City que empezó hace dos años en Barcelona. 
 
-**[Fab City](http://fab.city/)** es un proyecto a escala global dedicado a desarrollar ciudades autosuficientes que sean localmente productivas y estén conectadas globalmente. En el año 2054 las ciudades deberán ser autosuficientes. Bajo esta promesa, en el evento Fab10 de 7 de julio de 2014, se inició una cuenta atrás des del **[Institut d’Arquitectura Avançada de Catalunya](http://fab.city/)**, el **[MIT Center for Bits and Atoms](http://cba.mit.edu/)**, la **[Fab Foundation](http://www.fabfoundation.org/)** y l'**[Ajuntament de Barcelona](http://www.barcelona.cat/es/)**, propulsores del evento.
+**[Fab City](http://fab.city/)** es un proyecto a escala global dedicado a desarrollar ciudades autosuficientes que sean localmente productivas y estén conectadas globalmente. En el año 2054 las ciudades deberán ser autosuficientes. Bajo esta promesa, en el evento Fab10 de 7 de julio de 2014, se inició una cuenta atrás desde l'**[Institut d’Arquitectura Avançada de Catalunya](http://fab.city/)**, el **[MIT Center for Bits and Atoms](http://cba.mit.edu/)**, la **[Fab Foundation](http://www.fabfoundation.org/)** y l'**[Ajuntament de Barcelona](http://www.barcelona.cat/es/)**, propulsores del evento.
 
 <iframe src="http://pitodido.org/#countdown" scrolling="no" frameborder="0" height="300px" width="100%"></iframe>
 
-Actualmente la mayoría de población del planeta vive en ciudades, éstas nos brindan la mejor oportunidad para crear un cambio a nivel práctico a gran escala en un contexto entendible por todos. Las ciudades están en el epicentro para hacer frente a los retos sociales y medioambientales del siglo XXI.
-
-El proyecto Fab City consta de un think tank internacional de líderes civiles, makers, urbanistas e innovadores trabajando en cambiar el paradigma de la economía industrial actual, en el cual la ciudad opera con un modelo linear que importa productos y produce desechos.
+#### Actualmente la mayoría de población del planeta vive en ciudades, éstas nos brindan la mejor oportunidad para crear un cambio a nivel práctico a gran escala en un contexto entendible por todos. Las ciudades están en el epicentro para hacer frente a los retos sociales y medioambientales del siglo XXI.
 
 <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab_city/fabcityworld.jpg" align="middle"> </img></ul>
+
+El proyecto Fab City consta de un think tank internacional de líderes civiles, makers, urbanistas e innovadores que trabajan para cambiar el paradigma de la economía industrial actual, en el cual la ciudad opera con un modelo lineal que importa productos y produce desechos.
 
 Fab City es un nuevo modelo urbano de transformación y formación de ciudades que cambia cómo éstas generan y usan materiales, del ‘Products In Trash Out’ (PITO) al ‘Data In Data Out’ (DIDO). Esto supone más producción dentro de la ciudad, juntamente con el reciclaje de los materiales y la resolución de necesidades locales a través del ingenio local. Las importaciones y exportaciones de una ciudad deberían ser fundamentalmente en forma de data (información, conocimiento, diseño, código, etc.).
 
