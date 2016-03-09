@@ -41,7 +41,7 @@ To become a FAB City requires having a more precise knowledge of the way that ci
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab_city/fabcity-campus.jpg" align="middle"> </img></ul>
 
 
-In early April 2016 a temporary, freely accessible campus will be built at the head of Amsterdam’s Java Island in the city’s Eastern Harbour District. Conceived as a green, self-sustaining city, the FabCity campus will comprise some 50 innovative pavilions, installations and prototypes. More than 400 young students, professionals, artists and creatives will develop the site into a sustainable urban area, where they will work, create, explore and present their solutions to current urban issues. The participants are from various educational backgrounds, including art academies, (technology) universities and vocational colleges.
+In early April 2016 a temporary, freely accessible campus will be built at the head of Amsterdam’s Java Island in the city’s Eastern Harbour District. Conceived as a green, self-sustaining city, the FabCity Campus will comprise some 50 innovative pavilions, installations and prototypes. More than 400 young students, professionals, artists and creatives will develop the site into a sustainable urban area, where they will work, create, explore and present their solutions to current urban issues. The participants are from various educational backgrounds, including art academies, (technology) universities and vocational colleges.
 
 FabCity will take place from 11 April up and until 26 June.
 
