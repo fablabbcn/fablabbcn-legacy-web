@@ -61,9 +61,9 @@ In this way, the citizens and the city are empowered to be the masters of their 
 Un ‘FabCity Campus’ formará parte del **[Europe by People](http://europebypeople.nl/)**, dentro del programa EU2016 Arts & Design de la ciudad de Amsterdam, inspirado por el proyecto Fab City que empezó hace dos años en Barcelona. 
 
 **[Fab City](http://fab.city/)** es un proyecto a escala global dedicado a desarrollar ciudades autosuficientes que sean localmente productivas y estén conectadas globalmente. En el año 2054 las ciudades deberán ser autosuficientes. Bajo esta promesa, en el evento Fab10 de 7 de julio de 2014, se inició una cuenta atrás desde l'**[Institut d’Arquitectura Avançada de Catalunya](http://fab.city/)**, el **[MIT Center for Bits and Atoms](http://cba.mit.edu/)**, la **[Fab Foundation](http://www.fabfoundation.org/)** y l'**[Ajuntament de Barcelona](http://www.barcelona.cat/es/)**, propulsores del evento.
-
+<br>
 <iframe src="http://pitodido.org/#countdown" scrolling="no" frameborder="0" height="300px" width="100%"></iframe>
-
+<br>
 #### Actualmente la mayoría de población del planeta vive en ciudades, éstas nos brindan la mejor oportunidad para crear un cambio a nivel práctico a gran escala en un contexto entendible por todos. Las ciudades están en el epicentro para hacer frente a los retos sociales y medioambientales del siglo XXI.
 
 Para continuar este proyecto, en abril de 2016 se establecerá un Fab City Campus temporal, de acceso libre, en la **Java Island de Amsterdam, en el Eastern Harbour District.** Concebido como una ciudad verde autosuficiente, el Fab City Campus contará con unos 50 pavellones de innovación, intalaciones y prototipos. Más de 400 estudiantes, profesionales, artistas y creativos trabajarán para que el Campus sea una área urbana sostenible donde crearán, explorarán y presentarán sus soluciones a los problemas urbanos actuales. Los participantes provendrán de diferentes bagajes educativos, como academias de arte, universidades tecnológicas y centros de formación profesional.
