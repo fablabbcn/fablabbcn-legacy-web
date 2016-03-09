@@ -17,6 +17,7 @@ category: Events
 #####<a href="#spanish"> Here you can read this post in Spanish </a>
 
 <br>
+<ul><img src= "http://www.fablabbcn.org/news_banner/banner_fab_city_m.jpg" align="left"> </img></ul>
 
 A ‘FabCity Campus’ has been set up as part of **[Europe by People](http://europebypeople.nl/)**, the Amsterdam EU2016 Arts & Design programme and is inspired by the ‘Fab City’ initiative that started in Barcelona two years ago. 
 
