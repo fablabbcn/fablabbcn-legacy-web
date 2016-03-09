@@ -63,7 +63,7 @@ Un ‘FabCity Campus’ formará parte del **[Europe by People](http://europebyp
 
 <iframe src="http://pitodido.org/#countdown" scrolling="no" frameborder="0" height="300px" width="100%"></iframe>
 
-Actualmente la mayoría de población del planeta vive en ciudades, éstas brindan la mejor oportunidad 
+Actualmente la mayoría de población del planeta vive en ciudades, éstas nos brindan la mejor oportunidad para crear un cambio a nivel práctico a gran escala en un contexto entendible por todos. Las ciudades son para hacer frente a los retos sociales y medioambientales del siglo XXI.
 
 Nowadays cities are where most of the planet’s population live, they offer the best opportunity to effect practical change at scale in a context to which people can relate. Cities are at the heart of addressing the social and environmental challenges of the 21st century.  
 
