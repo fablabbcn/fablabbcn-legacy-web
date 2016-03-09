@@ -26,7 +26,7 @@ A ‘FabCity Campus’ has been set up as part of **[Europe by People](http://eu
 <iframe src="http://pitodido.org/#countdown" scrolling="no" frameborder="0" height="300px" width="100%"></iframe>
 
 
-Cities are where most of the planet’s population now live, and they offer the best opportunity to effect practical change at scale, and in a context to which people can relate. Cities are at the heart of addressing the social and environmental challenges of the 21st century.  
+Nowadays cities are where most of the planet’s population live, they offer the best opportunity to effect practical change at scale in a context to which people can relate. Cities are at the heart of addressing the social and environmental challenges of the 21st century.  
 
 The FAB City is a global project to develop locally productive and globally connected self-sufficient cities. It comprises an international think tank of civic leaders, makers, urbanists and innovators working on changing the paradigm of the current industrial economy where the city operates on a linear model of importing products and producing waste. 
 
