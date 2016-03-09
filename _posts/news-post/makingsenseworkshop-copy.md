@@ -2,8 +2,8 @@
 
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/0586 hva_ci d&tc banner 500x250 blauw-groen(1).png
-teaserlist: blog_loop_latest/0586 hva_ci d&tc banner 500x250 blauw-groen(1).png
+teaserlatest: blog_loop_latest/fabcitybarcelona.jpg
+teaserlist: blog_loop_latest/fabcitybarcelona.jpg
 title: This April FabCity Campus in Amsterdam!
 meta: Design & The City conference, Workshop Making Sense
 author: Maria Ustarroz
