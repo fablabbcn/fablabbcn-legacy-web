@@ -66,7 +66,7 @@ Un ‘FabCity Campus’ formará parte del **[Europe by People](http://europebyp
 <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab_city/fabcityworld.jpg" align="middle"> </img></ul>
 
-El proyecto Fab City consta de un think tank internacional de líderes civiles, makers, urbanistas e innovadores que trabajan para cambiar el paradigma de la economía industrial actual, en el cual la ciudad opera con un modelo lineal que importa productos y produce desechos.
+El proyecto Fab City está formado por un think tank internacional de líderes civiles, makers, urbanistas e innovadores que trabajan para cambiar el paradigma de la economía industrial actual, en el cual la ciudad opera con un modelo lineal que importa productos y produce desechos.
 
 Fab City es un nuevo modelo urbano de transformación y formación de ciudades que cambia cómo éstas generan y usan materiales, del ‘Products In Trash Out’ (PITO) al ‘Data In Data Out’ (DIDO). Esto supone más producción dentro de la ciudad, juntamente con el reciclaje de los materiales y la resolución de necesidades locales a través del ingenio local. Las importaciones y exportaciones de una ciudad deberían ser fundamentalmente en forma de data (información, conocimiento, diseño, código, etc.).
 
