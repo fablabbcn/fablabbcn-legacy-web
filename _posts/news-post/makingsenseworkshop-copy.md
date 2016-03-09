@@ -7,7 +7,7 @@ teaserlist: blog_loop_latest/fabcitybarcelona.jpg
 title: This April FabCity Campus in Amsterdam!
 meta: Design & The City conference, Workshop Making Sense
 author: Maria Ustarroz
-date: 24/02/2016
+date: 09/03/2016
 category: Events
 
 ---
