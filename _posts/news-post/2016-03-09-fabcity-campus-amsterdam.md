@@ -22,9 +22,9 @@ category: Events
 A ‘FabCity Campus’ has been set up as part of **[Europe by People](http://europebypeople.nl/)**, the Amsterdam EU2016 Arts & Design programme and is inspired by the ‘Fab City’ initiative that started in Barcelona two years ago. 
 
 **[Fab City](http://fab.city/)** is a global project to develop locally productive and globally connected self-sufficient cities. By the year 2054 cities should be self-sufficient. Fab City started as the Barcelona pledge: a countdown during the Fab10 event held on July 7th 2014 in Barcelona. Launched by the **[Institut d’Arquitectura Avançada de Catalunya](http://fab.city/)**, the **[MIT Center for Bits and Atoms](http://cba.mit.edu/)**, the **[Fab Foundation](http://www.fabfoundation.org/)** and the **[Barcelona City Council](http://www.barcelona.cat/es/)**. This initiative is open for other cities, towns or communities to join in order to collectively build in a collective manner a more human and inhabitable new world.
-
+<br>
 <iframe src="http://pitodido.org/#countdown" scrolling="no" frameborder="0" height="300px" width="100%"></iframe>
-
+<br>
 #### Nowadays cities are where most of the planet’s population live, they offer the best opportunity to effect practical change at scale in a context to which people can relate. Cities are at the heart of addressing the social and environmental challenges of the 21st century.  
 
 Following this project, in early April 2016 a temporary, a freely accessible Fab City Campus will be built at the head of **Amsterdam’s Java Island in the city’s Eastern Harbour District.** Conceived as a green, self-sustaining city, the FabCity Campus will comprise some 50 innovative pavilions, installations and prototypes. More than 400 young students, professionals, artists and creatives will develop the site into a sustainable urban area, where they will work, create, explore and present their solutions to current urban issues. The participants are from various educational backgrounds, including art academies, (technology) universities and vocational colleges.
