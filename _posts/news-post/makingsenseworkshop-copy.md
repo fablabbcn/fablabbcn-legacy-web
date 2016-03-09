@@ -63,6 +63,8 @@ Un ‘FabCity Campus’ formará parte del **[Europe by People](http://europebyp
 
 #### Actualmente la mayoría de población del planeta vive en ciudades, éstas nos brindan la mejor oportunidad para crear un cambio a nivel práctico a gran escala en un contexto entendible por todos. Las ciudades están en el epicentro para hacer frente a los retos sociales y medioambientales del siglo XXI.
 
+Para continuar este proyecto, en abril de 2016 se establecerá un Fab City Campus temporal, de acceso libre, en la **Java Island de Amsterdam, en el Eastern Harbour District.** Concebido como una ciudad verde autosuficiente, el Fab City Campus contará con unos 50 pavellones de innovación, intalaciones y prototipos. Más de 400 estudiantes, profesionales, artistas y creativos trabajarán para que el Campus sea una área urbana sostenible donde crearán, explorarán y presentarán sus soluciones a los problemas urbanos actuales. Los participantes provendrán de diferentes bagajes educativos, como academias de arte, universidades tecnológicas y centros de formación profesional.
+
 <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab_city/fabcityworld.jpg" align="middle"> </img></ul>
 
@@ -74,8 +76,6 @@ En este sentido, los ciudadanos y la ciudad se empoderan para ser los dueños de
 
 <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab_city/fabcity-campus.jpg" align="middle"> </img></ul>
-
-Para continuar este proyecto, en abril de 2016 se establecerá un Fab City Campus temporal, de acceso libre, en la **Java Island de Amsterdam, en el Eastern Harbour District.** Concebido como una ciudad verde autosuficiente, el Fab City Campus contará con unos 50 pavellones de innovación, intalaciones y prototipos. Más de 400 estudiantes, profesionales, artistas y creativos trabajarán para que el Campus sea una área urbana sostenible donde crearán, explorarán y presentarán sus soluciones a los problemas urbanos actuales. Los participantes provendrán de diferentes bagajes educativos, como academias de arte, universidades tecnológicas y centros de formación profesional.
 
 **El Fab City Campus tendrá lugar desde el 11 de abril hasta el 26 de junio.** Será habitado por estudiantes, científicos y emprendedores sociales, y funcionará como un **gran maker space**; un lugar donde experimentar colectivamente, prototipar y probar nuevas maneras de crear un entorno urbano mejor para el futuro. El Fab City Campus también contará con diferentes pavellones que mostrarán ideas innovadoras para la ciudad autosuficiente, circular y conectada, entre los cuales habrá la **[Wikkelhouse de Fiction Factory](http://www.fictionfactory.nl/home.php?p=whouse)** y la **[impresora de hormigón BAM 3D](https://citiesintransition.eu/publicatie/bam-3d-concrete-printer-at-fabcity-campus)**.
 
