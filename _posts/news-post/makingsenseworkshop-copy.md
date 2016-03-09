@@ -61,8 +61,6 @@ Un ‘FabCity Campus’ formará parte del **[Europe by People](http://europebyp
 
 **[Fab City](http://fab.city/)** es un proyecto a escala global dedicado a desarrollar ciudades autosuficientes que sean localmente productivas y estén conectadas globalmente. En el año 2054 las ciudades deberán ser autosuficientes. Bajo esta promesa, en el evento Fab10 de 7 de julio de 2014, se inició una cuenta atrás des del **[Institut d’Arquitectura Avançada de Catalunya](http://fab.city/)**, el **[MIT Center for Bits and Atoms](http://cba.mit.edu/)**, la **[Fab Foundation](http://www.fabfoundation.org/)** y l'**[Ajuntament de Barcelona](http://www.barcelona.cat/es/)**, propulsores del evento.
 
-is a global project to develop locally productive and globally connected self-sufficient cities. By the year 2054 cities should be self-sufficient. Fab City started as the Barcelona pledge: a countdown during the Fab10 event held on July 7th 2014 in Barcelona. Launched by the **[Institut d’Arquitectura Avançada de Catalunya](http://fab.city/)**, the **[MIT Center for Bits and Atoms](http://cba.mit.edu/)**, the **[Fab Foundation](http://www.fabfoundation.org/)** and the **[Barcelona City Council](http://www.barcelona.cat/es/)**. This initiative is open for other cities, towns or communities to join in order to collectively build in a collective manner a more human and inhabitable new world.
-
 <iframe src="http://pitodido.org/#countdown" scrolling="no" frameborder="0" height="300px" width="100%"></iframe>
 
 Nowadays cities are where most of the planet’s population live, they offer the best opportunity to effect practical change at scale in a context to which people can relate. Cities are at the heart of addressing the social and environmental challenges of the 21st century.  
