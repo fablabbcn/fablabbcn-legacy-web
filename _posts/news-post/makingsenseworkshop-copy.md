@@ -37,10 +37,6 @@ In this way, the citizens and the city are empowered to be the masters of their 
 To become a FAB City requires having a more precise knowledge of the way that cities work. The evolution of the project will make it possible to create better systems of capturing and analysing data, developing knowledge about a city, and it will also the implementation of an evaluation system and meticulous monitoring. 
 
 
-
-
-
-
 <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab_city/fabcity-campus.jpg" align="middle"> </img></ul>
 
