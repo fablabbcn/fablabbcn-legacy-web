@@ -18,20 +18,20 @@ category: Events
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcitybarcelona.jpg" align="middle"> </img></ul>
 <h4>A ‘FabCity Campus’ has been set up as part of <a href= "http://europebypeople.nl/" alt= "Europe by People">Europe by People</a>, the Amsterdam EU2016 Arts & Design programme and is inspired by the ‘Fab City’ initiative that started in Barcelona two years ago.</h4>
- 
+ <br>
 **[Fab City](http://fab.city/)** is a global project to develop locally productive and globally connected self-sufficient cities. By the year 2054 cities should be self-sufficient. Fab City started as the Barcelona pledge: a countdown during the Fab10 event held on July 7th 2014 in Barcelona. Launched by the **[Institut d’Arquitectura Avançada de Catalunya](http://fab.city/)**, the **[MIT Center for Bits and Atoms](http://cba.mit.edu/)**, the **[Fab Foundation](http://www.fabfoundation.org/)** and the **[Barcelona City Council](http://www.barcelona.cat/es/)**. This initiative is open for other cities, towns or communities to join in order to collectively build in a collective manner a more human and inhabitable new world.<br>
  
  <br>
 <iframe src="http://pitodido.org/#countdown" scrolling="no" frameborder="0" height="300px" width="100%"></iframe>
 <br>
 <h4>Nowadays cities are where most of the planet’s population live, they offer the best opportunity to effect practical change at scale in a context to which people can relate. Cities are at the heart of addressing the social and environmental challenges of the 21st century.</h4>
-
+<br>
 Following this project, in early April 2016 a temporary, a freely accessible Fab City Campus will be built at the head of **Amsterdam’s Java Island in the city’s Eastern Harbour District.** Conceived as a green, self-sustaining city, the FabCity Campus will comprise some 50 innovative pavilions, installations and prototypes. More than 400 young students, professionals, artists and creatives will develop the site into a sustainable urban area, where they will work, create, explore and present their solutions to current urban issues. The participants are from various educational backgrounds, including art academies, (technology) universities and vocational colleges.
  <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab_city/fabcityworld.jpg" align="middle"> </img></ul>
 
 <h4>The Fab City project comprises an international think tank of civic leaders, makers, urbanists and innovators working on changing the paradigm of the current industrial economy where the city operates on a linear model of importing products and producing waste. </h4> 
-
+<br>
 FAB City is a new urban model of transforming and shaping cities that shifts how they source and use materials **from ‘Products In Trash Out’ (PITO) to ‘Data In Data Out’ (DIDO).** This means that more production occurs inside the city, along with recycling materials and meeting local needs through local inventiveness. A city’s imports and exports would mostly be found in the form of data (information, knowledge, design, code). <br>
 
 <br>
@@ -53,21 +53,21 @@ In this way, the citizens and the city are empowered to be the masters of their 
 
 <h4>Un ‘FabCity Campus’ formará parte del <a href= "http://europebypeople.nl/" alt= "Europe by People">Europe by People</a>, dentro del programa EU2016 Arts & Design de la ciudad de Amsterdam, inspirado por el proyecto Fab City que empezó hace dos años en Barcelona. 
 </h4>
-
+<br>
 **[Fab City](http://fab.city/)** es un proyecto a escala global dedicado a desarrollar ciudades autosuficientes que sean localmente productivas y estén conectadas globalmente. En el año 2054 las ciudades deberán ser autosuficientes. Bajo esta promesa, en el evento Fab10 de 7 de julio de 2014, se inició una cuenta atrás desde l'**[Institut d’Arquitectura Avançada de Catalunya](http://fab.city/)**, el **[MIT Center for Bits and Atoms](http://cba.mit.edu/)**, la **[Fab Foundation](http://www.fabfoundation.org/)** y l'**[Ajuntament de Barcelona](http://www.barcelona.cat/es/)**, propulsores del evento.<br>
 
 <br>
 <iframe src="http://pitodido.org/#countdown" scrolling="no" frameborder="0" height="300px" width="100%"></iframe>
 <br>
 <h4>Actualmente la mayoría de población del planeta vive en ciudades, éstas nos brindan la mejor oportunidad para crear un cambio a nivel práctico a gran escala en un contexto entendible por todos. Las ciudades están en el epicentro para hacer frente a los retos sociales y medioambientales del siglo XXI.</h4>
-
+<br>
 Para continuar este proyecto, en abril de 2016 se establecerá un Fab City Campus temporal, de acceso libre, en la **Java Island de Amsterdam, en el Eastern Harbour District.** Concebido como una ciudad verde autosuficiente, el Fab City Campus contará con unos 50 pavellones de innovación, intalaciones y prototipos. Más de 400 estudiantes, profesionales, artistas y creativos trabajarán para que el Campus sea una área urbana sostenible donde crearán, explorarán y presentarán sus soluciones a los problemas urbanos actuales. Los participantes provendrán de diferentes bagajes educativos, como academias de arte, universidades tecnológicas y centros de formación profesional.<br>
 
 <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab_city/fabcityworld.jpg" align="middle"> </img></ul>
 
 <h4>El proyecto Fab City está formado por un think tank internacional de líderes civiles, makers, urbanistas e innovadores que trabajan para cambiar el paradigma de la economía industrial actual, en el cual la ciudad opera con un modelo lineal que importa productos y produce desechos.</h4>
-
+<br>
 Fab City es un nuevo modelo urbano de transformación y formación de ciudades que cambia cómo éstas generan y usan materiales. Este nuevo modelo va **del ‘Products In Trash Out’ (PITO) actual al ‘Data In Data Out’ (DIDO) futuro.** Esto supone más producción dentro de la ciudad, juntamente con el reciclaje de los materiales y la resolución de necesidades locales a través del ingenio local. En un futuro, las importaciones y exportaciones de una ciudad deberían ser fundamentalmente en forma de datos (información, conocimiento, diseño, código, etc.).<br>
 
 <br>
