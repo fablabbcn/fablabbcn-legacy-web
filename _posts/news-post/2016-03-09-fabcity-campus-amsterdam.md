@@ -49,8 +49,6 @@ In this way, the citizens and the city are empowered to be the masters of their 
 
 <hr>
 
-
----
 <a name="spanish"></a>
 &nbsp;
 
