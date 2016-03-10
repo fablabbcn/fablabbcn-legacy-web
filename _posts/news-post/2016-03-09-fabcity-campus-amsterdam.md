@@ -26,14 +26,12 @@ category: Events
 <br>
 <h4>Nowadays cities are where most of the planet’s population live, they offer the best opportunity to effect practical change at scale in a context to which people can relate. Cities are at the heart of addressing the social and environmental challenges of the 21st century.</h4>
 
-<br>
 Following this project, in early April 2016 a temporary, a freely accessible Fab City Campus will be built at the head of **Amsterdam’s Java Island in the city’s Eastern Harbour District.** Conceived as a green, self-sustaining city, the FabCity Campus will comprise some 50 innovative pavilions, installations and prototypes. More than 400 young students, professionals, artists and creatives will develop the site into a sustainable urban area, where they will work, create, explore and present their solutions to current urban issues. The participants are from various educational backgrounds, including art academies, (technology) universities and vocational colleges.
  <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab_city/fabcityworld.jpg" align="middle"> </img></ul>
 
 <h4>The Fab City project comprises an international think tank of civic leaders, makers, urbanists and innovators working on changing the paradigm of the current industrial economy where the city operates on a linear model of importing products and producing waste. </h4> 
 
-<br>
 FAB City is a new urban model of transforming and shaping cities that shifts how they source and use materials **from ‘Products In Trash Out’ (PITO) to ‘Data In Data Out’ (DIDO).** This means that more production occurs inside the city, along with recycling materials and meeting local needs through local inventiveness. A city’s imports and exports would mostly be found in the form of data (information, knowledge, design, code). <br>
 
 <br>
@@ -62,7 +60,7 @@ In this way, the citizens and the city are empowered to be the masters of their 
 <iframe src="http://pitodido.org/#countdown" scrolling="no" frameborder="0" height="300px" width="100%"></iframe>
 <br>
 <h4>Actualmente la mayoría de población del planeta vive en ciudades, éstas nos brindan la mejor oportunidad para crear un cambio a nivel práctico a gran escala en un contexto entendible por todos. Las ciudades están en el epicentro para hacer frente a los retos sociales y medioambientales del siglo XXI.</h4>
-<br>
+
 Para continuar este proyecto, en abril de 2016 se establecerá un Fab City Campus temporal, de acceso libre, en la **Java Island de Amsterdam, en el Eastern Harbour District.** Concebido como una ciudad verde autosuficiente, el Fab City Campus contará con unos 50 pavellones de innovación, intalaciones y prototipos. Más de 400 estudiantes, profesionales, artistas y creativos trabajarán para que el Campus sea una área urbana sostenible donde crearán, explorarán y presentarán sus soluciones a los problemas urbanos actuales. Los participantes provendrán de diferentes bagajes educativos, como academias de arte, universidades tecnológicas y centros de formación profesional.<br>
 
 <br>
@@ -70,7 +68,6 @@ Para continuar este proyecto, en abril de 2016 se establecerá un Fab City Campu
 
 <h4>El proyecto Fab City está formado por un think tank internacional de líderes civiles, makers, urbanistas e innovadores que trabajan para cambiar el paradigma de la economía industrial actual, en el cual la ciudad opera con un modelo lineal que importa productos y produce desechos.</h4>
 
-<br>
 Fab City es un nuevo modelo urbano de transformación y formación de ciudades que cambia cómo éstas generan y usan materiales. Este nuevo modelo va **del ‘Products In Trash Out’ (PITO) actual al ‘Data In Data Out’ (DIDO) futuro.** Esto supone más producción dentro de la ciudad, juntamente con el reciclaje de los materiales y la resolución de necesidades locales a través del ingenio local. En un futuro, las importaciones y exportaciones de una ciudad deberían ser fundamentalmente en forma de datos (información, conocimiento, diseño, código, etc.).<br>
 
 <br>
