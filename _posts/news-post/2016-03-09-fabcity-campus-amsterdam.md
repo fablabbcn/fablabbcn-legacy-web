@@ -52,7 +52,6 @@ In this way, the citizens and the city are empowered to be the masters of their 
 <a name="spanish"></a>
 &nbsp;
 
-<br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcitybarcelona.jpg" align="middle"> </img></ul>
 
 <h4>Un ‘FabCity Campus’ formará parte del <a href= "http://europebypeople.nl/" alt= "Europe by People">Europe by People</a>, dentro del programa EU2016 Arts & Design de la ciudad de Amsterdam, inspirado por el proyecto Fab City que empezó hace dos años en Barcelona. 
