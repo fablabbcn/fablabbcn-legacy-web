@@ -18,7 +18,7 @@ category: Events
 
 <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcitybarcelona.jpg" align="middle"> </img></ul>
-A ‘FabCity Campus’ has been set up as part of **[Europe by People](http://europebypeople.nl/)**, the Amsterdam EU2016 Arts & Design programme and is inspired by the ‘Fab City’ initiative that started in Barcelona two years ago. <br>
+<h4>A ‘FabCity Campus’ has been set up as part of **[Europe by People](http://europebypeople.nl/)**, the Amsterdam EU2016 Arts & Design programme and is inspired by the ‘Fab City’ initiative that started in Barcelona two years ago.<h4>
  
  <br>
 **[Fab City](http://fab.city/)** is a global project to develop locally productive and globally connected self-sufficient cities. By the year 2054 cities should be self-sufficient. Fab City started as the Barcelona pledge: a countdown during the Fab10 event held on July 7th 2014 in Barcelona. Launched by the **[Institut d’Arquitectura Avançada de Catalunya](http://fab.city/)**, the **[MIT Center for Bits and Atoms](http://cba.mit.edu/)**, the **[Fab Foundation](http://www.fabfoundation.org/)** and the **[Barcelona City Council](http://www.barcelona.cat/es/)**. This initiative is open for other cities, towns or communities to join in order to collectively build in a collective manner a more human and inhabitable new world.<br>
