@@ -69,7 +69,7 @@ Para continuar este proyecto, en abril de 2016 se establecerá un Fab City Campu
 <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab_city/fabcityworld.jpg" align="middle"> </img></ul>
 
-<h4>El proyecto Fab City está formado por un think tank internacional de líderes civiles, makers, urbanistas e innovadores que trabajan para cambiar el paradigma de la economía industrial actual, en el cual la ciudad opera con un modelo lineal que importa productos y produce desechos.</h4><br>
+<h4>El proyecto Fab City está formado por un think tank internacional de líderes civiles, makers, urbanistas e innovadores que trabajan para cambiar el paradigma de la economía industrial actual, en el cual la ciudad opera con un modelo lineal que importa productos y produce desechos.</h4>
 
 <br>
 Fab City es un nuevo modelo urbano de transformación y formación de ciudades que cambia cómo éstas generan y usan materiales. Este nuevo modelo va **del ‘Products In Trash Out’ (PITO) actual al ‘Data In Data Out’ (DIDO) futuro.** Esto supone más producción dentro de la ciudad, juntamente con el reciclaje de los materiales y la resolución de necesidades locales a través del ingenio local. En un futuro, las importaciones y exportaciones de una ciudad deberían ser fundamentalmente en forma de datos (información, conocimiento, diseño, código, etc.).<br>
