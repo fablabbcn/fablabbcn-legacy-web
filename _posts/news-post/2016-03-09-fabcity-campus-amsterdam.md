@@ -25,7 +25,7 @@ A ‘FabCity Campus’ has been set up as part of **[Europe by People](http://eu
 <br>
 <iframe src="http://pitodido.org/#countdown" scrolling="no" frameborder="0" height="300px" width="100%"></iframe>
 <br>
-#### Nowadays cities are where most of the planet’s population live, they offer the best opportunity to effect practical change at scale in a context to which people can relate. Cities are at the heart of addressing the social and environmental challenges of the 21st century.
+<h4>Nowadays cities are where most of the planet’s population live, they offer the best opportunity to effect practical change at scale in a context to which people can relate. Cities are at the heart of addressing the social and environmental challenges of the 21st century.</h4>
 <br>
 Following this project, in early April 2016 a temporary, a freely accessible Fab City Campus will be built at the head of **Amsterdam’s Java Island in the city’s Eastern Harbour District.** Conceived as a green, self-sustaining city, the FabCity Campus will comprise some 50 innovative pavilions, installations and prototypes. More than 400 young students, professionals, artists and creatives will develop the site into a sustainable urban area, where they will work, create, explore and present their solutions to current urban issues. The participants are from various educational backgrounds, including art academies, (technology) universities and vocational colleges.
 
