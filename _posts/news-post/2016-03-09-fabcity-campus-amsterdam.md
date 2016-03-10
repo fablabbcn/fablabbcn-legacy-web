@@ -58,9 +58,9 @@ In this way, the citizens and the city are empowered to be the masters of their 
 <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcitybarcelona.jpg" align="middle"> </img></ul>
 
-Un ‘FabCity Campus’ formará parte del **[Europe by People](http://europebypeople.nl/)**, dentro del programa EU2016 Arts & Design de la ciudad de Amsterdam, inspirado por el proyecto Fab City que empezó hace dos años en Barcelona. 
-<br>
-**[Fab City](http://fab.city/)** es un proyecto a escala global dedicado a desarrollar ciudades autosuficientes que sean localmente productivas y estén conectadas globalmente. En el año 2054 las ciudades deberán ser autosuficientes. Bajo esta promesa, en el evento Fab10 de 7 de julio de 2014, se inició una cuenta atrás desde l'**[Institut d’Arquitectura Avançada de Catalunya](http://fab.city/)**, el **[MIT Center for Bits and Atoms](http://cba.mit.edu/)**, la **[Fab Foundation](http://www.fabfoundation.org/)** y l'**[Ajuntament de Barcelona](http://www.barcelona.cat/es/)**, propulsores del evento.
+<p>Un ‘FabCity Campus’ formará parte del **[Europe by People](http://europebypeople.nl/)**, dentro del programa EU2016 Arts & Design de la ciudad de Amsterdam, inspirado por el proyecto Fab City que empezó hace dos años en Barcelona. 
+</p>
+<p>**[Fab City](http://fab.city/)** es un proyecto a escala global dedicado a desarrollar ciudades autosuficientes que sean localmente productivas y estén conectadas globalmente. En el año 2054 las ciudades deberán ser autosuficientes. Bajo esta promesa, en el evento Fab10 de 7 de julio de 2014, se inició una cuenta atrás desde l'**[Institut d’Arquitectura Avançada de Catalunya](http://fab.city/)**, el **[MIT Center for Bits and Atoms](http://cba.mit.edu/)**, la **[Fab Foundation](http://www.fabfoundation.org/)** y l'**[Ajuntament de Barcelona](http://www.barcelona.cat/es/)**, propulsores del evento.</p>
 <br>
 <iframe src="http://pitodido.org/#countdown" scrolling="no" frameborder="0" height="300px" width="100%"></iframe>
 <br>
