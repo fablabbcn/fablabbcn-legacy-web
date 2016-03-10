@@ -40,7 +40,7 @@ In this way, the citizens and the city are empowered to be the masters of their 
 <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab_city/fabcity-campus.jpg" align="middle"> </img></ul>
 
-**FabCity Campus will take place from 11 April up and until 26 June.** It will be inhabited by students, scientists and (social) entrepreneurs, and will also function as a **big maker space**; a place to collectively experiment, prototype and test new ways of creating an improved future urban environment. FabCity continues from April until the end of June and will consist of several pavilions showing different innovative ideas for the connected, self-sufficient and circular city, among which the cardboard **[Wikkelhouse by Fiction Factory](http://www.fictionfactory.nl/home.php?p=whouse)** and the **[BAM 3D concrete printer](https://citiesintransition.eu/publicatie/bam-3d-concrete-printer-at-fabcity-campus)**.
+**FabCity Campus will take place from 11 April up and until 26 June.** It will be inhabited by students, scientists and (social) entrepreneurs, and will also function as a **big maker space**; a place to collectively experiment, prototype and test new ways of creating an improved future urban environment. FabCity continues from April until the end of June and will consist of several pavilions showing different innovative ideas for the connected, self-sufficient and circular city, among which the cardboard **[Wikkelhouse by Fiction Factory](http://www.fictionfactory.nl/home.php?p=whouse)** and the **[BAM 3D concrete printer](https://citiesintransition.eu/publicatie/bam-3d-concrete-printer-at-fabcity-campus)**. <br>
 
 <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab_city/campus-plattegrond.png" align="middle"> </img></ul>
