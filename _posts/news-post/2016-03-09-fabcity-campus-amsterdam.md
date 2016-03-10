@@ -73,11 +73,13 @@ In this way, the citizens and the city are empowered to be the masters of their 
 <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab_city/fabcityworld.jpg" align="middle"> </img></ul>
 
-El proyecto Fab City está formado por un think tank internacional de líderes civiles, makers, urbanistas e innovadores que trabajan para cambiar el paradigma de la economía industrial actual, en el cual la ciudad opera con un modelo lineal que importa productos y produce desechos.
+El proyecto Fab City está formado por un think tank internacional de líderes civiles, makers, urbanistas e innovadores que trabajan para cambiar el paradigma de la economía industrial actual, en el cual la ciudad opera con un modelo lineal que importa productos y produce desechos.<br>
+
 <br>
-Fab City es un nuevo modelo urbano de transformación y formación de ciudades que cambia cómo éstas generan y usan materiales. Este nuevo modelo va **del ‘Products In Trash Out’ (PITO) actual al ‘Data In Data Out’ (DIDO) futuro.** Esto supone más producción dentro de la ciudad, juntamente con el reciclaje de los materiales y la resolución de necesidades locales a través del ingenio local. En un futuro, las importaciones y exportaciones de una ciudad deberían ser fundamentalmente en forma de datos (información, conocimiento, diseño, código, etc.).
+Fab City es un nuevo modelo urbano de transformación y formación de ciudades que cambia cómo éstas generan y usan materiales. Este nuevo modelo va **del ‘Products In Trash Out’ (PITO) actual al ‘Data In Data Out’ (DIDO) futuro.** Esto supone más producción dentro de la ciudad, juntamente con el reciclaje de los materiales y la resolución de necesidades locales a través del ingenio local. En un futuro, las importaciones y exportaciones de una ciudad deberían ser fundamentalmente en forma de datos (información, conocimiento, diseño, código, etc.).<br>
+
 <br>
-En este sentido, los ciudadanos y la ciudad se empoderan para ser los dueños de su propio destino, su capacidad de adaptarse aumenta y se desarrolla un sistema más ecológico, ya que el transporte de materiales, el consumo de energía y las emisiones de carbono actuales son drásticamente reducidas. Para hacer esto posible, la ciudad debe ser localmente productiva y estar globalmente conectada al conocimiento y a las redes económicas y sociales internacionales. Esta cooperación entre ciudades, ciudadanos y centros de conocimiento centra la base del conocimiento científico.
+En este sentido, los ciudadanos y la ciudad se empoderan para ser los dueños de su propio destino, su capacidad de adaptarse aumenta y se desarrolla un sistema más ecológico, ya que el transporte de materiales, el consumo de energía y las emisiones de carbono actuales son drásticamente reducidas. Para hacer esto posible, la ciudad debe ser localmente productiva y estar globalmente conectada al conocimiento y a las redes económicas y sociales internacionales. Esta cooperación entre ciudades, ciudadanos y centros de conocimiento centra la base del conocimiento científico.<br>
 
 <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab_city/fabcity-campus.jpg" align="middle"> </img></ul>
