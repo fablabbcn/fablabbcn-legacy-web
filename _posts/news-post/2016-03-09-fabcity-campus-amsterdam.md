@@ -19,23 +19,21 @@ category: Events
 <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcitybarcelona.jpg" align="middle"> </img></ul>
 A ‘FabCity Campus’ has been set up as part of **[Europe by People](http://europebypeople.nl/)**, the Amsterdam EU2016 Arts & Design programme and is inspired by the ‘Fab City’ initiative that started in Barcelona two years ago. <br>
-
-
+ <br>
 **[Fab City](http://fab.city/)** is a global project to develop locally productive and globally connected self-sufficient cities. By the year 2054 cities should be self-sufficient. Fab City started as the Barcelona pledge: a countdown during the Fab10 event held on July 7th 2014 in Barcelona. Launched by the **[Institut d’Arquitectura Avançada de Catalunya](http://fab.city/)**, the **[MIT Center for Bits and Atoms](http://cba.mit.edu/)**, the **[Fab Foundation](http://www.fabfoundation.org/)** and the **[Barcelona City Council](http://www.barcelona.cat/es/)**. This initiative is open for other cities, towns or communities to join in order to collectively build in a collective manner a more human and inhabitable new world.<br>
-
+ <br>
 <iframe src="http://pitodido.org/#countdown" scrolling="no" frameborder="0" height="300px" width="100%"></iframe>
 <br>
 <h4>Nowadays cities are where most of the planet’s population live, they offer the best opportunity to effect practical change at scale in a context to which people can relate. Cities are at the heart of addressing the social and environmental challenges of the 21st century.</h4>
 
 <br>
 Following this project, in early April 2016 a temporary, a freely accessible Fab City Campus will be built at the head of **Amsterdam’s Java Island in the city’s Eastern Harbour District.** Conceived as a green, self-sustaining city, the FabCity Campus will comprise some 50 innovative pavilions, installations and prototypes. More than 400 young students, professionals, artists and creatives will develop the site into a sustainable urban area, where they will work, create, explore and present their solutions to current urban issues. The participants are from various educational backgrounds, including art academies, (technology) universities and vocational colleges.
-
-<br>
+ <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab_city/fabcityworld.jpg" align="middle"> </img></ul>
-
-The Fab City project comprises an international think tank of civic leaders, makers, urbanists and innovators working on changing the paradigm of the current industrial economy where the city operates on a linear model of importing products and producing waste. 
+ <br>
+The Fab City project comprises an international think tank of civic leaders, makers, urbanists and innovators working on changing the paradigm of the current industrial economy where the city operates on a linear model of importing products and producing waste.  <br>
 <br>
-FAB City is a new urban model of transforming and shaping cities that shifts how they source and use materials from ‘Products In Trash Out’ (PITO) to ‘Data In Data Out’ (DIDO). This means that more production occurs inside the city, along with recycling materials and meeting local needs through local inventiveness. A city’s imports and exports would mostly be found in the form of data (information, knowledge, design, code).
+FAB City is a new urban model of transforming and shaping cities that shifts how they source and use materials from ‘Products In Trash Out’ (PITO) to ‘Data In Data Out’ (DIDO). This means that more production occurs inside the city, along with recycling materials and meeting local needs through local inventiveness. A city’s imports and exports would mostly be found in the form of data (information, knowledge, design, code). <br>
 <br>
 In this way, the citizens and the city are empowered to be the masters of their own destiny. Their resilience is increased and a more ecological system is developed as the current movements of materials, energy consumption and carbon emissions are drastically reduced. In order to make that possible, the city must be locally productive and globally connected to knowledge, economic and social networks, making cooperation between cities, citizens and knowledge centers the basis of the scientific knowledge. 
 
