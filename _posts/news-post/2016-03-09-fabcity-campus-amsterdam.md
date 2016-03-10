@@ -50,9 +50,9 @@ In this way, the citizens and the city are empowered to be the masters of their 
 <br>
 <hr>
 
-<a name="spanish">
+
 ---
-</a>
+<a name="spanish"></a>
 &nbsp;
 
 <br>
