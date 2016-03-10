@@ -32,7 +32,7 @@ Following this project, in early April 2016 a temporary, a freely accessible Fab
  <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab_city/fabcityworld.jpg" align="middle"> </img></ul>
 
-<h4>The Fab City project comprises an international think tank of civic leaders, makers, urbanists and innovators working on changing the paradigm of the current industrial economy where the city operates on a linear model of importing products and producing waste. </h4> <br>
+<h4>The Fab City project comprises an international think tank of civic leaders, makers, urbanists and innovators working on changing the paradigm of the current industrial economy where the city operates on a linear model of importing products and producing waste. </h4> 
 
 <br>
 FAB City is a new urban model of transforming and shaping cities that shifts how they source and use materials **from ‘Products In Trash Out’ (PITO) to ‘Data In Data Out’ (DIDO).** This means that more production occurs inside the city, along with recycling materials and meeting local needs through local inventiveness. A city’s imports and exports would mostly be found in the form of data (information, knowledge, design, code). <br>
