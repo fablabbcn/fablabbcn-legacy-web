@@ -64,7 +64,7 @@ Un ‘FabCity Campus’ formará parte del **[Europe by People](http://europebyp
 <br>
 <iframe src="http://pitodido.org/#countdown" scrolling="no" frameborder="0" height="300px" width="100%"></iframe>
 <br>
-#### Actualmente la mayoría de población del planeta vive en ciudades, éstas nos brindan la mejor oportunidad para crear un cambio a nivel práctico a gran escala en un contexto entendible por todos. Las ciudades están en el epicentro para hacer frente a los retos sociales y medioambientales del siglo XXI.<br>
+<h4>Actualmente la mayoría de población del planeta vive en ciudades, éstas nos brindan la mejor oportunidad para crear un cambio a nivel práctico a gran escala en un contexto entendible por todos. Las ciudades están en el epicentro para hacer frente a los retos sociales y medioambientales del siglo XXI.</h4>
 <br>
 Para continuar este proyecto, en abril de 2016 se establecerá un Fab City Campus temporal, de acceso libre, en la **Java Island de Amsterdam, en el Eastern Harbour District.** Concebido como una ciudad verde autosuficiente, el Fab City Campus contará con unos 50 pavellones de innovación, intalaciones y prototipos. Más de 400 estudiantes, profesionales, artistas y creativos trabajarán para que el Campus sea una área urbana sostenible donde crearán, explorarán y presentarán sus soluciones a los problemas urbanos actuales. Los participantes provendrán de diferentes bagajes educativos, como academias de arte, universidades tecnológicas y centros de formación profesional.
 
