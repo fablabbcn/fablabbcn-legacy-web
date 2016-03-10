@@ -19,8 +19,10 @@ category: Events
 <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcitybarcelona.jpg" align="middle"> </img></ul>
 A ‘FabCity Campus’ has been set up as part of **[Europe by People](http://europebypeople.nl/)**, the Amsterdam EU2016 Arts & Design programme and is inspired by the ‘Fab City’ initiative that started in Barcelona two years ago. <br>
+ 
  <br>
 **[Fab City](http://fab.city/)** is a global project to develop locally productive and globally connected self-sufficient cities. By the year 2054 cities should be self-sufficient. Fab City started as the Barcelona pledge: a countdown during the Fab10 event held on July 7th 2014 in Barcelona. Launched by the **[Institut d’Arquitectura Avançada de Catalunya](http://fab.city/)**, the **[MIT Center for Bits and Atoms](http://cba.mit.edu/)**, the **[Fab Foundation](http://www.fabfoundation.org/)** and the **[Barcelona City Council](http://www.barcelona.cat/es/)**. This initiative is open for other cities, towns or communities to join in order to collectively build in a collective manner a more human and inhabitable new world.<br>
+ 
  <br>
 <iframe src="http://pitodido.org/#countdown" scrolling="no" frameborder="0" height="300px" width="100%"></iframe>
 <br>
@@ -32,10 +34,12 @@ Following this project, in early April 2016 a temporary, a freely accessible Fab
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab_city/fabcityworld.jpg" align="middle"> </img></ul>
  <br>
 The Fab City project comprises an international think tank of civic leaders, makers, urbanists and innovators working on changing the paradigm of the current industrial economy where the city operates on a linear model of importing products and producing waste.  <br>
+
 <br>
 FAB City is a new urban model of transforming and shaping cities that shifts how they source and use materials from ‘Products In Trash Out’ (PITO) to ‘Data In Data Out’ (DIDO). This means that more production occurs inside the city, along with recycling materials and meeting local needs through local inventiveness. A city’s imports and exports would mostly be found in the form of data (information, knowledge, design, code). <br>
+
 <br>
-In this way, the citizens and the city are empowered to be the masters of their own destiny. Their resilience is increased and a more ecological system is developed as the current movements of materials, energy consumption and carbon emissions are drastically reduced. In order to make that possible, the city must be locally productive and globally connected to knowledge, economic and social networks, making cooperation between cities, citizens and knowledge centers the basis of the scientific knowledge. 
+In this way, the citizens and the city are empowered to be the masters of their own destiny. Their resilience is increased and a more ecological system is developed as the current movements of materials, energy consumption and carbon emissions are drastically reduced. In order to make that possible, the city must be locally productive and globally connected to knowledge, economic and social networks, making cooperation between cities, citizens and knowledge centers the basis of the scientific knowledge.  <br>
 
 <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/fab_city/fabcity-campus.jpg" align="middle"> </img></ul>
