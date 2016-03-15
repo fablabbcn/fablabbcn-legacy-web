@@ -119,25 +119,29 @@ meta: One of the leading laboratories of the worldwide network of Fab Labs
 
 	<section id="news">
 		
-	    <div class="container" id="latest-news">		    		          
-		
-		{% for post in site.posts limit: 4 %}
-            {% if post.type == 'blog' %}
-            
-		    <div class="col-md-3 col-sm-3">				       		
-                    
-		        <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/blog/{{post.teaserlatest}}" id="latest-news-picture"/></a>
-		        <br>						    	    
-		        <h3><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>
-		        <br>
-		        <p>{{post.meta}}</p> 	     
-		        <br> 	     
-		        <a href="{{site.baseurl}}{{post.url}}" ><strong>read more</strong> &rarr;</a><br><br>   
-		        	    		    	   
-		    </div> <!-- col -->		
+	    <div class="container" id="latest-news">
 		    
-  	     {% endif %}
-	    {% endfor %}
+		    <div id="grid" data-columns >			    		          
+		
+			    {% for post in site.posts limit: 10%}
+	            {% if post.type == 'blog' %}
+	            
+			    <div class="menu-item">				       		
+	                    
+			        <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/blog/{{post.teaserlatest}}" id="latest-news-picture"/></a>
+			        <br>						    	    
+			        <h3><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>
+			        <br>
+			        <p>{{post.meta}}</p> 	     
+			        <br> 	     
+			        <a href="{{site.baseurl}}{{post.url}}" ><strong>read more</strong> &rarr;</a><br><br>   
+			        	    		    	   
+			    </div> <!-- menu item -->		
+			    
+	  	        {% endif %}
+		        {% endfor %}
+		    
+		    </div> <!-- grid -->
 
 	    </div> <!-- container -->	   
 	      			   		 

@@ -28,8 +28,6 @@ La fase de desarrollo y prototipado se gestó durante un período de 8 meses, pa
 
 
 
-
-
 <br>
 
 <!----- Image Slider ----------------------------- Image Slider -------------->
@@ -39,13 +37,13 @@ La fase de desarrollo y prototipado se gestó durante un período de 8 meses, pa
 
 <!--------------- Wrapper for slides --------------->
 
-  <div class="carousel-inner" role="listbox">
+<div class="carousel-inner" role="listbox">
    
     <div class="item active">
       <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-054.jpg" />
     </div>
     
-  <div class="item">
+    <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-102.jpg" />
     </div>
     
@@ -85,7 +83,7 @@ La fase de desarrollo y prototipado se gestó durante un período de 8 meses, pa
       <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-290.jpg" />
     </div>
      
-  </div>
+</div> <!-- carousel inner -->
 
 <!-------------------- Controls --------------------->
 
@@ -97,7 +95,12 @@ La fase de desarrollo y prototipado se gestó durante un período de 8 meses, pa
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-</div>
+  
+</div> <!-- carousel example generic -->
+
+<!----- Image Slider ----------------------------- Image Slider -------------->
+
+
 
 <br>
 <br>
@@ -116,17 +119,16 @@ El techo acústico se concibe como una malla triangular que rompe la onda sonora
 
 
 <br>
-
 <br>
+
 
 <!----- Image Slider ----------------------------- Image Slider -------------->
 
-
-<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel" >
 
 <!--------------- Wrapper for slides --------------->
 
-  <div class="carousel-inner" role="listbox">
+<div class="carousel-inner" role="listbox">
    
     <div class="item active">
       <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/ceiling/img_1451.jpg" />
@@ -140,7 +142,7 @@ El techo acústico se concibe como una malla triangular que rompe la onda sonora
       <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/ceiling/a1.png" />
     </div>
     
-</div>
+</div> <!-- carousel inner -->
 
 <!-------------------- Controls --------------------->
 
@@ -152,12 +154,12 @@ El techo acústico se concibe como una malla triangular que rompe la onda sonora
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-</div>
+  
+</div> <!-- carousel example generic -->
+
+<!----- Image Slider ----------------------------- Image Slider -------------->
 
 
-
-
-<br>
 <br>
 
 

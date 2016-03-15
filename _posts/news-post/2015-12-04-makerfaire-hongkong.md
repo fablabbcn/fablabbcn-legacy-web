@@ -21,6 +21,8 @@ Participants where introduced to parametric design and laser cutting on soft mat
 
 <br>
 
+<!----- Image Slider ----------------------------- Image Slider -------------->
+
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 
 <!--------------- Wrapper for slides --------------->
