@@ -29,9 +29,9 @@ The broader meaning of Mycoremediation is the process which fungi degrades or re
 During the workshop, participants will be involved in a dynamic workflow, studying algorithms based on recursive systems associated with organic and digital manufacturing. The Workshop will be divided into **two main phases:**
 <ul>
 
-<bold>Computational Phase:</bold> The students will explore digital iterative actions simulating biological growth.
+<b>Computational Phase:</b> The students will explore digital iterative actions simulating biological growth.
 <br>
-**Manufacturing Phase:**  During this phase we will develop biological reactions, mixing Mycelium with other materials used in rapid prototyping, such as wooden PLA, Clay and biodegradable materials.
+<b>Manufacturing Phase:</b> During this phase we will develop biological reactions, mixing Mycelium with other materials used in rapid prototyping, such as wooden PLA, Clay and biodegradable materials.
 </ul>
 
 
