@@ -23,9 +23,8 @@ Mushrooms may turn out to be important keys to both human and planetary health. 
 The broader meaning of Mycoremediation is the process which fungi degrades or removes toxins from the environment. Mycoremediation practices involve mixing mycelium with contaminated soil, by placing mycelial mats over toxic sites. The powerful enzymes secreted by specific fungi are able to digest lignin and cellulose, the primary structural components of wood. These digestive enzymes can also break down a surprisingly wide range of toxins that have similar chemical bonds with wood.<br>
 
 <h4>SYMBIOTIC ASSOCIATIONS</h4>
-**Noumena, Green Fab Lab and Fab Lab Barcelona present “SYMBIOTIC ASSOCIATIONS” workshop.** The purpose of the course is to explore the relationship between digital and biological manufacturing, as multi-scalar construction techniques. The Workshop will be based on defining a theoretical and experimental framework focused on the convergence between Digital Tectonics and Organic processes. We will focus on the association between biology and architecture in order to manufacture biological mechanisms.<br>
-
-
+Noumena, Green Fab Lab and Fab Lab Barcelona present “SYMBIOTIC ASSOCIATIONS” workshop. The purpose of the course is to explore the relationship between digital and biological manufacturing. We will focus on the association between biology and architecture in order to manufacture biological mechanisms.<br>
+<br>
 During the workshop, participants will be involved in a dynamic workflow, studying algorithms based on recursive systems associated with organic and digital manufacturing. The Workshop will be divided into **two main phases:**
 <ul>
 
