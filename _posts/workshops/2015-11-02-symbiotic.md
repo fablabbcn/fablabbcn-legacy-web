@@ -90,7 +90,7 @@ Final presentation session
 <br>
 <h4>PLACE</h4>
 
-<a target="_blank" href="http://greenfablab.org/contact/"><u>GREEN FAB LAB</u></a>
+<a target="_blank" href="http://greenfablab.org/contact/"><b><u>GREEN FAB LAB</u></b></a>
 
 Ctra. BV-1415 (Horta-Cerdanyola), km 7 <br>
 
