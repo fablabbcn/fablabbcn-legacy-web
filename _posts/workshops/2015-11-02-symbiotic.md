@@ -14,10 +14,10 @@ category: workshop
 <br>
 
 <h4>CONTEXT</h4>
-As a species, humans are adept at inventing toxins yet equally inept at eliminating them from our environment. Due to current trends, our exposure to dangerous chemicals increases with time as our environment becomes more polluted.<br>
+Humans are adept at inventing toxins yet equally inept at eliminating them from our environment. Due to current trends, our exposure to dangerous chemicals increases with time as our environment becomes more polluted.<br>
 
 <br>
-Mushrooms may turn out to be important keys to both human and planetary health. Their indispensable role in recycling organic matter has long been known. Mycelium can be selected and trained to break down toxic waste, converting it into harmless metabolites. Mushroom allies may even be able to detoxify chemical warfare agents. The use of fungi to improve the health of the environment by filtering water in order to help trees to grow in forests and plants in gardens is one facet of a larger strategy called by Paul Stamets Mycorestoration.<br>
+Mushrooms may turn out to be important keys to both human and planetary health. Their indispensable role in recycling organic matter has long been known. Mycelium can be selected and trained to break down toxic waste, converting it into harmless metabolites. Mushroom allies may even be able to detoxify chemical warfare agents. The use of fungi to improve environment's health by filtering water, in order to help trees to grow in forests and plants in gardens, is one facet of a larger strategy called <a href= "https://www.ted.com/talks/paul_stamets_on_6_ways_mushrooms_can_save_the_world?"> Mycorestoration, acording to the mycologist Paul Stamets</a>.<br>
 
 <br>
 The broader meaning of Mycoremediation is the process which fungi degrades or removes toxins from the environment. Mycoremediation practices involve mixing mycelium with contaminated soil, by placing mycelial mats over toxic sites. The powerful enzymes secreted by specific fungi are able to digest lignin and cellulose, the primary structural components of wood. These digestive enzymes can also break down a surprisingly wide range of toxins that have similar chemical bonds with wood.<br>
