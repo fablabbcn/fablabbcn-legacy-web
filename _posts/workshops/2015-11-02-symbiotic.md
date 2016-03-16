@@ -115,7 +115,7 @@ Students = 20 % Discount<br>
 <br>
 <h4>REGISTRATION </h4>
 
-You can book this workshop using the <a target="_blank" href="http://valldaura.fikket.es/event/symbiotic-associations"><u>online registration form</u></a>    
+You can book this workshop using the <a target="_blank" href="http://valldaura.fikket.es/event/symbiotic-associations"><b><u>online registration form</u></b></a>    
 
 <br>
 For more information please e-mail at:<br>
