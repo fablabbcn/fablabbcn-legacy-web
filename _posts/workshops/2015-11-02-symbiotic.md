@@ -55,7 +55,7 @@ Bio-mimetic simulations<br>
 
 Aldo Sollazo & Starsky.<br>
 
-Organized by: Noumena + IaaC | Green Fab Lab Barcelona
+Organized by: Noumena + IaaC: Green Fab Lab & Fab Lab Barcelona
 
 
 <br>
