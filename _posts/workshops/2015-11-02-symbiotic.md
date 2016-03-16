@@ -113,11 +113,11 @@ Students = 20 % Discount<br>
 <br>
 <h4>REGISTRATION </h4>
 
-You can book this workshop using the <a target="_blank" href="http://valldaura.fikket.es/event/symbiotic-associations"><u>online registration</u></a>    
+You can book this workshop using the <a target="_blank" href="http://valldaura.fikket.es/event/symbiotic-associations"><u>online registration form</u></a>    
 
-
-For more information please e-mail at:
-info@fablabbcn.org
+<br>
+For more information please e-mail at:<br>
+info@fablabbcn.org<br>
 jonathan@fablabbcn.org
 
 
