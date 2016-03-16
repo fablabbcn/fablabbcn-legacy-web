@@ -35,7 +35,7 @@ During the workshop, participants will be involved in a dynamic workflow, studyi
 <b>Manufacturing Phase:</b> we will develop biological reactions, mixing Mycelium with other materials used in rapid prototyping, such as wooden PLA, Clay and biodegradable materials.
 </ul>
 
-
+<br>
 <h4>TOPICS</h4>
 <ul>
 Intro to rhino<br>
@@ -49,17 +49,17 @@ Agent based modelling<br>
 Bio-mimetic simulations<br>
 </ul>
 
-
+<br>
 <h4>TUTORS / LECTURERS</h4>
 
 Aldo Sollazo & Starsky.<br>
 
 Organized by: Noumena + IaaC: Green Fab Lab & Fab Lab Barcelona
 
-
+<br>
 <h4>DATES</h4>
 March 18th to 20th, 2016
-
+<br>
 <h4>SCHEDULE</h4>
 **Friday 18th // 10 am to 18pm**
 
@@ -87,7 +87,7 @@ Experimenting with Mycelium
 
 Final presentation  session
 
-
+<br>
 <h4>PLACE</h4>
 
 <a target="_blank" href="http://greenfablab.org/contact/"><b>GREEN FAB LAB</b></a>
