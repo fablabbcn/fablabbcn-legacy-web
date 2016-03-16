@@ -52,9 +52,9 @@ Bio-mimetic simulations<br>
 <br>
 <h4>TUTORS / LECTURERS</h4>
 
-Aldo Sollazo & Starsky.<br>
+Aldo Sollazo, Ronald Postma and Mauro Jannone.<br>
 
-Organized by: Noumena + IaaC: Green Fab Lab & Fab Lab Barcelona
+Organized by: <a target="_blank" href="http://noumena.io/?page_id=11543"><b><u>Noumena</u></b></a> + IaaC: Green Fab Lab & Fab Lab Barcelona
 
 <br>
 <h4>DATES</h4>
@@ -85,7 +85,7 @@ Prototyping with  additive manufacturing techniques
 
 Experimenting with Mycelium
 
-Final presentation  session
+Final presentation session
 
 <br>
 <h4>PLACE</h4>
