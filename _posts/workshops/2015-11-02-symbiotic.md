@@ -102,14 +102,13 @@ Barcelona - Spain<br>
 
 <br>
 <h4>FEE FOR PARTICIPANTS</h4>
-Option 1 = 250€ +IVA
-Basic
+Option 1 = 250€ + IVA<br>
+Basic - Transportation to the Green Fab Lab is included
 
-Option 2 = 350€ +IVA
-Premium
+Option 2 = 350€ + IVA<br>
+Premium - Accommodation and meals included at Valldaura
 
-Students = 20 % Discount
-
+Students = 20 % Discount<br>
 
 <br>
 <h4>REGISTRATION </h4>
