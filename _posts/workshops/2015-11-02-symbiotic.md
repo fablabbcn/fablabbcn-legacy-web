@@ -71,7 +71,7 @@ Basics of Grasshopper
 
 Recursive iterative methods
 
-
+<br>
 **Saturday 19th // 10 am- 18 pm**
 
 Advanced Topics of looping
@@ -80,7 +80,7 @@ Simulation of material growth
 
 Prototyping with  additive manufacturing techniques
 
-
+<br>
 **Sunday 20th // 10 am – 18 pm**
 
 Experimenting with Mycelium
