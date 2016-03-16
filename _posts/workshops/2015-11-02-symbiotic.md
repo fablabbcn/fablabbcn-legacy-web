@@ -36,8 +36,6 @@ During the workshop, participants will be involved in a dynamic workflow, studyi
 </ul>
 
 
-<br>
-
 <h4>TOPICS</h4>
 <ul>
 Intro to rhino<br>
