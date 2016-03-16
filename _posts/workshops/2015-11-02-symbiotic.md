@@ -50,7 +50,6 @@ Bio-mimetic simulations<br>
 </ul>
 
 
-<br>
 <h4>TUTORS / LECTURERS</h4>
 
 Aldo Sollazo & Starsky.<br>
@@ -58,7 +57,6 @@ Aldo Sollazo & Starsky.<br>
 Organized by: Noumena + IaaC: Green Fab Lab & Fab Lab Barcelona
 
 
-<br>
 <h4>DATES</h4>
 March 18th to 20th, 2016
 
@@ -89,7 +87,7 @@ Experimenting with Mycelium
 
 Final presentation  session
 
-<br>
+
 <h4>PLACE</h4>
 
 <a target="_blank" href="http://greenfablab.org/contact/"><b>GREEN FAB LAB</b></a>
