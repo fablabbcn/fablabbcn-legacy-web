@@ -13,11 +13,11 @@ category: workshop
 
 <br>
 
-##RECURSIONS : ITERATIVE STRATEGIES
+<h2>RECURSIONS : ITERATIVE STRATEGIES</h2>
 
-Recursion in mathematics and computer science, is a method in which the function being dened is applied within its own denition. The term is also used more generally to describe a process of repeating objects in a self-similar way. This workshop explores iterative strategies through parametric design.
-The main tool for the course will be grasshopper3d and its add-on Anemone. Anemone is a simple but eective plug-in for Grasshopper that enables for loops in a simple and linear way. We will explore several design strategies such iterative growth, L systems, fractals, recursive subdivisions and more.
-The course will focus on how those methods can aect three-dimensional geometries, generating unexpected conformations.
+Recursion in mathematics and computer science, is a method in which the function being defined is applied within its own definition. The term is also used more generally to describe a process of repeating objects in a self-similar way. This workshop explores iterative strategies through parametric design.
+The main tool for the course will be grasshopper3d and its add-on Anemone. Anemone is a simple but efeective plug-in for Grasshopper that enables for loops in a simple and linear way. We will explore several design strategies such iterative growth, L systems, fractals, recursive subdivisions and more.
+The course will focus on how those methods can affect three-dimensional geometries, generating unexpected conformations.
 The workshop is open to all participants, no previous knowledge of Rhinoceros, Grasshopper or tailoring techniques is required (although an introductory knowledge is welcome).
 
 ###PROGRAM
