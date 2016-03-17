@@ -13,7 +13,7 @@ category: workshop
 
 <br>
 
-##MAKE IT, MAP IT
+<h2>MAKE IT, MAP IT</h2>
 1.Participants design and make a 3D object.
 
 2.Each object is made using CNC milling / laser cuter or 3D printing.
@@ -29,16 +29,16 @@ Participants work on their own computers using Resolume Arena trial.
 
 
 <br>
-####TUTORS
+<h4>TUTORS</h4>
 
 Ingi Guðjónsson, Carlos Nieves & Cristian Rizzuti
 
 
 <br>
-####DATES&SCHEDULE
+<h4>DATES&SCHEDULE</h4>
 February 20th to 21st, 2016
 
-#####Saturday 20th
+<h5>Saturday 20th</h5>
 
 **10:00 -11:30   INTRODUCTION**
 
@@ -73,7 +73,7 @@ February 20th to 21st, 2016
 - Video material preparation 
 
 <br>
-#####Sunday 21th
+<h5>Sunday 21th</h5>
 
 **10:00 - 14:00     MAP IT**
 
@@ -98,7 +98,7 @@ February 20th to 21st, 2016
 - Project analyses
 
 <br>
-####PLACE
+<h4>PLACE</h4>
 FAB LAB BARCELONA
 
 Pujades 102, 
@@ -106,13 +106,13 @@ Pujades 102,
 Spain
 
 <br>
-####FEE FOR PARTICIPANTS
+<h4>FEE FOR PARTICIPANTS</h4>
 200€ (It includes materials and fabrication)
 
 
 
 <br>
-####REGISTRATION 
+<h4>REGISTRATION</h4>
 <a target="_blank" href="http://fablab.fikket.com/event/taller-de-make-it-map-it"><u>Click here</u></a> 
 
 For more information please e-mail at :
