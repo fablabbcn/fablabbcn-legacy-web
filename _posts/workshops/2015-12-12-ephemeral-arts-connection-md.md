@@ -77,7 +77,3 @@ More information: info@fablabbcn.org
 
 <br>
 
-
-
-Explora las nuevas dinámicas del sistema de producción global generadas por las nuevas herramientas digitales y procesos colaborativos multidisciplinares. Además, utilizarás diseño paramétrico/generativo junto a la fabricación digital para realizar una de las 2000 portadas para el libro Ephemeral Arts Connection de Stardust* que será distribuido en todo el mundo por Actar (NY, Bcn).
-
