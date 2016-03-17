@@ -10,11 +10,6 @@ date: 2015/01/10
 category: workshop
 
 ---
-<h4><a href="#spanish"> Aquí puedes leer la información en castellano. </a></h4>
-<h4><a href="#spanish"> Here you can read this information in Spanish </a></h4>
-
-<br>
-
 
 <h3>Parametric Fields & Digital Fabrication: architecture, design and publishing</h3>
 
