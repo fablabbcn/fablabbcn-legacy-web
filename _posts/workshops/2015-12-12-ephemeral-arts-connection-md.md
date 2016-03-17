@@ -55,23 +55,23 @@ Lecture by **Anastasia Pistofidou** | Fab Textiles and Projects manager at Fab L
 
 Tools for parametric/generative design and digital fabrication + Project presentation by IAAC/FAB LAB BCN   
 
-#####Second day | Tutorials 
+<h5>Second day | Tutorials </h5>
 
 Parametric/Generative Design and Digital Fabrication 
 
-#####Third day | Lecture + Production
+<h5>Third day | Lecture + Production</h5>
 
 Lecture by **Maximiliano Romero** | Operations director of the Phy.Co Lab Milan | 
 Data fluxes and digital fabrications 
 
 Visit at Automatica
 
-#####Fourth day | Production
+<h5>Fourth day | Production</h5>
 
-#####Fifth day | Production + Final Jury
+<h5>Fifth day | Production + Final Jury</h5>
 
 
-####JOIN US!
+<h4>JOIN US!</h4>
 
 <a target="_blank" href="http://fablab.fikket.com/event/taller-de-ephemeral-arts-connection"><u>Click here</u></a> 
 Fee for participants is 250 euros. The fee includes materials and fabrication. 
