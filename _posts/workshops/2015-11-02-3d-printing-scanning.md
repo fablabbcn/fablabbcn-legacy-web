@@ -13,7 +13,7 @@ category: workshop
 
 <br>
 
-###3D PRINTING & SCANNING
+<h4>3D PRINTING & SCANNING</h4>
 3D printing is transforming not only how we produce the objects that surround us, as also the consumption patterns of our society.<br>
 
 
@@ -22,19 +22,19 @@ Take part in the workshop and learn how 3d printing technology works. You can ch
 
 
 <br>
-####TUTORS / LECTURERS
+<h4>TUTORS / LECTURERS</h4>
 
 Anastasia Pistofidou
 
 
 <br>
-####DATES
+<h4>DATES</h4>
 April 2nd to 3rd, 2016
 
 From 10.00 to 14.00 and 15.00 to 19.00hs
 
 <br>
-####PLACE
+<h4>PLACE</h4>
 FAB LAB BARCELONA
 
 Pujades 102, 
@@ -42,12 +42,12 @@ Pujades 102,
 Spain
 
 <br>
-####FEE FOR PARTICIPANTS
+<h4>FEE FOR PARTICIPANTS</h4>
 160 euros
 Includes materials
 
 <br>
-####REGISTRATION 
+<h4>REGISTRATION </h4>
 
 You can book this workshop using the <a target="_blank" href="http://fablab.fikket.com/event/taller-de-escaneo-e-impresion-3d--2"><u>online registration</u></a> 
 
