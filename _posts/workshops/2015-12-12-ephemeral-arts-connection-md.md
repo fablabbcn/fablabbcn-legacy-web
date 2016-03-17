@@ -47,11 +47,11 @@ Lecture by **Ricardo Devesa** - Editor in Chief of Actar Publishers |
 
 The new challenge for publishing, the book as a piece of art + Project presentation by Actar
 
-Lecture by **Francesco Ducato** | Stardust* Director | 
+Lecture by **Francesco Ducato** - Stardust* Director | 
 
 Digital fabrication and the application in built architecture + Project presentation by Stardust*
 
-Lecture by **Anastasia Pistofidou** | Fab Textiles and Projects manager at Fab Lab Bcn | 
+Lecture by **Anastasia Pistofidou** - Fab Textiles and Projects manager at Fab Lab Bcn | 
 
 Tools for parametric/generative design and digital fabrication + Project presentation by IAAC/FAB LAB BCN   
 
