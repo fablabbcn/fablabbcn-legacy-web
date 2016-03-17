@@ -4,7 +4,7 @@ layout: workshop_post
 type: workshop
 workshopteaser: workshops_loop/ephemeral.jpg
 title: Ephemeral Arts Connection // February 2016
-meta: "Ephemeral Arts Connection: Parametric Fields & Digital Fabrication: architecture, design and publishing. Fab Lab Barcelona"
+meta: "Ephemeral Arts Connection: Parametric Fields & Digital Fabrication: architecture, design and publishing."
 author: Fab Lab BCN
 date: 2015/01/10
 category: workshop
@@ -43,7 +43,7 @@ From 10am to 2pm | 3pm to 7pm
 <br>
 <h5>First day | Introduction</h5>
 
-Lecture by **Ricardo Devesa** | Editor in Chief of Actar Publishers | 
+Lecture by **Ricardo Devesa** - Editor in Chief of Actar Publishers | 
 
 The new challenge for publishing, the book as a piece of art + Project presentation by Actar
 
