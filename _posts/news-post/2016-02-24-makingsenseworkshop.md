@@ -34,9 +34,9 @@ Experts in the field of participatory sensing will deliver a comprehensive intro
 
 &nbsp;
 
-<a name="spanish">
+<a name="spanish"></a>
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/makingsenseworkshop.png" aling="middle"></a> </img>
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/makingsenseworkshop.png" aling="middle"> </img>
 
 
 
