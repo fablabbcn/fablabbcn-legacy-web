@@ -13,7 +13,7 @@ category: workshop
 
 <br>
 
-###Building With Robots // May 2015
+<h3>Building With Robots // May 2015</h3>
 
 <br>
 
@@ -21,9 +21,6 @@ During the last decades, the accessibility of the technology to new users has in
 
 <br>
 
-##1
-
-<br>
 
 This workshop will be the place to learn and discuss about robots in architecture and its possibilities to change actual production processes.
 
@@ -33,7 +30,7 @@ Participants will be introduced to generative design, digital crafting, coding, 
 
 <br>
 
-###REQUIREMENTS
+<h4>REQUIREMENTS</h4>
 
 <br>
 
@@ -52,11 +49,11 @@ Additional plugin and scripts will be provided by the tutors.
 
 <br>
 
-###CALENDAR
+<h4>CALENDAR</h4>
 
 <br>
 
-###Day 1
+<h5>Day 1</h5>
 
 <br>
 
@@ -66,7 +63,7 @@ Additional plugin and scripts will be provided by the tutors.
 
 <br>
 
-###Day 2
+<h5>Day 2</h5>
 
 <br>
 
@@ -76,7 +73,7 @@ Additional plugin and scripts will be provided by the tutors.
 
 <br>
 
-Day 3
+<h5>Day 3</h5>
 
 <br>
 
@@ -85,7 +82,7 @@ Day 3
 
 <br>
 
-####REGISTRATION (until 15/5/2015)
+<h4>REGISTRATION (until 15/5/2015)</h4>
 
 <br>
 
