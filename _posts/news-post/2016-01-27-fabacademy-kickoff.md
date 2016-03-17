@@ -161,7 +161,8 @@ Para reforzar todo este aprendizaje, formamos parte de las conferencias a nivel 
 
 ### Síguenos!
 
-#####Puedes seguir este asombroso proceso en **[FabAcademy Group](https://www.facebook.com/FabLab.BCN)**, **[FabLab Twitter](https://twitter.com/fablabbcn)** y **[FabAcademy](http://fabacademy.org/)**.
+<h4> Puedes seguir este asombroso proceso en <u><a href="https://www.facebook.com/FabLab.BCN">FabAcademy Group</a></u>, <u><a href="https://twitter.com/fablabbcn">FabLab Twitter</a></u> y <u><a href="http://fabacademy.org/">FabAcademy</a></u>.</h4>
+
 
 &nbsp;
 
