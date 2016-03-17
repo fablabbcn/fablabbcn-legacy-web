@@ -13,11 +13,10 @@ category: workshop
 
 <br>
 
-###Arduino Workshop
+<h3>Arduino Workshop</h3>
 
 <br>
 
-###1
 
 La plataforma Arduino permite, con unos conocimientos muy básicos de programación, leer datos de nuestro ambiente mediante todo tipo de sensores como temperatura, luminosidad y utilizar estos para controlar todo tipo de actuadores como motores y luces, o nuestro propio ordenador.
 
