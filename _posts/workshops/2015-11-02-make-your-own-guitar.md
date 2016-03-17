@@ -13,7 +13,7 @@ category: workshop
 
 <br>
 
-##MAKE YOUR OWN GUITAR
+<h2>MAKE YOUR OWN GUITAR</h2>
 1. Design your guitar / bass - sketching / 3D modeling with assistance
 2. Fabrication / CNC milling demonstration. All participants designs are made with tutors.
 3. Finishing + assembly. Presentation + demonstration with Helgi Kristjánsson guitar specialist.
@@ -25,7 +25,7 @@ Participants keep their custom instruments
 
 
 <br>
-####TUTORS / LECTURERS
+<h4>TUTORS / LECTURERS</h4>
 Organized by:Fab Lab Barcelona
 
 Ingi Gudjonsson
@@ -35,13 +35,13 @@ Helgi Kristjánsson
 
 
 <br>
-####DATES
+<h4>DATES</h4>
 January 23rd to 24th, 2016
 
 From 10.00 to 14.00 and 15.00 to 19.00hs
 
 <br>
-####PLACE
+<h4>PLACE</h4>
 FAB LAB BARCELONA
 
 Pujades 102, 
@@ -49,7 +49,7 @@ Pujades 102,
 Spain
 
 <br>
-####FEE FOR PARTICIPANTS
+<h4>FEE FOR PARTICIPANTS</h4>
 Option 1 = 300€
 The course
 
@@ -60,7 +60,7 @@ The course + components
 
 
 <br>
-####REGISTRATION 
+<h4>REGISTRATION </h4>
 <a target="_blank" href="http://fablab.fikket.com/event/taller-de-guitar-making"><u>Click here</u></a> 
 
 For more information please e-mail at :
