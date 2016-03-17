@@ -34,17 +34,17 @@ The workshop will be mostly practical and will be structured in **four parts:**
 
 **[Guillem Camprodon](http://iaac.net/iaac/people/guillem-camprodon/)**
 <br>
-#### LANGUAGE
+<h4>LANGUAGE</h4>
 
 Spanish and English
 <br>
-####DATES
+<h4>DATES</h4>
 
 March 5th to 6th, 2016.
 
 From 10.00 to 14.00 and 15.00 to 19.00hs
 <br>
-####PLACE
+<h4>PLACE</h4>
 
 FAB LAB BARCELONA
 
