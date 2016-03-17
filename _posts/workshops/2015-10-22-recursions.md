@@ -20,7 +20,7 @@ The main tool for the course will be grasshopper3d and its add-on Anemone. Anemo
 The course will focus on how those methods can affect three-dimensional geometries, generating unexpected conformations.
 The workshop is open to all participants, no previous knowledge of Rhinoceros, Grasshopper or tailoring techniques is required (although an introductory knowledge is welcome).
 
-###PROGRAM
+<h3>PROGRAM</h3>
 intro to rhino
 intro to grasshopper
 advanced grasshopper
@@ -32,7 +32,7 @@ agent based modelling
 
 
 <br>
-####TUTORS / LECTURERS
+<h4>TUTORS / LECTURERS</h4>
 Organized by: Noumena + IaaC | Green Fab Lab Barcelona
 
 Aldo Sollazzo
@@ -42,11 +42,11 @@ Efilena Baseta
 Jan Pernecky
 
 <br>
-####DATES
+<h4>DATES</h4>
 November 27th to 29th, 2016
 
-####SCHEDULE
-#####Friday 27th November // 16:00
+<h4>SCHEDULE</h4>
+<h5>Friday 27th November // 16:00</h5>
 
 Tour Green Fab Lab
 Basics of 3D modeling in Rhinoceros
@@ -54,19 +54,19 @@ Basics of Grasshopper
 Open Lecture by Jan Pernecky, founder of rese arch
 
 
-#####Saturday 28th November // 10 am- 18 pm
+<h5>Saturday 28th November // 10 am- 18 pm</h5>
 
 Recursive iterative methods
 Advanced Topics of looping
 
 
-#####Sunday 29th November // 10 am – 18 pm
+<h5>Sunday 29th November // 10 am – 18 pm</h5>
 
 Recursive iterative methods
 Final presentation session
 
 <br>
-####PLACE
+<h4>PLACE</h4>
 GREEN FAB LAB
 
 Ctra. BV-1415 (Horta-Cerdanyola), km 7 
@@ -76,7 +76,7 @@ Spain
 +34 617351890 
 
 <br>
-####FEE FOR PARTICIPANTS
+<h4>FEE FOR PARTICIPANTS</h4>
 Option 1 = 200€ +IVA
 The course
 
@@ -87,7 +87,7 @@ Students = 20 % Discount
 
 
 <br>
-####REGISTRATION 
+<h4>REGISTRATION </h4>
 <a target="_blank" href="http://valldaura.fikket.es/event/recursions"><u>Click here</u></a> 
 
 For more information please e-mail at :
