@@ -10,8 +10,8 @@ date: 2015/01/10
 category: workshop
 
 ---
-#####<a href="#spanish"> Aquí puedes leer la información en castellano. </a>
-#####<a href="#spanish"> Here you can read this information in Spanish </a>
+<h4><a href="#spanish"> Aquí puedes leer la información en castellano. </a></h4>
+<h4><a href="#spanish"> Here you can read this information in Spanish </a></h4>
 
 <br>
 
