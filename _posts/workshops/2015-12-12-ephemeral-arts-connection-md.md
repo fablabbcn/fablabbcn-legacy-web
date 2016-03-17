@@ -73,6 +73,8 @@ Fee for participants is 250 euros. The fee includes materials and fabrication.
 More information: info@fablabbcn.org
 <br>
 
+<br>
+
 <img src="{{site.baseurl}}{{ site.url }}/img/workshops/workshops_loop/ephemeral.jpg">
 
 <br>
