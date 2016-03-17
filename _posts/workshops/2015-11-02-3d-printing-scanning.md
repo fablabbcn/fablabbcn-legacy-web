@@ -43,13 +43,13 @@ Spain
 
 <br>
 <h4>FEE FOR PARTICIPANTS</h4>
-160 euros
+160 euros<br>
 Includes materials
 
 <br>
 <h4>REGISTRATION </h4>
 
-You can book this workshop using the <a target="_blank" href="http://fablab.fikket.com/event/taller-de-escaneo-e-impresion-3d--2"><u>online registration</u></a> 
+You can book this workshop using the <a target="_blank" href="http://fablab.fikket.com/event/taller-de-escaneo-e-impresion-3d--2"><u>online registration form</u></a> 
 
 More information: info@fablabbcn.org
 
