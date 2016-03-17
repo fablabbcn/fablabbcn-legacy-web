@@ -20,7 +20,7 @@ category: Events
 As part of the **[Design & The City conference](http://designandthecity.eu/)**, we invite you to participate in the <mark>Making Sense Workshop on Friday 22nd of April in Amsterdam</mark>. This workshop will demonstrate how open source software, open source hardware, digital maker practices and open design can be used by local communities to appropriate their own sensing technologies, make sense of their environments and address environmental issues. It will discuss how tools and methodologies can empower citizens and communities to enhance their everyday environmental awareness and to adopt more sustainable individual and collective practices. Finally, it will stimulate reflection and knowledge sharing.
 <br>
 <br>
-####What you will get out of this workshop
+<h4>What you will get out of this workshop</h4>
 
 Experts in the field of participatory sensing will deliver a comprehensive introduction and state of the art. Secondly, participants will engage in a hands-on exploration of citizen-driven measuring tools and strategies using a novel participatory sensing toolbox comprising maps, scenarios and technologies. We conclude with a discussion on how we might critically deploy the imagined devices in scenarios of desired futures to achieve positive change, while negotiating and sharing concerns and challenges with policy makers.
 <br>
