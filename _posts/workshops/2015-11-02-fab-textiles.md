@@ -13,7 +13,7 @@ category: workshop
 
 <br>
 
-##FAB TEXTILES
+<h2>FAB TEXTILES</h2>
 
 The Fab Textiles project is opened to anyone interested in the world of fashion, open-source, wearables and custom creations. Fab Textiles centers its research activities in the field of digital fashion, focusing on new processes, materials and production techniques. 
 
@@ -29,18 +29,18 @@ Participants are invited to use their own computers.
 
 
 <br>
-####TUTORS / LECTURERS
+<h4>TUTORS / LECTURERS</h4>
 Anastasia Pistofidou
 
 
 <br>
-####DATES
+<h4>DATES</h4>
 February 27th to 28th, 2016
 <br>
 From 10.00 to 14.00 and 15.00 to 19.00hs
 
 <br>
-####PLACE
+<h4>PLACE</h4>
 FAB LAB BARCELONA
 
 Pujades 102, 
@@ -48,17 +48,17 @@ Pujades 102,
 Spain
 
 <br>
-####FEE FOR PARTICIPANTS
+<h4>FEE FOR PARTICIPANTS</h4>
 180€ <br>
 Materials Included
 
-####OBSERVATIONS
+<h4>OBSERVATIONS</h4>
 You don't need any previous knowdlege to join the workshop.<br>
 Bring your laptop!
 
 
 <br>
-####REGISTRATION 
+<h4>REGISTRATION</h4>
 
 You can book this workshop using the <a target="_blank" href="http://fablab.fikket.com/event/taller-de-fab-textiles"><u>online registration</u></a> 
 
