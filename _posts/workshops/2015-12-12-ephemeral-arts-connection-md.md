@@ -62,7 +62,7 @@ Visit at Automatica
 
 <h5>Fifth day | Production + Final Jury</h5>
 <br>
-<br>
+
 <h4>JOIN US!</h4>
 
 <a target="_blank" href="http://fablab.fikket.com/event/taller-de-ephemeral-arts-connection"><u>Click here</u></a> 
