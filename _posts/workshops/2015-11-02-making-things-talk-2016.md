@@ -16,21 +16,21 @@ The Arduino platform allows, with very basic programming skills, read data from 
 The workshop will be mostly practical and will be structured in **four parts:**
 <br>
 <ul>
-**Introduction.** Introduction to the basics of Arduino and electronics in general, its design and programming.
+<b>Introduction.</b> Introduction to the basics of Arduino and electronics in general, its design and programming.
 
-**Hands On.** Participants will test and demonstrate how to read different types of sensors and how to send this information to our computer to control various programs and control motors, lights and other actuators.
+<b>Hands On.</b> Participants will test and demonstrate how to read different types of sensors and how to send this information to our computer to control various programs and control motors, lights and other actuators.
 
-**Design and build.** Each participant will try to come with a small idea to develop their Arduino and its further development will take place.
+<b>Design and build.</b> Each participant will try to come with a small idea to develop their Arduino and its further development will take place.
 
-**More.** To document all projects and advanced capabilities of the Arduino platform so that participants can continue to develop their own projects at home.
+<b>More.</b> To document all projects and advanced capabilities of the Arduino platform so that participants can continue to develop their own projects at home.
 </ul>
 
 <br>
-**Software:** Arduino / Processing / Fritzing
+<b>Software:</b> Arduino / Processing / Fritzing
 
-**Exercise:** Developing a prototype with at least one input and one output.
+<b>Exercise:</b> Developing a prototype with at least one input and one output.
 <br>
-####TUTOR
+<h4>TUTOR</h4>
 
 **[Guillem Camprodon](http://iaac.net/iaac/people/guillem-camprodon/)**
 <br>
