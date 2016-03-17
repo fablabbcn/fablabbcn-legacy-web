@@ -22,19 +22,19 @@ Objects can be up-cycled using CNC milling, laser cutting and 3D printing with h
 
 <br>
 
-####TUTORS / LECTURERS
+<h4>TUTORS / LECTURERS</h4>
 • Ingi Freyr Gudjónsson
 
 • Matteo Guarnaccia
 
 
-####DATES
+<h4>DATES</h4>
 November 21st to 22nd 2015
 
 From 10.00 to 14.00 and 15.00 to 19.00hs
 <br>
 
-####FEE FOR PARTICIPANTS
+<h4>FEE FOR PARTICIPANTS</h4>
 100 euros. 
 
 The fee includes materials and fabrication.
@@ -44,7 +44,7 @@ Broken furniture and wood are available (feel free to bring your own.)
 
 <br>
 
-####REGISTRATION 
+<h4>REGISTRATION </h4>
 
 <a target="_blank" href="http://fablab.fikket.com/event/taller-de-furniture-hacking"><u>Click here</u></a> 
 
