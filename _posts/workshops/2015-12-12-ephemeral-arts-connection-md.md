@@ -19,9 +19,6 @@ category: workshop
 <h3>Parametric Fields & Digital Fabrication: architecture, design and publishing</h3>
 
 <br>
-Explora las nuevas dinámicas del sistema de producción global generadas por las nuevas herramientas digitales y procesos colaborativos multidisciplinares. Además, utilizarás diseño paramétrico/generativo junto a la fabricación digital para realizar una de las 2000 portadas para el libro Ephemeral Arts Connection de Stardust* que será distribuido en todo el mundo por Actar (NY, Bcn).<br>
-
-<br>
 Open to students and professionals from the field of fine arts, architecture, product design, graphic design, fashion and all people interested. The workshop aims to explore the new dynamics of the global production system through the new digital tools and interdisciplinary collaborative processes. Parametric/generative design and digital fabrication will be applied on the realization of 2000 unique covers for the book “Ephemeral Arts Connection” by Stardust* edited and distributed worldwide by the leader publisher of groundbreaking books Actar (NY, Bcn).<br>
 
 <br>
