@@ -52,6 +52,7 @@ Broken furniture and wood are available (feel free to bring your own.)
 More information: info@fablabbcn.org
 <br>
 
+
 <img src="{{site.baseurl}}{{ site.url }}/img/workshops/workshops_loop/furniture-hacking-final.jpg">
 
 
