@@ -113,7 +113,7 @@ Spain
 
 <br>
 <h4>REGISTRATION</h4>
-<a target="_blank" href="http://fablab.fikket.com/event/taller-de-make-it-map-it"><u>Click here</u></a> 
+<a target="_blank" href="http://fablab.fikket.com/event/taller-de-make-it-map-it"><u>Online registration form</u></a> 
 
 For more information please e-mail at :
 info@fablabbcn.org
