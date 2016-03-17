@@ -12,7 +12,7 @@ category: Events
 
 ---
 <h4><a href="#spanish"> Aquí puedes leer la notícia en castellano. </a></h4>
-#####<a href="#spanish"> Here you can read this post in Spanish </a>
+<h4><a href="#spanish"> Here you can read this post in Spanish </a></h4>
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/makingsenseworkshop.png" align="middle"> </img></ul>
 
