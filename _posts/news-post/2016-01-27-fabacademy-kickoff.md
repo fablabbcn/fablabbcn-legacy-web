@@ -10,8 +10,8 @@ date: 2016-01-27T23:00:00.000Z
 category: fab academy
 ---
 
-#####<a href="#spanish"> Aquí puedes leer la notícia en castellano. </a>
-#####<a href="#spanish"> Here you can read this post in Spanish </a>
+<h4><a href="#spanish"> Aquí puedes leer la notícia en castellano. </a></h4>
+<h4><a href="#spanish"> Here you can read this post in Spanish </a></h4>
 
 ![]({{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademygeneral.jpg)
 
