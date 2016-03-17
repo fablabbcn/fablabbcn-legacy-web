@@ -16,7 +16,7 @@ category: workshop
 <h4>3D PRINTING & SCANNING</h4>
 3D printing is transforming not only how we produce the objects that surround us, as also the consumption patterns of our society.<br>
 
-
+<br>
 Take part in the workshop and learn how 3d printing technology works. You can choose between different printers and learn to use the programs that control each one. You will learn to scan, to process the 3D images and then make them on a 3D printer. This way, you will have the opportunity to print your own 3D object or any of the open source designs available online.<br>
 
 
