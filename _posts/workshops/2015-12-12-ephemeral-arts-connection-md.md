@@ -65,8 +65,8 @@ Visit at Automatica
 
 <h4>JOIN US!</h4>
 
-<a target="_blank" href="http://fablab.fikket.com/event/taller-de-ephemeral-arts-connection"><u>Click here</u></a> 
-Fee for participants is 250 euros. The fee includes materials and fabrication. 
+<a target="_blank" href="http://fablab.fikket.com/event/taller-de-ephemeral-arts-connection"><u>Fill the online application form</u></a> <br>
+Fee for participants is 250 euros. The fee includes materials and fabrication. <br>
 (Plane tickets and accommodation are not included in the fee)
 
 <br>
