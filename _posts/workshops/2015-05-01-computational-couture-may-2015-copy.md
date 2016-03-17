@@ -17,13 +17,10 @@ category: workshop
 
 <br>
 
-###Computational Couture Workshop // May 2015
+<h3>Computational Couture Workshop // May 2015</h3>
 
 <br>
 
-##1
-
-<br>
 
 Computational couture looks at the creation of exclusive custom-fitted clothing (typical of haute couture) through the lens of a systemic approach, extending the sartorial techniques with 3D modeling and computation-based approaches developed in Rhinoceros and the visual programming environment Grasshopper.
 
@@ -34,7 +31,7 @@ Participants will be divided in teams focusing on specific aspects of the garmen
 
 <br>
 
-FEE FOR PARTICIPANTS
+<h4>FEE FOR PARTICIPANTS</h4>
 
 <br>
 
@@ -44,7 +41,7 @@ The fee includes materials and fabrication. Plane tickets and accommodation are 
 
 <br>
 
-REGISTRATION (until 15/5/2015)
+<h4>REGISTRATION (until 15/5/2015)</h4>
 
 <br>
 For registration please e-mail at :
