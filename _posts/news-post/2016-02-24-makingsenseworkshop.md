@@ -43,7 +43,7 @@ Experts in the field of participatory sensing will deliver a comprehensive intro
 Como parte de la **[Design & The City conference](http://designandthecity.eu/)**, os queremos invitar a participar en el <mark>Making Sense Workshop el viernes 22 de abril en Amsterdam</mark>. Este workshop tratará sobre cómo el software y hardware de código abierto, las prácticas de fabricación digital y el diseño abierto pueden ser utilizadas por las comunidades locales para crear sus propias tecnologías de detección, dar sentido a sus entornos y abordar cuestiones ambientales. En este workshop también se discutirá cómo diferentes herramientas y metodologías pueden capacitar a los ciudadanos y las comunidades para que sean más conscientes del medio ambiente todos los días, así como de la adopción de prácticas individuales y colectivas más sostenibles. Por último, el workshop también fomentará la reflexión y el intercambio de conocimientos.
 <br>
 <br>
-####Qué vas a encontrar
+<h4>Qué vas a encontrar</h4>
 
 Los expertos en el campo de la detección y percepción participativa harán una introducción general y un análisis del estado actual de la materia. En segundo lugar, los participantes formarán parte de una exploración práctica de las herramientas de medición ciudadana y de sus estrategias utilizando una novedosa toolbox de detección participativa que comprende mapas, escenarios y diferentes tecnologías. Se abará con una discusión sobre cómo podemos implementar críticamente los dispositivos imaginados en los escenarios futuros deseados para lograr un cambio positivo, juntamente con un intercambio de inquietudes y desafíos con los responsables políticos de la materia.
 <br>
