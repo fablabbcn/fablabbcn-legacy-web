@@ -88,7 +88,7 @@ Students = 20 % Discount
 
 <br>
 <h4>REGISTRATION </h4>
-<a target="_blank" href="http://valldaura.fikket.es/event/recursions"><u>Click here</u></a> 
+<a target="_blank" href="http://valldaura.fikket.es/event/recursions"><u>Online registration form</u></a> 
 
 For more information please e-mail at :
 info@fablabbcn.org
