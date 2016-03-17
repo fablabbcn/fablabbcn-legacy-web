@@ -51,11 +51,11 @@ FAB LAB BARCELONA
 Pujades, 102 <br>
 08005, Barcelona - Spain
 <br>
-####FEE FOR PARTICIPANTS
+<h4>FEE FOR PARTICIPANTS</h4>
 
-180€ +IVA <br>sIncludes an Arduino Kit
+180€ +IVA <br>Includes an Arduino Kit
 <br>
-####REGISTRATION
+<h4>REGISTRATION</h4>
 
 You can book this workshop using the <a target="_blank" href="http://fablab.fikket.com/event/making-things-talk-inputs-outputs"><u> online registration</u></a> 
 
