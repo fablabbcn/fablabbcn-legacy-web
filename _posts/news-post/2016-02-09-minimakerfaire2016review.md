@@ -21,12 +21,11 @@ category: Events
 
 **[As announced](http://fablabbcn.org/events/2016/01/25/minimakersfaire.html)**, last 7th of February the Mini Maker Faire Barcelona 2016 took place at CosmoCaixa. It reached 7000 visitors and hosted 70 exhibitors. Part of them are directly related with Fab Lab Barcelona as Alumni or collaborations with our project managers, like: **[Fab Lab Sant Cugat](http://fablab-sant-cugat.webflow.io/)**, **[Twistab](http://www.twistab.org)**, **[N.E.R.O.](http://iaac.net/fab-labs/green-fab-lab/workshops/nero-mapping/)**, **[Open Source Beehives](http://opensourcebeehives.net/)**, etc. **[Fab Lab Barcelona](http://fablabbcn.org/)** also presented some of our main **[projects](http://fablabbcn.org/projects.html)** and participated in different activities.
 
-&nbsp;
-&nbsp;
+<br>
 
 <h3>What we did</h3>
-&nbsp;
-<h4>Pop Up Fab Lab & Smart Citizen Stand<h4>
+<br>
+<h4>Pop Up Fab Lab & Smart Citizen Stand</h4>
 
 
 ![]({{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_5976.jpg)
@@ -37,26 +36,21 @@ category: Events
 
 Fab Lab Barcelona also showed the **[Smart Citizen](http://fablabbcn.org/0000/01/06/smart-citizen.html)** project. Smart Citizen is a **[platform](https://smartcitizen.me/)** for the generation of social participatory processes in urban areas. Connecting data, people and knowledge, the objective of the platform is to serve as a node for building productive and open indicators, and distributed tools, bringing thereafter to the collective construction of the city for and by its own inhabitants.
 
-&nbsp;
-&nbsp;
-####Fab Textiles Stand
+<br>
+
+<h4>Fab Textiles Stand</h4>
 
 <img src= "http://www.fablabbcn.org/img/blog/makerfaire_barcelona16/dsc_5984.jpg"> </img>
 
 In this stand we showed some results of the **[Fab Textiles](http://fablabbcn.org/0000/01/01/fab-textiles-seamless.html)** projects. For example, how using digital computing and fabrication methods we are able to rapidly prototype and assemble new designs. Using any 2D or 3D software we create patterns ready for cutting. Our **[machines at Fab Lab Barcelona](http://fablabbcn.org/machines.html)** allow a us a wide range of possibilities, so we try to take advantage of the accuracy, precision, and repetitions these machines can achieve.
 
-&nbsp;
-
-&nbsp;
-####Community Panel
+<br>
+<h4>Community Panel</h4>
 <img src= "http://www.fablabbcn.org/img/blog/makerfaire_barcelona16/dsc_6178.jpg"> </img>
 **[Tomas Diez](http://fablabbcn.org/about_us.html)**, director of Fab Lab Barcelona, participated in the Community Panel together with other experts as Jordi Reynés (Ateneus de Fabricació), David Tena (Fab Cafe), Ian Collingwood (MADE) and Sara Alvarellos (akespace Madrid). The discussion of this panel revolved around the different models and types of organization and how they build the maker community.
 
-
-&nbsp;
-&nbsp;
-
-####Taska Workshop
+<br>
+<h4>Taska Workshop</h4>
 <img src= "http://www.fablabbcn.org/img/blog/makerfaire_barcelona16/dsc_6211.jpg"> </img>
 
 **[Anastasia Pistofidou and Ingi Freyr](http://fablabbcn.org/about_us.html)**, one of our project manager's and our advanced manufacturing specialist, host the Taska Workshop, where participants could make their own **[Taska Bag](https://fabtextiles.org/taska/)**.
