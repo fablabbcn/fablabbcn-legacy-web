@@ -12,8 +12,8 @@ category: Events
 
 ---
 
-#####<a href="#spanish"> Aquí puedes leer la notícia en castellano. </a>
-#####<a href="#spanish"> Here you can read this post in Spanish </a>
+<h4><a href="#spanish"> Aquí puedes leer la notícia en castellano. </a></h4>
+<h4><a href="#spanish"> Here you can read this post in Spanish </a></h4>
 
 
 <img src= "http://www.fablabbcn.org/img/blog/makerfaire_barcelona16/mmfbcn.jpg"> </img>
