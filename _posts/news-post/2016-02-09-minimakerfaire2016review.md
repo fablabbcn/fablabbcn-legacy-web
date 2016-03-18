@@ -32,7 +32,7 @@ category: Events
 
 **[Santi](http://fablabbcn.org/about_us.html)**, one of our Fab Academy guru's, was in charge of the **[Pop Up Fab Lab](http://fablabbcn.org/popup_fab_lab.html)**. This basic infrastructure for small-scale production is our mobile Fab Lab, which small size allows movement and transportation to any location. This way, we bring the Fab Lab to the public when the public cannot reach the Fab Lab. 
 
-<img src= "http://www.fablabbcn.org/img/projects/smart_citizen/2.jpg"> </img>
+<img src= "http://www.fablabbcn.org/img/projects/smart_citizen/2.jpg"> 
 
 Fab Lab Barcelona also showed the **[Smart Citizen](http://fablabbcn.org/0000/01/06/smart-citizen.html)** project. Smart Citizen is a **[platform](https://smartcitizen.me/)** for the generation of social participatory processes in urban areas. Connecting data, people and knowledge, the objective of the platform is to serve as a node for building productive and open indicators, and distributed tools, bringing thereafter to the collective construction of the city for and by its own inhabitants.
 
