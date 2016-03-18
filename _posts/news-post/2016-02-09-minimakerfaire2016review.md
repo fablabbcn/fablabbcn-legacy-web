@@ -16,7 +16,7 @@ category: Events
 <h4><a href="#spanish"> Here you can read this post in Spanish </a></h4>
 
 
-<img src= "http://www.fablabbcn.org/img/blog/makerfaire_barcelona16/mmfbcn.jpg"> </img>
+<img src= "http://www.fablabbcn.org/img/blog/makerfaire_barcelona16/mmfbcn.jpg"> 
 
 
 **[As announced](http://fablabbcn.org/events/2016/01/25/minimakersfaire.html)**, last 7th of February the Mini Maker Faire Barcelona 2016 took place at CosmoCaixa. It reached 7000 visitors and hosted 70 exhibitors. Part of them are directly related with Fab Lab Barcelona as Alumni or collaborations with our project managers, like: **[Fab Lab Sant Cugat](http://fablab-sant-cugat.webflow.io/)**, **[Twistab](http://www.twistab.org)**, **[N.E.R.O.](http://iaac.net/fab-labs/green-fab-lab/workshops/nero-mapping/)**, **[Open Source Beehives](http://opensourcebeehives.net/)**, etc. **[Fab Lab Barcelona](http://fablabbcn.org/)** also presented some of our main **[projects](http://fablabbcn.org/projects.html)** and participated in different activities.
@@ -176,7 +176,7 @@ In this stand we showed some results of the **[Fab Textiles](http://fablabbcn.or
 
 <a name="spanish">
 
-<img src= "http://www.fablabbcn.org/img/blog/makerfaire_barcelona16/dsc_5949.jpg"> </img>
+<img src= "http://www.fablabbcn.org/img/blog/makerfaire_barcelona16/dsc_5949.jpg"> 
 
 </a>
 
@@ -195,7 +195,7 @@ In this stand we showed some results of the **[Fab Textiles](http://fablabbcn.or
 
 **[Santi](http://fablabbcn.org/about_us.html)**, uno de nuestros Fab Academy guru's, estuvo a cargo del **[Pop Up Fab Lab](http://fablabbcn.org/popup_fab_lab.html)**. Esta infraestructura básica para la producción a pequeña escala es nuestro Fab Lab móvil, cuyo tamaño nos permite transportarlo a cualquier lugar. De esta manera, llevamos el Fab Lab al público cuando el público no puede desplazarse hasta el Fab Lab.
 
-<img src= "http://www.fablabbcn.org/img/projects/smart_citizen/2.jpg"> </img>
+<img src= "http://www.fablabbcn.org/img/projects/smart_citizen/2.jpg"> 
 
 En este stand también se mostró el proyecto **[Smart Citizen](http://fablabbcn.org/0000/01/06/smart-citizen.html)**. Smart Citizen es una **[plataforma](https://smartcitizen.me/)** para la generación de procesos sociales participativos en áreas urbanas. Conectando datos, personas y conocimientos, el objetivo de la plataforma es servir como nodo para contruir indicadores abiertos y productivos, distribuir herramientas y poder llevarlos posteriormente hacia la construcción de una ciudad colectiva hecha por y para sus habitantes.
 &nbsp;
@@ -203,14 +203,14 @@ En este stand también se mostró el proyecto **[Smart Citizen](http://fablabbcn
 &nbsp;
 ####Fab Textiles Stand
 
-<img src= "http://www.fablabbcn.org/img/blog/makerfaire_barcelona16/dsc_5984.jpg"> </img>
+<img src= "http://www.fablabbcn.org/img/blog/makerfaire_barcelona16/dsc_5984.jpg"> 
 
 En este stand mostramos algunos de los resultados de los proyectos de **[Fab Textiles](http://fablabbcn.org/0000/01/01/fab-textiles-seamless.html)**. Por ejemplo, cómo usando métodos de fabricación y computación digital podemos prototipar y crear rápidamente nuevos diseños. Usando cualquier software 2D o 3D creamos patrones listos para cortar. Nuestras **[máquinas en Fab Lab Barcelona](http://fablabbcn.org/machines.html)** nos permiten un ámplio abanico de posibilidades, por eso intentamos aprovechar toda la precisión, exactitud y repeticiones que estas máquinas permiten.
 &nbsp;
 
 &nbsp;
 ####Community Panel
-<img src= "http://www.fablabbcn.org/img/blog/makerfaire_barcelona16/dsc_6178.jpg"> </img>
+<img src= "http://www.fablabbcn.org/img/blog/makerfaire_barcelona16/dsc_6178.jpg"> 
 **[Tomas Diez](http://fablabbcn.org/about_us.html)**, director del Fab Lab Barcelona, participó en el Panel de Comunidad junto con otros expertos como Jordi Reynés (Ateneus de Fabricació), David Tena (Fab Cafe), Ian Collingwood (MADE) y Sara Alvarellos (akespace Madrid). El debate giró entorno a los diferentes modelos y tipos de organización y cómo estos construyen la comunidad maker.
 &nbsp;
 
@@ -218,7 +218,7 @@ En este stand mostramos algunos de los resultados de los proyectos de **[Fab Tex
 &nbsp;
 
 ####Taska Workshop
-<img src= "http://www.fablabbcn.org/img/blog/makerfaire_barcelona16/dsc_6211.jpg"> </img>
+<img src= "http://www.fablabbcn.org/img/blog/makerfaire_barcelona16/dsc_6211.jpg"> 
 
 **[Anastasia Pistofidou y Ingi Freyr](http://fablabbcn.org/about_us.html)**, una de nuestras project manager y nuestro especialista en fabricación avanzada, impartieron el Taska Workshop, donde los participantes pudieron crear su propia **[Taska Bag](https://fabtextiles.org/taska/)**.
 &nbsp;
