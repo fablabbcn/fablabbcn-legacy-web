@@ -40,7 +40,8 @@ Fab Lab Barcelona also showed the **[Smart Citizen](http://fablabbcn.org/0000/01
 
 <h4>Fab Textiles Stand</h4>
 
-<img src= "http://www.fablabbcn.org/img/blog/makerfaire_barcelona16/dsc_5984.jpg"> </img>
+<img src= "http://www.fablabbcn.org/img/blog/makerfaire_barcelona16/dsc_5984.jpg"> 
+
 
 In this stand we showed some results of the **[Fab Textiles](http://fablabbcn.org/0000/01/01/fab-textiles-seamless.html)** projects. For example, how using digital computing and fabrication methods we are able to rapidly prototype and assemble new designs. Using any 2D or 3D software we create patterns ready for cutting. Our **[machines at Fab Lab Barcelona](http://fablabbcn.org/machines.html)** allow a us a wide range of possibilities, so we try to take advantage of the accuracy, precision, and repetitions these machines can achieve.
 
