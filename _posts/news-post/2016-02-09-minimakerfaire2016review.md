@@ -104,8 +104,6 @@ In this stand we showed some results of the **[Fab Textiles](http://fablabbcn.or
     </div>
     
     
-    
-    
     <div class="item active">
       <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6147.jpg" />
     </div>
@@ -121,10 +119,6 @@ In this stand we showed some results of the **[Fab Textiles](http://fablabbcn.or
     <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6160.jpg" />
     </div>
- 
-    
-    
-    
     
     <div class="item active">
       <img src="{{site.baseurl}}{{ site.url }}/img/blog/makerfaire_barcelona16/dsc_6216.jpg" />
