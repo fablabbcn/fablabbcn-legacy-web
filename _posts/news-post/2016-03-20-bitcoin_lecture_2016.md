@@ -5,7 +5,7 @@ type: blog
 teaserlatest: blog_loop_latest/andreas_antonopoulos_small.jpg
 teaserlist: blog_loop_latest/fabcity.jpg
 title: Lecture: Andreas Antonopoulos "Mastering Bitcoin"
-meta: Next Thursday, March 24th, Andreas Antonopoulos will offer a lecture on "Mastering Bitcoin"
+meta: Next Thursday, March 24th, Andreas Antonopoulos will offer a lecture on "Mastering Bitcoin: Thoughts on the future of Money"
 author: Luciana Asinari
 date: 20/03/2016
 category: Events
