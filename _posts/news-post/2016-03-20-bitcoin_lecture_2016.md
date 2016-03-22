@@ -14,9 +14,9 @@ category: Events
 
 Thursday 24th of March 2016
 <br>
-<h4>Andreas Antonopoulos<h4>
+Andreas Antonopoulos
 <br>
-<h4>Mastering Bitcoin<h4>
+Mastering Bitcoin
 <br>
 
 @19.00, IAAC Auditorium
