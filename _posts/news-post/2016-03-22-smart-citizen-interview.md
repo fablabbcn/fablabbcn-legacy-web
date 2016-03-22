@@ -4,7 +4,7 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/fabcity.jpg
 teaserlist: blog_loop_latest/fabcity.jpg
-title: This April, FabCity Campus in Amsterdam!
+title: Smart Citizen Interview
 meta: A ‘FabCity Campus’ has been set up as part of Europe by People, the Amsterdam EU2016 Arts & Design programme and is inspired by the ‘Fab City’ project lead by Fab Lab Barcelona two years ago. 
 author: Maria Ustarroz
 date: 09/03/2016
@@ -17,11 +17,13 @@ category: Events
 <a href="#spanish"> Here you can read this post in Spanish.</a> <br></h4>
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcitybarcelona.jpg" align="middle"> </img></ul>
-<h4>A ‘FabCity Campus’ has been set up as part of <a href= "http://europebypeople.nl/" alt= "Europe by People">Europe by People</a>, the Amsterdam EU2016 Arts & Design programme and it is inspired by the ‘Fab City’ project that started in Barcelona two years ago.</h4>
+<h4>The N.I.C.E. Award promotes innovations through culture and creative industries into the wider economy and society to tackle the major challenges of our future today. To this end, the N.I.C.E. Award creates visibility and know-how transfer for so far overseen innovations throughout Europe, kicks off debates and impulses in business, culture and policy alike and motivates cultural and creative makers to be innovative and more experimental.</h4>
  <br>
-The N.I.C.E. Award 2015 is looking for new and stimulating innovations that are solutions to global problems. 
-What problem do you address with your project?
-
+ 
+ 
+<h4>The N.I.C.E. Award 2015 is looking for new and stimulating innovations that are solutions to global problems. 
+What problem do you address with your project?</h4>
+<br>
 Cities are the largest creation of human kind. For many centuries we have been adding complexity and technology to the urban centres, creating places with the biggest problems we can find today in terms of sustainability and contamination of the planet. Being a huge producer of 
 problems, cities offer at the same time great opportunities 
 to address those problems by using available, accessible 
@@ -39,24 +41,25 @@ their city and to create a new data economy by implemen
 -
 ting block chain technologies in the future versions of our 
 platforms.
-What reactions have you received yet? Is the world 
-ready for your solutions?
+
+<br>
+<h4>What reactions have you received yet? Is the world 
+ready for your solutions?</h4>
+<br>
 We crowd-funded the development of the initial phase of 
 the project twice with the result of close to 1,000 people 
 who actually supported us with funds. Furthermore, we 
 have been able to collaborate with large corporations like 
 Intel and Cisco in special projects and events to develop 
 Smart Citizen. At the same time, governments of cities like 
-Amsterdam, Barcelona and Manchester have actively sup
--
-ported the deployment of Smart Citizen in order to align it 
+Amsterdam, Barcelona and Manchester have actively supported the deployment of Smart Citizen in order to align it 
 with their Smart City strategies –  which is a paradox, since 
 Smart Citizen initially started as a critic exercise against 
 the big brother and corporative approach of the Smart City 
-agenda. We have been collaborating with researchers all 
-over the world in universities like the University College Lon
--
-don, the Royal College of Art, the MIT, among others, and 
+agenda. 
+<br>
+We have been collaborating with researchers all 
+over the world in universities like the University College London, the Royal College of Art, the MIT, among others, and 
 in different projects related with them. Finally, we are now 
 getting EU funding support to develop research around the 
 technology and its implementation strategies in different 
@@ -65,22 +68,22 @@ about to record the largest expansion of our project – from
 1,200 sensors and 3,200 users – and thus to play our part in 
 the massive growth of the Internet of Things devices and 
 open data applications. 
-The N.I.C.E. Award 2015 focusses on digital innovation 
+
+<br>
+<h4>The N.I.C.E. Award 2015 focusses on digital innovation 
 through culture. How do you see the cultural sector 
-influenced by digitalisation?
+influenced by digitalisation?</h4>
+<br>
 In Europe and most of the urbanised areas of the world it 
 is almost impossible to talk about culture without talking 
-about the digital revolution that we have been living in du
--
-ring the last 40 years. From computers to smartphones, our 
+about the digital revolution that we have been living in during the last 40 years. From computers to smartphones, our 
 entire lives have dramatically changed, affecting how we 
 learn, work, play, create and live. It is extremely important 
 to create a culture with strong values on humanism through 
 digital platforms, not only using screens and keyboards to 
-represent traditional cultures, but by reframing the mea
--
-ning of culture in a connected world and society. For us it 
-is of high importance that these values are constructed 
+represent traditional cultures, but by reframing the meaning of culture in a connected world and society. 
+<br>
+For us it is of high importance that these values are constructed 
 around the open source and accessible knowledge on how 
 things are made, how they can be shared and how they can 
 be useful and valuable to others – and not just to create 
