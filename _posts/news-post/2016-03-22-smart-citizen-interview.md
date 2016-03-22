@@ -19,30 +19,80 @@ category: Events
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcitybarcelona.jpg" align="middle"> </img></ul>
 <h4>A ‘FabCity Campus’ has been set up as part of <a href= "http://europebypeople.nl/" alt= "Europe by People">Europe by People</a>, the Amsterdam EU2016 Arts & Design programme and it is inspired by the ‘Fab City’ project that started in Barcelona two years ago.</h4>
  <br>
-**[Fab City](http://fab.city/)** is a global project to develop locally productive and globally connected self-sufficient cities. By the year 2054 cities should be self-sufficient. Fab City started as the Barcelona pledge: a countdown during the Fab10 event held on July 7th 2014 in Barcelona. Launched by the **[Institut d’Arquitectura Avançada de Catalunya](http://fab.city/)**, the **[MIT Center for Bits and Atoms](http://cba.mit.edu/)**, the **[Fab Foundation](http://www.fabfoundation.org/)** and the **[Barcelona City Council](http://www.barcelona.cat/es/)**. This initiative is open for other cities, towns or communities to join in order to collectively build in a collective manner a more human and inhabitable new world.<br>
+The N.I.C.E. Award 2015 is looking for new and stimulating innovations that are solutions to global problems. 
+What problem do you address with your project?
+
+Cities are the largest creation of human kind. For many centuries we have been adding complexity and technology to the urban centres, creating places with the biggest problems we can find today in terms of sustainability and contamination of the planet. Being a huge producer of 
+problems, cities offer at the same time great opportunities 
+to address those problems by using available, accessible 
+and open source technology. We believe that Smart Citizen 
+can build an ecosystem of participation of citizens in the 
+production of valuable data and information about our 
+cities, which can help to better understand, transform and 
+improve the places where next generations will live. Smart 
+Citizen is about the appropriation of technology for taking 
+over the active construction of the city. Our idea started 
+with sensors and data visualisation, but we aim to grow and 
+to develop applications and partnerships that will allow us 
+to construct tools for the political participation of people in 
+their city and to create a new data economy by implemen
+-
+ting block chain technologies in the future versions of our 
+platforms.
+What reactions have you received yet? Is the world 
+ready for your solutions?
+We crowd-funded the development of the initial phase of 
+the project twice with the result of close to 1,000 people 
+who actually supported us with funds. Furthermore, we 
+have been able to collaborate with large corporations like 
+Intel and Cisco in special projects and events to develop 
+Smart Citizen. At the same time, governments of cities like 
+Amsterdam, Barcelona and Manchester have actively sup
+-
+ported the deployment of Smart Citizen in order to align it 
+with their Smart City strategies –  which is a paradox, since 
+Smart Citizen initially started as a critic exercise against 
+the big brother and corporative approach of the Smart City 
+agenda. We have been collaborating with researchers all 
+over the world in universities like the University College Lon
+-
+don, the Royal College of Art, the MIT, among others, and 
+in different projects related with them. Finally, we are now 
+getting EU funding support to develop research around the 
+technology and its implementation strategies in different 
+cities in Europe. As the world is going open source, we are 
+about to record the largest expansion of our project – from 
+1,200 sensors and 3,200 users – and thus to play our part in 
+the massive growth of the Internet of Things devices and 
+open data applications. 
+The N.I.C.E. Award 2015 focusses on digital innovation 
+through culture. How do you see the cultural sector 
+influenced by digitalisation?
+In Europe and most of the urbanised areas of the world it 
+is almost impossible to talk about culture without talking 
+about the digital revolution that we have been living in du
+-
+ring the last 40 years. From computers to smartphones, our 
+entire lives have dramatically changed, affecting how we 
+learn, work, play, create and live. It is extremely important 
+to create a culture with strong values on humanism through 
+digital platforms, not only using screens and keyboards to 
+represent traditional cultures, but by reframing the mea
+-
+ning of culture in a connected world and society. For us it 
+is of high importance that these values are constructed 
+around the open source and accessible knowledge on how 
+things are made, how they can be shared and how they can 
+be useful and valuable to others – and not just to create 
+another start-up to make a little money and then be sold 
+to a larger corporation. Digital culture should help build a 
+new economy and a value set that can enhance the role of 
+people in the production and control of their lives. 
  
- <br>
-<iframe src="http://pitodido.org/#countdown" scrolling="no" frameborder="0" height="300px" width="100%"></iframe>
-<br>
-<h4>Nowadays cities are where most of the planet’s population live, they offer the best opportunity to effect practical change at scale in a context to which people can relate. Cities are at the heart of addressing the social and environmental challenges of the 21st century.</h4>
-<br>
-Following this project, in early April 2016 a temporary, a freely accessible Fab City Campus will be built at the head of **Amsterdam’s Java Island in the city’s Eastern Harbour District.** Conceived as a green, self-sustaining city, the FabCity Campus will comprise some 50 innovative pavilions, installations and prototypes. More than 400 young students, professionals, artists and creatives will develop the site into a sustainable urban area, where they will work, create, explore and present their solutions to current urban issues. The participants are from various educational backgrounds, including art academies, (technology) universities and vocational colleges.
- <br>
-<ul><img src= "http://www.fablabbcn.org/img/blog/fab_city/fabcityworld.jpg" align="middle"> </img></ul>
-
-<h4>The Fab City project comprises an international think tank of civic leaders, makers, urbanists and innovators working on changing the paradigm of the current industrial economy where the city operates on a linear model of importing products and producing waste. </h4> 
-<br>
-FAB City is a new urban model of transforming and shaping cities that shifts how they source and use materials **from ‘Products In Trash Out’ (PITO) to ‘Data In Data Out’ (DIDO).** This means that more production occurs inside the city, along with recycling materials and meeting local needs through local inventiveness. A city’s imports and exports would mostly be found in the form of data (information, knowledge, design, code). <br>
-
-<br>
-In this way, the citizens and the city are empowered to be the masters of their own destiny. Their resilience is increased and a more ecological system is developed as the current movements of materials, energy consumption and carbon emissions are drastically reduced. In order to make that possible, the city must be locally productive and globally connected to knowledge, economic and social networks, making cooperation between cities, citizens and knowledge centers the basis of the scientific knowledge.  <br>
-
-<br>
-<ul><img src= "http://www.fablabbcn.org/img/blog/fab_city/fabcity-campus.jpg" align="middle"> </img></ul>
-
-**FabCity Campus will take place from 11 April up and until 26 June.** It will be inhabited by students, scientists and (social) entrepreneurs, and will also function as a **big maker space**; a place to collectively experiment, prototype and test new ways of creating an improved future urban environment. FabCity continues from April until the end of June and will consist of several pavilions showing different innovative ideas for the connected, self-sufficient and circular city, among which the cardboard **[Wikkelhouse by Fiction Factory](http://www.fictionfactory.nl/home.php?p=whouse)** and the **[BAM 3D concrete printer](https://citiesintransition.eu/publicatie/bam-3d-concrete-printer-at-fabcity-campus)**. <br>
-
-<ul><img src= "http://www.fablabbcn.org/img/blog/fab_city/campus-plattegrond.png" align="middle"> </img></ul>
+ 
+ 
+ 
+ 
 
 <hr>
 
