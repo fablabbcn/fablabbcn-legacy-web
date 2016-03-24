@@ -26,15 +26,17 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 a:link {
-	color: #3d3d3d;
+	color: #29dcd9;
 }
 
 a:visited{
-	color: #3d3d3d;
+	color: #29dcd9;
+    text-decoration: underline;
+
 }
 
 a:hover {
-	text-decoration: none;
+	text-decoration: underline;
 	color: #29dcd9;
 }
 
@@ -536,6 +538,15 @@ iframe {
 }
 
 
+#pages-social-icons li a{
+    color: #3d3d3d !important;
+}
+
+#pages-social-icons li a:hover{
+    color: #29dcd9 !important;
+}
+
+
 
 /* ==== Home ==================================================== Home ============ */
 
@@ -818,6 +829,14 @@ iframe {
 	list-style: none;
 }
 
+#team-item li a{
+	color: #3d3d3d;
+}
+
+#team-item li a:hover{
+	color: #29dcd9;
+}
+
 /* ====== Calendar ============================================================ Calendar ============ */ 
 
 #calendar-frame {
@@ -1060,6 +1079,14 @@ iframe {
 
 .menu-item {
 	padding: 10px;
+}
+
+.menu-item h3 a{
+	color: #3d3d3d !important;
+}
+
+.menu-item h3 a:hover{
+	color: #29dcd9 !important;
 }
 
 /* Grid */
