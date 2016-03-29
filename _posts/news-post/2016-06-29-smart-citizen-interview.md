@@ -138,29 +138,6 @@ Hemos realizado una campaña de crowd-funding para la parte inicial del desarrol
 
 Hemos estado colaborando con investigadores de todo el mundo en universidades como la University College London, el Royal College of Art, el MIT, entre otros, y en diferentes proyectos relacionados con ellos. <mark>Finalmente, ahora estamos recibiendo fondos europeos para el desarrollo de la investigación de esta tecnología y sus estrategias de implementación en diferentes ciudades de Europa.</mark> A medida que el mundo se va uniendo al código abierto, estamos a punto de registrar la mayor expansión de nuestro proyecto - 1.200 sensores y 3,200 usuarios - y por lo tanto dispuestos a jugar nuestra parte en el crecimiento masivo de la <a href= "https://es.wikipedia.org/wiki/Internet_de_las_cosas" alt= "IoT">Internet de las Cosas</a> en dispositivos y aplicaciones de datos abiertos.
 
-We crowd-funded the development of the initial phase of 
-the project twice with the result of close to 1,000 people 
-who actually supported us with funds. Furthermore, we 
-have been able to collaborate with large corporations like 
-Intel and Cisco in special projects and events to develop 
-Smart Citizen. At the same time, governments of cities like 
-Amsterdam, Barcelona and Manchester have actively supported the deployment of Smart Citizen in order to align it 
-with their Smart City strategies –  which is a paradox, since 
-Smart Citizen initially started as a critic exercise against 
-the big brother and corporative approach of the Smart City 
-agenda. <br>
-<br>
-We have been collaborating with researchers all 
-over the world in universities like the University College London, the Royal College of Art, the MIT, among others, and 
-in different projects related with them. <mark>Finally, we are now 
-getting EU funding support to develop research around the 
-technology and its implementation strategies in different 
-cities in Europe.</mark> As the world is going open source, we are 
-about to record the largest expansion of our project – from 
-1,200 sensors and 3,200 users – and thus to play our part in 
-the massive growth of the Internet of Things devices and 
-open data applications. 
-
 <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/19503962930_a21904facc_z.jpg" align="middle"> </img></ul>
 
