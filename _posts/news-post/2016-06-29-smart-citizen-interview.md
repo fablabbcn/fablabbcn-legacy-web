@@ -127,32 +127,18 @@ Las ciudades son la mayor creación del ser humano. Durante siglos hemos ido añ
 <mark>Creemos que Smart Citizen puede construir un ecosistema de participación ciudadana de producción de datos e información de valor sobre nuestras ciudades, lo que nos ayudará entenderlas mejor, transformarlas y mejorar el lugar dónde vivirán las próximas generaciones.</mark> Smart Citizen trata de apropiarse de la tecnología para hacerse cargo de la construcción activa de la ciudad. Nuestra idea empezó con sensores y visualización de datos, pero nuestro objetivo es crecer y desarrollar aplicaciones y asociaciones que nos permitan construir las herramientas para la participación de la gente en la política de su ciudad e incluso, en futuras versiones de nuestras plataformas, crear una nueva economía de datos a través de la implementación de las tecnologías de <a href= "https://en.wikipedia.org/wiki/Block_chain_%28database%29" alt= "Block Chain">block chain.</a>
 
 
-Cities are the largest creation of human kind. For many centuries we have been adding complexity and technology to the urban centres, creating places with the biggest problems we can find today in terms of sustainability and contamination of the planet. Being a huge producer of 
-problems, cities offer at the same time great opportunities 
-to address those problems by using available, accessible 
-and open source technology. <br>
-<br>
-<mark>We believe that Smart Citizen 
-can build an ecosystem of participation of citizens in the 
-production of valuable data and information about our 
-cities, which can help to better understand, transform and 
-improve the places where next generations will live.</mark> Smart 
-Citizen is about the appropriation of technology for taking 
-over the active construction of the city. Our idea started 
-with sensors and data visualisation, but we aim to grow and 
-to develop applications and partnerships that will allow us 
-to construct tools for the political participation of people in 
-their city and to create a new data economy by implemen
--
-ting block chain technologies in the future versions of our 
-platforms.
-
 <ul><img src= "http://www.fablabbcn.org/img/projects/smart_citizen/2.jpg" align="middle"> </img></ul>
 
 <br>
-<h4>What reactions have you received yet? Is the world 
-ready for your solutions?</h4>
+<h4>
+¿Qué reacciones habéis tenido hasta ahora? ¿El mundo está preparado para vuestras soluciones?
+</h4>
 <br>
+Hemos realizado una campaña de crowd-funding para la parte inicial del desarrollo del proyecto que ha contado con el apoyo de casi 1,000 personas con sus donaciones. Además, hemos podido colaborar con grandes empresas como Intel y Cisco en proyectos especiales y eventos para el desarrollo de Smart Citizen. Al mismo tiempo, los ayuntamientos de ciudades como Amsterdam, Barcelona y Manchester han apoyado activamente el despliegue de Smart Citizen alineándolo con sus estrategias de Smart City - lo que resulta paradójico, ya que Smart Citizen empezó inicialmente como un ejercicio crítico en contra del enfoque corporativo de gran hermano que se recoge en las agendas oficiales de Smart City.
+
+Hemos estado colaborando con investigadores de todo el mundo en universidades como la University College London, el Royal College of Art, el MIT, entre otros, y en diferentes proyectos relacionados con ellos. Finalmente, ahora estamos recibiendo fondos europeos para el desarrollo de la investigación de esta tecnología y sus estrategias de implementación en diferentes ciudades de Europa. A medida que el mundo se va uniendo al código abierto, estamos a punto de registrar la mayor expansión de nuestro proyecto - desde 1.200 sensores y 3,200 usuarios - y por lo tanto para jugar nuestra parte en
+el crecimiento masivo de la Internet de las Cosas dispositivos y aplicaciones de datos abiertos.
+
 We crowd-funded the development of the initial phase of 
 the project twice with the result of close to 1,000 people 
 who actually supported us with funds. Furthermore, we 
