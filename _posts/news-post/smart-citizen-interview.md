@@ -2,8 +2,8 @@
 
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/fabcity.jpg
-teaserlist: blog_loop_latest/fabcity.jpg
+teaserlatest: projects_loop/smart_citizen.jpg
+teaserlist: projects_loop/smart_citizen.jpg
 title: Smart Citizen Interview
 meta: A ‘FabCity Campus’ has been set up as part of Europe by People, the Amsterdam EU2016 Arts & Design programme and is inspired by the ‘Fab City’ project lead by Fab Lab Barcelona two years ago. 
 author: Maria Ustarroz
@@ -11,7 +11,7 @@ date: 29/03/2016
 category: Blog
 
 ---
-
+/img/projects/projects_loop/smart_citizen.jpg
 
 <h4><a href="#spanish"> Aquí puedes leer la notícia en castellano.</a> <br>
 <a href="#spanish"> Here you can read this post in Spanish.</a> <br></h4>
