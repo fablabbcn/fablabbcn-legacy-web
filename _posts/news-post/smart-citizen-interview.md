@@ -87,14 +87,14 @@ to create a culture with strong values on humanism through
 digital platforms, not only using screens and keyboards to 
 represent traditional cultures, but by reframing the meaning of culture in a connected world and society. 
 <br>
-For us it is of high importance that these values are constructed 
+<h4>For us it is of high importance that these values are constructed 
 around the open source and accessible knowledge on how 
 things are made, how they can be shared and how they can 
 be useful and valuable to others – and not just to create 
 another start-up to make a little money and then be sold 
 to a larger corporation. Digital culture should help build a 
 new economy and a value set that can enhance the role of 
-people in the production and control of their lives. 
+people in the production and control of their lives. </h4>
  
 <ul><img src= "http://www.fablabbcn.org/img/hero_slider/a_slider_3.jpg" align="middle"> </img></ul>
  
