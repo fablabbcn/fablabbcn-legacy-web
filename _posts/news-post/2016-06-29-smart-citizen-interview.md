@@ -46,7 +46,7 @@ to develop applications and partnerships that will allow us
 to construct tools for the political participation of people in 
 their city and to create a new data economy by implemen
 -
-ting block chain technologies in the future versions of our 
+ting <a href= "https://en.wikipedia.org/wiki/Block_chain_%28database%29" alt= "Block Chain">block chain technologies</a> in the future versions of our 
 platforms.
 
 <ul><img src= "http://www.fablabbcn.org/img/projects/smart_citizen/2.jpg" align="middle"> </img></ul>
