@@ -17,7 +17,7 @@ category: Blog
 <a href="#spanish"> Here you can read this post in Spanish.</a> <br></h4>
 
 
-<h4>The N.I.C.E. Award promotes innovations through culture and creative industries into the wider economy and society to tackle the major challenges of our future today. To this end, the N.I.C.E. Award creates visibility and know-how transfer for so far overseen innovations throughout Europe, kicks off debates and impulses in business, culture and policy alike and motivates cultural and creative makers to be innovative and more experimental. For this year's edition N.I.C.E. interviewed the Smart Citizen's crew.</h4>
+<h4>The N.I.C.E. Award promotes innovations through culture and creative industries into the wider economy and society to tackle the major challenges of our future today. To this end, the N.I.C.E. Award creates visibility and know-how transfer for so far overseen innovations throughout Europe, kicks off debates and impulses in business, culture and policy alike and motivates cultural and creative makers to be innovative and more experimental. For <a href= "http://www.e-c-c-e.de/fileadmin/content_bilder/presse/Downloads/09_02_16_NICE_Doku_WEB.pdf" alt= "NICE 2015">2015's edition</a> N.I.C.E. interviewed the Smart Citizen's crew.</h4>
  <br>
  
  <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcitybarcelona.jpg" align="middle"> </img></ul>
