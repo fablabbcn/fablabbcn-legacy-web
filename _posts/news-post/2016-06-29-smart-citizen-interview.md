@@ -119,9 +119,13 @@ people in the production and control of their lives. </h4>
  <br>
  
  <ul><img src= "http://www.fablabbcn.org/img/projects/projects_loop/smart_citizen.jpg" align="middle"> </img></ul>
-<h4>The N.I.C.E. Award 2015 is looking for new and stimulating innovations that are solutions to global problems. 
-What problem do you address with your project?</h4>
+<h4>El premio N.I.C.E. Award 2015 busca lás últimas y más estimulantes innovaciones que también sean soluciones a problemas globales. ¿A qué problema va dirigido vuestro proyecto? </h4>
 <br>
+Las ciudades son la mayor creación del ser humano. Durante siglos hemos ido añadiendo complejidad y tecnología a los centros urbanos, creando lugares con los mayores problemas que podamos encontrar hoy en día en términos de sostenibilidad y contaminación del planeta. Siendo uno de los principales productores de problemas, las ciudades también ofrecen grandes oportunidades para solventar estos problemas utilizando las tecnologías disponibles, accesibles y de código abierto.
+
+Creemos que Smart Citizen puede construir un ecosistema de participación ciudadana en la producción de datos e información de valor sobre nuestras ciudades, lo que nos ayudaa entenderlas mejor, transformarlas y mejorar el lugar dónde vivirán las próximas generaciones.
+
+
 Cities are the largest creation of human kind. For many centuries we have been adding complexity and technology to the urban centres, creating places with the biggest problems we can find today in terms of sustainability and contamination of the planet. Being a huge producer of 
 problems, cities offer at the same time great opportunities 
 to address those problems by using available, accessible 
