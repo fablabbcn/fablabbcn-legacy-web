@@ -7,8 +7,8 @@ teaserlist: blog_loop_latest/fabcity.jpg
 title: Smart Citizen Interview
 meta: A ‘FabCity Campus’ has been set up as part of Europe by People, the Amsterdam EU2016 Arts & Design programme and is inspired by the ‘Fab City’ project lead by Fab Lab Barcelona two years ago. 
 author: Maria Ustarroz
-date: 09/03/2016
-category: Events
+date: 29/03/2016
+category: Blog
 
 ---
 
@@ -17,7 +17,7 @@ category: Events
 <a href="#spanish"> Here you can read this post in Spanish.</a> <br></h4>
 
 
-<h4>The N.I.C.E. Award promotes innovations through culture and creative industries into the wider economy and society to tackle the major challenges of our future today. To this end, the N.I.C.E. Award creates visibility and know-how transfer for so far overseen innovations throughout Europe, kicks off debates and impulses in business, culture and policy alike and motivates cultural and creative makers to be innovative and more experimental. In this year edition they interviewed</h4>
+<h4>The N.I.C.E. Award promotes innovations through culture and creative industries into the wider economy and society to tackle the major challenges of our future today. To this end, the N.I.C.E. Award creates visibility and know-how transfer for so far overseen innovations throughout Europe, kicks off debates and impulses in business, culture and policy alike and motivates cultural and creative makers to be innovative and more experimental.</h4>
  <br>
  
  <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcitybarcelona.jpg" align="middle"> </img></ul>
