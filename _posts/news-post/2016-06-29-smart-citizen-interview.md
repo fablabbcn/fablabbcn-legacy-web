@@ -61,7 +61,7 @@ Amsterdam, Barcelona and Manchester have actively supported the deployment of Sm
 with their Smart City strategies –  which is a paradox, since 
 Smart Citizen initially started as a critic exercise against 
 the big brother and corporative approach of the Smart City 
-agenda. 
+agenda. <br>
 <br>
 We have been collaborating with researchers all 
 over the world in universities like the University College London, the Royal College of Art, the MIT, among others, and 
