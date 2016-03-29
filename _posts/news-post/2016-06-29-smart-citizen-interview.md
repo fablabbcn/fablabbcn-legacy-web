@@ -75,7 +75,7 @@ technology and its implementation strategies in different
 cities in Europe.</mark> As the world is going open source, we are 
 about to record the largest expansion of our project – from 
 1,200 sensors and 3,200 users – and thus to play our part in 
-the massive growth of the Internet of Things devices and 
+the massive growth of the <a href= "https://en.wikipedia.org/wiki/Internet_of_Things" alt= "IoT">Internet of Things</a> devices and 
 open data applications. 
 
 <br>
@@ -136,8 +136,7 @@ Las ciudades son la mayor creación del ser humano. Durante siglos hemos ido añ
 <br>
 Hemos realizado una campaña de crowd-funding para la parte inicial del desarrollo del proyecto que ha contado con el apoyo de casi 1,000 personas con sus donaciones. Además, hemos podido colaborar con grandes empresas como Intel y Cisco en proyectos especiales y eventos para el desarrollo de Smart Citizen. Al mismo tiempo, los ayuntamientos de ciudades como Amsterdam, Barcelona y Manchester han apoyado activamente el despliegue de Smart Citizen alineándolo con sus estrategias de Smart City - lo que resulta paradójico, ya que Smart Citizen empezó inicialmente como un ejercicio crítico en contra del enfoque corporativo de gran hermano que se recoge en las agendas oficiales de Smart City.
 
-Hemos estado colaborando con investigadores de todo el mundo en universidades como la University College London, el Royal College of Art, el MIT, entre otros, y en diferentes proyectos relacionados con ellos. Finalmente, ahora estamos recibiendo fondos europeos para el desarrollo de la investigación de esta tecnología y sus estrategias de implementación en diferentes ciudades de Europa. A medida que el mundo se va uniendo al código abierto, estamos a punto de registrar la mayor expansión de nuestro proyecto - desde 1.200 sensores y 3,200 usuarios - y por lo tanto para jugar nuestra parte en
-el crecimiento masivo de la Internet de las Cosas dispositivos y aplicaciones de datos abiertos.
+Hemos estado colaborando con investigadores de todo el mundo en universidades como la University College London, el Royal College of Art, el MIT, entre otros, y en diferentes proyectos relacionados con ellos. Finalmente, ahora estamos recibiendo fondos europeos para el desarrollo de la investigación de esta tecnología y sus estrategias de implementación en diferentes ciudades de Europa. A medida que el mundo se va uniendo al código abierto, estamos a punto de registrar la mayor expansión de nuestro proyecto - 1.200 sensores y 3,200 usuarios - y por lo tanto dispuestos a jugar nuestra parte en el crecimiento masivo de la Internet de las Cosas (Internet of  en dispositivos y aplicaciones de datos abiertos.
 
 We crowd-funded the development of the initial phase of 
 the project twice with the result of close to 1,000 people 
