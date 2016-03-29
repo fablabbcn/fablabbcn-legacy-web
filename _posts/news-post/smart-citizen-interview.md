@@ -11,7 +11,7 @@ date: 29/03/2016
 category: Blog
 
 ---
-/img/projects/projects_loop/smart_citizen.jpg
+
 
 <h4><a href="#spanish"> Aquí puedes leer la notícia en castellano.</a> <br>
 <a href="#spanish"> Here you can read this post in Spanish.</a> <br></h4>
@@ -20,7 +20,7 @@ category: Blog
 <h4>The N.I.C.E. Award promotes innovations through culture and creative industries into the wider economy and society to tackle the major challenges of our future today. To this end, the N.I.C.E. Award creates visibility and know-how transfer for so far overseen innovations throughout Europe, kicks off debates and impulses in business, culture and policy alike and motivates cultural and creative makers to be innovative and more experimental. For <a href= "http://www.e-c-c-e.de/fileadmin/content_bilder/presse/Downloads/09_02_16_NICE_Doku_WEB.pdf" alt= "NICE 2015">2015's edition</a> N.I.C.E. interviewed the Smart Citizen's crew.</h4>
  <br>
  
- <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcitybarcelona.jpg" align="middle"> </img></ul>
+ <ul><img src= "http://www.fablabbcn.org/img/projects/projects_loop/smart_citizen.jpg" align="middle"> </img></ul>
 <h4>The N.I.C.E. Award 2015 is looking for new and stimulating innovations that are solutions to global problems. 
 What problem do you address with your project?</h4>
 <br>
