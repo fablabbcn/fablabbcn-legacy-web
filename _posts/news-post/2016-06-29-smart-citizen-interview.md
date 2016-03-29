@@ -107,9 +107,9 @@ people in the production and control of their lives. </h4>
  
 
 
+<a name="spanish">
 <hr>
-
-<a name="spanish"></a>
+</a>
 &nbsp;
 
 <h4>
