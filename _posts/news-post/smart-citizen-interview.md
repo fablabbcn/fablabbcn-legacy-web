@@ -16,11 +16,11 @@ category: Events
 <h4><a href="#spanish"> Aquí puedes leer la notícia en castellano.</a> <br>
 <a href="#spanish"> Here you can read this post in Spanish.</a> <br></h4>
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcitybarcelona.jpg" align="middle"> </img></ul>
-<h4>The N.I.C.E. Award promotes innovations through culture and creative industries into the wider economy and society to tackle the major challenges of our future today. To this end, the N.I.C.E. Award creates visibility and know-how transfer for so far overseen innovations throughout Europe, kicks off debates and impulses in business, culture and policy alike and motivates cultural and creative makers to be innovative and more experimental.</h4>
+
+<h4>The N.I.C.E. Award promotes innovations through culture and creative industries into the wider economy and society to tackle the major challenges of our future today. To this end, the N.I.C.E. Award creates visibility and know-how transfer for so far overseen innovations throughout Europe, kicks off debates and impulses in business, culture and policy alike and motivates cultural and creative makers to be innovative and more experimental. In this year edition they interviewed</h4>
  <br>
  
- 
+ <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcitybarcelona.jpg" align="middle"> </img></ul>
 <h4>The N.I.C.E. Award 2015 is looking for new and stimulating innovations that are solutions to global problems. 
 What problem do you address with your project?</h4>
 <br>
@@ -41,6 +41,8 @@ their city and to create a new data economy by implemen
 -
 ting block chain technologies in the future versions of our 
 platforms.
+
+<ul><img src= "http://www.fablabbcn.org/img/projects/smart_citizen/2.jpg" align="middle"> </img></ul>
 
 <br>
 <h4>What reactions have you received yet? Is the world 
@@ -70,6 +72,8 @@ the massive growth of the Internet of Things devices and
 open data applications. 
 
 <br>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/19503962930_a21904facc_z.jpg" align="middle"> </img></ul>
+
 <h4>The N.I.C.E. Award 2015 focusses on digital innovation 
 through culture. How do you see the cultural sector 
 influenced by digitalisation?</h4>
@@ -92,10 +96,9 @@ to a larger corporation. Digital culture should help build a
 new economy and a value set that can enhance the role of 
 people in the production and control of their lives. 
  
+<ul><img src= "http://www.fablabbcn.org/img/hero_slider/a_slider_3.jpg" align="middle"> </img></ul>
  
- 
- 
- 
+
 
 <hr>
 
