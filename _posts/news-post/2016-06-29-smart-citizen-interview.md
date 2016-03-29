@@ -88,7 +88,7 @@ entire lives have dramatically changed, affecting how we
 learn, work, play, create and live. It is extremely important 
 to create a culture with strong values on humanism through 
 digital platforms, not only using screens and keyboards to 
-represent traditional cultures, but by reframing the meaning of culture in a connected world and society. 
+represent traditional cultures, but by reframing the meaning of culture in a connected world and society. <br>
 <br>
 <h4>For us it is of high importance that these values are constructed 
 around the open source and accessible knowledge on how 
