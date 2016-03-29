@@ -113,7 +113,11 @@ people in the production and control of their lives. </h4>
 &nbsp;
 
 <h4>
-<a href= "http://nice-europe.eu/" alt= "NICE EU">El N.I.C.E. Award</a> promotes innovations through culture and creative industries into the wider economy and society to tackle the major challenges of our future today. To this end, the N.I.C.E. Award creates visibility and know-how transfer for so far overseen innovations throughout Europe, kicks off debates and impulses in business, culture and policy alike and motivates cultural and creative makers to be innovative and more experimental. <br> </h4>
+<a href= "http://nice-europe.eu/" alt= "NICE EU">El N.I.C.E. Award</a> promociona innovaciones de las industrias culturales y creativas para que lleguen a un sector más ámplio de la economía y la sociedad y, así, podamos encarar los grandes retos que plantea el futuro hoy. Para ello, el N.I.C.E. Award hace visible las últimas innovaciones creadas en Europa, transfiere ese conocimiento, genera debate, impulsa negocios, cultura y políticas entorno a ellas y motiva a los creadores creativos y culturales a ser más innovadores y experimentales.<br> </h4>
+<br> 
+<h5>Para <a href= "http://www.e-c-c-e.de/fileadmin/content_bilder/presse/Downloads/09_02_16_NICE_Doku_WEB.pdf" alt= "NICE 2015">la edición de 2015</a>, N.I.C.E. ha entrevistado al equipo de Smart Citizen.</h5>
+
+promotes innovations through culture and creative industries into the wider economy and society to tackle the major challenges of our future today. To this end, the N.I.C.E. Award creates visibility and know-how transfer for so far overseen innovations throughout Europe, kicks off debates and impulses in business, culture and policy alike and motivates cultural and creative makers to be innovative and more experimental. <br> </h4>
 <br>
 <h5>For <a href= "http://www.e-c-c-e.de/fileadmin/content_bilder/presse/Downloads/09_02_16_NICE_Doku_WEB.pdf" alt= "NICE 2015">2015's edition</a>, N.I.C.E. interviewed the Smart Citizen's crew.
 </h5>
