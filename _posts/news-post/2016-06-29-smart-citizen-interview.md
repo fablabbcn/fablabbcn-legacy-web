@@ -141,27 +141,13 @@ Hemos estado colaborando con investigadores de todo el mundo en universidades co
 <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/19503962930_a21904facc_z.jpg" align="middle"> </img></ul>
 
-<h4>The N.I.C.E. Award 2015 focusses on digital innovation 
-through culture. How do you see the cultural sector 
-influenced by digitalisation?</h4>
+<h4>El N.I.C.E. Award 2015 se centra en innovación digital a través de la cultura. ¿Cómo véis la digitalización del sector cultural?</h4>
 <br>
-In Europe and most of the urbanised areas of the world it 
-is almost impossible to talk about culture without talking 
-about the digital revolution that we have been living in during the last 40 years. From computers to smartphones, our 
-entire lives have dramatically changed, affecting how we 
-learn, work, play, create and live. It is extremely important 
-to create a culture with strong values on humanism through 
-digital platforms, not only using screens and keyboards to 
-represent traditional cultures, but by reframing the meaning of culture in a connected world and society. <br>
+En Europa y en la mayoría de las áreas urbanizadas del mundo es casi imposible hablar de cultura sin hablar de la revolución digital que estamos viviendo en los últimos 40 años. Desde los ordenadores a los smartphones, todas nuestras vidas han cambiado drásticamente, afectando a cómo aprendemos, trabajamos, jugamos, creamos y vivimos. Es sumamente importante crear una cultura con unos fuertes valores humanistas a través de las plataformas digitales, no únicamente utilizar pantallas y teclados para representar las culturas tradicionales, sino reafirmando el significado de cultura en una sociedad y mundo conectado.<br>
 <br>
-<h4>For us it is of high importance that these values are constructed 
-around the open source and accessible knowledge on how 
-things are made, how they can be shared and how they can 
-be useful and valuable to others – and not just to create 
-another start-up to make a little money and then be sold 
-to a larger corporation. Digital culture should help build a 
-new economy and a value set that can enhance the role of 
-people in the production and control of their lives. </h4>
+
+<h4>Para nosotros es de máxima importancia que estos valores se construyan alrededor de tecnologías de código abierto y conocimiento accesible sobre cómo se fabrican las cosas, cómo pueden ser compartidas y cómo pueden ser útiles y valiosas para otros - no simplemente crear otra start-up para ganar un poco de dinero y entonces venderla a una gran corporación. La cultura digital debe ayudar a contruir una nueva economía y un conjunto de valores que pueda mejorar el rol de las
+personas en la producción y el control de sus vidas. </h4>
  
 <ul><img src= "http://www.fablabbcn.org/img/hero_slider/a_slider_3.jpg" align="middle"> </img></ul>
 <br>
