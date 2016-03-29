@@ -34,11 +34,11 @@ problems, cities offer at the same time great opportunities
 to address those problems by using available, accessible 
 and open source technology. <br>
 <br>
-<strong>We believe that Smart Citizen 
+<mark>We believe that Smart Citizen 
 can build an ecosystem of participation of citizens in the 
 production of valuable data and information about our 
 cities, which can help to better understand, transform and 
-improve the places where next generations will live.</strong> Smart 
+improve the places where next generations will live.</mark> Smart 
 Citizen is about the appropriation of technology for taking 
 over the active construction of the city. Our idea started 
 with sensors and data visualisation, but we aim to grow and 
