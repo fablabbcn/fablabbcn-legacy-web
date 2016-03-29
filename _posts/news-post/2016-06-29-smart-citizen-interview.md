@@ -69,10 +69,10 @@ agenda. <br>
 <br>
 We have been collaborating with researchers all 
 over the world in universities like the University College London, the Royal College of Art, the MIT, among others, and 
-in different projects related with them. Finally, we are now 
+in different projects related with them. <mark>Finally, we are now 
 getting EU funding support to develop research around the 
 technology and its implementation strategies in different 
-cities in Europe. As the world is going open source, we are 
+cities in Europe.</mark> As the world is going open source, we are 
 about to record the largest expansion of our project – from 
 1,200 sensors and 3,200 users – and thus to play our part in 
 the massive growth of the Internet of Things devices and 
