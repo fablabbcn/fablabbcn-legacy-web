@@ -66,11 +66,10 @@ p {
 }
 
 hr {
-    margin-top: 10px;
-    margin-bottom: 10px;
-    border-width: 1px 0px 0px;
-    border-style: solid none none;
-    border-color: #dedede; 
+        display: block;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-width: 1px; 
 }
 
 ul {
@@ -346,6 +345,7 @@ iframe {
 #subscribe {
 	background: url('../img/banner_pages/subscribe_banner.jpg') no-repeat; 
 	background-size: cover ;
+	margin-top: 30px;
 
 }
 
@@ -1339,6 +1339,19 @@ iframe {
 }
 
 
+/* ====== Open Days ==================================================== Open Days ============ */
+
+#open-days {
+	margin: 30px 0 60px 0;
+}
+
+#open-days-text-1{
+	padding: 30px 0px 30px 50px !important;
+}
+
+#open-days-text-2{
+	padding: 30px 0px;
+}
 
 
 /* ============= media queries ========================================= media queries ======================= */
@@ -1401,6 +1414,7 @@ iframe {
 }
 
 /* === Suscribe newsletter === */
+	
 	
 	#subscribe-row {
 	padding-top: 40px;
