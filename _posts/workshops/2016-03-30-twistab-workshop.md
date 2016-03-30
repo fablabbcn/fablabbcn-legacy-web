@@ -2,7 +2,7 @@
 
 layout: workshop_post
 type: workshop
-workshopteaser: workshops_loop/3dprinting-2016.jpg
+workshopteaser: workshops_loop/twistabposter.jpg
 title: Twistab Workshop // April 2016
 meta: "Learn the workflow and the skills to transform a generic design into a personal object. During this workshop, particiapants will learn and experiment with 3D modeling, laser cutting, engraving and CNC milling by personalizing his own Twistab."
 author: Fab Lab BCN
@@ -10,6 +10,7 @@ date: 2016/01/05
 category: workshop
 
 ---
+<img src="{{site.baseurl}}{{ site.url }}/img/workshops/workshops_loop/twistabposter.jpg">
 
 <br>
 
@@ -87,6 +88,5 @@ isaac@twistab.org<br>
 
 <br>
 
-<img src="{{site.baseurl}}{{ site.url }}/img/workshops/workshops_loop/3dprinting-2016.jpg">
 
 
