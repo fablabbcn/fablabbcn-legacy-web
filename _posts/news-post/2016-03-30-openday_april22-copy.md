@@ -21,8 +21,11 @@ Open Days will allow guests to explore the learning facilities and the social li
 <br>
 IaaC Open Days are FREE and open to the public, registration is mandatory, please fill this <a target="_blank" href="http://ow.ly/ZwWWo"><u> form </u></a> 
 <br>
-
+More info <a target="_blank" href="https://www.facebook.com/events/1719987728247794/"><u> here </u></a> 
+<br>
 <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday_abril_22.jpg">
+
+
 
 
 
