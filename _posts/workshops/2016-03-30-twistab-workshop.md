@@ -3,8 +3,8 @@
 layout: workshop_post
 type: workshop
 workshopteaser: workshops_loop/3dprinting-2016.jpg
-title: 3D Printing and Scanning// April 2016
-meta: "Take part in the workshop and learn how 3d printing technology works and discover the most suitable technique for your project. In addition, you will have the opportunity to print an object created by you or by any of the users who share their models in open platforms."
+title: Twistab Workshop // April 2016
+meta: "Learn the workflow and the skills to transform a generic design into a personal object. During this workshop, particiapants will learn and experiment with 3D modeling, laser cutting, engraving and CNC milling by personalizing his own Twistab."
 author: Fab Lab BCN
 date: 2016/01/05
 category: workshop
@@ -13,11 +13,17 @@ category: workshop
 
 <br>
 
-<h4>3D PRINTING & SCANNING</h4>
-3D printing is transforming not only how we produce the objects that surround us, as also the consumption patterns of our society.<br>
+<h4>TWISTAB WORKSHOP</h4>
 
-<br>
-Take part in the workshop and learn how 3d printing technology works. You can choose between different printers and learn to use the programs that control each one. You will learn to scan, to process the 3D images and then make them on a 3D printer. This way, you will have the opportunity to print your own 3D object or any of the open source designs available online.<br>
+La tecnología digital nos permite hacer objetos únicos y partiendo de un diseño genérico crear un mueble personalizado. La propuesta de este taller es que cada participante experimente con el modelado 3D, practique el corte, el grabado láser y el fresado por control numérico (CNC) customizándo así su propio Twistab.
+
+Twistab es un diseño abierto de creación de taburetes y mesas en el que el usuario puede adaptar el tamaño y la forma a sus necesidades, y cuyas piezas se asemblan sin necesidad de herramientas.
+
+--------------------------------------------------------------------------------------------------
+
+Making your own furniture using digital technology is now easier than ever. Learn the workflow and the skills to transform a generic design into a personal object. During this workshop, particiapants will learn and experiment with 3D modeling, laser cutting, engraving and CNC milling by personalizing his own Twistab. 
+
+Twistab is an open design for flatpack stools and tables for any size/ shape, and that assembles with the need of tools or any other materials.<br>
 
 
 
