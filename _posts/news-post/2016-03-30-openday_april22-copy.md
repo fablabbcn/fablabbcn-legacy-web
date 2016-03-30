@@ -13,8 +13,7 @@ category: Events
 ---
 
 
-
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/andreas_antonopoulos.jpg" align="middle"> </img></ul>
+<img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday_abril_22.jpg">
 
 IaaC Open Days are open to anyone interested in pursuing postgraduate studies, to ones who wants to further develop their skills or to those who are just curious!
 
