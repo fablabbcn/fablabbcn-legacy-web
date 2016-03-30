@@ -56,7 +56,7 @@ Fabrication<br>
 
 <br>
 <h4>PLACE</h4>
-FAB LAB BARCELONA
+GREEN FAB LAB
 
 Pujades 102, 
 08005, Barcelona 
