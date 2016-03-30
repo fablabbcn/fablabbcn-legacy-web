@@ -5,7 +5,7 @@ type: blog
 teaserlatest: blog_loop_latest/smartcitizenkithand.jpg
 teaserlist: blog_loop_latest/smartcitizenkithand.jpg
 title: Discover everything about Smart Citizen
-meta: A ‘FabCity Campus’ has been set up as part of Europe by People, the Amsterdam EU2016 Arts & Design programme and is inspired by the ‘Fab City’ project lead by Fab Lab Barcelona two years ago. 
+meta: The N.I.C.E. Award promotes innovations through culture and creative industries into the wider economy and society to tackle the major challenges of our future today. For 2015's edition, N.I.C.E. Award interviewed the Smart Citizen's crew.
 author: Maria Ustarroz
 date: 29/03/2016
 category: Blog
