@@ -38,7 +38,21 @@ Isaac Pierre Racine
 <h4>DATES</h4>
 30th April and 1st May, 2016
 
-From 10.00 to 14.00 and 15.00 to 19.00hs
+<h4>SCHEDULE</h4>
+Saturday : 30th April<br>
+<br>
+Designing<br>
+10:00 hr.	- Green Fablab Tour <br>
+10:30 hr.	- Intro to 3d Software<br>
+11:00 hr.	- Designing your 
+	   	   Twistab Model<br>
+	   	   <br>
+Sunday : 1st may<br>
+<br>
+Fabrication<br>
+10:00 hr.	- Intro to File2Factory<br>
+11:00 hr.	- CNC milling<br>
+16:00 hr.	- Laser engraving<br>
 
 <br>
 <h4>PLACE</h4>
