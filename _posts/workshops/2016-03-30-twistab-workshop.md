@@ -56,24 +56,33 @@ Fabrication<br>
 
 <br>
 <h4>PLACE</h4>
-GREEN FAB LAB
 
-Pujades 102, 
-08005, Barcelona 
-Spain
+<a target="_blank" href="http://greenfablab.org/contact/"><b><u>GREEN FAB LAB</u></b></a>
+
+Ctra. BV-1415 (Horta-Cerdanyola), km 7 <br>
+
+08290 Cerdanyola del Vallès <br>
+
+Barcelona - Spain<br>
+
++34 617351890 
+
 
 <br>
 <h4>FEE FOR PARTICIPANTS</h4>
-160 euros<br>
-Includes materials
+175 euros<br>
+Students = 20% discount.<br>
+Includes formation and materials<br>
 
 <br>
 <h4>REGISTRATION </h4>
 
-You can book this workshop using the <a target="_blank" href="http://fablab.fikket.com/event/taller-de-escaneo-e-impresion-3d--2"><u>online registration form</u></a> 
+You can book this workshop using the <a target="_blank" href="http://valldaura.fikket.es/event/symbiotic-associations"><b><u>online registration form</u></b></a>    
 
-More information: info@fablabbcn.org
-
+<br>
+More information: <br>
+info@fablabbcn.org<br>
+isaac@twistab.org<br>
 
 
 <br>
