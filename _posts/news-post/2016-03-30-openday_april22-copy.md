@@ -19,7 +19,7 @@ IaaC Open Days are open to anyone interested in pursuing postgraduate studies, t
 
 Open Days will allow guests to explore the learning facilities and the social life of the Institute. Stay tuned for more news about the program of guided tours, talks and demos.
 
-IaaC Open Days are FREE and open to the public, registration is mandatory, <a target="_blank" href="http://ow.ly/ZwWWo"><u> here</u></a> 
+IaaC Open Days are FREE and open to the public, registration is mandatory, please fill this <a target="_blank" href="http://ow.ly/ZwWWo"><u> form </u></a> 
 
 
 <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday_abril_22.jpg">
