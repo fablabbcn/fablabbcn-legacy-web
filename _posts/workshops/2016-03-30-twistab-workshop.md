@@ -79,7 +79,7 @@ Includes formation and materials<br>
 <br>
 <h4>REGISTRATION </h4>
 
-You can book this workshop using the <a target="_blank" href="http://valldaura.fikket.es/event/symbiotic-associations"><b><u>online registration form</u></b></a>    
+You can book this workshop using the <a target="_blank" href="http://valldaura.fikket.es/"><b><u>online registration form</u></b></a>    
 
 <br>
 More information: <br>
