@@ -20,8 +20,8 @@ La tecnología digital nos permite hacer objetos únicos y partiendo de un dise�
 
 Twistab es un diseño abierto de creación de taburetes y mesas en el que el usuario puede adaptar el tamaño y la forma a sus necesidades, y cuyas piezas se asemblan sin necesidad de herramientas.
 <br>
-<hr>
---------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
 <br>
 Making your own furniture using digital technology is now easier than ever. Learn the workflow and the skills to transform a generic design into a personal object. During this workshop, particiapants will learn and experiment with 3D modeling, laser cutting, engraving and CNC milling by personalizing his own Twistab. 
 
