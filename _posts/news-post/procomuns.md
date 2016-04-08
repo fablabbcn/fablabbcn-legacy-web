@@ -78,7 +78,8 @@ Despr&eacute;s de les jornades de <a href="http://procomuns.net">Procomuns</a> e
 <a href="https://decidim.barcelona/proposals/incentivar-i-donar-suport-a-la-recerca-i-comprensio-de-l-economia-col-laborativa-procomu-acces-lliure-a-dades-publiques-sobre-diferents-aspectes">Grup 10) Generar acc&eacute;s lliure a dades publiques sobre aspectes econ&ograve;mics i socials, emprenedoria, accions de suport, resultats, etc (sempre amb respecte a normatives de privacitat i la perman&egrave;ncia de dades)</a>
 <br>
 
-![](http://www.fablabbcn.org/img/blog/blog_loop_latest/procomunsconf.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O_ULxsA_Pdc" frameborder="0" allowfullscreen></iframe>
 <br>
 ---
 <br>
@@ -149,6 +150,7 @@ Tras las jornadas de <a href="http://procomuns.net">Procomuns</a> hemos subido a
 <a href="https://decidim.barcelona/proposals/incentivar-i-donar-suport-a-la-recerca-i-comprensio-de-l-economia-col-laborativa-procomu-acces-lliure-a-dades-publiques-sobre-diferents-aspectes">Grup 10) Generar acc&eacute;s lliure a dades publiques sobre aspectes econ&ograve;mics i socials, emprenedoria, accions de suport, resultats, etc (sempre amb respecte a normatives de privacitat i la perman&egrave;ncia de dades)</a>
 <br>
 
-![](http://www.fablabbcn.org/img/blog/blog_loop_latest/procomunsconf.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O_ULxsA_Pdc" frameborder="0" allowfullscreen></iframe>
+
 ---
 ---
