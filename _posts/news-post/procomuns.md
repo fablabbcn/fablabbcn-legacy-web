@@ -15,7 +15,7 @@ category: Blog
 <br>[Here you can read this post in Spanish.](#spanish)
 
 
-![](http://www.fablabbcn.org/img/projects/projects_loop/smart_citizen.jpg)
+![](http://www.fablabbcn.org/img/blog/blog_loop_latest/procomuns_logo_v8.png)
 
 De l'11 al 13 de Mar&ccedil; va tindre lloc a Barcelona la trobada <a href="www.procomuns.net">Economies Col&middot;laboratives Procomuns: Pol&iacute;tiques, Tecnologies i Ciutat per a les Persones</a>. Economies Col&middot;laboratives Procomuns va posar de manifest la rellev&agrave;ncia del model procom&uacute; de l’economia col&middot;laborativa, i va ser un exercici col.lectiu de co-disseny de pol&iacute;tiques p&uacute;bliques de promoci&oacute; d’aquest model.<br>
 <br>
