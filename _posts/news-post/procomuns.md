@@ -4,7 +4,7 @@ type: blog
 teaserlatest: blog_loop_latest/procomuns2.jpg
 teaserlist: blog_loop_latest/procomuns2.jpg
 title: Discover everything about Smart Citizen
-meta: "The N.I.C.E. Award promotes innovations through culture and creative industries into the wider economy and society to tackle the major challenges of our future today. For 2015's edition, N.I.C.E. Award interviewed the Smart Citizen's crew."
+meta: "Descobreix les 10 propostes polítiques més populars extretes de la trobada d'Economies Col·laboratives Procomuns i com pots participar per portar-les a terme!"
 author: Maria Ustarroz
 date: 29/03/2016
 category: Blog
