@@ -28,19 +28,15 @@ category: Blog
 
 De l'11 al 13 de Mar&ccedil; va tindre lloc a Barcelona la trobada <a href="www.procomuns.net">Economies Col&middot;laboratives Procomuns: Pol&iacute;tiques, Tecnologies i Ciutat per a les Persones</a>. Economies Col&middot;laboratives Procomuns va posar de manifest la rellev&agrave;ncia del model procom&uacute; de l’economia col&middot;laborativa, i va ser un exercici col.lectiu de co-disseny de pol&iacute;tiques p&uacute;bliques de promoci&oacute; d’aquest model.<br>
 <br>
-A la trobada van assistir 300 persones (i 8 persones menudes :-) i moltes altres van sumar-s’hi per streaming. La participaci&oacute; va ser molt rica, productiva i plural. Amb participants de 32 proced&egrave;ncies internacionals, de persones amb perfils diversos (25% investigadores, 20% emprenedores, 16% t&egrave;cniques, 8% cooperativistes, 7% commoners, 4% dissenyadores, 3% periodistes, de makers, i de pol&iacute;tiques). Contr&agrave;riament al que acostuma a passar amb esdeveniments de car&agrave;cter econ&ograve;mic o t&egrave;cnic, la participaci&oacute; va ser molt plural, amb un 45% de dones i 55% d'homes i intervenci&oacute; de dones i homes a totes les taules.
+A la trobada van assistir 300 persones (i 8 persones menudes :-) i moltes altres van sumar-s’hi per streaming. La participaci&oacute; va ser molt rica, productiva i plural. Amb participants de 32 proced&egrave;ncies internacionals, de persones amb perfils diversos (25% investigadores, 20% emprenedores, 16% t&egrave;cniques, 8% cooperativistes, 7% commoners, 4% dissenyadores, 3% periodistes, de makers, i de pol&iacute;tiques). Contr&agrave;riament al que acostuma a passar amb esdeveniments de car&agrave;cter econ&ograve;mic o t&egrave;cnic, la participaci&oacute; va ser molt plural, amb un 45% de dones i 55% d'homes i intervenci&oacute; de dones i homes a totes les taules.<br>
+<br>
 
 
+<h4>Mem&ograve;ria i resultats</h4>
 
-Mem&ograve;ria de la trobada:
+A la <a href="www.procomuns.net">web</a> hi trobar&agrave;s disponibles els <a href="http://procomuns.net/ca/streaming-videos-2/">v&iacute;deos de les plen&agrave;ries i les altres sessions de l’auditori principal</a>, aix&iacute; com les <a href="http://procomuns.net/ca/slides-de-les-presentacions/">diapositives de totes les presentacions</a>. Gr&agrave;cies al projecte teixidora.net cada sessi&oacute; compta amb <a href="https://beta.etherpad.org/p/procomuns-pads">notes</a>.
 
-A la web hi trobar&agrave;s disponibles els v&iacute;deos de les plen&agrave;ries i ara tamb&eacute; les altres sessions de l’auditori principal (http://procomuns.net/ca/streaming-videos-2/), aix&iacute; com les diapositives de totes les presentacions (http://procomuns.net/ca/slides-de-les-presentacions/). Gr&agrave;cies al projecte teixidora.net cada sessi&oacute; compta amb notes a https://beta.etherpad.org/p/procomuns-pads, i tamb&eacute; est&agrave; en el&middot;laboraci&oacute; un breu documental en v&iacute;deo. Donat l'inter&egrave;s que hem rebut des de molts indrets, estem treballant tamb&eacute; en un compendi d'articles que reculli les idees, noves l&iacute;nies i debats que van sorgir.
-
-Resultats:
-
-De la trobada va resultar una declaraci&oacute; de recomanacions de pol&iacute;tiques p&uacute;bliques per les administracions, sobre tot de cara a impulsar la vessant procom&uacute; de l'economia col&middot;laborativa. Volem destacar la creativitat i la maduresa del treball portat a terme. La versi&oacute; 0.1 hi es disponible aqu&iacute;: http://procomuns.net/ca/politiques/
-
-Durant aquesta setmana estarem acabant d'incorporar propostes que van anar sortint a les sessions per tindre la declaraci&oacute; final. Calculem que hem arribat a quasi 100 propostes!
+De la trobada va resultar una <a href="http://procomuns.net/ca/politiques/">declaraci&oacute; de recomanacions de pol&iacute;tiques p&uacute;bliques per les administracions</a>, sobre tot de cara a impulsar la vessant procom&uacute; de l'economia col&middot;laborativa. Volem destacar la creativitat i la maduresa del treball portat a terme, calculem que hem arribat a quasi 100 propostes!
 
 
 <h4>Com es transformaran aquestes propostes en la realitat?</h4>
