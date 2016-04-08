@@ -119,11 +119,11 @@ Tras las jornadas de <a href="http://procomuns.net">Procomuns</a> hemos subido a
 ![](http://www.fablabbcn.org/img/blog/blog_loop_latest/procomuns3.jpg)
 <h4>¿Cómo participar?</h4>
 
-1) <a href="https://decidim.barcelona/users/sign_up">Registrar-se</a> 
+1) <a href="https://decidim.barcelona/users/sign_up">Registrarse</a> 
 <br>
-2) Seguir les instruccions per a verificar al moment la teva resid&egrave;ncia
+2) Seguir las instrucciones para verificar al momento tu resid&egrave;ncia
 <br>
-3) Comen&ccedil;ar a votar mesures o comentar-les (o proposar-ne de noves)
+3) Empieza a votar las medidas que quieras o comentarlas (o proponer nuevas)
 <br>
 
 <h4>Aquestes són les 10 mesures més populars de la jornada #procomunsbcn</h4>
