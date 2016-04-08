@@ -3,10 +3,10 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/procomuns2.jpg
 teaserlist: blog_loop_latest/procomuns2.jpg
-title: Discover everything about Smart Citizen
-meta: "Descobreix les 10 propostes polítiques més populars extretes de la trobada d'Economies Col·laboratives Procomuns i com pots participar per portar-les a terme!"
+title: Participa en el Programa d'Acció Municipal: Decideix Barcelona!
+meta: "Descobreix les 10 propostes polítiques més populars extretes de la trobada d'Economies Col·laboratives Procomuns i com pots participar per portar-les a terme."
 author: Maria Ustarroz
-date: 29/03/2016
+date: 08/04/2016
 category: Blog
 ---
 
