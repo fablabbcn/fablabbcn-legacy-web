@@ -74,13 +74,7 @@ El procediment &eacute;s relativament senzill: unes poques passes per donar-se d
 
 3) Comen&ccedil;ar a votar mesures o comentar-les (o proposar-ne de noves)
 
-A quines mesures donar suport?
-
-En el moment d’escriure aix&ograve; portem 69 propostes pujades, que es poden trobar totes a https://decidim.barcelona/users/13290 Amb una estona i una mica de paci&egrave;ncia, en 15 o 20 minuts es poden votar totes.
-
-Una altre opci&oacute; que convidem a considerar, seguint el que vam treballar a les jornades, &eacute;s anar directament a recol&ccedil;ar les 10 mesures m&eacute;s populars d’entre les que totes i tots vam prioritzar a la pissarra de #procomunsbcn
-
-A continuaci&oacute; les recollim amb l’enlla&ccedil; directe a la seva p&agrave;gina del PAM (indicant el grup al que pertanyen) i un cop registrat/da nom&eacute;s cal fer clic en cadascuna:
+<h4>Aquestes són les 10 mesures més populars de la jornada #procomunsbcn</h4>
 
 <a href="https://decidim.barcelona/proposals/millora-de-regulacions-per-a-l-economia-col-laborativa-procomu-noves-formes-de-legislacio">Grup 1) Estudiar noves formes de legislaci&oacute; sobre els subjectes jur&iacute;dics/econ&ograve;mics, m&eacute;s enll&agrave; de models multinacionals pel lucre, que posin per davant la governan&ccedil;a participativa, la missi&oacute; social i/o la sostenibilitat mediambiental</a>
 
