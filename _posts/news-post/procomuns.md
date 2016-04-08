@@ -14,15 +14,6 @@ category: Blog
 #### [Aqu&iacute; puedes leer la not&iacute;cia en castellano.](#spanish)
 <br>[Here you can read this post in Spanish.](#spanish)
 
-&nbsp;
-
-#### [The N.I.C.E. Award](http://nice-europe.eu/) promotes innovations through culture and creative industries into the wider economy and society to tackle the major challenges of our future today. To this end, the N.I.C.E. Award creates visibility and know-how transfer for so far overseen innovations throughout Europe, kicks off debates and impulses in business, culture and policy alike and motivates cultural and creative makers to be innovative and more experimental.
-
-&nbsp;
-
-#### For [2015's edition](http://www.e-c-c-e.de/fileadmin/content_bilder/presse/Downloads/09_02_16_NICE_Doku_WEB.pdf), N.I.C.E. interviewed the Smart Citizen's crew.
-
-&nbsp;
 
 ![](http://www.fablabbcn.org/img/projects/projects_loop/smart_citizen.jpg)
 
@@ -31,6 +22,7 @@ De l'11 al 13 de Mar&ccedil; va tindre lloc a Barcelona la trobada <a href="www.
 A la trobada van assistir 300 persones (i 8 persones menudes :-) i moltes altres van sumar-s’hi per streaming. La participaci&oacute; va ser molt rica, productiva i plural. Amb participants de 32 proced&egrave;ncies internacionals, de persones amb perfils diversos (25% investigadores, 20% emprenedores, 16% t&egrave;cniques, 8% cooperativistes, 7% commoners, 4% dissenyadores, 3% periodistes, de makers, i de pol&iacute;tiques). Contr&agrave;riament al que acostuma a passar amb esdeveniments de car&agrave;cter econ&ograve;mic o t&egrave;cnic, la participaci&oacute; va ser molt plural, amb un 45% de dones i 55% d'homes i intervenci&oacute; de dones i homes a totes les taules.<br>
 <br>
 
+![](http://www.fablabbcn.org/img/projects/projects_loop/smart_citizen.jpg)
 
 <h4>Mem&ograve;ria i resultats</h4>
 
@@ -38,7 +30,7 @@ A la <a href="www.procomuns.net">web</a> hi trobar&agrave;s disponibles els <a h
 <br>
 De la trobada va resultar una <a href="http://procomuns.net/ca/politiques/">declaraci&oacute; de recomanacions de pol&iacute;tiques p&uacute;bliques per les administracions</a>, sobre tot de cara a impulsar la vessant procom&uacute; de l'economia col&middot;laborativa. Volem destacar la creativitat i la maduresa del treball portat a terme, calculem que hem arribat a quasi 100 propostes!
 
-
+![](http://www.fablabbcn.org/img/projects/projects_loop/smart_citizen.jpg)
 <h4>Com es transformaran aquestes propostes en la realitat?</h4>
 
 
@@ -53,7 +45,7 @@ I el 27 d'Abril de la m&agrave; del Comit&egrave; de les Regions (amb Benedetta 
 
 Despr&eacute;s de les jornades de <a href="http://procomuns.net">Procomuns</a> estem pujant a la plataforma del <a href="https://decidim.barcelona/">PAM</a> totes les mesures que es van treballar i discutir aquells dies per a que els ciutadans de Barcelona puguin decidir quines són les que volen portar a terme.
 <br>
-
+![](http://www.fablabbcn.org/img/projects/projects_loop/smart_citizen.jpg)
 <h4>Qu&egrave; cal fer per participar?</h4>
 
 1) <a href="https://decidim.barcelona/users/sign_up">Registrar-se</a> 
@@ -85,6 +77,8 @@ Despr&eacute;s de les jornades de <a href="http://procomuns.net">Procomuns</a> e
 <br>
 <a href="https://decidim.barcelona/proposals/incentivar-i-donar-suport-a-la-recerca-i-comprensio-de-l-economia-col-laborativa-procomu-acces-lliure-a-dades-publiques-sobre-diferents-aspectes">Grup 10) Generar acc&eacute;s lliure a dades publiques sobre aspectes econ&ograve;mics i socials, emprenedoria, accions de suport, resultats, etc (sempre amb respecte a normatives de privacitat i la perman&egrave;ncia de dades)</a>
 <br>
+
+![](http://www.fablabbcn.org/img/projects/projects_loop/smart_citizen.jpg)
 ---
 
 &nbsp;
