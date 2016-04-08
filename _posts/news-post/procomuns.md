@@ -89,14 +89,14 @@ Despr&eacute;s de les jornades de <a href="http://procomuns.net">Procomuns</a> e
 <br>
 Del 11 al 13 de Marzo en Barcelona, tuvo lugar el encuentro <a href="www.procomuns.net">Economías Colaborativas Procomuns: Pol&iacute;ticas, Tecnologías y Ciudad para las Personas</a>. Economías Colaborativas Procomuns puso de manifiesto la relevancia del modelo procomún de la economía colaborativa y fue un ejercicio colectivo de co-diseño de políticas públicas de promoción de este modelo.<br>
 <br>
-A la trobada van assistir 300 persones (i 8 persones menudes :-) i moltes altres van sumar-s’hi per streaming. La participaci&oacute; va ser molt rica, productiva i plural. Amb participants de 32 proced&egrave;ncies internacionals, de persones amb perfils diversos (25% investigadores, 20% emprenedores, 16% t&egrave;cniques, 8% cooperativistes, 7% commoners, 4% dissenyadores, 3% periodistes, de makers, i de pol&iacute;tiques). Contr&agrave;riament al que acostuma a passar amb esdeveniments de car&agrave;cter econ&ograve;mic o t&egrave;cnic, la participaci&oacute; va ser molt plural, amb un 45% de dones i 55% d'homes i intervenci&oacute; de dones i homes a totes les taules.<br>
+Al encuentro asistieron 300 personas (y 8 pequeñas :-) y muchas otras se sumaron por streaming. La participación fue muy rica, productiva y plural. Con participantes de 32 procedencias internacionales, de personas con perfiles diversos (25% investigadoras, 20% emprendedoras, 16% técnicas, 8% cooperativistas, 7% commoners, 4% diseñadoras, 3% periodistas y también makers y políticas). Contrariamente a lo que acostumbra a pasar en este tipo de acontecimientos de carácter económico o técnico, la participación fue muy plural, con un 45% de mujerres y un 55% de hombres, así como con intervenciones de ambos sexos en todas las mesas.<br>
 <br>
 
 ![](http://www.fablabbcn.org/img/blog/blog_loop_latest/procomunsconf.jpg)
 
-<h4>Mem&ograve;ria i resultats</h4>
+<h4>Memoria y resultados</h4>
 
-A la <a href="www.procomuns.net">web</a> hi trobar&agrave;s disponibles els <a href="http://procomuns.net/ca/streaming-videos-2/">v&iacute;deos de les plen&agrave;ries i les altres sessions de l’auditori principal</a>, aix&iacute; com les <a href="http://procomuns.net/ca/slides-de-les-presentacions/">diapositives de totes les presentacions</a>. Gr&agrave;cies al projecte teixidora.net cada sessi&oacute; compta amb <a href="https://beta.etherpad.org/p/procomuns-pads">notes</a>.<br>
+En la <a href="www.procomuns.net">web</a> encontrarás los <a href="http://procomuns.net/ca/streaming-videos-2/">v&iacute;deos de los plenarios y demás sesiones del auditorio principal</a>, así como las <a href="http://procomuns.net/ca/slides-de-les-presentacions/">diapositivas de todas las presentaciones</a>. Gracias al proyecto teixidora.net cada sessi&oacute;n cuenta con <a href="https://beta.etherpad.org/p/procomuns-pads">notas</a>.<br>
 <br>
 De la trobada va resultar una <a href="http://procomuns.net/ca/politiques/">declaraci&oacute; de recomanacions de pol&iacute;tiques p&uacute;bliques per les administracions</a>, sobre tot de cara a impulsar la vessant procom&uacute; de l'economia col&middot;laborativa. Volem destacar la creativitat i la maduresa del treball portat a terme, calculem que hem arribat a quasi 100 propostes!
 
