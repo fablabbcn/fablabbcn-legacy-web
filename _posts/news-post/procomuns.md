@@ -34,14 +34,14 @@ De la trobada va resultar una <a href="http://procomuns.net/ca/politiques/">decl
 <h4>Com es transformaran aquestes propostes en la realitat?</h4>
 
 
-<h5>Comissi&oacute; Europea:</h5>
+<h5>Comissi&oacute; Europea</h5>
 
 Ho farem arribar a les 9 Direccions Generals que treballen en la regulaci&oacute; de l'economia col&middot;laborativa. El 19/20 d'Abril celebrarem un acte p&uacute;blic a Brussel&middot;les coincidint amb l'esdeveniment <a href="http://netfutures2016.eu/">Net Futures</a>.
 <br>
 I el 27 d'Abril de la m&agrave; del Comit&egrave; de les Regions (amb Benedetta Brighenti al cap davant) tindr&agrave; lloc una trobada per impulsar la col&middot;laboraci&oacute; entre ciutats per l'economia col&middot;laborativa procom&uacute;.
 <br>
 
-<h5>Ajuntament de Barcelona - PAM:</h5>
+<h5>Ajuntament de Barcelona - PAM</h5>
 
 Despr&eacute;s de les jornades de <a href="http://procomuns.net">Procomuns</a> estem pujant a la plataforma del <a href="https://decidim.barcelona/">PAM</a> totes les mesures que es van treballar i discutir aquells dies per a que els ciutadans de Barcelona puguin decidir quines són les que volen portar a terme.
 <br>
@@ -98,25 +98,26 @@ Al encuentro asistieron 300 personas (y 8 pequeñas :-) y muchas otras se sumaro
 
 En la <a href="www.procomuns.net">web</a> encontrarás los <a href="http://procomuns.net/ca/streaming-videos-2/">v&iacute;deos de los plenarios y demás sesiones del auditorio principal</a>, así como las <a href="http://procomuns.net/ca/slides-de-les-presentacions/">diapositivas de todas las presentaciones</a>. Gracias al proyecto <a href="http://teixidora.referata.com/wiki/%C2%B7%C2%B7%C2%B7">teixidora.net</a> cada sessi&oacute;n cuenta con <a href="https://beta.etherpad.org/p/procomuns-pads">notas</a>.<br>
 <br>
-De la trobada va resultar una <a href="http://procomuns.net/ca/politiques/">declaraci&oacute; de recomanacions de pol&iacute;tiques p&uacute;bliques per les administracions</a>, sobre tot de cara a impulsar la vessant procom&uacute; de l'economia col&middot;laborativa. Volem destacar la creativitat i la maduresa del treball portat a terme, calculem que hem arribat a quasi 100 propostes!
+Del encuentro resultó una <a href="http://procomuns.net/ca/politiques/">declaraci&oacute;n de recomendaciones de pol&iacute;ticas p&uacute;blicas para las administraciones</a>, sobre todo de cara a impulsar el aspecto procom&uacute;n de la economía colaborativa. Queremos destacar la creatividad y la madurez del trabajo que se llevó a cabo, calculamos que hemos llegado a casi 100 propuestas!
 
 ![](http://www.fablabbcn.org/img/blog/blog_loop_latest/procomuns1.jpg)
-<h4>Com es transformaran aquestes propostes en la realitat?</h4>
+
+<h4>Cómo se transformarán estas propuestas en la realidad?</h4>
 
 
-<h5>Comissi&oacute; Europea:</h5>
+<h5>Comissi&oacute;n Europea</h5>
 
-Ho farem arribar a les 9 Direccions Generals que treballen en la regulaci&oacute; de l'economia col&middot;laborativa. El 19/20 d'Abril celebrarem un acte p&uacute;blic a Brussel&middot;les coincidint amb l'esdeveniment <a href="http://netfutures2016.eu/">Net Futures</a>.
+Vamos a hacerlas llegar a las 9 Direcciones Generales que trabajan en la regulaci&oacute;n de la economía colaborativa. El 19/20 de Abril celebraremos un acto p&uacute;blico en Bruselas coincidiendo con el acto <a href="http://netfutures2016.eu/">Net Futures</a>.
 <br>
-I el 27 d'Abril de la m&agrave; del Comit&egrave; de les Regions (amb Benedetta Brighenti al cap davant) tindr&agrave; lloc una trobada per impulsar la col&middot;laboraci&oacute; entre ciutats per l'economia col&middot;laborativa procom&uacute;.
+También el 27 de Abril de la mano del Comit&egrave; de las Regiones (con Benedetta Brighenti a la cabeza) tindrá lugar un encuentro para impulsar la colaboraci&oacute;n entre ciudades para la economía colaborativa procom&uacute;n.
 <br>
 
-<h5>Ajuntament de Barcelona - PAM:</h5>
+<h5>Ayuntamiento de Barcelona - PAM</h5>
 
-Despr&eacute;s de les jornades de <a href="http://procomuns.net">Procomuns</a> estem pujant a la plataforma del <a href="https://decidim.barcelona/">PAM</a> totes les mesures que es van treballar i discutir aquells dies per a que els ciutadans de Barcelona puguin decidir quines són les que volen portar a terme.
+Tras las jornadas de <a href="http://procomuns.net">Procomuns</a> hemos subido a la plataforma del <a href="https://decidim.barcelona/">PAM</a> todas las medidas en las que se trabajó y sobre las que se discutió durante el evento para que los ciudadanos de Barcelona puedan decidir cuáles son las que quieren llevar a cabo. 
 <br>
 ![](http://www.fablabbcn.org/img/blog/blog_loop_latest/procomuns3.jpg)
-<h4>Qu&egrave; cal fer per participar?</h4>
+<h4>¿Cómo participar?</h4>
 
 1) <a href="https://decidim.barcelona/users/sign_up">Registrar-se</a> 
 <br>
