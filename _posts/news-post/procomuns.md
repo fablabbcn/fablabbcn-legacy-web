@@ -44,7 +44,7 @@ De la trobada va resultar una <a href="http://procomuns.net/ca/politiques/">decl
 
 <h5>Comissi&oacute; Europea:</h5>
 
-Ho farem arribar a les 9 Direccions Generals que treballen en la regulaci&oacute; de l'economia col&middot;laborativa. El 19/20 d'Abril celebrarem un acte p&uacute;blic a Brussel&middot;les (coincidint amb l'esdeveniment Net Futures).
+Ho farem arribar a les 9 Direccions Generals que treballen en la regulaci&oacute; de l'economia col&middot;laborativa. El 19/20 d'Abril celebrarem un acte p&uacute;blic a Brussel&middot;les coincidint amb l'esdeveniment Net Futures.
 
 I el 27 d'Abril de la m&agrave; del Comit&egrave; de les Regions (amb Benedetta Brighenti al cap davant) tindr&agrave; lloc una trobada per impulsar la col&middot;laboraci&oacute; entre ciutats per l'economia col&middot;laborativa procom&uacute;.
 
