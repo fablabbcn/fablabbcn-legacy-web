@@ -126,7 +126,7 @@ Tras las jornadas de <a href="http://procomuns.net">Procomuns</a> hemos subido a
 3) Empieza a votar las medidas que quieras o comentarlas (o proponer nuevas)
 <br>
 
-<h4>Aquestes són les 10 mesures més populars de la jornada #procomunsbcn</h4>
+<h4>Estas son las 10 medidas más populares de la jornada #procomunsbcn</h4>
 
 <a href="https://decidim.barcelona/proposals/millora-de-regulacions-per-a-l-economia-col-laborativa-procomu-noves-formes-de-legislacio">Grup 1) Estudiar noves formes de legislaci&oacute; sobre els subjectes jur&iacute;dics/econ&ograve;mics, m&eacute;s enll&agrave; de models multinacionals pel lucre, que posin per davant la governan&ccedil;a participativa, la missi&oacute; social i/o la sostenibilitat mediambiental</a>
 <br>
