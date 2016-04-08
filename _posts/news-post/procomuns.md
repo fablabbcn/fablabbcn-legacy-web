@@ -141,7 +141,7 @@ Tras las jornadas de <a href="http://procomuns.net">Procomuns</a> hemos subido a
 <br>
 <a href="https://decidim.barcelona/proposals/combatre-la-mala-practica-de-les-administracions-i-la-corrupcio-en-l-ambit-de-politiques-tecnologiques-i-de-coneixement-registre-obligatori-de-reunions-i-contactes-amb-lobbies">Grupo 6) Registro obligatorio de reuniones y contactos con los "lobbies" o grupos de presi&oacute;n que representen intereses económicos de las grandes corporaciones en telecomunicaciones o servicios tecnol&ograve;gicos</a>
 <br>
-<a href="https://decidim.barcelona/proposals/difusio-local-per-apropar-l-economia-col-laborativa-procomu-a-altres-economies-afins-xarxa-d-espais-oberts-de-fabricacio">Grup 7) Promoure una xarxa d’espais oberts de fabricaci&oacute; com els ateneus de fabricaci&oacute;, fablabs i espais “maker”, amb programes educatius, enfocats a la reparaci&oacute; i reutlitzaci&oacute; i incentius econ&ograve;mics</a>
+<a href="https://decidim.barcelona/proposals/difusio-local-per-apropar-l-economia-col-laborativa-procomu-a-altres-economies-afins-xarxa-d-espais-oberts-de-fabricacio">Grupo 7) Promover una red de espacioss abiertos de fabricaci&oacute;n como los ateneus de fabricaci&oacute;, fablabs i espacios “maker”, con programas educativos, enfocados a la reparaci&oacute;n y reutlitzaci&oacute;n, así como incentivos económicos</a>
 <br>
 <a href="https://decidim.barcelona/proposals/ampliar-el-segell-barcelona-en-clau-de-visibilitat-exterior-d-iniciatives-d-economia-col-laborativa-procomu-promoure-segells-de-producte">Grup 8) Promoure segells de producte ecol&ograve;gics, socials, sense obsolesc&egrave;ncia programada, reparables, transparents i de codi obert i lliure</a>
 <br>
