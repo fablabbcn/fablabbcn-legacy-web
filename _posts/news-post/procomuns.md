@@ -30,7 +30,7 @@ De l'11 al 13 de Mar&ccedil; va tindre lloc a Barcelona la trobada <a href="www.
 <br>
 A la trobada van assistir 300 persones (i 8 persones menudes :-) i moltes altres van sumar-s’hi per streaming. La participaci&oacute; va ser molt rica, productiva i plural. Amb participants de 32 proced&egrave;ncies internacionals, de persones amb perfils diversos (25% investigadores, 20% emprenedores, 16% t&egrave;cniques, 8% cooperativistes, 7% commoners, 4% dissenyadores, 3% periodistes, de makers, i de pol&iacute;tiques). Contr&agrave;riament al que acostuma a passar amb esdeveniments de car&agrave;cter econ&ograve;mic o t&egrave;cnic, la participaci&oacute; va ser molt plural, amb un 45% de dones i 55% d'homes i intervenci&oacute; de dones i homes a totes les taules.
 
-S&oacute;n moltes les felicitacions que ens han arribat, i les sensacions d’haver aconseguit una trobada important, de pes, intensa i vibrant. Estem tant contents i contentes que ens hem quedat amb ganes d'una nova edici&oacute; el proper any! ;-)
+
 
 Mem&ograve;ria de la trobada:
 
