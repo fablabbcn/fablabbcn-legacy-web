@@ -26,7 +26,7 @@ A la trobada van assistir 300 persones (i 8 persones menudes :-) i moltes altres
 
 <h4>Mem&ograve;ria i resultats</h4>
 
-A la <a href="www.procomuns.net">web</a> hi trobar&agrave;s disponibles els <a href="http://procomuns.net/ca/streaming-videos-2/">v&iacute;deos de les plen&agrave;ries i les altres sessions de l’auditori principal</a>, aix&iacute; com les <a href="http://procomuns.net/ca/slides-de-les-presentacions/">diapositives de totes les presentacions</a>. Gr&agrave;cies al projecte teixidora.net cada sessi&oacute; compta amb <a href="https://beta.etherpad.org/p/procomuns-pads">notes</a>.<br>
+A la <a href="www.procomuns.net">web</a> hi trobar&agrave;s disponibles els <a href="http://procomuns.net/ca/streaming-videos-2/">v&iacute;deos de les plen&agrave;ries i les altres sessions de l’auditori principal</a>, aix&iacute; com les <a href="http://procomuns.net/ca/slides-de-les-presentacions/">diapositives de totes les presentacions</a>. Gr&agrave;cies al projecte <a href="http://teixidora.referata.com/wiki/%C2%B7%C2%B7%C2%B7">teixidora.net</a> cada sessi&oacute; compta amb <a href="https://beta.etherpad.org/p/procomuns-pads">notes</a>.<br>
 <br>
 De la trobada va resultar una <a href="http://procomuns.net/ca/politiques/">declaraci&oacute; de recomanacions de pol&iacute;tiques p&uacute;bliques per les administracions</a>, sobre tot de cara a impulsar la vessant procom&uacute; de l'economia col&middot;laborativa. Volem destacar la creativitat i la maduresa del treball portat a terme, calculem que hem arribat a quasi 100 propostes!
 
