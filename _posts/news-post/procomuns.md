@@ -42,15 +42,15 @@ De la trobada va resultar una declaraci&oacute; de recomanacions de pol&iacute;t
 
 Durant aquesta setmana estarem acabant d'incorporar propostes que van anar sortint a les sessions per tindre la declaraci&oacute; final. Calculem que hem arribat a quasi 100 propostes!
 
-Full de ruta:
 
-L'objectiu ara &eacute;s fer arribar les propostes de pol&iacute;tiques p&uacute;bliques a les administracions de la manera que puguin tenir el major impacte possible.
+<h4>Com es transformaran aquestes propostes en la realitat?</h4>
 
-Comissi&oacute; Europea:
+
+<h5>Comissi&oacute; Europea:</h5>
 
 Ho farem arribar a les 9 Direccions Generals que treballen en la regulaci&oacute; de l'economia col&middot;laborativa. El 19/20 d'Abril celebrarem un acte p&uacute;blic a Brussel&middot;les (coincidint amb l'esdeveniment Net Futures).
 
-I el 27 d'Abril de la m&agrave; del Comit&egrave; de les Regions (amb Benedetta Brighenti al cap front) tindr&agrave; lloc una trobada per impulsar la col&middot;laboraci&oacute; entre ciutats per l'economia col&middot;laborativa procom&uacute;.
+I el 27 d'Abril de la m&agrave; del Comit&egrave; de les Regions (amb Benedetta Brighenti al cap davant) tindr&agrave; lloc una trobada per impulsar la col&middot;laboraci&oacute; entre ciutats per l'economia col&middot;laborativa procom&uacute;.
 
 Generalitat de Catalunya, i Estats:
 
@@ -59,12 +59,6 @@ No hi ha obert un proc&eacute;s de consulta (o no ens consta) en torn a la regul
 Ajuntament de Barcelona - PAM:
 
 Despr&eacute;s de les jornades de procomuns.net estem pujant a la plataforma del PAM https://decidim.barcelona/ totes les mesures que es van treballar i discutir aquells dies.
-
-Ara &eacute;s el moment de mirar de fer for&ccedil;a entre tots i totes per a que rebin el m&agrave;xim de suport possible, i aix&iacute; puguin arribar a ser considerades i esperem que en alguns casos implementades des de l’Ajuntament.
-
-A m&eacute;s d’aix&ograve;, sigueu o no empadronats a Barcelona, si coneixeu alguna altre persona que ho estigui i li pugui interessar donar el seu suport a aquestes mesures, fant&agrave;stic si li podeu reenviar aquest missatge
-
-
 
 
 
