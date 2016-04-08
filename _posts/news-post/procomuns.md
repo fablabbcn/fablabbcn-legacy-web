@@ -34,8 +34,8 @@ A la trobada van assistir 300 persones (i 8 persones menudes :-) i moltes altres
 
 <h4>Mem&ograve;ria i resultats</h4>
 
-A la <a href="www.procomuns.net">web</a> hi trobar&agrave;s disponibles els <a href="http://procomuns.net/ca/streaming-videos-2/">v&iacute;deos de les plen&agrave;ries i les altres sessions de l’auditori principal</a>, aix&iacute; com les <a href="http://procomuns.net/ca/slides-de-les-presentacions/">diapositives de totes les presentacions</a>. Gr&agrave;cies al projecte teixidora.net cada sessi&oacute; compta amb <a href="https://beta.etherpad.org/p/procomuns-pads">notes</a>.
-
+A la <a href="www.procomuns.net">web</a> hi trobar&agrave;s disponibles els <a href="http://procomuns.net/ca/streaming-videos-2/">v&iacute;deos de les plen&agrave;ries i les altres sessions de l’auditori principal</a>, aix&iacute; com les <a href="http://procomuns.net/ca/slides-de-les-presentacions/">diapositives de totes les presentacions</a>. Gr&agrave;cies al projecte teixidora.net cada sessi&oacute; compta amb <a href="https://beta.etherpad.org/p/procomuns-pads">notes</a>.<br>
+<br>
 De la trobada va resultar una <a href="http://procomuns.net/ca/politiques/">declaraci&oacute; de recomanacions de pol&iacute;tiques p&uacute;bliques per les administracions</a>, sobre tot de cara a impulsar la vessant procom&uacute; de l'economia col&middot;laborativa. Volem destacar la creativitat i la maduresa del treball portat a terme, calculem que hem arribat a quasi 100 propostes!
 
 
@@ -44,19 +44,15 @@ De la trobada va resultar una <a href="http://procomuns.net/ca/politiques/">decl
 
 <h5>Comissi&oacute; Europea:</h5>
 
-Ho farem arribar a les 9 Direccions Generals que treballen en la regulaci&oacute; de l'economia col&middot;laborativa. El 19/20 d'Abril celebrarem un acte p&uacute;blic a Brussel&middot;les coincidint amb l'esdeveniment Net Futures.
-
+Ho farem arribar a les 9 Direccions Generals que treballen en la regulaci&oacute; de l'economia col&middot;laborativa. El 19/20 d'Abril celebrarem un acte p&uacute;blic a Brussel&middot;les coincidint amb l'esdeveniment <a href="http://netfutures2016.eu/">Net Futures</a>.
+<br>
 I el 27 d'Abril de la m&agrave; del Comit&egrave; de les Regions (amb Benedetta Brighenti al cap davant) tindr&agrave; lloc una trobada per impulsar la col&middot;laboraci&oacute; entre ciutats per l'economia col&middot;laborativa procom&uacute;.
+<br>
 
-Generalitat de Catalunya, i Estats:
+<h5>Ajuntament de Barcelona - PAM:</h5>
 
-No hi ha obert un proc&eacute;s de consulta (o no ens consta) en torn a la regulaci&oacute; de l'economia col&middot;laborativa a altres inst&agrave;ncies, per&ograve; igualment farem arribar el document de propostes.
-
-Ajuntament de Barcelona - PAM:
-
-Despr&eacute;s de les jornades de procomuns.net estem pujant a la plataforma del PAM https://decidim.barcelona/ totes les mesures que es van treballar i discutir aquells dies.
-
-
+Despr&eacute;s de les jornades de <a href="http://procomuns.net">Procomuns</a> estem pujant a la plataforma del <a href="https://decidim.barcelona/">PAM</a> totes les mesures que es van treballar i discutir aquells dies per a que els ciutadans de Barcelona puguin decidir quines són les que volen portar a terme.
+<br>
 
 <h4>Qu&egrave; cal fer per participar?</h4>
 
