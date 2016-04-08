@@ -64,11 +64,9 @@ Ara &eacute;s el moment de mirar de fer for&ccedil;a entre tots i totes per a qu
 
 A m&eacute;s d’aix&ograve;, sigueu o no empadronats a Barcelona, si coneixeu alguna altre persona que ho estigui i li pugui interessar donar el seu suport a aquestes mesures, fant&agrave;stic si li podeu reenviar aquest missatge
 
-Qu&egrave; cal fer?
+<h4>Qu&egrave; cal fer per participar?</h4>
 
-El procediment &eacute;s relativament senzill: unes poques passes per donar-se d’alta a la plataforma i a continuaci&oacute; votar o comentar totes les mesures que es vulgui:
-
-1) Registre a https://decidim.barcelona/users/sign_up
+1) <a href="https://decidim.barcelona/users/sign_up">Registrar-se</a> 
 
 2) Seguir les instruccions per a verificar al moment la teva resid&egrave;ncia
 
