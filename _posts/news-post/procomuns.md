@@ -30,7 +30,7 @@ A la <a href="www.procomuns.net">web</a> hi trobar&agrave;s disponibles els <a h
 <br>
 De la trobada va resultar una <a href="http://procomuns.net/ca/politiques/">declaraci&oacute; de recomanacions de pol&iacute;tiques p&uacute;bliques per les administracions</a>, sobre tot de cara a impulsar la vessant procom&uacute; de l'economia col&middot;laborativa. Volem destacar la creativitat i la maduresa del treball portat a terme, calculem que hem arribat a quasi 100 propostes!
 
-![](http://www.fablabbcn.org/img/blog/blog_loop_latest/procomuns3.jpg)
+![](http://www.fablabbcn.org/img/blog/blog_loop_latest/procomuns1.jpg)
 <h4>Com es transformaran aquestes propostes en la realitat?</h4>
 
 
@@ -45,7 +45,7 @@ I el 27 d'Abril de la m&agrave; del Comit&egrave; de les Regions (amb Benedetta 
 
 Despr&eacute;s de les jornades de <a href="http://procomuns.net">Procomuns</a> estem pujant a la plataforma del <a href="https://decidim.barcelona/">PAM</a> totes les mesures que es van treballar i discutir aquells dies per a que els ciutadans de Barcelona puguin decidir quines són les que volen portar a terme.
 <br>
-![](http://www.fablabbcn.org/img/projects/projects_loop/smart_citizen.jpg)
+![](http://www.fablabbcn.org/img/blog/blog_loop_latest/procomuns3.jpg)
 <h4>Qu&egrave; cal fer per participar?</h4>
 
 1) <a href="https://decidim.barcelona/users/sign_up">Registrar-se</a> 
@@ -78,7 +78,7 @@ Despr&eacute;s de les jornades de <a href="http://procomuns.net">Procomuns</a> e
 <a href="https://decidim.barcelona/proposals/incentivar-i-donar-suport-a-la-recerca-i-comprensio-de-l-economia-col-laborativa-procomu-acces-lliure-a-dades-publiques-sobre-diferents-aspectes">Grup 10) Generar acc&eacute;s lliure a dades publiques sobre aspectes econ&ograve;mics i socials, emprenedoria, accions de suport, resultats, etc (sempre amb respecte a normatives de privacitat i la perman&egrave;ncia de dades)</a>
 <br>
 
-![](http://www.fablabbcn.org/img/projects/projects_loop/smart_citizen.jpg)
+![](http://www.fablabbcn.org/img/blog/blog_loop_latest/procomunsconf.jpg)
 ---
 
 &nbsp;
