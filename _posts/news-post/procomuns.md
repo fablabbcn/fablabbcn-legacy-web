@@ -15,14 +15,14 @@ category: Blog
 <br>[Here you can read this post in Spanish.](#spanish)
 
 
-![](http://www.fablabbcn.org/img/blog/blog_loop_latest/procomuns_logo_v8.png)
+![](http://www.fablabbcn.org/img/blog/blog_loop_latest/procomuns2.jpg)
 
 De l'11 al 13 de Mar&ccedil; va tindre lloc a Barcelona la trobada <a href="www.procomuns.net">Economies Col&middot;laboratives Procomuns: Pol&iacute;tiques, Tecnologies i Ciutat per a les Persones</a>. Economies Col&middot;laboratives Procomuns va posar de manifest la rellev&agrave;ncia del model procom&uacute; de l’economia col&middot;laborativa, i va ser un exercici col.lectiu de co-disseny de pol&iacute;tiques p&uacute;bliques de promoci&oacute; d’aquest model.<br>
 <br>
 A la trobada van assistir 300 persones (i 8 persones menudes :-) i moltes altres van sumar-s’hi per streaming. La participaci&oacute; va ser molt rica, productiva i plural. Amb participants de 32 proced&egrave;ncies internacionals, de persones amb perfils diversos (25% investigadores, 20% emprenedores, 16% t&egrave;cniques, 8% cooperativistes, 7% commoners, 4% dissenyadores, 3% periodistes, de makers, i de pol&iacute;tiques). Contr&agrave;riament al que acostuma a passar amb esdeveniments de car&agrave;cter econ&ograve;mic o t&egrave;cnic, la participaci&oacute; va ser molt plural, amb un 45% de dones i 55% d'homes i intervenci&oacute; de dones i homes a totes les taules.<br>
 <br>
 
-![](http://www.fablabbcn.org/img/projects/projects_loop/smart_citizen.jpg)
+![](http://www.fablabbcn.org/img/blog/blog_loop_latest/procomunsconf.jpg)
 
 <h4>Mem&ograve;ria i resultats</h4>
 
@@ -30,7 +30,7 @@ A la <a href="www.procomuns.net">web</a> hi trobar&agrave;s disponibles els <a h
 <br>
 De la trobada va resultar una <a href="http://procomuns.net/ca/politiques/">declaraci&oacute; de recomanacions de pol&iacute;tiques p&uacute;bliques per les administracions</a>, sobre tot de cara a impulsar la vessant procom&uacute; de l'economia col&middot;laborativa. Volem destacar la creativitat i la maduresa del treball portat a terme, calculem que hem arribat a quasi 100 propostes!
 
-![](http://www.fablabbcn.org/img/projects/projects_loop/smart_citizen.jpg)
+![](http://www.fablabbcn.org/img/blog/blog_loop_latest/procomuns3.jpg)
 <h4>Com es transformaran aquestes propostes en la realitat?</h4>
 
 
