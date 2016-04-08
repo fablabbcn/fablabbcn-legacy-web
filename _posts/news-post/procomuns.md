@@ -143,7 +143,7 @@ Tras las jornadas de <a href="http://procomuns.net">Procomuns</a> hemos subido a
 <br>
 <a href="https://decidim.barcelona/proposals/difusio-local-per-apropar-l-economia-col-laborativa-procomu-a-altres-economies-afins-xarxa-d-espais-oberts-de-fabricacio">Grupo 7) Promover una red de espacioss abiertos de fabricaci&oacute;n como los ateneus de fabricaci&oacute;, fablabs i espacios “maker”, con programas educativos, enfocados a la reparaci&oacute;n y reutlitzaci&oacute;n, así como incentivos económicos</a>
 <br>
-<a href="https://decidim.barcelona/proposals/ampliar-el-segell-barcelona-en-clau-de-visibilitat-exterior-d-iniciatives-d-economia-col-laborativa-procomu-promoure-segells-de-producte">Grup 8) Promoure segells de producte ecol&ograve;gics, socials, sense obsolesc&egrave;ncia programada, reparables, transparents i de codi obert i lliure</a>
+<a href="https://decidim.barcelona/proposals/ampliar-el-segell-barcelona-en-clau-de-visibilitat-exterior-d-iniciatives-d-economia-col-laborativa-procomu-promoure-segells-de-producte">Grupo 8) Promover sellos de producto ecológico, social, sin obsolescencia programada, reparables, transparentes y de código abierto y libre
 <br>
 <a href="https://decidim.barcelona/proposals/que-les-inversions-en-grans-esdeveniments-tecnologics-recaiguin-en-la-promocio-del-procomu-local-que-els-congressos-i-grans-esdeveniments-de-barcelona-donin-visibilitat-i-suport-a-l-economia-col-laborativa-procomu">Grup 9) Potenciar que els congressos i grans esdeveniments de Barcelona donin visibilitat i suport a l'economia col&middot;laborativa procom&uacute;, i que se’n promogui per exemple la tecnologia oberta o donant (encara) m&eacute;s visibilitat a experi&egrave;ncies locals rellevants</a>
 <br>
