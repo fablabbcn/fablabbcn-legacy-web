@@ -2,7 +2,7 @@
 
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/fabcity.jpg
+teaserlatest: blog_loop_latest/fabcitysmall.png
 teaserlist: blog_loop_latest/fabcity.jpg
 title: This April, FabCity Campus in Amsterdam!
 meta: A ‘FabCity Campus’ has been set up as part of Europe by People, the Amsterdam EU2016 Arts & Design programme and is inspired by the ‘Fab City’ project lead by Fab Lab Barcelona two years ago. 
