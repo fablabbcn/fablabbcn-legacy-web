@@ -1,7 +1,7 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/procomuns2.jpg
+teaserlatest: blog_loop_latest/procomunssmall.png
 teaserlist: blog_loop_latest/procomuns2.jpg
 title: "Participa en el Programa d'Acció Municipal: Decideix Barcelona!"
 meta: "Descobreix les 10 propostes polítiques més populars extretes de la trobada d'Economies Col·laboratives Procomuns i com pots participar per portar-les a terme."
