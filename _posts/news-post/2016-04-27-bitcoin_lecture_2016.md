@@ -2,8 +2,8 @@
 
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/andreas_antonopoulos_small.jpg
-teaserlist: blog_loop_latest/andreas_antonopoulos_small.jpg
+teaserlatest: blog_loop_latest/manfred-karrer-799x1024.jpg
+teaserlist: blog_loop_latest/manfred-karrer-799x1024.jpg
 title: Lecture by Andreas Antonopoulos "Mastering Bitcoin"
 meta: Wednesday, March 27th, Manfred Karrer will offer a lecture on Bitsquare Beta and will give a short demo of the software"
 author: Maria Ustarroz
@@ -25,7 +25,7 @@ Open to the Public
 <br>
 
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/andreas_antonopoulos.jpg" align="middle"> </img></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/manfred-karrer-799x1024.jpg" align="middle"> </img></ul>
 
 
 
