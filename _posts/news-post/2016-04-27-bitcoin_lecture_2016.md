@@ -4,7 +4,7 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/manfred-karrer-799x1024.jpg
 teaserlist: blog_loop_latest/manfred-karrer-799x1024.jpg
-title: Lecture by Andreas Antonopoulos "Mastering Bitcoin"
+title: Lecture by Manfred Karrer "Bitsquare Beta Launch"
 meta: Wednesday, March 27th, Manfred Karrer will offer a lecture on Bitsquare Beta and will give a short demo of the software"
 author: Maria Ustarroz
 date: 20/03/2016
