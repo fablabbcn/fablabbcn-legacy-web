@@ -2,7 +2,7 @@
 
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/manfred-karrer-799x1024.jpg
+teaserlatest: blog_loop_latest/manfredsmall.png
 teaserlist: blog_loop_latest/manfred-karrer-799x1024.jpg
 title: Lecture by Manfred Karrer "Bitsquare Beta Launch"
 meta: Wednesday, March 27th, Manfred Karrer will offer a lecture on Bitsquare Beta and will give a short demo of the software"
