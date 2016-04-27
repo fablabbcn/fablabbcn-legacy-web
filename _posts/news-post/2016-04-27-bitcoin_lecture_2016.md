@@ -5,21 +5,21 @@ type: blog
 teaserlatest: blog_loop_latest/andreas_antonopoulos_small.jpg
 teaserlist: blog_loop_latest/andreas_antonopoulos_small.jpg
 title: Lecture by Andreas Antonopoulos "Mastering Bitcoin"
-meta: Next Thursday, March 24th, Andreas Antonopoulos will offer a lecture on Mastering Bitcoin, "Thoughts on the future of Money"
+meta: Wednesday, March 27th, Manfred Karrer will offer a lecture on Bitsquare Beta and will give a short demo of the software"
 author: Luciana Asinari
 date: 20/03/2016
 category: Events
 
 ---
 
-Thursday 24th of March 2016
+Wednesday 27th of April 2016
 <br>
-Andreas Antonopoulos
+Manfred Karrer
 <br>
-Mastering Bitcoin
-<br>
+Bitsquare Beta Launch
+ <br>
 
-@19.00, IAAC Auditorium
+@19.30, IAAC Auditorium
 <br>
 Open to the Public
 <br>
@@ -27,8 +27,12 @@ Open to the Public
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/andreas_antonopoulos.jpg" align="middle"> </img></ul>
 
-Andreas M. Antonopoulos is a technologist and serial entrepreneur who has become one of the most well-known and well-respected figures in bitcoin. He is the author of “Mastering Bitcoin”, published by O’Reilly Media and considered by many to be the best technical guide to bitcoin.
-As an engaging public speaker, teacher and writer, Andreas makes complex subjects accessible and easy to understand. As an advisor, he helps startups recognize, evaluate, and navigate security and business risks. As a bitcoin entrepreneur, Andreas has founded a number of bitcoin businesses and launched several community open-source projects. He is a widely published author of articles and blog posts on bitcoin, is a permanent host on the popular Let’s Talk Bitcoin Podcast, and a frequent speaker at technology and security conferences worldwide.
+
+
+Manfred Karrer, an Austrian software developer who lives in Barcelona, is working on Bitsquare since early 2014. In the search for becoming active in the Bitcoin field he tried to find a solution for something what most people said it is impossible: A decentralized Bitcoin-Fiat exchange. After a few months of research he started to implement a prototype which has evolved later into a fully functional trading application.<br>
+<br>
+
+His professional background is more on UI development and online games. He studied computer science, social anthropology and music. The social and political dimension of Bitcoin and cryptocurrencies is that what interests him most. This presentation will cover the questions why a decentralized Bitcoin exchange is needed and how to build it. It will focus on the political and conceptual aspects and will give a short demo of the software.
 
 
 
