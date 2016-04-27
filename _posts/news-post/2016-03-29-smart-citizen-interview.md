@@ -2,7 +2,7 @@
 
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/smartcitizenkithand.jpg
+teaserlatest: blog_loop_latest/smartcitizensmall.png
 teaserlist: blog_loop_latest/smartcitizenkithand.jpg
 title: Discover everything about Smart Citizen
 meta: The N.I.C.E. Award promotes innovations through culture and creative industries into the wider economy and society to tackle the major challenges of our future today. For 2015's edition, N.I.C.E. Award interviewed the Smart Citizen's crew.
