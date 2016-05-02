@@ -2,8 +2,8 @@
 
 layout: blog_post
 type: event
-teaserlatest: blog_loop_latest/manfredsmall.png
-teaserlist: blog_loop_latest/manfred-karrer-799x1024.jpg
+teaserlatest: blog_loop_latest/popkalabsmall.png
+teaserlist: blog_loop_latest/Ricardo_Onascimiento-798x1024.jpg
 title: Lecture by Ricardo O’Nascimento "Popkalab"
 meta: Friday, May 6th, Manfred Karrer will offer a lecture on POPKALAB: a design/research studio focused on innovation on the field of wearable technology
 author: Maria Ustarroz
