@@ -1,7 +1,7 @@
 ---
 
 layout: blog_post
-type: blog
+type: event
 teaserlatest: blog_loop_latest/designcity1-01.png
 teaserlist: blog_loop_latest/makingsenseworkshop.png
 title: Design & The City conference // Making Sense Workshop
