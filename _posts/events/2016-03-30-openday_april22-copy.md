@@ -1,7 +1,7 @@
 ---
 
 layout: blog_post
-type: blog
+type: event
 teaserlatest: blog_loop_latest/openday_abril_22.jpg
 teaserlist: blog_loop_latest/openday_abril_22.jpg
 title: Open Day // April 22nd
