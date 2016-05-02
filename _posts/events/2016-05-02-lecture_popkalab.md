@@ -4,20 +4,20 @@ layout: blog_post
 type: event
 teaserlatest: blog_loop_latest/manfredsmall.png
 teaserlist: blog_loop_latest/manfred-karrer-799x1024.jpg
-title: Lecture by Manfred Karrer "Bitsquare Beta Launch"
-meta: Wednesday, March 27th, Manfred Karrer will offer a lecture on Bitsquare Beta and will give a short demo of the software"
+title: Lecture by Ricardo O’Nascimento "Popkalab"
+meta: Friday, May 6th, Manfred Karrer will offer a lecture on Bitsquare Beta and will give a short demo of the software"
 author: Maria Ustarroz
 date: 20/03/2016
 category: Events
 
 ---
 
-Wednesday 27th of April 2016
+Friday 6th of May 2016
 <br>
-Manfred Karrer
+Ricardo O’Nascimento
 <br>
-Bitsquare Beta Launch
- <br>
+Popkalab
+<br>
 
 @19.30, IAAC Auditorium
 <br>
@@ -29,10 +29,18 @@ Open to the Public
 
 
 
-Manfred Karrer, an Austrian software developer who lives in Barcelona, is working on Bitsquare since early 2014. In the search for becoming active in the Bitcoin field he tried to find a solution for something what most people said it is impossible: A decentralized Bitcoin-Fiat exchange. After a few months of research he started to implement a prototype which has evolved later into a fully functional trading application.<br>
+
+Ricardo O’Nascimento is an artist and researcher on the field of new media and interactive art. He investigates body-environment relations focused on interface development for worn devices, interactive installations and hybrid environments. He is the founder of POPKALAB – a design/research studio focused on innovation on the field of wearable technology.<br>
 <br>
 
-His professional background is more on UI development and online games. He studied computer science, social anthropology and music. The social and political dimension of Bitcoin and cryptocurrencies is that what interests him most. This presentation will cover the questions why a decentralized Bitcoin exchange is needed and how to build it. It will focus on the political and conceptual aspects and will give a short demo of the software.
+He holds degree from PUC – SP , SENAC – SP and the University of Arts and Industrial Design Linz at the Interface Culture Department. Currently he works in his studio and teaches at some places. He receive awards including CYNETART award 2012 and Rumos Arte Cibernética. His works have been featured in several museums, galleries and art festivals like Ars Electronica, FILE, LABoral, V2, Instituto Itaú Cultural, Soft Galleri, Transmediale and MAC – Coruña, among others. Ricardo is one of the artists in residency in the framework of the EU project Madeat.eu.
+
+
+
+
+<br>
+
+
 
 
 
