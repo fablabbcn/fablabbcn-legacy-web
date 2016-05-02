@@ -25,7 +25,7 @@ Open to the Public
 <br>
 
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/manfred-karrer-799x1024.jpg" align="middle"> </img></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/Ricardo_Onascimiento-798x1024.jpg" align="middle"> </img></ul>
 
 
 
