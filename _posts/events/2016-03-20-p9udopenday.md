@@ -22,8 +22,7 @@ A partir de las 16h y hasta las 19h, IaaC y Fab Lab Barcelona abrimos las puerta
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/portada-od-2-640x905.jpg" align="middle"> </img></ul>
 
-<a
-
+<a name="spanish"></a>
 
 
 
