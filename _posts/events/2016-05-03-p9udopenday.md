@@ -17,13 +17,17 @@ category: Events
 
 <br>
 Poblenou Urban District se prepara para recibir la cuarta edición del Poblenou Open Day, una jornada de puertas abiertas que invita a conocer algunos de los espacios y proyectos más emblemáticos del distrito del arte y la creatividad de Barcelona. La cita tendrá lugar el 7 de mayo, de 12h a 20h en todo el barrio de Poblenou.<br>
-
-A partir de las 16h y hasta las 19h, IaaC y Fab Lab Barcelona abrimos las puertas al barrio para que podáis conocer y probar nuestras actividades, proyectos y máquinas. Organizaremos visitas guiadas cada hora y, además, podréis disfrutar de demos en vivo de diferentes herramientas de fabricación digital disponibles en el Lab. ¿Te lo vas a perder?
-
+<br>
+A partir de las 16h y hasta las 19h, IaaC y Fab Lab Barcelona abrimos las puertas al barrio para que podáis conocer y probar nuestras actividades, proyectos y máquinas. Organizaremos visitas guiadas cada hora y, además, podréis disfrutar de demos en vivo de diferentes herramientas de fabricación digital disponibles en el Lab. ¿Te lo vas a perder? <br>
+<br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/portada-od-2-640x905.jpg" align="middle"> </img></ul>
 
 <a name="spanish"></a>
-
+<br>
+Poblenou Urban District is getting ready to celebrate Open Day’s fourth edition, an all-day long activity that invites people to meet some of the most emblematic spaces and projects of Barcelona’s art and creativity district. The date is May 7th from 12h to 20h.<br>
+<br>
+From 16h to 19h, IaaC and Fab Lab Barcelona will open our doors for you to visit us and know our activities, projects and machines. We organize guided visits each our and you will also enjoy live demos of the Lab's digital fabrication tools. Don't miss out!<br>
+<br>
 
 
 
