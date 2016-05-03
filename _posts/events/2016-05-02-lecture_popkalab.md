@@ -1,7 +1,7 @@
 ---
 
 layout: blog_post
-type: event
+type:event
 teaserlatest: blog_loop_latest/popkalabsmall.png
 teaserlist: blog_loop_latest/Ricardo_Onascimiento-798x1024.jpg
 title: "Lecture by Ricardo O’Nascimento - Popkalab"
