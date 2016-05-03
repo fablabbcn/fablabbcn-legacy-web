@@ -12,20 +12,9 @@ category: Events
 
 ---
 
-Thursday 24th of March 2016
-<br>
-Andreas Antonopoulos
-<br>
-Mastering Bitcoin
-<br>
+Poblenou Urban District se prepara para recibir la cuarta edición del Poblenou Open Day, una jornada de puertas abiertas que invita a conocer algunos de los espacios y proyectos más emblemáticos del distrito del arte y la creatividad de Barcelona. La cita tendrá lugar el 7 de mayo, de 12h a 20h.
 
-@19.00, IAAC Auditorium
-<br>
-Open to the Public
-<br>
-
-
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/andreas_antonopoulos.jpg" align="middle"> </img></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/portada-od-2-640x905.jpg" align="middle"> </img></ul>
 
 Andreas M. Antonopoulos is a technologist and serial entrepreneur who has become one of the most well-known and well-respected figures in bitcoin. He is the author of “Mastering Bitcoin”, published by O’Reilly Media and considered by many to be the best technical guide to bitcoin.
 As an engaging public speaker, teacher and writer, Andreas makes complex subjects accessible and easy to understand. As an advisor, he helps startups recognize, evaluate, and navigate security and business risks. As a bitcoin entrepreneur, Andreas has founded a number of bitcoin businesses and launched several community open-source projects. He is a widely published author of articles and blog posts on bitcoin, is a permanent host on the popular Let’s Talk Bitcoin Podcast, and a frequent speaker at technology and security conferences worldwide.
