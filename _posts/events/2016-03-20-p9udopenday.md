@@ -6,8 +6,8 @@ teaserlatest: blog_loop_latest/opendaysmall.png
 teaserlist: blog_loop_latest/portada-od-2-640x905.jpg
 title: Join us for Poblenou Urban District Open Day!
 meta: Next Saturday, May 7th, IaaC and Fab Lab Barcelona will be open to the public for the Poblenou Urban District Open Day. It will be plenty of activities from 16h to 19h.
-author: Luciana Asinari
-date: 20/03/2016
+author: Maria Ustarroz
+date: 03/05/2016
 category: Events
 
 ---
