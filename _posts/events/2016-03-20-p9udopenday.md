@@ -5,7 +5,7 @@ type: event
 teaserlatest: blog_loop_latest/antopoulossmall.png
 teaserlist: blog_loop_latest/andreas_antonopoulos_small.jpg
 title: Join us for Poblenou Urban District Open Day!
-meta: Next Thursday, March 24th, Andreas Antonopoulos will offer a lecture on Mastering Bitcoin, "Thoughts on the future of Money"
+meta: Next Saturday, May 7th, IaaC and Fab Lab Barcelona will be open to the public for the Poblenou Urban District Open Day. It will be plenty of activities from 16h to 19h.
 author: Luciana Asinari
 date: 20/03/2016
 category: Events
