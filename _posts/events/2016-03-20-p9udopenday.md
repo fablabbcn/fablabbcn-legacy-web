@@ -4,7 +4,7 @@ layout: blog_post
 type: event
 teaserlatest: blog_loop_latest/antopoulossmall.png
 teaserlist: blog_loop_latest/andreas_antonopoulos_small.jpg
-title: Lecture by Andreas Antonopoulos "Mastering Bitcoin"
+title: Join us for Poblenou Urban District Open Day!
 meta: Next Thursday, March 24th, Andreas Antonopoulos will offer a lecture on Mastering Bitcoin, "Thoughts on the future of Money"
 author: Luciana Asinari
 date: 20/03/2016
