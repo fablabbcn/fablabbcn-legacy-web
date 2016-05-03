@@ -12,12 +12,19 @@ category: Events
 
 ---
 
-Poblenou Urban District se prepara para recibir la cuarta edición del Poblenou Open Day, una jornada de puertas abiertas que invita a conocer algunos de los espacios y proyectos más emblemáticos del distrito del arte y la creatividad de Barcelona. La cita tendrá lugar el 7 de mayo, de 12h a 20h.
+
+<h4><a href="#spanish"> Here you can read this post in English.</a> <br></h4>
+
+<br>
+Poblenou Urban District se prepara para recibir la cuarta edición del Poblenou Open Day, una jornada de puertas abiertas que invita a conocer algunos de los espacios y proyectos más emblemáticos del distrito del arte y la creatividad de Barcelona. La cita tendrá lugar el 7 de mayo, de 12h a 20h en todo el barrio de Poblenou.<br>
+
+A partir de las 16h y hasta las 19h, IaaC y Fab Lab Barcelona abrimos las puertas al barrio para que podáis conocer y probar nuestras actividades, proyectos y máquinas. Organizaremos visitas guiadas cada hora y, además, podréis disfrutar de demos en vivo de diferentes herramientas de fabricación digital disponibles en el Lab. ¿Te lo vas a perder?
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/portada-od-2-640x905.jpg" align="middle"> </img></ul>
 
-Andreas M. Antonopoulos is a technologist and serial entrepreneur who has become one of the most well-known and well-respected figures in bitcoin. He is the author of “Mastering Bitcoin”, published by O’Reilly Media and considered by many to be the best technical guide to bitcoin.
-As an engaging public speaker, teacher and writer, Andreas makes complex subjects accessible and easy to understand. As an advisor, he helps startups recognize, evaluate, and navigate security and business risks. As a bitcoin entrepreneur, Andreas has founded a number of bitcoin businesses and launched several community open-source projects. He is a widely published author of articles and blog posts on bitcoin, is a permanent host on the popular Let’s Talk Bitcoin Podcast, and a frequent speaker at technology and security conferences worldwide.
+<a
+
+
 
 
 
