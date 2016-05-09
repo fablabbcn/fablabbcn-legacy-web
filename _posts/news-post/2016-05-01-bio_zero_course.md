@@ -13,9 +13,13 @@ category: program
 
 
 Course: Biology Zero course
+<br>
 Dates: July 25th to  Aug 5th 2016
+<br>
 Where: Green Fab Lab
+<br>
 Price: 650 Euros 
+<br>
 Accommodation: Options to stay onsite during week days are available by arrangement.
 <br>
 <br>
