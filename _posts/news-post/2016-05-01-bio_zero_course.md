@@ -6,7 +6,7 @@ teaserlist: blog_loop_latest/biozero_small.jpg
 title: "Biology Zero Course // Open for Registration"
 meta: "An immersive study into the basics of biology, delivering knowledge of methodology and the instruments needed to become a citizen scientist." 
 author: Luciana Asinari
-date: 2016/09/05
+date: 01/05/2016
 category: program
 ---
 
