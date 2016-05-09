@@ -1,3 +1,4 @@
+---
 layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/biozero_small.jpg
@@ -7,7 +8,7 @@ meta: An immersive study into the basics of biology, delivering knowledge of met
 author: Luciana Asinari
 date: 2016/09/05
 category: program
-
+---
 
 
 
