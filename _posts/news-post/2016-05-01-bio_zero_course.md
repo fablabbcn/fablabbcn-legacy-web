@@ -38,6 +38,7 @@ The course is also a valuable preparation for those who wish to take the **[“B
 
 **[“APPLY HERE”](http://fabacademy.org/machform/view.php?id=18871)**
 <br>
+More info **[“HERE”](http://greenfablab.org/bio-zero/)**
 <br>
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/biozero_web.jpg" align="middle"> </img></ul>
