@@ -41,5 +41,5 @@ The course is also a valuable preparation for those who wish to take the **[“B
 More info **[“HERE”](http://greenfablab.org/bio-zero/)**
 <br>
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/biozero_web.jpg" align="middle"> </img></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/biozero_web.png" align="middle"> </img></ul>
 
