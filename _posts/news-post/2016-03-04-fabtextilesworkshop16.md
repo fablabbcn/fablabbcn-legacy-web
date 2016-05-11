@@ -57,6 +57,7 @@ Los participantes también hicieron su propia **[Taska Bag](https://fabtextiles.
 <br>
 Podéis encotrar más información y fotografías en la web de **[Fab Textiles](https://fabtextiles.org/)**
 
+
 <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/header_fablabbcn.jpg">
 
 
