@@ -24,7 +24,7 @@ The experts worked in the Fab City manifesto in Amsterdam Makerversity and Fab C
 
 A worldwide network is working out the concept of locally productive and globally connected cities: a Fab City. Fab City is a new urban model for self-sufficient cities in which citizens are empowered. To become a Fab City requires having a more precise knowledge of the way cities work. Which steps should be taken now to make our cities more resilient to future challenges? 
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/will join?" align="middle"> </img></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/dsc_8230.png" align="middle"> </img></ul>
 
 
 
