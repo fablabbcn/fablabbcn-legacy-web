@@ -17,9 +17,14 @@ category: program
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcitybarcelona.jpg" align="middle"> </img></ul>
 
 dsc_8463.png
-dsc_8621.png
 
 20th of April took place the first Fab City Summit with an Expert Meeting in the morning and a Public Dialogue in the evening. 
+
+The experts worked in the Fab City manifesto in Amsterdam Makerversity and Fab City Campus, and showed some of the results at Park Huis de Zwiger.
+
+dsc_8621.png
+
+Making Sense project was presented and on Friday there was a really interesting project about sensing and the city.
 
 
 A worldwide network is working out the concept of locally productive and globally connected cities: a Fab City. Fab City is a new urban model for self-sufficient cities in which citizens are empowered. Amsterdam will join this network too. To become a Fab City requires having a more precise knowledge of the way cities work. Which steps should be taken now to make our cities more resilient to future challenges? 
