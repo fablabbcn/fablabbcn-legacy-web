@@ -19,7 +19,7 @@ category: program
 
 20th of April took place the first Fab City Summit with an Expert Meeting in the morning and a Public Dialogue in the evening. 
 
-The experts worked in the Fab City manifesto in Amsterdam Makerversity and Fab City Campus, and showed some of the results at Park Huis de Zwiger. debating and presenting the Fab City white paper.
+The experts worked in the Fab City manifesto in Amsterdam Makerversity and Fab City Campus, and showed some of the conclusions at Park Huis de Zwiger. 
 
 dsc_8621.png
 
