@@ -6,7 +6,7 @@ teaserlist: blog_loop_latest/fabcitydoor.png
 title: Amsterdam joins the Fab City iniciative
 meta: "The First Fab City Summit took place from 20th to 22nd of April in Amsterdam and the city joined the global iniciative"
 author: Maria Ustarroz
-date: 02/05/2016
+date: 12/05/2016
 category: news
 ---
 
