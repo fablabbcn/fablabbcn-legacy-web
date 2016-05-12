@@ -16,6 +16,9 @@ category: program
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcitybarcelona.jpg" align="middle"> </img></ul>
 
+dsc_8463.png
+dsc_8621.png
+
 20th of April took place the first Fab City Summit with an Expert Meeting in the morning and a Public Dialogue in the evening. 
 
 
