@@ -23,7 +23,7 @@ The experts worked in the Fab City manifesto in Amsterdam Makerversity and Fab C
 
 dsc_8621.png
 
-Making Sense project was presented and on Friday there was a really interesting project about sensing and the city.
+Making Sense project was presented and on Friday 22nd there was a really interesting project about sensing and the city.
 
 
 A worldwide network is working out the concept of locally productive and globally connected cities: a Fab City. Fab City is a new urban model for self-sufficient cities in which citizens are empowered. Amsterdam will join this network too. To become a Fab City requires having a more precise knowledge of the way cities work. Which steps should be taken now to make our cities more resilient to future challenges? 
