@@ -18,6 +18,11 @@ category: program
 
 The first Fab City Summit took place last April 20th with an Expert Meeting&nbsp; followed by a Public Dialogue. The experts worked in the Fab City manifesto in Amsterdam Makerversity and Fab City Campus, and showed some of the conclusions at Park Huis de Zwiger.
 
+
+#### Making Sense project was presented at Pakhuis de Zwijger last 21st April and on Friday 22nd there was a really interesting workshop about sensing and the city.
+
+Mel Woods, Mara Balestrini, Tomas Diez and Alexandre P&oacute;lvora collaborate in the project Making Sense, a research project with focus on the question how open source software, open source hardware, digital maker practices and open design can be used by local communities to make sense of their environments. It will develop a Making Sense Toolkit based on the Smart Citizen platform for bottom up citizen science, developed at Fablab Barcelona. The toolkit will be developed and tested in nine pilots in Amsterdam, Barcelona and Pristina.
+
 ![](http://www.fablabbcn.org/img/blog/blog_loop_latest/dsc_8463.png)
 
 A worldwide network is working out the concept of locally productive and globally connected cities: a Fab City. Fab City is a new urban model for self-sufficient cities in which citizens are empowered. To become a Fab City requires having a more precise knowledge of the way cities work.
