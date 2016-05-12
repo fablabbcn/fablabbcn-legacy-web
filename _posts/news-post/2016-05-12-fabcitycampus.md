@@ -33,7 +33,7 @@ The answer is: yes! Finally, Amsterdam joined the Fab City pledge, so today ther
 
 ![](http://www.fablabbcn.org/img/blog/blog_loop_latest/dsc_8262.png)
 
-From left to right: Tomas Diez, Director of Fab City Research Lab and IAAC | Fab Lab Barcelona; Marleen Stikker, Director and Co-founder of Waag Society; Frank Kresin, Research Director at Waag Society, Kajsa Ollongren, Amsterdam Alderman of Economic Affairs; Egbert Fransen, Director of Pakhuis de Zwijger and Vicente Guallart, IAAC co-founder.
+From left to right: Tomas Diez, Director of Fab City Research Lab and Fab Lab Barcelona; Marleen Stikker, Director and Co-founder of Waag Society; Frank Kresin, Research Director at Waag Society, Kajsa Ollongren, Amsterdam Alderman of Economic Affairs; Egbert Fransen, Director of Pakhuis de Zwijger and Vicente Guallart, IAAC co-founder.
 
 
 
