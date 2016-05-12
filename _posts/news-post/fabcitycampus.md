@@ -14,9 +14,8 @@ category: program
 <h4><a href="#spanish"> Aquí puedes leer la notícia en castellano.</a> <br>
 <a href="#spanish"> Here you can read this post in Spanish.</a> <br></h4>
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcitybarcelona.jpg" align="middle"> </img></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/dsc_8463.png" align="middle"> </img></ul>
 
-dsc_8463.png
 
 20th of April took place the first Fab City Summit with an Expert Meeting in the morning and a Public Dialogue in the evening. 
 
