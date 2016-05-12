@@ -22,6 +22,9 @@ category: program
 
 ![](http://www.fablabbcn.org/img/blog/blog_loop_latest/dsc_8621.png)
 
+The first Fab City Summit took place last April 20th with an Expert Meeting&nbsp; followed by a Public Dialogue. The experts worked in the Fab City manifesto in Amsterdam Makerversity and Fab City Campus, and showed some of the conclusions at Park Huis de Zwiger.
+
+
 Mel Woods, Mara Balestrini, Tomas Diez and Alexandre P&oacute;lvora collaborate in the project Making Sense, a research project with focus on the question how open source software, open source hardware, digital maker practices and open design can be used by local communities to make sense of their environments. It will develop a Making Sense Toolkit based on the Smart Citizen platform for bottom up citizen science, developed at Fablab Barcelona. The toolkit will be developed and tested in nine pilots in Amsterdam, Barcelona and Pristina.
 
 ![](http://www.fablabbcn.org/img/blog/blog_loop_latest/dsc_8574.png)
