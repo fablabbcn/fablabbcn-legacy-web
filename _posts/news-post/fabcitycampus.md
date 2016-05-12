@@ -21,7 +21,8 @@ category: program
 
 The experts worked in the Fab City manifesto in Amsterdam Makerversity and Fab City Campus, and showed some of the conclusions at Park Huis de Zwiger. 
 
-dsc_8621.png
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/dsc_8621.png" align="middle"> </img></ul>
+
 
 Making Sense project was presented and on Friday 22nd there was a really interesting project about sensing and the city.
 
