@@ -36,5 +36,4 @@ A worldwide network is working out the concept of locally productive and globall
 From left to right: Tomas Diez, Director of Fab City Research Lab and Fab Lab Barcelona; Marleen Stikker, Director and Co-founder of Waag Society; Frank Kresin, Research Director at Waag Society, Kajsa Ollongren, Amsterdam Alderman of Economic Affairs; Egbert Fransen, Director of Pakhuis de Zwijger and Vicente Guallart, IAAC co-founder.
 
 
-
 ---
