@@ -11,9 +11,6 @@ category: news
 ---
 
 
-#### [Aqu&iacute; puedes leer la not&iacute;cia en castellano.](#spanish)<br>
-<br>[Here you can read this post in Spanish.](#spanish)
-<br>
 
 
 ![](http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcitydoor.png)
