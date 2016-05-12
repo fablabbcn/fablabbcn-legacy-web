@@ -22,16 +22,22 @@ category: program
 
 The experts worked in the Fab City manifesto in Amsterdam Makerversity and Fab City Campus, and showed some of the conclusions at Park Huis de Zwiger. 
 
+A worldwide network is working out the concept of locally productive and globally connected cities: a Fab City. Fab City is a new urban model for self-sufficient cities in which citizens are empowered. To become a Fab City requires having a more precise knowledge of the way cities work. Which steps should be taken now to make our cities more resilient to future challenges? 
+
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/will join?" align="middle"> </img></ul>
+
+
 
 
 Making Sense project was presented and on Friday 22nd there was a really interesting project about sensing and the city.
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/dsc_8621.png" align="middle"> </img></ul>
 
+Mel Woods, Mara Balestrini, Tomas Diez and Alexandre Pólvora collaborate in the project Making Sense, a research project with focus on the question how open source software, open source hardware, digital maker practices and open design can be used by local communities to make sense of their environments. It will develop a Making Sense Toolkit based on the Smart Citizen platform for bottom up citizen science, developed at Fablab Barcelona. The toolkit will be developed and tested in nine pilots in Amsterdam, Barcelona and Pristina.
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/dsc_8574.png" align="middle"> </img></ul>
 
-A worldwide network is working out the concept of locally productive and globally connected cities: a Fab City. Fab City is a new urban model for self-sufficient cities in which citizens are empowered. Amsterdam will join this network too. To become a Fab City requires having a more precise knowledge of the way cities work. Which steps should be taken now to make our cities more resilient to future challenges? 
+
 
 
 Cities are where most of the planet’s population now live, and they offer the best opportunity to effect practical change at scale, and in a context to which people can relate. Cities are at the heart of addressing the social and environmental challenges of the 21st century. The Fab City is a global project to develop locally productive, self-sufficient and globally connected cities; it comprises an international think tank of civic leaders, fab lab champions, makers, urbanists and innovators working on changing paradigm of the current industrial economy where the city operates on a linear model of importing products and producing waste.
