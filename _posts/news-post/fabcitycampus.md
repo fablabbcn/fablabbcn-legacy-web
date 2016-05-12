@@ -24,6 +24,8 @@ A worldwide network is working out the concept of locally productive and globall
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/dsc_8230.png" align="middle"> </img></ul>
 
+Finally, Amsterdam joined the Fab City pledge! Today there's nine cities that joined this global iniciative: Barcelona, Boston, Somerville, Cambridge, Ekurhuleni, Kerala, Georgia, Shenzhen and, now, Amsterdam.
+
 
 <h4>Making Sense project was presented and on Friday 22nd there was a really interesting project about sensing and the city.</h4>
 
