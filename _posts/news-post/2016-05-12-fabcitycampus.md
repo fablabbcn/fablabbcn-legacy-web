@@ -18,7 +18,6 @@ category: program
 
 ![](http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcitydoor.png)
 
-#### Making Sense project was presented at Pakhuis de Zwijger last 21st April and on Friday 22nd there was a really interesting workshop about sensing and the city.
 
 ![](http://www.fablabbcn.org/img/blog/blog_loop_latest/dsc_8621.png)
 
