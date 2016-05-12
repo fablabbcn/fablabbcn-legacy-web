@@ -1,7 +1,7 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/fabcitycampussmall.jpg
+teaserlatest: blog_loop_latest/fabcitycampussmall.png
 teaserlist: blog_loop_latest/htgaa_small.jpg
 title: Fab City Summit and Making Sense in Amsterdam
 meta: "The First Fab City Summit and Making Sense Workshop took place from 20th to 22nd of April in Amsterdam's Fab City Campus, Makerversity and Pakhuis de Zwijger"
