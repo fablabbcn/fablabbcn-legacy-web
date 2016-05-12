@@ -27,7 +27,7 @@ A worldwide network is working out the concept of locally productive and globall
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/dsc_8230.png" align="middle"> </img></ul>
 
 
-Making Sense project was presented and on Friday 22nd there was a really interesting project about sensing and the city.
+<h4>Making Sense project was presented and on Friday 22nd there was a really interesting project about sensing and the city.</h4>
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/dsc_8621.png" align="middle"> </img></ul>
 
