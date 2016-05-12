@@ -17,7 +17,7 @@ category: news
 
 
 
-<h5>The first Fab City Summit took place last April 20th with an Expert Meeting&nbsp; followed by a Public Dialogue. The experts worked in the Fab City manifesto in Amsterdam Makerversity and Fab City Campus, and showed some of the conclusions at Park Huis de Zwiger.</h5>
+<h4>The first Fab City Summit took place last April 20th with an Expert Meeting&nbsp; followed by a Public Dialogue. The experts worked in the Fab City manifesto in Amsterdam Makerversity and Fab City Campus, and showed some of the conclusions at Park Huis de Zwiger.</h4>
 
 
 ![](http://www.fablabbcn.org/img/blog/blog_loop_latest/dsc_8463.png)
@@ -26,7 +26,7 @@ A worldwide network is working out the concept of locally productive and globall
 
 ![](http://www.fablabbcn.org/img/blog/blog_loop_latest/dsc_8230.png)
 
-<h5>The answer is: yes! Finally, Amsterdam joined the Fab City pledge, so today there's nine cities that joined this global iniciative: Barcelona, Boston, Somerville, Cambridge, Ekurhuleni, Kerala, Georgia, Shenzhen and Amsterdam.</h5>
+<h4>The answer is: yes! Finally, Amsterdam joined the Fab City pledge, so today there's nine cities that joined this global iniciative: Barcelona, Boston, Somerville, Cambridge, Ekurhuleni, Kerala, Georgia, Shenzhen and Amsterdam.</h4>
 
 ![](http://www.fablabbcn.org/img/blog/blog_loop_latest/dsc_8262.png)
 
