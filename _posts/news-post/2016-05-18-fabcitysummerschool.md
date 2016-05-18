@@ -33,7 +33,7 @@ Every jam’s location will select one or two Jammers, who will have direct acce
 <li>an EXHIBITION, where all the projects designed during Design Now will be presented in an exhibition in September, which will be included in the XXI Triennale’s program. Keynote Speakers will be invited to take part in the closing event and will talk about the theme of urban resilience+manufacturing.</li>
 
 
-<h4></h4>
+<h4><a href="http://design-now.org/application-form/">APPLY NOW</a></h4>
 
 
 ---
