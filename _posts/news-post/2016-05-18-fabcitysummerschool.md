@@ -4,7 +4,7 @@ type: event
 teaserlatest: blog_loop_latest/desingnowsmall.png
 teaserlist: blog_loop_latest/designnowsummerschool.png
 title: Design Now Program & Fab City Summer School Open Call!
-meta: ""
+meta: "This programme promoted by the School of Design at the Politecnico di Milano will select 40 participants for its Summer School and Exhibition, hurry up!"
 author: Maria Ustarroz
 date: 18/05/2016
 category: event
