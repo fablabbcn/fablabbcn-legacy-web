@@ -5,7 +5,7 @@ teaserlatest: blog_loop_latest/fabcitycampussmall.jpg
 teaserlist: blog_loop_latest/htgaa_small.jpg
 title: Making Sense Workshop in Amsterdam
 meta: "Making Sense project was presented at Pakhuis de Zwijger last 21st April and on Friday 22nd there was a really interesting workshop about sensing and the city."
-author: Luciana Asinari
+author: Maria Ustarroz
 date: 18/05/2016
 category: program
 ---
