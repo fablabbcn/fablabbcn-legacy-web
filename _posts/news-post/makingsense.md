@@ -11,12 +11,8 @@ category: program
 ---
 
 
-#### [Aqu&iacute; puedes leer la not&iacute;cia en castellano.](#spanish)<br>
-<br>[Here you can read this post in Spanish.](#spanish)
 <br>
 ![](http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcitydoor.png)
-
-The first Fab City Summit took place last April 20th with an Expert Meeting&nbsp; followed by a Public Dialogue. The experts worked in the Fab City manifesto in Amsterdam Makerversity and Fab City Campus, and showed some of the conclusions at Park Huis de Zwiger.
 
 
 #### Making Sense project was presented at Pakhuis de Zwijger last 21st April and on Friday 22nd there was a really interesting workshop about sensing and the city.
