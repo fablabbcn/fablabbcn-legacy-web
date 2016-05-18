@@ -1,7 +1,7 @@
 ---
 layout: blog_post
 type: event
-teaserlatest: blog_loop_latest/designnowsmall.png
+teaserlatest: blog_loop_latest/desingnowsmall.png
 teaserlist: blog_loop_latest/designnowsummerschool.png
 title: Design Now Program & Fab City Summer School Open Call!
 meta: ""
