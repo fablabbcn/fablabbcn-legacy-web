@@ -28,7 +28,7 @@ Design Now is a programme promoted by the <a href="http://www.design.polimi.it/?
 Every jam’s location will select one or two Jammers, who will have direct access to the Summer School.</li>
 <br>
 
-<li><strong>a SUMMER SCHOOL - “FAB City: Designing Products and Services for Urban Resilience through Manufacturing”</strong>, which will be concerned with the theme of urban resilience through distributed manufacturing in Fab Cities. It will take place from July 8th to July 16th at Politecnico di Milano’s School of Design and Polifactory, which will support the participants for the entire week. The 40 participants will be selected through two channels: 30 of them through the international Call and the remaining 10 through the jams. </li>
+<li><strong>a SUMMER SCHOOL - “FAB City: Designing Products and Services for Urban Resilience through Manufacturing”</strong>, which will be concerned with the theme of urban resilience through distributed manufacturing in Fab Cities. It will take place from July 8th to July 16th at Politecnico di Milano’s School of Design and Polifactory, <strong>which will support the participants for the entire week. The 40 participants will be selected through two channels: 30 of them through the international Call and the remaining 10 through the jams.</strong> </li>
 
 <br>
 <li><strong>an EXHIBITION</strong>, where all the projects designed during Design Now will be presented in an exhibition in September, which will be included in the XXI Triennale’s program. Keynote Speakers will be invited to take part in the closing event and will talk about the theme of urban resilience+manufacturing.</li>
