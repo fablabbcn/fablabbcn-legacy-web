@@ -17,20 +17,14 @@ category: program
 
 #### Making Sense project was presented at Pakhuis de Zwijger last 21st April and on Friday 22nd there was a really interesting workshop about sensing and the city.
 
-Mel Woods, Mara Balestrini, Tomas Diez and Alexandre P&oacute;lvora collaborate in the project Making Sense, a research project with focus on the question how open source software, open source hardware, digital maker practices and open design can be used by local communities to make sense of their environments. It will develop a Making Sense Toolkit based on the Smart Citizen platform for bottom up citizen science, developed at Fablab Barcelona. The toolkit will be developed and tested in nine pilots in Amsterdam, Barcelona and Pristina.
-
 ![](http://www.fablabbcn.org/img/blog/blog_loop_latest/dsc_8463.png)
 
-A worldwide network is working out the concept of locally productive and globally connected cities: a Fab City. Fab City is a new urban model for self-sufficient cities in which citizens are empowered. To become a Fab City requires having a more precise knowledge of the way cities work.
+Mel Woods, Mara Balestrini, Tomas Diez and Alexandre P&oacute;lvora collaborate in the project Making Sense, a research project with focus on the question how open source software, open source hardware, digital maker practices and open design can be used by local communities to make sense of their environments. It will develop a Making Sense Toolkit based on the Smart Citizen platform for bottom up citizen science, developed at Fablab Barcelona. The toolkit will be developed and tested in nine pilots in Amsterdam, Barcelona and Pristina.
 
 ![](http://www.fablabbcn.org/img/blog/blog_loop_latest/dsc_8230.png)
 
-The answer is: yes! Finally, Amsterdam joined the Fab City pledge, so today there's nine cities that joined this global iniciative: Barcelona, Boston, Somerville, Cambridge, Ekurhuleni, Kerala, Georgia, Shenzhen and Amsterdam.
+The Making Sense Workshop took place the 22nd of April in Amsterdam. First of all, experts in the field of participatory sensing delivered a comprehensive introduction and state of the art. Secondly, participants engaged in a hands-on exploration of citizen-driven measuring tools and strategies using a novel participatory sensing toolbox comprising maps, scenarios and technologies. Finally, the workshop concluded with a discussion on how we might critically deploy the imagined devices in scenarios of desired futures to achieve positive change, while negotiating and sharing concerns and challenges with policy makers.
 
 ![](http://www.fablabbcn.org/img/blog/blog_loop_latest/dsc_8262.png)
-
-From left to right: Tomas Diez, Director of Fab City Research Lab and IAAC | Fab Lab Barcelona; Marleen Stikker, Director and Co-founder of Waag Society; Frank Kresin, Research Director at Waag Society, Kajsa Ollongren, Amsterdam Alderman of Economic Affairs; Egbert Fransen, Director of Pakhuis de Zwijger and Vicente Guallart, IAAC co-founder.
-
-&nbsp;
 
 ---
