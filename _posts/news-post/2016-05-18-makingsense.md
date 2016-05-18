@@ -1,13 +1,13 @@
 ---
 layout: blog_post
-type: blog
+type: event
 teaserlatest: blog_loop_latest/makingsensesmall.png
 teaserlist: blog_loop_latest/dsc_8621.png
 title: Making Sense Workshop in Amsterdam
 meta: "Making Sense project was presented at Pakhuis de Zwijger last 21st April and on Friday 22nd there was a really interesting workshop about sensing and the city."
 author: Maria Ustarroz
 date: 18/05/2016
-category: program
+category: event
 ---
 
 
