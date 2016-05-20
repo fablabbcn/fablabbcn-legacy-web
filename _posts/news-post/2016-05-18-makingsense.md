@@ -12,9 +12,7 @@ category: event
 
 
 <br>
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/dsc_8574.png" align="middle"> </img></ul>
-
-![](http://www.fablabbcn.org/img/blog/blog_loop_latest/dsc_8574.png)
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/dsc_8574.jpg" align="middle"> </img></ul>
 
 #### Making Sense project was presented at Pakhuis de Zwijger last 21st April and on Friday 22nd there was a really interesting workshop about sensing and the city.
 
