@@ -2,7 +2,7 @@
 layout: blog_post
 type: event
 teaserlatest: blog_loop_latest/makingsensesmall.png
-teaserlist: blog_loop_latest/dsc_8621.png
+teaserlist: blog_loop_latest/imprimida_noumena_cover.jpg
 title: Making Sense Workshop in Amsterdam
 meta: "Making Sense project was presented at Pakhuis de Zwijger last 21st April and on Friday 22nd there was a really interesting workshop about sensing and the city."
 author: Maria Ustarroz
@@ -15,7 +15,7 @@ category: event
 <h4>Advanced manufacturing is transforming the production methods for artists and creators. 3D printers, code, CNC machines and robots are not only changing how we work, live and play, but they reshaping the processes and interactions between artists and technologies, and how this new mediation between machine and humans is making the process as important as the end work, all becoming a whole.</h4>
 
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/dsc_8659.png" align="middle"> </img></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/imprimida_noumena_cover.jpg" align="middle"> </img></ul>
 
 
 <strong>IN(3D)USTRY From Needs to Solutions, Sonar+D and IAAC</strong> are launching an open call for artists, makers and designers to participate in a 8 days workshop and further exhibition in Barcelona with experts from the field of digital fabrication and computational design in order to explore the limits of art production in our times. This 8 day workshop will be held during the Sonar+D June 16th to 18th 2016 and during IN(3D)USTRY Maker Pro exhibition from June 21st to 23rd  2016. All participants will have access to one SONAR Full Delegate pass and Full Delegate Pass for IN(3D)USTRY From Needs to Solutions event and to all the production means to make their work real.<br>
