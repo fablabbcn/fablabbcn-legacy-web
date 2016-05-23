@@ -3,10 +3,10 @@ layout: blog_post
 type: event
 teaserlatest: blog_loop_latest/makingsensesmall.png
 teaserlist: blog_loop_latest/imprimida_noumena_cover.jpg
-title: Making Sense Workshop in Amsterdam
-meta: "Making Sense project was presented at Pakhuis de Zwijger last 21st April and on Friday 22nd there was a really interesting workshop about sensing and the city."
+title: Imprimida Workshop: 
+meta: "IN(3D)USTRY From Needs to Solutions, Sonar+D and IAAC</strong> are launching an open call for artists, makers and designers to participate in a 8 days workshop and further exhibition in Barcelona with experts from the field of digital fabrication and computational design in order to explore the limits of art production in our times."
 author: Maria Ustarroz
-date: 18/05/2016
+date: 23/05/2016
 category: event
 ---
 
