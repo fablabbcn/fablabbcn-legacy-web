@@ -4,7 +4,7 @@ type: event
 teaserlatest: blog_loop_latest/makingsensesmall.png
 teaserlist: blog_loop_latest/imprimida_noumena_cover.jpg
 title: Imprimida Workshop: 
-meta: "IN(3D)USTRY From Needs to Solutions, Sonar+D and IAAC</strong> are launching an open call for artists, makers and designers to participate in a 8 days workshop and further exhibition in Barcelona with experts from the field of digital fabrication and computational design in order to explore the limits of art production in our times."
+meta: "IN(3D)USTRY From Needs to Solutions, Sonar+D and IAAC are launching an open call for artists, makers and designers to participate in a 8 days workshop and further exhibition in Barcelona with experts from the field of digital fabrication and computational design in order to explore the limits of art production in our times."
 author: Maria Ustarroz
 date: 23/05/2016
 category: event
