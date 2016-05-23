@@ -34,6 +34,6 @@ The workshop will take place in 3 different places:<br>
 
 The workshop is open to all participants, no previous knowledge of Rhinoceros and Grasshopper is required (although an introductory knowledge is welcome). Participants should bring their own laptop with a pre-installed software.  The software package needed has no additional cost for the participant (Rhino can be downloaded as evaluation version, Grasshopper and plugins are free). These softwares are subject to frequent updates, so a download link to the version used in the workshop will be sent to the participants a few days before the workshop.<br>
 
-
+<a href="http://noumena.io/?page_id=13014">More info & tickets</a>
 
 ---
