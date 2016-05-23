@@ -1,7 +1,7 @@
 ---
 layout: blog_post
 type: event
-teaserlatest: blog_loop_latest/makingsensesmall.png
+teaserlatest: blog_loop_latest/imprimidasmall.png
 teaserlist: blog_loop_latest/imprimida_noumena_cover.jpg
 title: Don't miss Imprimida Workshop from 14th to 23rd June 
 meta: "IN(3D)USTRY From Needs to Solutions, Sonar+D and IAAC are launching an open call for artists, makers and designers to participate in a 8 days workshop and further exhibition in Barcelona with experts from the field of digital fabrication and computational design in order to explore the limits of art production in our times."
