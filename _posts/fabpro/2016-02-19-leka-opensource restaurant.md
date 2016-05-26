@@ -36,7 +36,7 @@ Thus, furniture construction system shares the same turn the dierent triangles o
 
 
 
-Leka es un restaurante desarrollado localmente en el barrio de Poblenou 22@ de Barcelona, es fabricado en Fab Lab Barcelona
+<i>Leka es un restaurante desarrollado localmente en el barrio de Poblenou 22@ de Barcelona, es fabricado en Fab Lab Barcelona
 
 (que también forma parte del barrio) y una red local de distribuidores y socios completan el proceso.
 
@@ -54,7 +54,7 @@ por cada familia; obteniendo sistemas exportables y originales. Este diseño se 
 
 cada familia. De esta forma el mobiliario comparte el mismo sistema constructivo, a su vez los distintos triángulos del techo y
 
-así sucesivamente.
+así sucesivamente.</i>
 
 
 
