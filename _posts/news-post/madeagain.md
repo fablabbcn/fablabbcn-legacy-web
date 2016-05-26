@@ -3,8 +3,8 @@ layout: blog_post
 type: event
 teaserlatest: blog_loop_latest/civiclab.png
 teaserlist: blog_loop_latest/fotogent.jpg
-title: Made Again
-meta: "How can enterpreneurs, makers, civic leaders and citizens come together with new projects? How collaborative economy is fundamentally linked to collaborative politics? How can civic tech help citizens to make public administration innovate in public policy? This and more is what Civic Lab is going to present next 31st of May at Fab Lab Barcelona."
+title: Made Again Conference
+meta: "A journey towards a more through DIGITAL and distributed production"
 author: Maria Ustarroz
 date: 26/05/2016
 category: event
