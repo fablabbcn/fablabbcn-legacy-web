@@ -4,7 +4,7 @@ type: event
 teaserlatest: blog_loop_latest/civiclab.png
 teaserlist: blog_loop_latest/fotogent.jpg
 title: Made Again Conference
-meta: "A journey towards a more through DIGITAL and distributed production"
+meta: "A journey towards a more circular economy through digital and distributed production"
 author: Maria Ustarroz
 date: 26/05/2016
 category: event
