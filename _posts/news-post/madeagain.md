@@ -49,11 +49,11 @@ SCHEDULE</h4>
 
 Introduction to the Fab City<br>
 Tomas Diez, Fab City Research Laboratory<br>
-IAAC - www.fab.city
+<a href="www.iaac.net">IAAC</a> - <a href="www.fablabbcn.org">Fab Lab Barcelona</a> - <a href="www.fab.city">Fab City</a>
 
 The Made Again project<br>
 Guillaume Charny-Brunet<br>
-Space 10 - www.space10.io
+<a href="www.space10.io">Space 10</a>  
 
 The rise of the Designer-Maker<br>
 Samuel Bernier<br>
