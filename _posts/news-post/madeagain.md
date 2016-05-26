@@ -47,36 +47,36 @@ view.
 SCHEDULE</h4>
 <br>
 
-Introduction to the Fab City<br>
+<b>Introduction to the Fab City<br></b>
 Tomas Diez, Fab City Research Laboratory<br>
-<a href="www.iaac.net">IAAC</a> - <a href="www.fablabbcn.org">Fab Lab Barcelona</a> - <a href="www.fab.city">Fab City</a>
-
-The Made Again project<br>
+<a href="www.iaac.net">IAAC</a> - <a href="www.fablabbcn.org">Fab Lab Barcelona</a> - <a href="www.fab.city">Fab City</a><br>
+<br>
+<b>The Made Again project<br></b>
 Guillaume Charny-Brunet<br>
-<a href="www.space10.io">Space 10</a>  
-
-The rise of the Designer-Maker<br>
+<a href="www.space10.io">Space 10</a>  <br>
+<br>
+<b>The rise of the Designer-Maker<br></b>
 Samuel Bernier<br>
-<a href="www.behance.net/samuelbernier">le FabShop</a> 
-
-Design decision making<br>
+<a href="www.behance.net/samuelbernier">le FabShop</a> <br>
+<br>
+<b>Design decision making<br></b>
 James Tooze<br>
-<a href="www.jamestooze.com">RCA</a>
-
-Open Making<br>
+<a href="www.jamestooze.com">RCA</a><br>
+<br>
+<b>Open Making<br></b>
 Joni Steiner<br>
-<a href="www.opendesk.cc">Open Desk</a>
-
-3d printing is changing
-the way we think about form<br>
+<a href="www.opendesk.cc">Open Desk</a><br>
+<br>
+<b>3d printing is changing
+the way we think about form<br></b>
 Francis Bitonti<br>
-<a href="www.francisbitonti.com">Francis Bitonti Studio</a>
-
-Parsimony, production
-and bio materials<br>
+<a href="www.francisbitonti.com">Francis Bitonti Studio</a><br>
+<br>
+<b>Parsimony, production
+and bio materials<br></b>
 Prisca Visbol
-<a href="www.priscavilsbol.com">Vilsbol de Arce</a>
-
+<a href="www.priscavilsbol.com">Vilsbol de Arce</a><br>
+<br>
 
 
 
