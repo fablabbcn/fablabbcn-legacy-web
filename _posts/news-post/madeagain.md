@@ -49,10 +49,6 @@ view.
 
 June 16th - 6pm to 8:30pm - at IAAC
 
-Text
-
-
-
 
 MADE AGAIN - opening conference
 
