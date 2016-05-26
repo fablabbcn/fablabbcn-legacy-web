@@ -15,9 +15,7 @@ category: event
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fotogent.jpg" align="middle"> </img></ul>
 
 
-<h4>A journey towards a
-more through DIGITAL and
-distributed production<br>
+<h4>A journey towards a more circular economy through digital and distributed production<br>
 
 Most stuff today are made in a very linear way. We
 take, make, and dispose. The assembly line has
