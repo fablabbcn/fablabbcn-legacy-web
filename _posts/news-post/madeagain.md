@@ -57,25 +57,25 @@ Space 10 - www.space10.io
 
 The rise of the Designer-Maker<br>
 Samuel Bernier<br>
-le FabShop - www.behance.net/samuelbernier
+<a href="www.behance.net/samuelbernier">le FabShop</a> 
 
 Design decision making<br>
 James Tooze<br>
-RCA - www.jamestooze.com
+<a href="www.jamestooze.com">RCA</a>
 
 Open Making<br>
 Joni Steiner<br>
-Open Desk - www.opendesk.cc
+<a href="www.opendesk.cc">Open Desk</a>
 
 3d printing is changing
 the way we think about form<br>
 Francis Bitonti<br>
-Francis Bitonti Studio - www.francisbitonti.com
+<a href="www.francisbitonti.com">Francis Bitonti Studio</a>
 
 Parsimony, production
 and bio materials<br>
 Prisca Visbol
-Vilsbol de Arce - www.priscavilsbol.com
+<a href="www.priscavilsbol.com">Vilsbol de Arce</a>
 
 
 
