@@ -1,0 +1,73 @@
+---
+layout: blog_post
+type: event
+teaserlatest: blog_loop_latest/civiclab.png
+teaserlist: blog_loop_latest/fotogent.jpg
+title: Civic Lab Launching Night
+meta: "How can enterpreneurs, makers, civic leaders and citizens come together with new projects? How collaborative economy is fundamentally linked to collaborative politics? How can civic tech help citizens to make public administration innovate in public policy? This and more is what Civic Lab is going to present next 31st of May at Fab Lab Barcelona."
+author: Maria Ustarroz
+date: 23/05/2016
+category: event
+---
+
+
+<h4>A public think tank in the heart of Barcelona</h4>
+
+Join the community of Civic Lab Barcelona, an online and offline platform that strives to spur interactive initiatives bridging civic tech(nologies) actors and the public arena. The idea is to federate lectures, pitches, debates but also workshops, hackathons and studios designed for the community to seize the tools to improve its political system. Civic Lab Barcelona is a transparent agora relying on knowledge sharing interactions. <br>
+<br>
+To present our initiative, we are launching an interactive event at FabLab Barcelona, starting off the conversation with other stimulating and inclusive platforms such as Fab Lab, as well as engaging guest speakers. Further, we will spark a debate revolving around social movements and the impulse of digital platforms to empower citizens. The conversation will be led by a panel of four organizations, namely X.net, Osoigo, Kuorum and Poletika each explaining the extent to which they bridge citizens and representants.<br>
+<br>
+In the spirit of fostering interactions, following the debate and Q&A, we will hold an informal networking session to break the distance and discuss with the speakers first hand around a chilled beer.<br>
+<br>
+Tag along on our adventure, and see you on the 31st! 
+
+
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fotogent.jpg" align="middle"> </img></ul>
+
+
+<h4>From ideas to concrete actions: How is the Civic Tech currently evolving?<br>
+<br>
+SCHEDULE</h4>
+<br>
+<strong>19:00 WELCOME
+
+<strong>FIRST PART </strong>
+
+<strong>Envisioning Civic Technologies</strong><br>
+
+The holistic approach to the use of technology for citizens to get a hold on public good.
+<br>
+<strong>19:15 CIVIC LAB TEAM</strong><br>
+
+Presenting Civic Tech through Civic Lab Barcelona : developing transversal collaborative politics through a mobilized community.<br>
+
+<strong>19:25 MAYO FUSTER MORELL </strong><br>
+
+Presenting Civic Tech through the inextricable link between (collaborative) politics and (collaborative) economy.
+
+<strong>19:35 TOMAS DIEZ</strong><br>
+
+Presenting Civic Tech through the City, the overarching structure in which Civic Tech is daily experimented (Smart Citizens, City Lab..)<br>
+
+From social movements (e.g. 15M) to the impulse of digital platforms to empower citizens.<br>
+
+<br>
+<strong>SECOND PART : Experimenting Civic Technologies</strong>
+
+<strong>19:45 X.net</strong><br>
+
+<strong>19:50 Osoigo</strong><br>
+
+<strong>19:55 Kuorum</strong><br>
+
+<strong>20:00 Poletika</strong><br>
+
+<strong>20:05 Q&A until </strong><br>
+<br>
+<strong>/// 20:30 Networking - beer and music</strong>
+
+
+<h4>JOIN US!</h4>
+
+
+---
