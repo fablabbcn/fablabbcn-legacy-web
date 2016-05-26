@@ -81,58 +81,7 @@ Prisca Visbol
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<strong>19:00 WELCOME
-
-<strong>FIRST PART </strong>
-
-<strong>Envisioning Civic Technologies</strong><br>
-
-The holistic approach to the use of technology for citizens to get a hold on public good.
-<br>
-<strong>19:15 CIVIC LAB TEAM</strong><br>
-
-Presenting Civic Tech through Civic Lab Barcelona : developing transversal collaborative politics through a mobilized community.<br>
-
-<strong>19:25 MAYO FUSTER MORELL </strong><br>
-
-Presenting Civic Tech through the inextricable link between (collaborative) politics and (collaborative) economy.
-
-<strong>19:35 TOMAS DIEZ</strong><br>
-
-Presenting Civic Tech through the City, the overarching structure in which Civic Tech is daily experimented (Smart Citizens, City Lab..)<br>
-
-From social movements (e.g. 15M) to the impulse of digital platforms to empower citizens.<br>
-
-<br>
-<strong>SECOND PART : Experimenting Civic Technologies</strong>
-
-<strong>19:45 X.net</strong><br>
-
-<strong>19:50 Osoigo</strong><br>
-
-<strong>19:55 Kuorum</strong><br>
-
-<strong>20:00 Poletika</strong><br>
-
-<strong>20:05 Q&A until </strong><br>
-<br>
-<strong>/// 20:30 Networking - beer and music</strong>
-
-
-<h4>JOIN US!</h4>
+<h4>Don't miss it!</h4>
 
 
 ---
