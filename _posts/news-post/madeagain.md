@@ -17,6 +17,12 @@ category: event
 
 <h4>A journey towards a more circular economy through digital and distributed production<br>
 
+
+Space10 and the Fab City Research Laboratory are launching a challenge for our designers and makers to reflect and act on how and why we make things. And as we feel such conversation deserves to be inclusive we’d like to invite you to join us at the Made Again Conference.<br>
+<br>
+The Made Again Conference is a series of short talks and big ideas, around design, digital fabrication, new materials, open source, distributed production, circular economy and more. We’ve gathered some of the brightest minds and best talents to share their stories and points of view.<br>
+
+<br>
 Most stuff today are made in a very linear way. We
 take, make, and dispose. The assembly line has
 helped construct a world of mass manufactured
@@ -40,6 +46,31 @@ view.
 
 
 
+
+June 16th - 6pm to 8:30pm - at IAAC
+
+Text
+
+
+
+
+MADE AGAIN - opening conference
+
+>The Made Again project - Guillaume Charny-Brunet, Space 10 (http://www.space10.io)
+
+ Introduction to the Fab City - Tomas Diez, Fab City Research Laboratory | IAAC (http://www.fab.city)
+
+ The rise of the Designer-Maker - Samuel Bernier, le FabShop (https://www.behance.net/samuelbernier)
+
+>Design decision making - James Tooze, RCA (http://www.jamestooze.com/)
+ 
+ Open Making - Joni Steiner, Open Desk (https://www.opendesk.cc/)
+
+  3d printing is changing the way we think about form - Francis Bitonti, Francis Bitonti Studio (http://www.francisbitonti.com/)
+
+ Parsimony, production and bio materials - Prisca Visbol, Vilsbol de Arce (https://priscavilsbol.com/)
+
+>Democratic Design - Hanna Dalrot and Mikael Axelsson. IKEA DESIGN
 
 <br>
 SCHEDULE</h4>
