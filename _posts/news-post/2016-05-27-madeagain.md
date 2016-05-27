@@ -81,7 +81,7 @@ and bio materials</b><br>
 Prisca Visbol<br>
 <a href="www.priscavilsbol.com">Vilsbol de Arce</a><br>
 <br>
-<b>Democratic Design <b><br>
+<b>Democratic Design </b><br>
 Hanna Dalrot and Mikael Axelsson<br>
 IKEA - Design Team<br>
 
