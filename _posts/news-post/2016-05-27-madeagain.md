@@ -66,19 +66,19 @@ Design decision making - James Tooze, RCA (http://www.jamestooze.com/)
 
  Parsimony, production and bio materials - Prisca Visbol, Vilsbol de Arce (https://priscavilsbol.com/)
 
-Democratic Design - Hanna Dalrot and Mikael Axelsson. IKEA DESIGN
+
 
 <br>
 SCHEDULE</h4>
 <br>
 
-<b>Introduction to the Fab City<br></b>
-Tomas Diez <br>
-<a href="www.iaac.net">IAAC</a> - <a href="www.fablabbcn.org">Fab Lab Barcelona</a> - <a href="www.fab.city">Fab City</a><br>
-<br>
 <b>The Made Again project<br></b>
 Guillaume Charny-Brunet<br>
 <a href="www.space10.io">Space 10</a>  <br>
+<br>
+<b>Introduction to the Fab City<br></b>
+Tomas Diez <br>
+<a href="www.iaac.net">IAAC</a> - <a href="www.fablabbcn.org">Fab Lab Barcelona</a> - <a href="www.fab.city">Fab City</a><br>
 <br>
 <b>The rise of the Designer-Maker<br></b>
 Samuel Bernier<br>
@@ -102,7 +102,9 @@ and bio materials<br></b>
 Prisca Visbol
 <a href="www.priscavilsbol.com">Vilsbol de Arce</a><br>
 <br>
-
+<b>Democratic Design <b><br>
+Hanna Dalrot and Mikael Axelsson
+IKEA DESIGN
 
 
 
