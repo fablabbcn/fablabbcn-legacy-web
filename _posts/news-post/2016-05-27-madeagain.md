@@ -48,8 +48,7 @@ view.
 
 
 <br>
-<h4>SCHEDULE<br>
-June 16th - 6pm to 8:30pm</h4><br>
+<h4>SCHEDULE - June 16th - 6pm to 8:30pm</h4><br>
 
 <b>The Made Again project</b><br>
 Guillaume Charny-Brunet<br>
