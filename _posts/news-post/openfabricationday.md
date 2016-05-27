@@ -1,7 +1,7 @@
 ---
 layout: blog_post
 type: event
-teaserlatest: blog_loop_latest/madeagainsmall.jpg
+teaserlatest: blog_loop_latest/eumakerweeksmall.jpg
 teaserlist: blog_loop_latest/madeagaincartel-01.png
 title: Open Fabrication Day!
 meta: "Come to IAAC|Fab Lab Barcelona and discover the "
