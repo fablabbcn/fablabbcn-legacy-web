@@ -1,8 +1,8 @@
 ---
 layout: blog_post
 type: event
-teaserlatest: blog_loop_latest/civiclab.png
-teaserlist: blog_loop_latest/fotogent.jpg
+teaserlatest: blog_loop_latest/.png
+teaserlist: blog_loop_latest/.jpg
 title: Made Again Conference
 meta: "A journey towards a more circular economy through digital and distributed production"
 author: Maria Ustarroz
@@ -12,7 +12,7 @@ category: event
 
 
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fotogent.jpg" align="middle"> </img></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/madeagaincartel-01.png" align="middle"> </img></ul>
 
 
 <h4>A journey towards a more circular economy through digital and distributed production<br>
