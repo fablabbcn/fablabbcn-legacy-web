@@ -50,7 +50,7 @@ El próximo viernes 3 de Junio, celebramos el European Maker Week Open Fabricati
 <ul>
 1.<a href="https://docs.google.com/forms/d/1MJAREBja3GWx8qnD0lgA_QXMdN3wVR_UNkfZn3Ms-sU/viewform?edit_requested=true"> Regístrate</a> <br>
 2.<a href="http://fablabbarcelona.simplybook.it/sheduler/manage/event/3/unit/1"> Reserva la máquina que quieres usar</a><br>
-3. Diseñar lo que quieras hacer y comprobar los ficheros:
+3. Diseña lo que quieras hacer y comprobar los ficheros:
 
 </ul>
 <br>
