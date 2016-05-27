@@ -40,9 +40,9 @@ Laser cuts: the thickness of the pieces must be between 0.1mm and 5mm<br>
 
 <i>
 <li>
-1.<a href="https://docs.google.com/forms/d/1MJAREBja3GWx8qnD0lgA_QXMdN3wVR_UNkfZn3Ms-sU/viewform?edit_requested=true">Regístrate</a> 
-2.<a href="http://fablabbarcelona.simplybook.it/sheduler/manage/event/3/unit/1">Reserva la máquina que quieres usar</a>
-3. Comprobar los ficheros:
+1.<a href="https://docs.google.com/forms/d/1MJAREBja3GWx8qnD0lgA_QXMdN3wVR_UNkfZn3Ms-sU/viewform?edit_requested=true">Regístrate</a> <br>
+2.<a href="http://fablabbarcelona.simplybook.it/sheduler/manage/event/3/unit/1">Reserva la máquina que quieres usar</a><br>
+3.Comprobar los ficheros:<br>
 
 </li>
 <br>
