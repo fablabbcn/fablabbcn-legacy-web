@@ -25,7 +25,8 @@ category: event
 
 Laser cuts:
 
-
+- format your file in .dxf
+- de 0.1mm a 5mm
 
 1.<a href="https://docs.google.com/forms/d/1MJAREBja3GWx8qnD0lgA_QXMdN3wVR_UNkfZn3Ms-sU/viewform?edit_requested=true">Regístrate</a> 
 2.<a href="http://fablabbarcelona.simplybook.it/sheduler/manage/event/3/unit/1">Reserva la máquina que quieres usar</a>
