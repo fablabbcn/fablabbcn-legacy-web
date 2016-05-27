@@ -28,10 +28,11 @@ Next June 3rd, join us for the European Maker Week Open Fabrication Day at Fab L
 - format your file in .dxf
 
 <br>
+<br>
 <b>3D prints: </b>the maximum dimensions of the pice must be 15cm x 15cm x 15cm
 
 -<a href="https://ultimaker.com/en/products/cura-software"> Download Cura</a><br>
--Save your .stl file to .gcode<br>
+- Save your .stl file to .gcode
 - Adjust the setting for standard PLA, as shown in the picture:
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/3dsettings.png" align="middle"> </img></ul>
