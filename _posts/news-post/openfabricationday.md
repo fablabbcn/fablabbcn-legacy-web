@@ -26,7 +26,10 @@ category: event
 Laser cuts: the thickness of the pieces must be between 0.1mm and 5mm
 
 - format your file in .dxf
-- de 0.1mm a 5mm
+
+
+
+<i>
 
 1.<a href="https://docs.google.com/forms/d/1MJAREBja3GWx8qnD0lgA_QXMdN3wVR_UNkfZn3Ms-sU/viewform?edit_requested=true">Regístrate</a> 
 2.<a href="http://fablabbarcelona.simplybook.it/sheduler/manage/event/3/unit/1">Reserva la máquina que quieres usar</a>
@@ -44,7 +47,7 @@ Para cortar a láser: el grosor de las piezas debe ser entre 0.1mm y 5mm
 
 - guarda tu archivo en formato .dxf
 
-
+</i>
 <br>
 <h4>Enjoy!</h4>
 
