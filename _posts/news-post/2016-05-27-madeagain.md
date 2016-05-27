@@ -85,10 +85,10 @@ Prisca Visbol<br>
 <br>
 <b>Democratic Design </b><br>
 Hanna Dalrot and Mikael Axelsson<br>
-IKEA - Design Team<br>
+<a href="http://www.ikea.com">IKEA</a> - Design Team<br>
 
 
-
+<br>
 <h4>Don't miss it!</h4>
 
 
