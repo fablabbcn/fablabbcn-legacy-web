@@ -51,7 +51,7 @@ El próximo viernes 3 de Junio, celebramos el European Maker Week Open Fabricati
 </h4>
 <br>
 ------
-<a name="english">
+<a name="english"></a>
 
 <br>
 
