@@ -52,6 +52,7 @@ El próximo viernes 3 de Junio, celebramos el European Maker Week Open Fabricati
 <br>
 ------
 <a name="english">
+
 <br>
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/eumakerweeksmall.png" align="middle"> </img></ul>
