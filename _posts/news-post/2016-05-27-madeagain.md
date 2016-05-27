@@ -73,7 +73,7 @@ SCHEDULE</h4>
 <br>
 
 <b>Introduction to the Fab City<br></b>
-Tomas Diez, Fab City Research Laboratory<br>
+Tomas Diez <br>
 <a href="www.iaac.net">IAAC</a> - <a href="www.fablabbcn.org">Fab Lab Barcelona</a> - <a href="www.fab.city">Fab City</a><br>
 <br>
 <b>The Made Again project<br></b>
