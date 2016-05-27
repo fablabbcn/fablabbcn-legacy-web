@@ -14,7 +14,7 @@ category: event
 <h4>A journey towards a more circular economy through digital and distributed production</h4>
 
 
-Space10 and the Fab City Research Laboratory are launching a challenge for our designers and makers to reflect and act on how and why we make things. And as we feel such conversation deserves to be inclusive we’d like to invite you to join us at the Made Again Conference.<br>
+Space10 and the Fab City Research Laboratory are launching a challenge for our designers and makers to reflect and act on how and why we make things. We feel like such a conversation deserves to be inclusive, and would like to invite you to join us at the Made Again Conference.<br>
 <br>
 The Made Again Conference is a series of short talks and big ideas, around design, digital fabrication, new materials, open source, distributed production, circular economy and more. We’ve gathered some of the brightest minds and best talents to share their stories and points of view.<br>
 
