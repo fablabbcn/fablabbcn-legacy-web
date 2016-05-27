@@ -24,13 +24,13 @@ Next June 3rd, join us for the European Maker Week Open Fabrication Day at Fab L
 <ul>
 <ul>
 <b>Laser cuts:</b> the thickness of the pieces must be between 0.1mm and 5mm<br>
-
+<br>
 - format your file in .dxf
 
 <br>
 <br>
 <b>3D prints: </b>the maximum dimensions of the pice must be 15cm x 15cm x 15cm
-
+<br>
 -<a href="https://ultimaker.com/en/products/cura-software"> Download Cura</a><br>
 - Save your .stl file to .gcode
 - Adjust the setting for standard PLA, as shown in the picture:
