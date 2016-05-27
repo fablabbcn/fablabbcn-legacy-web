@@ -22,6 +22,7 @@ Next June 3rd, join us for the European Maker Week Open Fabrication Day at Fab L
 </ul>
 <br>
 <ul>
+<ul>
 <b>Laser cuts:</b> the thickness of the pieces must be between 0.1mm and 5mm<br>
 
 - format your file in .dxf
@@ -35,7 +36,7 @@ Next June 3rd, join us for the European Maker Week Open Fabrication Day at Fab L
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/3dsettings.png" align="middle"> </img></ul>
 <br>
-
+</ul>
 
 4.Fabricate! <br>
 </ul>
