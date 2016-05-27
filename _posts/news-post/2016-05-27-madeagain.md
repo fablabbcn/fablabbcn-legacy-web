@@ -51,7 +51,7 @@ view.
 
 <br>
 <h4>SCHEDULE<br>
-June 16th - 6pm to 8:30pm - at IAAC</h4>
+June 16th - 6pm to 8:30pm</h4><br>
 <br>
 
 <b>The Made Again project</b><br>
