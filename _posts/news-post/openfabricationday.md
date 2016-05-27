@@ -3,18 +3,22 @@ layout: blog_post
 type: event
 teaserlatest: blog_loop_latest/eumakerweeksmall.jpg
 teaserlist: blog_loop_latest/madeagaincartel-01.png
-title: Open Fabrication Day!
-meta: "Come to IAAC|Fab Lab Barcelona and discover the "
+title: Open Fabrication Day
+meta: "Come to IAAC|Fab Lab Barcelona and fabricate!"
 author: Maria Ustarroz
 date: 26/05/2016
 category: event
 ---
 
 
+1. <a href="https://docs.google.com/forms/d/1MJAREBja3GWx8qnD0lgA_QXMdN3wVR_UNkfZn3Ms-sU/viewform?edit_requested=true">Registrarse</a> 
+2. <a href="http://fablabbarcelona.simplybook.it/sheduler/manage/event/3/unit/1">Reservar la máquina</a>
+3. Check the files:
+4. 
 
 
-1. Registrarse https://docs.google.com/forms/d/1MJAREBja3GWx8qnD0lgA_QXMdN3wVR_UNkfZn3Ms-sU/viewform?edit_requested=true
-2. Reservar la máquina http://fablabbarcelona.simplybook.it/sheduler/manage/event/3/unit/1
+1.<a href="https://docs.google.com/forms/d/1MJAREBja3GWx8qnD0lgA_QXMdN3wVR_UNkfZn3Ms-sU/viewform?edit_requested=true">Registrarse</a> 
+2.<a href="http://fablabbarcelona.simplybook.it/sheduler/manage/event/3/unit/1">Reservar la máquina</a>
 3. Check the files:
 
 
