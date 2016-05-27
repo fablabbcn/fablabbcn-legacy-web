@@ -11,10 +11,6 @@ category: event
 ---
 
 
-
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/madeagaincartel-01.png" align="middle"> </img></ul>
-
-
 <h4>A journey towards a more circular economy through digital and distributed production</h4>
 
 
@@ -92,6 +88,8 @@ IKEA - Design Team<br>
 
 
 <h4>Don't miss it!</h4>
+
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/madeagaincartel-01.png" align="middle"> </img></ul>
 
 
 ---
