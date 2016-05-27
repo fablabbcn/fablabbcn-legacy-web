@@ -47,32 +47,14 @@ view.
 
 
 
-June 16th - 6pm to 8:30pm - at IAAC
-
-
-MADE AGAIN - opening conference
-
-The Made Again project - Guillaume Charny-Brunet, Space 10 (http://www.space10.io)
-
- Introduction to the Fab City - Tomas Diez, Fab City Research Laboratory | IAAC (http://www.fab.city)
-
- The rise of the Designer-Maker - Samuel Bernier, le FabShop (https://www.behance.net/samuelbernier)
-
-Design decision making - James Tooze, RCA (http://www.jamestooze.com/)
- 
- Open Making - Joni Steiner, Open Desk (https://www.opendesk.cc/)
-
-  3d printing is changing the way we think about form - Francis Bitonti, Francis Bitonti Studio (http://www.francisbitonti.com/)
-
- Parsimony, production and bio materials - Prisca Visbol, Vilsbol de Arce (https://priscavilsbol.com/)
-
 
 
 <br>
-SCHEDULE</h4>
+<h4>SCHEDULE<br>
+June 16th - 6pm to 8:30pm - at IAAC</h4>
 <br>
 
-<b>The Made Again project<br></b>
+<b>The Made Again project</b><br>
 Guillaume Charny-Brunet<br>
 <a href="www.space10.io">Space 10</a>  <br>
 <br>
@@ -103,8 +85,8 @@ Prisca Visbol
 <a href="www.priscavilsbol.com">Vilsbol de Arce</a><br>
 <br>
 <b>Democratic Design <b><br>
-Hanna Dalrot and Mikael Axelsson
-IKEA DESIGN
+Hanna Dalrot and Mikael Axelsson<br>
+IKEA - Design Team<br>
 
 
 
