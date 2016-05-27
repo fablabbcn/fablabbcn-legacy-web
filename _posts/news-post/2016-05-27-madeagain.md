@@ -13,6 +13,8 @@ category: event
 
 <h4>A journey towards a more circular economy through digital and distributed production</h4>
 
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/madeagaincartel-01.png" align="middle"> </img></ul>
+
 
 Space10 and the Fab City Research Laboratory are launching a challenge for our designers and makers to reflect and act on how and why we make things. And as we feel such conversation deserves to be inclusive we’d like to invite you to join us at the Made Again Conference.<br>
 <br>
@@ -88,8 +90,6 @@ IKEA - Design Team<br>
 
 
 <h4>Don't miss it!</h4>
-
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/madeagaincartel-01.png" align="middle"> </img></ul>
 
 
 ---
