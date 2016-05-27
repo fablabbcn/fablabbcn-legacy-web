@@ -1,7 +1,7 @@
 ---
 layout: blog_post
 type: event
-teaserlatest: blog_loop_latest/.png
+teaserlatest: blog_loop_latest/madeagainsmall.png
 teaserlist: blog_loop_latest/madeagaincartel-01.png
 title: Made Again Conference
 meta: "A journey towards a more circular economy through digital and distributed production"
