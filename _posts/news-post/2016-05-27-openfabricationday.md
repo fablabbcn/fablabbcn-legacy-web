@@ -43,32 +43,36 @@ Next June 3rd, join us for the European Maker Week Open Fabrication Day at Fab L
 </ul>
 <br>
 
+---
 
-
-<i>
-<li>
-1.<a href="https://docs.google.com/forms/d/1MJAREBja3GWx8qnD0lgA_QXMdN3wVR_UNkfZn3Ms-sU/viewform?edit_requested=true">Regístrate</a> <br>
-2.<a href="http://fablabbarcelona.simplybook.it/sheduler/manage/event/3/unit/1">Reserva la máquina que quieres usar</a><br>
-3.Comprobar los ficheros:<br>
-
-</li>
+El próximo viernes 3 de Junio, celebramos el European Maker Week Open Fabrication Day en Fab Lab Barcelona. Ven y aprende cómo imprimir en 3D y usar la cortadora láser. Sólo tienes que seguir estos pasos:<br>
 <br>
-Para cortar a láser: el grosor de las piezas debe ser entre 0.1mm y 5mm<br>
+<ul>
+1.<a href="https://docs.google.com/forms/d/1MJAREBja3GWx8qnD0lgA_QXMdN3wVR_UNkfZn3Ms-sU/viewform?edit_requested=true"> Regístrate</a> <br>
+2.<a href="http://fablabbarcelona.simplybook.it/sheduler/manage/event/3/unit/1"> Reserva la máquina que quieres usar</a><br>
+3. Diseñar lo que quieras hacer y comprobar los ficheros:
 
--guarda tu archivo en formato .dxf<br>
+</ul>
+<br>
+<ul>
+<ul>
+<b>Para cortar a láser:</b> el grosor de las piezas debe ser entre 0.1mm y 5mm<br>
+
+- guarda tu archivo en formato .dxf
 
 <br>
-Para imprimir en 3D: las dimensiones máximas de la pieza deben ser 15cm x 15cm x 15cm<br>
+
+<br>
+<b>Para imprimir en 3D:</b> las dimensiones máximas de la pieza deben ser 15cm x 15cm x 15cm<br>
 
 -<a href="https://ultimaker.com/en/products/cura-software">Descarga Cura</a><br>
--Save your .stl file to .gcode<br>
--Adjust the setting for standard PLA, as shown in the picture:<br>
+- Guarda tu archivo .stl como archivo .gcode
+- Ajusta los settings para una impresión estándard en PLA, como se ve en la imagen:
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/3dsettings.png" align="middle"> </img></ul>
+<br>
+</ul>
 
-
-
-</i>
 <br>
 <h4>Enjoy!</h4>
 
