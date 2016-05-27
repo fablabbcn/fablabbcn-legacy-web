@@ -15,9 +15,9 @@ category: event
 Next June 3rd, join us for the European Maker Week Open Fabrication Day at Fab Lab Barcelona. Come and learn how to 3D print and laser cut. You only have to follow these steps:
 <br>
 <ul>
-1.<a href="https://docs.google.com/forms/d/1MJAREBja3GWx8qnD0lgA_QXMdN3wVR_UNkfZn3Ms-sU/viewform?edit_requested=true">Sing in</a> <br>
-2.<a href="http://fablabbarcelona.simplybook.it/sheduler/manage/event/3/unit/1">Book the machine you want to use</a><br>
-3.Design what you want to do and check the files:<br>
+1.<a href="https://docs.google.com/forms/d/1MJAREBja3GWx8qnD0lgA_QXMdN3wVR_UNkfZn3Ms-sU/viewform?edit_requested=true"> Sing in</a> <br>
+2.<a href="http://fablabbarcelona.simplybook.it/sheduler/manage/event/3/unit/1"> Book the machine you want to use</a><br>
+3. Design what you want to do and check the files:
 
 </ul>
 <br>
