@@ -33,12 +33,7 @@ In June 2016, in Barcelona, Space10 and the Fab
 City Research Laboratory are launching a challenge
 for our designers and makers to reflect and act on
 how and why we make things.
-The Made Again Conference is a series of short talks
-and big ideas, around design, digital fabrication, new
-materials, open source, distributed production, and
-more. We’ve gathered some of the brightest minds
-and best talents to share their stories and points of
-view.
+
 
 
 
