@@ -4,7 +4,7 @@ type: event
 teaserlatest: blog_loop_latest/madeagainsmall.jpg
 teaserlist: blog_loop_latest/madeagaincartel-01.png
 title: Made Again Conference
-meta: "A journey towards a more circular economy through digital and distributed production"
+meta: "Space10 and the Fab City Research Laboratory are launching a challenge for our designers and makers to reflect and act on how and why we make things."
 author: Maria Ustarroz
 date: 26/05/2016
 category: event
