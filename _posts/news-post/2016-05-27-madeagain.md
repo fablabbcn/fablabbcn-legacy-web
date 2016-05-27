@@ -80,8 +80,8 @@ Francis Bitonti<br>
 <a href="www.francisbitonti.com">Francis Bitonti Studio</a><br>
 <br>
 <b>Parsimony, production
-and bio materials<br></b>
-Prisca Visbol
+and bio materials</b><br>
+Prisca Visbol<br>
 <a href="www.priscavilsbol.com">Vilsbol de Arce</a><br>
 <br>
 <b>Democratic Design <b><br>
