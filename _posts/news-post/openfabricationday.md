@@ -23,7 +23,7 @@ category: event
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/madeagaincartel-01.png" align="middle"> </img></ul>
 
-Laser cuts:
+Laser cuts: 
 
 - format your file in .dxf
 - de 0.1mm a 5mm
@@ -40,7 +40,10 @@ Para imprimir en 3D: las dimensiones máximas de la pieza deben ser 15cm x 15cm 
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/madeagaincartel-01.png" align="middle"> </img></ul>
 
+Para cortar a láser: el grosor de las piezas debe ser entre 0.1mm y 5mm
 
+- guarda tu archivo en formato .dxf
+- 
 
 
 
