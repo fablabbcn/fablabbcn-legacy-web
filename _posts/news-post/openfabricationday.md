@@ -32,7 +32,7 @@ Laser cuts: the thickness of the pieces must be between 0.1mm and 5mm
 4. Fabricate! 
 
 <br>
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/madeagaincartel-01.png" align="middle"> </img></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/3dsettings.png" align="middle"> </img></ul>
 
 
 <i>
@@ -53,7 +53,7 @@ Para imprimir en 3D: las dimensiones máximas de la pieza deben ser 15cm x 15cm 
 - Save your .stl file to .gcode
 - Adjust the setting for standard PLA, as shown in the picture:
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/madeagaincartel-01.png" align="middle"> </img></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/3dsettings.png" align="middle"> </img></ul>
 
 
 
