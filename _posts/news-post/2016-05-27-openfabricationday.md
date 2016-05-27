@@ -65,8 +65,7 @@ El próximo viernes 3 de Junio, celebramos el European Maker Week Open Fabricati
 <b>Para imprimir en 3D:</b> las dimensiones máximas de la pieza deben ser 15cm x 15cm x 15cm<br>
 
 -<a href="https://ultimaker.com/en/products/cura-software"> Descarga Cura</a><br>
-- Guarda tu archivo .stl como archivo .gcode
-- Ajusta los settings para una impresión estándard en PLA, como se ve en la imagen:
+- Guarda tu archivo .stl como archivo .gcode y ajusta los settings para una impresión estándard en PLA, como se ve en la imagen:
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/3dsettings.png" align="middle"> </img></ul>
 <br>
