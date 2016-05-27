@@ -38,7 +38,7 @@ Next June 3rd, join us for the European Maker Week Open Fabrication Day at Fab L
 <br>
 </ul>
 
-4.Fabricate! <br>
+4. Fabricate! 
 </ul>
 <br>
 
