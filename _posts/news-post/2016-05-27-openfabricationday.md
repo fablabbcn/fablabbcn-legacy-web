@@ -21,6 +21,7 @@ Next June 3rd, join us for the European Maker Week Open Fabrication Day at Fab L
 
 </ul>
 <br>
+<ul>
 Laser cuts: the thickness of the pieces must be between 0.1mm and 5mm<br>
 
 -format your file in .dxf <br>
@@ -32,8 +33,10 @@ Laser cuts: the thickness of the pieces must be between 0.1mm and 5mm<br>
 -Save your .stl file to .gcode<br>
 -Adjust the setting for standard PLA, as shown in the picture:<br>
 <br>
-4.Fabricate! <br>
 
+
+4.Fabricate! <br>
+</ul>
 <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/3dsettings.png" align="middle"> </img></ul>
 
