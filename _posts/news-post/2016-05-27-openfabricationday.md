@@ -46,16 +46,16 @@ Laser cuts: the thickness of the pieces must be between 0.1mm and 5mm<br>
 
 </li>
 <br>
-Para cortar a láser: el grosor de las piezas debe ser entre 0.1mm y 5mm
+Para cortar a láser: el grosor de las piezas debe ser entre 0.1mm y 5mm<br>
 
-- guarda tu archivo en formato .dxf
+-guarda tu archivo en formato .dxf<br>
 
 <br>
-Para imprimir en 3D: las dimensiones máximas de la pieza deben ser 15cm x 15cm x 15cm
+Para imprimir en 3D: las dimensiones máximas de la pieza deben ser 15cm x 15cm x 15cm<br>
 
--<a href="https://ultimaker.com/en/products/cura-software">Descarga Cura</a>
-- Save your .stl file to .gcode
-- Adjust the setting for standard PLA, as shown in the picture:
+-<a href="https://ultimaker.com/en/products/cura-software">Descarga Cura</a><br>
+-Save your .stl file to .gcode<br>
+-Adjust the setting for standard PLA, as shown in the picture:<br>
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/3dsettings.png" align="middle"> </img></ul>
 
