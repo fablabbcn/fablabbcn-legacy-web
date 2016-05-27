@@ -15,13 +15,16 @@ category: event
 2.<a href="http://fablabbarcelona.simplybook.it/sheduler/manage/event/3/unit/1">Book the machine you want to use</a>
 3. Check the files:
 
-3D Printer: the maximum dimensions of the pice should be 15cm x 15cm x 15cm
+3D prints: the maximum dimensions of the pice should be 15cm x 15cm x 15cm
 
 -<a href="https://ultimaker.com/en/products/cura-software">Download Cura</a>
 - Save your .stl file to .gcode
 - Adjust the setting for standard PLA, as shown in the picture:
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/madeagaincartel-01.png" align="middle"> </img></ul>
+
+Laser cuts:
+
 
 
 1.<a href="https://docs.google.com/forms/d/1MJAREBja3GWx8qnD0lgA_QXMdN3wVR_UNkfZn3Ms-sU/viewform?edit_requested=true">Regístrate</a> 
