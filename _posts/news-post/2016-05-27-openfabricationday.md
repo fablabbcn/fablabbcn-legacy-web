@@ -24,7 +24,7 @@ Next June 3rd, join us for the European Maker Week Open Fabrication Day at Fab L
 <ul>
 <b>Laser cuts:</b> the thickness of the pieces must be between 0.1mm and 5mm<br>
 
--format your file in .dxf <br>
+- format your file in .dxf
 
 <br>
 <b>3D prints: </b>the maximum dimensions of the pice must be 15cm x 15cm x 15cm
