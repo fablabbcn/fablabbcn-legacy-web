@@ -1,8 +1,8 @@
 ---
 layout: blog_post
 type: event
-teaserlatest: blog_loop_latest/eumakerweeksmall.jpg
-teaserlist: blog_loop_latest/eumakerweeksmall.jpg
+teaserlatest: blog_loop_latest/eumakerweeksmall.png
+teaserlist: blog_loop_latest/eumakerweeksmall.png
 title: Open Fabrication Day
 meta: "Come to IAAC|Fab Lab Barcelona and fabricate!"
 author: Maria Ustarroz
