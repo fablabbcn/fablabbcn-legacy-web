@@ -4,11 +4,30 @@ type: event
 teaserlatest: blog_loop_latest/madeagainsmall.jpg
 teaserlist: blog_loop_latest/madeagaincartel-01.png
 title: Open Fabrication Day!
-meta: "Come to IAAC|Fab Lab Barcelona"
+meta: "Come to IAAC|Fab Lab Barcelona and discover the "
 author: Maria Ustarroz
 date: 26/05/2016
 category: event
 ---
+
+
+
+
+1. Registrarse https://docs.google.com/forms/d/1MJAREBja3GWx8qnD0lgA_QXMdN3wVR_UNkfZn3Ms-sU/viewform?edit_requested=true
+2. Reservar la máquina http://fablabbarcelona.simplybook.it/sheduler/manage/event/3/unit/1
+3. Check the files:
+
+
+3D Printer: the maximum dimensions of the pice should be 15cm x 15cm x 15cm
+
+- Download Cura https://ultimaker.com/en/products/cura-software
+- Save your .stl file to .gcode
+- Adjust the setting for standard PLA, as shown in the picture
+
+
+
+---
+
 
 
 <h4>A journey towards a more circular economy through digital and distributed production</h4>
