@@ -38,7 +38,7 @@ Next June 3rd, join us for the European Maker Week Open Fabrication Day at Fab L
 <br>
 </ul>
 
-4. Fabricate! 
+4. Fabricate & enjoy! 
 </ul>
 <br>
 
@@ -70,10 +70,9 @@ El próximo viernes 3 de Junio, celebramos el European Maker Week Open Fabricati
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/3dsettings.png" align="middle"> </img></ul>
 <br>
 </ul>
-4. Fabrica! 
+4. Fabrica y disfruta! 
 
 <br>
-<h4>Enjoy!</h4>
 
 
 ---
