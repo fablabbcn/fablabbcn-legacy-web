@@ -47,11 +47,11 @@ how and why we make things.
 
 <b>The Made Again project</b><br>
 Guillaume Charny-Brunet<br>
-[Space 10](www.space10.io "Space 10")<br>
+[Space 10](http://www.space10.io "Space 10")<br>
 <br>
 <b>Introduction to the Fab City<br></b>
 Tomas Diez <br>
-<a href="www.iaac.net">IAAC</a> - <a href="www.fablabbcn.org" target="_blank">Fab Lab Barcelona</a> - <a href="www.fab.city" target="_blank">Fab City</a><br>
+<a href="http://www.iaac.net">IAAC</a> - <a href="www.fablabbcn.org" target="_blank">Fab Lab Barcelona</a> - <a href="www.fab.city" target="_blank">Fab City</a><br>
 <br>
 <b>The rise of the Designer-Maker<br></b>
 Samuel Bernier<br>
