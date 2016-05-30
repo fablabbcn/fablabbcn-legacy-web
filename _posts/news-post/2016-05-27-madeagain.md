@@ -51,7 +51,7 @@ Guillaume Charny-Brunet<br>
 <br>
 <b>Introduction to the Fab City<br></b>
 Tomas Diez <br>
-<a href="www.iaac.net" target="_blank">IAAC</a> - <a href="www.fablabbcn.org" target="_blank">Fab Lab Barcelona</a> - <a href="www.fab.city" target="_blank">Fab City</a><br>
+<a href="www.iaac.net">IAAC</a> - <a href="www.fablabbcn.org" target="_blank">Fab Lab Barcelona</a> - <a href="www.fab.city" target="_blank">Fab City</a><br>
 <br>
 <b>The rise of the Designer-Maker<br></b>
 Samuel Bernier<br>
