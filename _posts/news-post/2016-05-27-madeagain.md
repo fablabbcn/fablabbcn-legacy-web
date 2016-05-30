@@ -47,6 +47,7 @@ how and why we make things.
 
 <b>The Made Again project</b><br>
 Guillaume Charny-Brunet<br>
+<a href="https://docs.google.com/forms/d/1MJAREBja3GWx8qnD0lgA_QXMdN3wVR_UNkfZn3Ms-sU/viewform?edit_requested=true"> Regístrate</a> <br>
 <a href="www.space10.io" target="_blank">Space 10</a>  <br>
 <br>
 <b>Introduction to the Fab City<br></b>
