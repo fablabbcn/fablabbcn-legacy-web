@@ -72,7 +72,7 @@ The second part of the series, Melancholia II, the geometry itself breaks into t
 
 
 
-<h4>Artist in residency > Ludovic Mallegol
+<h4>Artist in residency > Ludovic Mallegol<br>
 Project > The Robot's secret</h4><br>
 
 
@@ -82,7 +82,7 @@ The Robot's secret works on the idea of materialising the invisible sound waves 
 
 
 
-<h4>Artist in residency > Ricardo o'Nascimento
+<h4>Artist in residency > Ricardo o'Nascimento<br>
 Project > Batuque</h4><br>
 <h5>Technical Support / 3D modeling > Wiebke Mueller<br>
 Fashion assistant > Justine Vivier, Sæunn Kjartansdóttir</h5><br>
