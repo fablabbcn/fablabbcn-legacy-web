@@ -28,12 +28,12 @@ http://annemariemaes.net/
 
 
 
-<h5>Artist in residency > Cristian Rizzuti<br>
-Project > Elastica<br>
-E-textiles and mentorship > Anastasia Pistofidou<br>
+<h4>Artist in residency > Cristian Rizzuti<br>
+Project > Elastica</h4><br>
+<h5>E-textiles and mentorship > Anastasia Pistofidou<br>
 Programming > Guillem Camprodon, Angel Muñoz<br>
 Fashion Designer > Sæunn Kjartansdóttir<br>
-Performer > Laila Tafur<h5>
+Performer > Laila Tafur</h5>
 <br>
 
 
@@ -48,16 +48,10 @@ Elastica  becomes an interface instrument for the performer, creating real-time 
 
 
 
-<h5>Artist in residency > Roman Torre<br>
-Project > "Liquid series: Melancholia II<br>
-"
+<h4>Artist in residency > Roman Torre<br>
+Project > "Liquid series: Melancholia II</h4><br>
+<h5>Technical support> Guillem Camprodon, Anastasia Pistofidou</h5>
 
-    P​uedes coger imagenes de aqui
-    > http://www.romantorre.net/tag/madeeu/
-
-​         ​
-y aqui​ ​
-https://www.facebook.com/rotorstudio/
 
 
 ​Liquid ​
@@ -72,8 +66,7 @@ Albrecht Dürer​.​
 ​
 ​
 ​
-​For a long period, ​t
-heorists, 
+​For a long period, ​theorists, 
 mathematicians and art historians ​are trying to 
 interpret the symbolism of the composition, where the objects related to geometry or mathematics, ​such as
  a sphere or this polyhedral shape that seems so interesting, ​are ​
@@ -90,7 +83,6 @@ narratively ​revealed
 The second part of the series, ​Melancholia II, the geometry itself breaks into two pieces, deforms and generates new shapes, distorts and comes back to its reconstruction.
 
 ​Artist> Roman Torre
-Technical support> Guillem Camprodon, Anastasia Pistofidou
 
 
 Artist in residency> Ludovic Mallegol
