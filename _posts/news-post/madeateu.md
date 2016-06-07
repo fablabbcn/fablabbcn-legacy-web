@@ -12,10 +12,6 @@ category: news
 
 
 
-
-
-
-
 <h4>Artist in residency > Anne Marie Maes<br>
 Project > Intelligent Guerilla Beehives</h4><br>
 <h5>Technical support/ 3d Modelling > Anastasia Pistofidou</h5>
