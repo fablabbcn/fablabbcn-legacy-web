@@ -3,7 +3,7 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/fabcitycampussmall.png
 teaserlist: blog_loop_latest/fabcitydoor.png
-title: Amsterdam joins the Fab City iniciative
+title: Made@EU residencies work in progress
 meta: "The First Fab City Summit took place from 20th to 22nd of April in Amsterdam and the city joined the global iniciative"
 author: Maria Ustarroz
 date: 12/05/2016
@@ -16,12 +16,9 @@ category: news
 
 
 
-<h4>Made@EU residencies work in progress</h4>
-
-
-<h5>Artist in residency > Anne Marie Maes<br>
-Project > Intelligent Guerilla Beehives<br>
-Technical support/ 3d Modelling > Anastasia Pistofidou</h5>
+<h4>Artist in residency > Anne Marie Maes<br>
+Project > Intelligent Guerilla Beehives</h4><br>
+<h5>Technical support/ 3d Modelling > Anastasia Pistofidou</h5>
 <br>
 
 
