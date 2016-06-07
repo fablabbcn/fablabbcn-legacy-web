@@ -28,7 +28,7 @@ http://annemariemaes.net/
 
 
 
-<h5>Artist in residency>Cristian Rizzuti<br>
+<h5>Artist in residency > Cristian Rizzuti<br>
 Project > Elastica<br>
 E-textiles and mentorship > Anastasia Pistofidou<br>
 Programming > Guillem Camprodon, Angel Muñoz<br>
@@ -38,19 +38,18 @@ Performer > Laila Tafur<h5>
 
 
 
-" I dance. I dance and your eyes follow my form. My silhouette creates fluid constellations in the space your eyes navigate. My body is my instrument. I control. I control my feet, my hands, my neck, my spine​ but it all comes out as one.​ 
-Can you see ? Can you hear? ​"​
+" I dance. I dance and your eyes follow my form. My silhouette creates fluid constellations in the space your eyes navigate. My body is my instrument. I control. I control my feet, my hands, my neck, my spine but it all comes out as one.
+Can you see ? Can you hear?"
 
-Elastica is a wearable suit , developed with low cost, DIY embroidered stretch sensors that functions as an interface for the performer, augmenting his body, creating sound and data visualisation. Through the use of E-textile and conductive threads, the body biometrics allow performers to capture data of their behaviour, enhancing how they engage with a external environment. After a study on the anatomy of the body and the expansion of the muscles, the stretch sensors are integrated to a tailored suit that through Wifi communicates with MAXmsp interface to generate audio/visual output​.​ 
+Elastica is a wearable suit , developed with low cost, DIY embroidered stretch sensors that functions as an interface for the performer, augmenting his body, creating sound and data visualisation. Through the use of E-textile and conductive threads, the body biometrics allow performers to capture data of their behaviour, enhancing how they engage with a external environment. After a study on the anatomy of the body and the expansion of the muscles, the stretch sensors are integrated to a tailored suit that through Wifi communicates with MAXmsp interface to generate audio/visual output. 
 Elastica  becomes an interface instrument for the performer, creating real-time dialogue between fashion and dance, wearable technologies and data visualisation.
 
-​Artist >​
- Cristian Rizzuti
 
 
 
-Artist in residency>Roman Torre
-Project > "Liquid series: Melancholia​ II​
+
+<h5>Artist in residency > Roman Torre<br>
+Project > "Liquid series: Melancholia II<br>
 "
 
     P​uedes coger imagenes de aqui
