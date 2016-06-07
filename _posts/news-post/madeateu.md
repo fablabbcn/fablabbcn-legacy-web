@@ -82,15 +82,15 @@ The Robot's secret works on the idea of materialising the invisible sound waves 
 
 
 
-Artist in residency>Ricardo o Nascimento
-Project >​ ​
-Batuque
+<h4>Artist in residency > Ricardo o'Nascimento
+Project > Batuque</h4><br>
+<h5>Technical Support / 3D modeling > Wiebke Mueller<br>
+Fashion assistant > Justine Vivier, Sæunn Kjartansdóttir</h5><br>
 
 “Batuque” is a performance inspired by the Afro-Brazilian faith Candomblé. In this belief the entities are represented by people wearing specific clothing as part of a ritual that transposes them into another dimension. The name “Batuque” is used to refer to the religion, especially before the 19th century and is also the Brazilian word associated with percussion instruments and with african roots. In this performance the wearer becomes a sort of creature or entity that has an extra sense. Its skin senses the surround sound and reacts to it accordingly, with movements and vibrations. The garment uses sensor technology and digital prototyping techniques, such as 3d printing and laser engraving, to create a magical and enjoyable experience. 
 
 ​Artist> Ricardo o Nascimento
-Technical Support / 3D modeling > Wiebke Mueller
-Fashion assistant > Justine Vivier​, Sæunn Kjartansdóttir
+
 
 ​Por otro lado, Guillem hablamos mañana, al igual hablamos con Justyna y participo tambien con biocouture y miramos que piensa para Paris!
 
