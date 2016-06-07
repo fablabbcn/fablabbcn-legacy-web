@@ -17,13 +17,12 @@ Project > Intelligent Guerilla Beehives</h4><br>
 <h5>Technical support/ 3d Modelling > Anastasia Pistofidou</h5>
 <br>
 
-
-![](http://www.fablabbcn.org/img/blog/blog_loop_latest/	annemie-maes-madeat-eu.jpg )
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/annemie-maes-madeat-eu.jpg" align="middle"> </img></ul>
 
 
 An 'Intelligent Guerilla Beehive' is a functional sculpture, a shelter that provides a home for swarming bee colonies. The work focuses on the architecture of the beehive as a organic sculptural object.The biomimetic-inspired design (in form and matter) is shaped upon the needs of the bees: it has the the ideal inner volume for a developing colony, it is mobile and easily deployable on different spots in public space : e.g. attached to the wall of a building or secured on the branch of a tree - or the objects can find a place as a stand-alone sculpture on the terrace of a city apartment. The objects are made out of smart organic materials with useful biomimetic properties in reaction to temperature fluctuation, humidity and ventilation. Once the colony decides to leave the hive, the object should fall as a rotten apple from a tree and decompose completely. It has to be a cradle to cradle design. In a second phase, I would like to add bio-sensors (e.g. for measuring the temperature inside/outside) incorporated in the 3D-printed skin. The sensors give the intelligent sculpture a futuristic view, and make it entirely appropriate for a non-intrusive observation of the bee colony as well as the monitoring of the environment. Microbial fuel cells, fed with organic waste from the beehive, will power the sensors. Once realised, these sculptural prototypes are a perfect blend of biodegradable materials and green technology.<br>
 
-http://annemariemaes.net/
+<a href="http://annemariemaes.net/"> http://annemariemaes.net</a> 
 <br>
 
 
