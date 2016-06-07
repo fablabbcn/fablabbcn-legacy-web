@@ -68,8 +68,9 @@ In Melancholia I, the object consists of the
 <br>
 The second part of the series, Melancholia II, the geometry itself breaks into two pieces, deforms and generates new shapes, distorts and comes back to its reconstruction.
 
-
-
+<br>
+Román Torre Telefónica I+D and LABoral conceden el premio NEXT THINGS 2016 VISIBLE a los artistas  y Ángeles Angulo 
+http://www.laboralcentrodearte.org/es/recursos/prensa/noticias/telefonica-i-d-y-laboral-conceden-el-premio-next-things-2016-visible-a-los-artistas-roman-torre-y-angeles-angulo
 <br>
 <br>
 
