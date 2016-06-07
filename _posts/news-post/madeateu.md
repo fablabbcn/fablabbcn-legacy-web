@@ -89,15 +89,14 @@ Fashion assistant > Justine Vivier, Sæunn Kjartansdóttir</h5><br>
 
 “Batuque” is a performance inspired by the Afro-Brazilian faith Candomblé. In this belief the entities are represented by people wearing specific clothing as part of a ritual that transposes them into another dimension. The name “Batuque” is used to refer to the religion, especially before the 19th century and is also the Brazilian word associated with percussion instruments and with african roots. In this performance the wearer becomes a sort of creature or entity that has an extra sense. Its skin senses the surround sound and reacts to it accordingly, with movements and vibrations. The garment uses sensor technology and digital prototyping techniques, such as 3d printing and laser engraving, to create a magical and enjoyable experience. 
 
-​Artist> Ricardo o Nascimento
 
 
-​Por otro lado, Guillem hablamos mañana, al igual hablamos con Justyna y participo tambien con biocouture y miramos que piensa para Paris!
-
-
-
-Visit the Madeat.eu Exhibition on the 21-23 June at the exhibition in FIRA of Barcelona> http://www.in3dustry.com/
-
-
-​Residencies in Progress at Plymouth and Paris!
+--
+Residencies in Progress at Plymouth and Paris!
 (pictures + links)
+
+--
+
+<h4>Visit the Madeat.eu Exhibition on the 21-23rd June at In3dusty in FIRA de Barcelona</h4> http://www.in3dustry.com/
+
+
