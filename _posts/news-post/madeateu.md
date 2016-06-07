@@ -105,6 +105,6 @@ Residencies in Progress at Plymouth and Paris!
 
 --
 
-<h4>Visit the Madeat.eu Exhibition on the 21-23rd June at In3dusty in FIRA de Barcelona</h4> http://www.in3dustry.com/
+<h4>Visit the Madeat.eu Exhibition on the 21-23rd June at <a href="http://www.in3dustry.com/">In3dusty in FIRA de Barcelona</a></h4> 
 
 
