@@ -35,14 +35,16 @@ Fashion Designer > Sæunn Kjartansdóttir<br>
 Performer > Laila Tafur</h5>
 <br>
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/annemie-maes-madeat-eu.jpg" align="middle"> </img></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/rizzuti-madeat-eu3.jpg" align="middle"> </img></ul>
 
 
 
 "I dance. I dance and your eyes follow my form. My silhouette creates fluid constellations in the space your eyes navigate. My body is my instrument. I control. I control my feet, my hands, my neck, my spine but it all comes out as one. Can you see ? Can you hear?"<br>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/rizzuti-madeat-eu1.jpg" align="middle"> </img></ul>
 
 Elastica is a wearable suit , developed with low cost, DIY embroidered stretch sensors that functions as an interface for the performer, augmenting his body, creating sound and data visualisation. Through the use of E-textile and conductive threads, the body biometrics allow performers to capture data of their behaviour, enhancing how they engage with a external environment. After a study on the anatomy of the body and the expansion of the muscles, the stretch sensors are integrated to a tailored suit that through Wifi communicates with MAXmsp interface to generate audio/visual output. 
 Elastica  becomes an interface instrument for the performer, creating real-time dialogue between fashion and dance, wearable technologies and data visualisation.<br>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/rizzuti-madeat-eu2.jpg" align="middle"> </img></ul>
 
 <br>
 <br>
@@ -52,7 +54,7 @@ Elastica  becomes an interface instrument for the performer, creating real-time 
 Project > "Liquid series: Melancholia II</h4><br>
 <h5>Technical support> Guillem Camprodon, Anastasia Pistofidou</h5>
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/annemie-maes-madeat-eu.jpg" align="middle"> </img></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/roman-madeat-eu.jpg" align="middle"> </img></ul>
 
 
 Liquid series rises from an abstract idea of how can an object with a great physical strain can momentarily liquefy and blur its spacial and physical characteristics through a visual game. In this line of research, the geometry of the object takes the form of the truncated polyhedron. This truncated polyhedron enigmatically appears in an engraving of 1514 called Melancholia I​, made by the famous German Renaissance artist, Albrecht Dürer.<br>
@@ -77,7 +79,7 @@ http://www.laboralcentrodearte.org/es/recursos/prensa/noticias/telefonica-i-d-y-
 <h4>Artist in residency > Ludovic Mallegol<br>
 Project > The Robot's secret</h4><br>
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/annemie-maes-madeat-eu.jpg" align="middle"> </img></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/ludovic-madeat-eu.jpg" align="middle"> </img></ul>
 
 
 The Robot's secret is a project that seeks to reply to the digital era of mass customisation by blending traditional crafts and technology. Can we create platforms for open design and make them accesible to everybody? Can the creative process be participatory and democratised? 
@@ -91,7 +93,7 @@ The Robot's secret works on the idea of materialising the invisible sound waves 
 Project > Batuque</h4><br>
 <h5>Technical Support / 3D modeling > Wiebke Mueller<br>
 Fashion assistant > Justine Vivier, Sæunn Kjartansdóttir</h5><br>
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/annemie-maes-madeat-eu.jpg" align="middle"> </img></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/onascimento-madeat-eu.jpg" align="middle"> </img></ul>
 
 “Batuque” is a performance inspired by the Afro-Brazilian faith Candomblé. In this belief the entities are represented by people wearing specific clothing as part of a ritual that transposes them into another dimension. The name “Batuque” is used to refer to the religion, especially before the 19th century and is also the Brazilian word associated with percussion instruments and with african roots. In this performance the wearer becomes a sort of creature or entity that has an extra sense. Its skin senses the surround sound and reacts to it accordingly, with movements and vibrations. The garment uses sensor technology and digital prototyping techniques, such as 3d printing and laser engraving, to create a magical and enjoyable experience. 
 
