@@ -57,7 +57,7 @@ Project > "Liquid series: Melancholia II</h4><br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/roman-madeat-eu.jpg" align="middle"> </img></ul>
 
 
-Liquid series rises from an abstract idea of how can an object with a great physical strain can momentarily liquefy and blur its spacial and physical characteristics through a visual game. In this line of research, the geometry of the object takes the form of the truncated polyhedron. This truncated polyhedron enigmatically appears in an engraving of 1514 called Melancholia I​, made by the famous German Renaissance artist, Albrecht Dürer.<br>
+Liquid series rises from an abstract idea of how can an object with a great physical strain can momentarily liquefy and blur its spacial and physical characteristics through a visual game. In this line of research, the geometry of the object takes the form of the truncated polyhedron. This truncated polyhedron enigmatically appears in an engraving of 1514 called Melancholia I, made by the famous German Renaissance artist, Albrecht Dürer.<br>
 <br>
 
 For a long period, theorists, 
