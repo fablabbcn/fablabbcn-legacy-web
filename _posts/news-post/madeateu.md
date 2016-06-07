@@ -40,11 +40,11 @@ Performer > Laila Tafur</h5>
 
 
 "I dance. I dance and your eyes follow my form. My silhouette creates fluid constellations in the space your eyes navigate. My body is my instrument. I control. I control my feet, my hands, my neck, my spine but it all comes out as one. Can you see ? Can you hear?"<br>
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/rizzuti-madeat-eu1.jpg" align="middle"> </img></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/rizzuti-madeat-eu2.jpg" align="middle"> </img></ul>
 
 Elastica is a wearable suit , developed with low cost, DIY embroidered stretch sensors that functions as an interface for the performer, augmenting his body, creating sound and data visualisation. Through the use of E-textile and conductive threads, the body biometrics allow performers to capture data of their behaviour, enhancing how they engage with a external environment. After a study on the anatomy of the body and the expansion of the muscles, the stretch sensors are integrated to a tailored suit that through Wifi communicates with MAXmsp interface to generate audio/visual output. 
 Elastica  becomes an interface instrument for the performer, creating real-time dialogue between fashion and dance, wearable technologies and data visualisation.<br>
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/rizzuti-madeat-eu2.jpg" align="middle"> </img></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/rizzuti-madeat-eu.jpg" align="middle"> </img></ul>
 
 <br>
 <br>
