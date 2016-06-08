@@ -109,6 +109,8 @@ Fashion assistant > Justine Vivier, Sæunn Kjartansdóttir</h5><br>
 
 <h4>Made@EU residencies at ENSCI-Les Ateliers Paris</h4>
 
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/paris-madeat-eu.jpg" align="middle"> </img></ul>
+
 The European research program applied Made @ EU, supported by three
 
 institutions of higher learning - IAAC Barcelona (ES), Plymouth
@@ -121,11 +123,17 @@ inclined to be interested in the digital world, to express themselves and it all
 
 ownership of tools dedicated to creation.
 
+
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/paris-madeat-eu1.jpg" align="middle"> </img></ul>
+
 To show the public the result of the work of the residents in Paris,
 
 an exhibition will be held at the ENSCI during PARIS DESIGN WEEK of
 
 next September, which will be presented a selection of projects.
+
+
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/paris-madeat-eu2.jpg" align="middle"> </img></ul>
 
 The exhibition will offer a perspective of the results of various events
 
@@ -141,19 +149,13 @@ A digital platform will bring together all the projects of the three homes
 
 European.
 
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/paris-madeat-eu3.jpg" align="middle"> </img></ul>
+
 
 The Made @ US exhibition, organized by ENSCI-Workshops will take place on the site
 
 school, at 48 Rue Saint-Sabin, 75011 Paris.
 
-
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/paris-madeat-eu.jpg" align="middle"> </img></ul>
-
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/paris-madeat-eu1.jpg" align="middle"> </img></ul>
-
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/paris-madeat-eu2.jpg" align="middle"> </img></ul>
-
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/paris-madeat-eu3.jpg" align="middle"> </img></ul>
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/paris-madeat-eu4.jpg" align="middle"> </img></ul>
 
