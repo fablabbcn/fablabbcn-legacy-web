@@ -156,6 +156,11 @@ A digital platform will bring together all the projects of the three homes
 European.
 
 
+The Made @ US exhibition, organized by ENSCI-Workshops will take place on the site
+
+school, at 48 Rue Saint-Sabin, 75011 Paris.
+
+
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/paris-madeat-eu.jpg" align="middle"> </img></ul>
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/paris-madeat-eu1.jpg" align="middle"> </img></ul>
