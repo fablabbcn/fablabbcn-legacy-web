@@ -121,23 +121,9 @@ inclined to be interested in the digital world, to express themselves and it all
 
 ownership of tools dedicated to creation.
 
-Made @ US program introduces participants to the potential of materials,
+To show the public the result of the work of the residents in Paris,
 
-machines and 3D technologies and teach them how they could be
-
-integrated into their daily work by helping them to develop their own project and assess
-
-the benefits they could derive in their personal practice.
-
-3 large schools have created a 2-year program, funded by the
-
-European community to educate a wider population of these tools
-
-digital: workshops, residencies, exchanges of students and craftsmen ...
-
-To keep track and show the public the result of the work of the residents,
-
-an exhibition will be held in Paris at the ENSCI during PARIS DESIGN WEEK of
+an exhibition will be held at the ENSCI during PARIS DESIGN WEEK of
 
 next September, which will be presented a selection of projects.
 
