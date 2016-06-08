@@ -109,6 +109,53 @@ Fashion assistant > Justine Vivier, Sæunn Kjartansdóttir</h5><br>
 
 <h4>Made@EU residencies at ENSCI-Les Ateliers Paris</h4>
 
+The European research program applied Made @ EU, supported by three
+
+institutions of higher learning - IAAC Barcelona (ES), Plymouth
+
+College of Art (UK) and Les Ateliers in Paris (FR) - tends to exceed the fracture
+
+worldwide digital creative and artisans. It offers a little reluctant public and
+
+inclined to be interested in the digital world, to express themselves and it allows him to
+
+ownership of tools dedicated to creation.
+
+Made @ US program introduces participants to the potential of materials,
+
+machines and 3D technologies and teach them how they could be
+
+integrated into their daily work by helping them to develop their own project and assess
+
+the benefits they could derive in their personal practice.
+
+3 large schools have created a 2-year program, funded by the
+
+European community to educate a wider population of these tools
+
+digital: workshops, residencies, exchanges of students and craftsmen ...
+
+To keep track and show the public the result of the work of the residents,
+
+an exhibition will be held in Paris at the ENSCI during PARIS DESIGN WEEK of
+
+next September, which will be presented a selection of projects.
+
+The exhibition will offer a perspective of the results of various events
+
+European and designers work, craftsmen and artists. What features and
+
+what (s) Aesthetic (s) news these tools they create, when
+
+matter specialists seize it? How artisans guests they appropriated
+
+these new tools? What work opportunities they see it-t open?
+
+A digital platform will bring together all the projects of the three homes
+
+European.
+
+
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/paris-madeat-eu.jpg" align="middle"> </img></ul>
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/paris-madeat-eu1.jpg" align="middle"> </img></ul>
