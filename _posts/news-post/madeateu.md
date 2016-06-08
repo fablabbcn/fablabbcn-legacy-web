@@ -160,7 +160,7 @@ school, at 48 Rue Saint-Sabin, 75011 Paris.
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/paris-madeat-eu4.jpg" align="middle"> </img></ul>
 
 <br>
-<a href="http://www.ludovicmallegol.com/">More about ENSCI</a> 
+<a href="www.ensci.com">More about ENSCI Paris</a> 
 
 <br>
 <br>
