@@ -111,7 +111,7 @@ Fashion assistant > Justine Vivier, Sæunn Kjartansdóttir</h5><br>
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/paris-madeat-eu.jpg" align="middle"> </img></ul>
 
-The European research program applied Made @ EU, supported by three
+The European research program Made@EU, supported by three
 
 institutions of higher learning - IAAC Barcelona (ES), Plymouth
 
@@ -152,14 +152,20 @@ European.
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/paris-madeat-eu3.jpg" align="middle"> </img></ul>
 
 
-The Made @ US exhibition, organized by ENSCI-Workshops will take place on the site
+The Made@EU exhibition, organized by ENSCI-Workshops will take place on the site
 
 school, at 48 Rue Saint-Sabin, 75011 Paris.
 
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/paris-madeat-eu4.jpg" align="middle"> </img></ul>
 
+<br>
+<a href="http://www.ludovicmallegol.com/">More about ENSCI</a> 
 
+<br>
+<br>
+
+---
 
 Residencies in Progress at Plymouth and Paris!
 (pictures + links)
