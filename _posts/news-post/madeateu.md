@@ -106,6 +106,21 @@ Fashion assistant > Justine Vivier, Sæunn Kjartansdóttir</h5><br>
 <br>
 
 --
+
+<h4>Made@EU residencies at ENSCI-Les Ateliers Paris</h4>
+
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/paris-madeat-eu.jpg" align="middle"> </img></ul>
+
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/paris-madeat-eu1.jpg" align="middle"> </img></ul>
+
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/paris-madeat-eu2.jpg" align="middle"> </img></ul>
+
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/paris-madeat-eu3.jpg" align="middle"> </img></ul>
+
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/paris-madeat-eu4.jpg" align="middle"> </img></ul>
+
+
+
 Residencies in Progress at Plymouth and Paris!
 (pictures + links)
 
