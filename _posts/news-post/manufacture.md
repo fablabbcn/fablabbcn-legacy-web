@@ -38,40 +38,25 @@ Ben Lazarus, Stratasys <br>
 Paul Sohi, Autodesk <br>
 Bram Geenen and Rich Hulskes, Wevolver<br>
 Break (5min)<br>
+<br>
 
 
 
 
-<b>Introduction to the Fab City<br></b>
-Tomas Diez <br>
-<a href="http://www.iaac.net" target="_blank">IAAC</a> - <a href="http://www.fablabbcn.org" target="_blank">Fab Lab Barcelona</a> - <a href="http://www.fab.city" target="_blank">Fab City</a><br>
+<b>The production of human habitat: who and how will make it? (15:40 - 16:40)</b><br>
+Mark Burry, Urban Futures - Melbourne School of Design<br>
+Donald K. Carter, Remaking Cities Institute - Carnegie Mellon University<br>
+Thomas Ermacora, The Maker Mile - London<br>
+Break (5min)<br>
 <br>
-<b>The rise of the Designer-Maker<br></b>
-Samuel Bernier<br>
-<a href="http://www.behance.net/samuelbernier" target="_blank">le FabShop</a> <br>
+<b>The big picture: exploring the limits of our planet and beyond (16:45 - 17:45)</b><br>
+Joe Murphy, Ellen Macarthur Foundation<br>
+Vincent Loubiere, Airbus<br>
+Xavier de Kestelier, Foster and Partners<br>
 <br>
-<b>Design decision making<br></b>
-James Tooze<br>
-<a href="http://www.jamestooze.com" target="_blank">RCA</a><br>
 <br>
-<b>Open Making<br></b>
-Joni Steiner<br>
-<a href="http://www.opendesk.cc" target="_blank">Open Desk</a><br>
+Manufacturing the Future is curated by Tomas Diez, director of the Fab City Research Laboratory at the Institute for Advanced Architecture of Catalonia. It is the closing event for the IN(3D)USTRY From Needs to Solution.<br>
 <br>
-<b>3d printing is changing
-the way we think about form<br></b>
-Francis Bitonti<br>
-<a href="http://www.francisbitonti.com" target="_blank">Francis Bitonti Studio</a><br>
-<br>
-<b>Parsimony, production
-and bio materials</b><br>
-Prisca Visbol<br>
-<a href="http://www.priscavilsbol.com" target="_blank">Vilsbol de Arce</a><br>
-<br>
-<b>Democratic Design </b><br>
-Hanna Dalrot and Mikael Axelsson<br>
-<a href="http://www.ikea.com" target="_blank">IKEA</a> - Design Team<br>
-
 
 <br>
 <h4>Don't miss it!</h4>
