@@ -11,30 +11,11 @@ category: event
 ---
 
 
-<h4>A journey towards a more circular economy through digital and distributed production</h4>
+<h4>June 23rd at In3dustry: Manufacturing the Future</h4>
 
 
-Space10 and the Fab City Research Laboratory are launching a challenge for our designers and makers to reflect and act on how and why we make things. We feel like such a conversation deserves to be inclusive, and would like to invite you to join us at the Made Again Conference.<br>
+A series of inspirational talks to discover future scenarios in advanced manufacturing and distributed production, and understand how are going to transform our cities and society. A multi scalar journey through technologies and applications that are disrupting the way things are made: from biomaterials to space architecture. "Manufacturing the Future" brings together a selected group of researchers, thinkers and practitioners from different fields of knowledge who have transformed (are transforming), and will transform the way we produce and distribute almost anything.
 <br>
-The Made Again Conference is a series of short talks and big ideas, around design, digital fabrication, new materials, open source, distributed production, circular economy and more. We’ve gathered some of the brightest minds and best talents to share their stories and points of view.<br>
-
-<br>
-Most stuff today are made in a very linear way. We
-take, make, and dispose. The assembly line has
-helped construct a world of mass manufactured
-products, which relies on large quantities of cheap,
-easily accessible materials and energy. Such model
-is reaching its physical limits. Some say that at this
-rate we’ll soon need a second planet... as if it was
-even an option. But what if we could design products
-that can be “made to be made again" and powering
-the system with renewable energy?
-In June 2016, in Barcelona, Space10 and the Fab
-City Research Laboratory are launching a challenge
-for our designers and makers to reflect and act on
-how and why we make things.
-
-
 
 
 
@@ -43,12 +24,24 @@ how and why we make things.
 
 
 <br>
-<h4>SCHEDULE - June 16th - 6pm to 8:30pm</h4><br>
+<h4>Speakers line-up: 13:30-17:45h</h4><br>
 
-<b>The Made Again project</b><br>
-Guillaume Charny-Brunet<br>
-<a href="http://www.space10.io" target="_blank">Space 10</a><br>
+<b>Everything matters: on materials, nature and form (13:30 - 14:30)</b><br>
+Thomas Landrain, La Pallaisse -  Pili<br>
+Laia Mogas-Soldevila and Jorge Duro, Mediated Matter group at MIT - Tufts<br>
+Francis Bitonti, Francis Bitonti Studio <br>
+Break (5min)<br>
 <br>
+
+<b>Opening the box: new tools for distributed production (14:35 - 15:35)</b><br>
+Ben Lazarus, Stratasys <br>
+Paul Sohi, Autodesk <br>
+Bram Geenen and Rich Hulskes, Wevolver<br>
+Break (5min)<br>
+
+
+
+
 <b>Introduction to the Fab City<br></b>
 Tomas Diez <br>
 <a href="http://www.iaac.net" target="_blank">IAAC</a> - <a href="http://www.fablabbcn.org" target="_blank">Fab Lab Barcelona</a> - <a href="http://www.fab.city" target="_blank">Fab City</a><br>
