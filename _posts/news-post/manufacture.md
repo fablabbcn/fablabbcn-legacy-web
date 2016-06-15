@@ -2,7 +2,7 @@
 layout: blog_post
 type: event
 teaserlatest: blog_loop_latest/madeagainsmall.jpg
-teaserlist: blog_loop_latest/madeagaincartel-01.png
+teaserlist: blog_loop_latest/manufacture.jpg
 title: Made Again Conference
 meta: "Space10 and the Fab City Research Laboratory are launching a challenge for our designers and makers to reflect and act on how and why we make things."
 author: Maria Ustarroz
@@ -19,7 +19,7 @@ A series of inspirational talks to discover future scenarios in advanced manufac
 
 
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/madeagaincartel-01.png" align="middle"></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/manufacture.jpg" align="middle"></ul>
 
 
 
