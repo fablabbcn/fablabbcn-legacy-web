@@ -3,8 +3,8 @@ layout: blog_post
 type: event
 teaserlatest: blog_loop_latest/manufacturesmall.jpg
 teaserlist: blog_loop_latest/manufacture.jpg
-title: Made Again Conference
-meta: "Space10 and the Fab City Research Laboratory are launching a challenge for our designers and makers to reflect and act on how and why we make things."
+title: Manufacturing the future at In3dustry - Fira de Barcelona
+meta: "A series of inspirational talks to discover future scenarios in advanced manufacturing and distributed production, and understand how are going to transform our cities and society. Check out all the speakers involved"
 author: Maria Ustarroz
 date: 26/05/2016
 category: event
