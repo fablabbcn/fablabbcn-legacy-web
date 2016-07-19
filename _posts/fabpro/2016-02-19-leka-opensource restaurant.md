@@ -126,6 +126,8 @@ Leka is a restaurant manufactured locally in the Poble Nou district 22 @, develo
 <br>
 
 <i>Leka es un restaurante fabricado localmente en el barrio de Poblenou 22@, desarrollado y fabricado en Fablab Barcelona; que también forma parte del barrio. Una red local de distribuidores y ocios completan el proceso.</i><br>
+<br>
+<br>
 
 <!----- Image Slider ----------------------------- Image Slider -------------->
 
