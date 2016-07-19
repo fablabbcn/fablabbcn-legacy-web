@@ -149,7 +149,7 @@ The furniture is designed as a family. It’s geometry is inspired by the triang
 <h5>Joinery</h5>
 <h5><i>Uniones</i></h5>
 
-The construction of these furnitures is made with the same technique: a common design on the union between pieces. This union provides the necessary rigidity to withstand the continuous movement of the restaurant and allow quick assembly.<br>
+The construction of this furniture is made with the same technique: a common design on the union between pieces. This union provides the necessary rigidity to withstand the continuous movement of the restaurant and allow quick assembly.<br>
 
 <br>
 <br>
