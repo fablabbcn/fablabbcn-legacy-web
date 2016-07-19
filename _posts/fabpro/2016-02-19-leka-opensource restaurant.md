@@ -21,7 +21,7 @@ The restaurant is conceived as an open source platform, where all the knowledge 
 <br>
 The project is organized by families: furniture, acustic elements, interactive elements, etc. Each one requires a dierent constructive sistem, the furniture must be tough and prepared for a constant movement, ceiling with a geometry that breaks the sound, the paneling with perforations, etc. For the development, we create a special design program to each family, obtaining exportable and original systems. This design is based on developing common elements in each family.<br>
 <br>
-Thus, furniture construction system shares the same turn the dierent triangles of the ceiling and so on.<br>
+Thus, furniture construction system shares the same turn the different triangles of the ceiling and so on.<br>
 <br>
 
 <i>Leka es un restaurante desarrollado localmente en el barrio de Poblenou 22@ de Barcelona, es fabricado en Fab Lab Barcelona (que también forma parte del barrio) y una red local de distribuidores y socios completan el proceso.<br>
