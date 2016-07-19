@@ -142,7 +142,33 @@ The furniture is designed as a family. It’s geometry is inspired by the triang
 
 <br>
 
-####Chair
+
+####Joinery
+
+The construction of th different furnitures is made with the same technique: a common design on the union between pieces. This union provides the necessary rigidity to withstand the continuous movement of the restaurant and allow quick assembly.<br>
+
+<br>
+<br>
+
+<i>
+La construcción de los diferentes muebles se realiza con la misma técnica: un diseño común en la unión entre piezas. Esta unión proporciona la rigidez necesaria para soportar el continuo movimiento del restaurante y permitir un montaje rápido.  
+
+</i>
+
+<br>
+<br>
+
+<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/img01.jpg">
+
+
+<br>
+
+<br>
+<br>
+
+<br>
+<h4>Chair</h4>
+<h4><i>Silla</i></h4>
 
 
 Concebidas con ergonomía y para ser apiladas liberando espacio en el restaurante. 
@@ -483,23 +509,7 @@ Los taburetes tienen un diseño ergonómico, de nuevo, a base de triangulaciones
 <br>
 <br>
 <br>
-####Joinery
 
-
-La construcción de los diferentes muebles se realiza con la misma técnica: un diseño común en la unión entre piezas. Esta unión proporciona la rigidez necesaria para soportar el continuo movimiento del restaurante y permitir un montaje rápido.  
-
-<br>
-
-<br>
-<br>
-
-<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/img01.jpg">
-
-
-<br>
-
-<br>
-<br>
 <br>
 <br>
 <br>
