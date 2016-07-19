@@ -575,8 +575,9 @@ Mesas, taburetes y botellero diseñados por Miguel Guerrero
 <br>
 
 
-####Mueble de platos
 
+<h4>Cabinet for dishes</h4>
+<h4><i>Mueble de platos</i></h4>
 
 
 <br>
