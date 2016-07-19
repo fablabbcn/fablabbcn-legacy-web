@@ -82,7 +82,7 @@ que debido a su rigidez precisa de pocos puntos de sujeción.</i><br>
 <h4>Furniture</h4>
 <h4><i>Mobiliario</i></h4>
 <br>
-<h4>Modularity</h4>
+The furniture is designed as a family. It’s geometry is inspired by the triangulations of the project and it's adapted to the design requirements of each piece of furniture; thought to have multiple combinations depending on the changing configuration of the restaurant and to withstand constant movement.
 
 
 El mobiliario está concebido como una familia. Su geometría está inspirada en las triangulaciones del proyecto y se adapta a los requisitos de diseño de cada mueble; pensados para tener múltiples combinaciones según la configuración cambiante del restaurante y soportar un movimiento constante.
