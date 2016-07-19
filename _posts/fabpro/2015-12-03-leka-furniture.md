@@ -519,8 +519,9 @@ Los taburetes tienen un diseño ergonómico, de nuevo, a base de triangulaciones
 <br>
 <br>
 
+<h4>Bottle Rack</h4>
+<h4><i>Botellero</i></h4>
 
-####Botellero
 
 
 <br>
