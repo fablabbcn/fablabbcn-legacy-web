@@ -107,38 +107,32 @@ El proyecto se ordena en varias familias: mobiliario, elementos acústicos, elem
 
 <br>
 
-
-
-Thanks for the production digital media access, we can aord a whole prototyping process required for the production
-
-of non-standard systems. This phase was developed over a period of 8 months, and then we perform the manufacturing
-
-and assembly in minimum time.
-
-The design was developed and based on prototypes, scale models 1: 1, in which the principles of design, structure and
-
-manufacturing process are continuously related. Prototyping allows us to design depending on its result in the making,
-
-programming evolve the details until the system is ready for production. Thus, we substitute drawings, construction
-
-details, models, a series of full-scale prototypes. These non-standard designs are part of the web platform Leka . They can be downloaded and used to manufacture or incorporate them into other projects. So a customer can continue their experience Leka cooking an original recipe or manufactured any of your furniture.
+Thanks to digital production tools, we can aford the whole prototyping process required for the production of non-standard systems. This phase was developed over a period of 8 months, and then we perform the manufacturing and assembly in minimum time.<br>
+<br>
+The design was developed on a prototype basis, scale models 1:1, in which the principles of design, structure and manufacturing process are continuously related. Prototyping allows us to design depending on its result in the making, programming evolve the details until the system is ready for production. Thus, we substitute drawings, construction details, models, a series of full-scale prototypes. These non-standard designs are part of the web platform Leka . They can be downloaded and used to manufacture or incorporate them into other projects. So a customer can continue their experience Leka cooking an original recipe or manufactured any of your furniture.<br>
+<br>
 
 
 
+Gracias al acceso a los medios de producción digital, nos podemos permitir todo un proceso de prototipado necesario para la
 
+producción de sistemas no estándares. Esta fase se gestó durante un período de 8 meses, para luego realizar la fabricación y el
 
+montaje en un tiempo mínimo.
 
-<h4>Concepto y desarrollo.</h4>
+El diseño se desarrolla a base de prototipos, maquetas a escala 1:1, en las que se relacionan continuamente los principios de
 
-Leka es un restaurante fabricado localmente en el barrio de Poblenou 22@, desarrollado y fabricado en Fablab Barcelona; que también forma parte del barrio. Una red local de distribuidores y oficios completan el proceso.
+diseño, de estructura o del proceso de fabricación. El prototipado nos permite evolucionar el diseño en función de su resultado
 
-Leka es un restaurante familiar que integra cocina tradicional, innovación e interacción con sus clientes más allá de la comida. A través de la web, los clientes pueden monitorizar su consumo de calorías, descargarse recetas o descargarse los diseños con los que se ha construido el restaurante. De esta forma un cliente podrá seguir con el sabor del Leka cocinándose un plato típico o fabricándose alguno de sus muebles.
+en la fabricación, evolucionar la programación y evolucionar los detalles hasta que el sistema ya esté listo para su producción.
 
-El proyecto se ordena en varias familias: mobiliario, elementos acústicos, elementos interactivos, etc. Cada uno de ellos requiere de un sistema constructivo distinto, los muebles han de ser recios, preparados para un movimiento constante, el techo ligero, con una geometría que rompa el sonido... Para su desarrollo, creamos una definición paramétrica por cada familia; obteniendo sistemas exportables. De esta forma el mobiliario comparte la misma unión, a su vez los distintos triángulos del techo y así sucesivamente.
+De esta forma, substituimos planos, detalles constructivos, maquetas, por una serie de prototipos a escala real. Estos diseños no
 
-La fase de desarrollo y prototipado se gestó durante un período de 8 meses, para luego realizar la fabricación y el montaje en un tiempo mínimo. De esta forma se minimizan los costes de obra. Gracias al acceso a los medios de fabricación digital, nos podemos permitir todo un proceso de prototipado necesario para la producción de sistemas no estándares. El detalle constructivo está en la definición paramétrica, en el archivo; que se va desarrollando durante el prototipado y que podrá ser exportado a un siguiente proyecto.
+estándares forman parte de la plataforma web de Leka. Se pueden descargar y usar para fabricarlos o incorporarlos a otros
 
+proyectos. Por lo que un cliente podrá continuar su experiencia Leka cocinándose una receta original o fabricándose alguno de
 
+sus muebles.
 
 
 <br>
