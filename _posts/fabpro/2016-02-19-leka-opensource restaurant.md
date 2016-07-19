@@ -23,7 +23,8 @@ The project is organized by families: furniture, acustic elements, interactive e
 <br>
 Thus, furniture construction system shares the same turn the different triangles of the ceiling and so on.<br>
 <br>
-
+<br>
+<br>
 <i>Leka es un restaurante desarrollado localmente en el barrio de Poblenou 22@ de Barcelona, es fabricado en Fab Lab Barcelona (que también forma parte del barrio) y una red local de distribuidores y socios completan el proceso.<br>
 <br>
 El restaurante se concibe como una plataforma de código abierto, donde todo el conocimiento implicado es compartido, que le da carácter único. De esta forma, todos los diseños, las recetas, los consejos de nutrición, son descargables desde la web. <br>
