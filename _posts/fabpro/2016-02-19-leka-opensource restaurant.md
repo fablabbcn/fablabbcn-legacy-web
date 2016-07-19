@@ -109,7 +109,7 @@ El proyecto se ordena en varias familias: mobiliario, elementos acústicos, elem
 
 Thanks to digital production tools, we can aford the whole prototyping process required for the production of non-standard systems. This phase was developed over a period of 8 months, and then we perform the manufacturing and assembly in minimum time.<br>
 <br>
-The design was developed on a prototype basis, scale models 1:1, in which the principles of design, structure and manufacturing process are continuously related. Prototyping allows us to modificate the design depending on its result (in the making process), and evolve the programming and the details until the system is ready for production. Thus, we substitute drawings, construction details, models, a series of full-scale prototypes. These non-standard designs are part of the web platform Leka . They can be downloaded and used to manufacture or incorporate them into other projects. So a customer can continue their experience Leka cooking an original recipe or manufactured any of your furniture.<br>
+The design was developed on a prototype basis, scale models 1:1, in which the principles of design, structure and manufacturing process are continuously related. Prototyping allows us to modificate the design depending on its result (in the making process), and evolve the programming and the details until the system is ready for production. Thus, we substitute drawings, construction details, models, for a series of full-scale prototypes. These non-standard designs are part of the web platform Leka . They can be downloaded and used to manufacture or incorporate them into other projects. So a customer can continue their experience Leka cooking an original recipe or manufactured any of your furniture.<br>
 <br>
 
 
