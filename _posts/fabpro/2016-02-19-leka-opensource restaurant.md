@@ -19,9 +19,7 @@ Leka is a restaurant locally developped in Poble Nou 22@ neighborhood, it was ma
 <br>
 The restaurant is conceived as an open source platform, where all the knowledge is shared to everyone and gives it a unique character. By this way, all the designs, the recepies and the nutrition advice can be download from the restaurant web site.<br>
 <br>
-The project is organized by families: furniture, acustic elements, interactive elements, etc. Each one requires a dierent constructive sistem, the furniture must be tough and prepared for a constant movement, ceiling with a geometry that breaks the sound, the paneling with perforations, etc. For the development, we create a special design program to each family, obtaining exportable and original systems. This design is based on developing common elements in each family.<br>
-<br>
-Thus, furniture construction system shares the same turn the different triangles of the ceiling and so on.<br>
+The project is organized by families: furniture, acustic elements, interactive elements, etc. Each one requires a dierent constructive sistem, the furniture must be tough and prepared for a constant movement, ceiling with a geometry that breaks the sound, the paneling with perforations, etc. For the development, we create a special design program to each family, obtaining exportable and original systems. This design is based on developing common elements in each family. Thus, furniture construction system shares the same turn the different triangles of the ceiling and so on.<br>
 <br>
 <br>
 <br>
