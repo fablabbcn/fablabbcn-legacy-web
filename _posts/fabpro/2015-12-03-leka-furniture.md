@@ -28,6 +28,53 @@ The design is inspired by origami, for lightness and rigidity. It is a puzzle: n
 El diseño se inspira en el origami, para conseguir ligereza y rigidez. Es un puzzle, sin tornillos, sin pegamento; sólo encaje entre las piezas. El techo cuelga bajo una base de lana de roca que absorbe el sonido y se construye con nos tableros de 3.5mm acabados en abedul y unidos a presión; un sistema a modo de puzle 3D fácil de ensamblar. Su colocación es bastante simple, ya
 que debido a su rigidez precisa de pocos puntos de sujeción.</i><br>
 <br>
+
+<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/ceiling/gif_ceiling.gif">
+
+
+<br>
+<br>
+
+
+<!----- Image Slider ----------------------------- Image Slider -------------->
+
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel" >
+
+<!--------------- Wrapper for slides --------------->
+
+<div class="carousel-inner" role="listbox">
+   
+    <div class="item active">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/ceiling/img_1451.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/ceiling/img_1441.jpg" />
+    </div>
+    
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/ceiling/a1.png" />
+    </div>
+    
+</div> <!-- carousel inner -->
+
+<!-------------------- Controls --------------------->
+
+  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+  
+</div> <!-- carousel example generic -->
+
+<!----- Image Slider ----------------------------- Image Slider -------------->
+
+
+<br>
 <br>
 <br>
 
@@ -564,55 +611,8 @@ Diseño de Ingi Freyr.
 <br>
 
 
-Origami roof
 
 
-<img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/ceiling/gif_ceiling.gif">
-
-
-<br>
-<br>
-
-
-<!----- Image Slider ----------------------------- Image Slider -------------->
-
-<div id="carousel-example-generic" class="carousel slide" data-ride="carousel" >
-
-<!--------------- Wrapper for slides --------------->
-
-<div class="carousel-inner" role="listbox">
-   
-    <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/ceiling/img_1451.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/ceiling/img_1441.jpg" />
-    </div>
-    
-     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/ceiling/a1.png" />
-    </div>
-    
-</div> <!-- carousel inner -->
-
-<!-------------------- Controls --------------------->
-
-  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-  
-</div> <!-- carousel example generic -->
-
-<!----- Image Slider ----------------------------- Image Slider -------------->
-
-
-<br>
 
 
 
