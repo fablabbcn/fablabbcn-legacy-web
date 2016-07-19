@@ -89,7 +89,7 @@ que debido a su rigidez precisa de pocos puntos de sujeción.</i><br>
 The furniture is designed as a family. It’s geometry is inspired by the triangulations of the project and it's adapted to the design requirements of each piece of furniture; thought to have multiple combinations depending on the changing configuration of the restaurant and to withstand constant movement.<br>
 <br>
 <br>
-<i>El mobiliario está concebido como una familia. Su geometría está inspirada en las triangulaciones del proyecto y se adapta a los requisitos de diseño de cada mueble; pensados para tener múltiples combinaciones según la configuración cambiante del restaurante y soportar un movimiento constante.<br></i>
+<i>El mobiliario está concebido como una familia. Su geometría está inspirada en las triangulaciones del proyecto y se adapta a los requisitos de diseño de cada mueble; pensados para tener múltiples combinaciones según la configuración cambiante del restaurante y soportar un movimiento constante.</i>
 <br>
 
 
@@ -155,9 +155,7 @@ The construction of this furniture is made with the same technique: a common des
 <br>
 
 <i>
-La construcción de los diferentes muebles se realiza con la misma técnica: un diseño común en la unión entre piezas. Esta unión proporciona la rigidez necesaria para soportar el continuo movimiento del restaurante y permitir un montaje rápido.  
-
-</i>
+La construcción de los diferentes muebles se realiza con la misma técnica: un diseño común en la unión entre piezas. Esta unión proporciona la rigidez necesaria para soportar el continuo movimiento del restaurante y permitir un montaje rápido.</i>
 
 <br>
 <br>
@@ -244,9 +242,10 @@ Diseño de Ingi Freyr y Miguel Guerrero.
 <br>
 
 
-####Table for four
+<h5>Table for four</h5>
+<h5><i>Mesa para cuatro</i></h5>
 
-
+<br>
 Las mesas están pensadas para ser combinadas en distintas disposiciones, desde una composición lineal para una máxima densidad de comensales a una composición en conjunto para una gran mesa de celebraciones
 
 <br>
@@ -318,8 +317,9 @@ Las mesas están pensadas para ser combinadas en distintas disposiciones, desde 
 <br>
 <br>
 
+<h5>Table for two</h5>
+<h5><i>Mesa para dos</i></h5>
 
-####Table for two
 
 
 <br>
@@ -376,11 +376,10 @@ Las mesas están pensadas para ser combinadas en distintas disposiciones, desde 
 <br>
 
 
+<h5>High table</h5>
+<h5><i>Mesa alta</i></h5>
 
-
-####High table
-
-
+<br>
 Las mesas altas son triangulares en planta, se combinan en disposiciones lineales, orgánicas e incluso hexágonos. 
 
 <br>
@@ -441,8 +440,9 @@ Las mesas altas son triangulares en planta, se combinan en disposiciones lineale
 <br>
 <br>
 
+<h5>Stool</h5>
+<h5><i>Taburete</i></h5>
 
-####Stool
 
 
 Los taburetes tienen un diseño ergonómico, de nuevo, a base de triangulaciones. La mayoría se disponen en la barra, formando un alzado en el que las letras L – E – K – A juegan dentro del conjunto.
