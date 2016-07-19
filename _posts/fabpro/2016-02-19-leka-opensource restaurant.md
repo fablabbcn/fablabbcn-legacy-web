@@ -15,7 +15,7 @@ More info at <a href="http://www.restauranteleka.com" target="_blank">LEKA Resta
 <br>
 
 
-Leka is a restaurant locally developped in Poble Nou 22@ neighborhood, it was manufactured in Fab Lab Barcelona with the support of a net of local dealers and career oces who complete the process.<br>
+Leka is a restaurant locally developped in Poble Nou 22@ neighborhood, it was manufactured in Fab Lab Barcelona with the support of a net of local dealers and workshops who complete the process.<br>
 <br>
 The restaurant is conceived as an open source platform, where all the knowledge is shared to everyone and gives it a unique character. By this way, all the designs, the recepies and the nutrition advice can be download from the restaurant web site.<br>
 <br>
