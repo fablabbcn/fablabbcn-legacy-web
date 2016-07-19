@@ -22,7 +22,6 @@ The restaurant is conceived as an open source platform, where all the knowledge 
 The project is organized by families: furniture, acustic elements, interactive elements, etc. Each one requires a dierent constructive sistem, the furniture must be tough and prepared for a constant movement, ceiling with a geometry that breaks the sound, the paneling with perforations, etc. For the development, we create a special design program to each family, obtaining exportable and original systems. This design is based on developing common elements in each family. Thus, furniture construction system shares the same turn the different triangles of the ceiling and so on.<br>
 <br>
 <br>
-<br>
 <i>Leka es un restaurante desarrollado localmente en el barrio de Poblenou 22@ de Barcelona, es fabricado en Fab Lab Barcelona (que también forma parte del barrio) y una red local de distribuidores y socios completan el proceso.<br>
 <br>
 El restaurante se concibe como una plataforma de código abierto, donde todo el conocimiento implicado es compartido, que le da carácter único. De esta forma, todos los diseños, las recetas, los consejos de nutrición, son descargables desde la web. <br>
@@ -109,7 +108,6 @@ El proyecto se ordena en varias familias: mobiliario, elementos acústicos, elem
 Thanks to digital production tools, we can afford the whole prototyping process required for the production of non-standard systems. This phase was developed over a period of 8 months, and then we perform the manufacturing and assembly in minimum time.<br>
 <br>
 The design was developed on a prototype basis, scale models 1:1, in which the principles of design, structure and manufacturing process are continuously related. Prototyping allows us to modificate the design depending on its result (in the making process), and evolve the programming and the details until the system is ready for production. Thus, we substitute drawings, construction details, models, for a series of full-scale prototypes. These non-standard designs are part of the web platform Leka. They can be downloaded and used to manufacture or incorporate them into other projects. So the customer can continue his Leka experience cooking an original recipe or manufacturing any of its furniture.<br>
-<br>
 <br>
 <br>
 
