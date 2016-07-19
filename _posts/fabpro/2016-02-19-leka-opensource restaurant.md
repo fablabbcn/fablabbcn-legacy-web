@@ -32,7 +32,7 @@ El proyecto se ordena en varias familias: mobiliario, elementos acústicos, elem
 <br>
 Descubre todos los <a href="http://fablabbcn.org/2015/12/03/leka-furniture.html" target="_blank">elementos Leka</a>
 </i><br>
-
+<br>
 
 <br>
 
@@ -44,10 +44,7 @@ Descubre todos los <a href="http://fablabbcn.org/2015/12/03/leka-furniture.html"
 <!--------------- Wrapper for slides --------------->
 
 <div class="carousel-inner" role="listbox">
-   
-    <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-054.jpg" />
-    </div>
+
     
     <div class="item">
       <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-102.jpg" />
