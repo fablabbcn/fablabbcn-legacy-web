@@ -109,7 +109,7 @@ El proyecto se ordena en varias familias: mobiliario, elementos acústicos, elem
 
 Thanks to digital production tools, we can aford the whole prototyping process required for the production of non-standard systems. This phase was developed over a period of 8 months, and then we perform the manufacturing and assembly in minimum time.<br>
 <br>
-The design was developed on a prototype basis, scale models 1:1, in which the principles of design, structure and manufacturing process are continuously related. Prototyping allows us to design depending on its result in the making, programming evolve the details until the system is ready for production. Thus, we substitute drawings, construction details, models, a series of full-scale prototypes. These non-standard designs are part of the web platform Leka . They can be downloaded and used to manufacture or incorporate them into other projects. So a customer can continue their experience Leka cooking an original recipe or manufactured any of your furniture.<br>
+The design was developed on a prototype basis, scale models 1:1, in which the principles of design, structure and manufacturing process are continuously related. Prototyping allows us to modificate the design depending on its result (in the making process), and evolve the programming and the details until the system is ready for production. Thus, we substitute drawings, construction details, models, a series of full-scale prototypes. These non-standard designs are part of the web platform Leka . They can be downloaded and used to manufacture or incorporate them into other projects. So a customer can continue their experience Leka cooking an original recipe or manufactured any of your furniture.<br>
 <br>
 
 
@@ -117,10 +117,7 @@ The design was developed on a prototype basis, scale models 1:1, in which the pr
 <i>Gracias al acceso a los medios de producción digital, nos podemos permitir todo un proceso de prototipado necesario para la producción de sistemas no estándares. Esta fase se gestó durante un período de 8 meses, para luego realizar la fabricación y el montaje en un tiempo mínimo.<br>
 <br>
 
-El diseño se desarrolla a base de prototipos, maquetas a escala 1:1, en las que se relacionan continuamente los principios de diseño, de estructura o del proceso de fabricación. El prototipado nos permite evolucionar el diseño en función de su resultado en la fabricación, evolucionar la programación y evolucionar los detalles hasta que el sistema ya esté listo para su producción.<br>
-<br>
-
-De esta forma, substituimos planos, detalles constructivos, maquetas, por una serie de prototipos a escala real. Estos diseños no estándares forman parte de la plataforma web de Leka. Se pueden descargar y usar para fabricarlos o incorporarlos a otros proyectos. Por lo que un cliente podrá continuar su experiencia Leka cocinándose una receta original o fabricándose alguno de sus muebles.</i><br>
+El diseño se desarrolla a base de prototipos, maquetas a escala 1:1, en las que se relacionan continuamente los principios de diseño, de estructura o del proceso de fabricación. El prototipado nos permite evolucionar el diseño en función de su resultado en la fabricación, evolucionar la programación y evolucionar los detalles hasta que el sistema ya esté listo para su producción. De esta forma, substituimos planos, detalles constructivos, maquetas, por una serie de prototipos a escala real. Estos diseños no estándares forman parte de la plataforma web de Leka. Se pueden descargar y usar para fabricarlos o incorporarlos a otros proyectos. Por lo que un cliente podrá continuar su experiencia Leka cocinándose una receta original o fabricándose alguno de sus muebles.</i><br>
 <br>
 
 
