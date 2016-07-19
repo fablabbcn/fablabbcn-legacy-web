@@ -82,6 +82,10 @@ que debido a su rigidez precisa de pocos puntos de sujeción.</i><br>
 <h4>Furniture</h4>
 <h4><i>Mobiliario</i></h4>
 <br>
+<h5>Modularity</h5>
+<h5><i>Modularidad</i></h5>
+<br>
+
 The furniture is designed as a family. It’s geometry is inspired by the triangulations of the project and it's adapted to the design requirements of each piece of furniture; thought to have multiple combinations depending on the changing configuration of the restaurant and to withstand constant movement.<br>
 <br>
 <br>
