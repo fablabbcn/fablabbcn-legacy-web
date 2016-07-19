@@ -15,6 +15,23 @@ More info at <a href="http://www.restauranteleka.com" target="_blank">LEKA Resta
 <br>
 <br>
 
+<h4>Origami Roof</h4>
+<h4><i>Techo de Origami</i></h4>
+<br>
+The acustic roof is conceived as a triangular mesh that breaks the sound waves; thus dispelling the reverberation.<br>
+<br>
+The design is inspired by origami, for lightness and rigidity. It is a puzzle: no screws, no glue; the pieces join between each other. The roof hangs under a base of rock wool that absorbs sound and is constructed in 3.5mm boards nished in birch and joined under pressure; it is a system that works as a 3D puzzle, easy to assemble. Their placement is quite simple, since due to its rigidity few precise attachment points.<br>
+<br>
+<br>
+<i>El techo acústico se concibe como una malla triangular que rompe la onda sonora; disipando así la reverberación.<br>
+<br>
+El diseño se inspira en el origami, para conseguir ligereza y rigidez. Es un puzzle, sin tornillos, sin pegamento; sólo encaje entre las piezas. El techo cuelga bajo una base de lana de roca que absorbe el sonido y se construye con nos tableros de 3.5mm acabados en abedul y unidos a presión; un sistema a modo de puzle 3D fácil de ensamblar. Su colocación es bastante simple, ya
+que debido a su rigidez precisa de pocos puntos de sujeción.</i><br>
+<br>
+<br>
+<br>
+
+
 <h4>Modularity</h4>
 
 
