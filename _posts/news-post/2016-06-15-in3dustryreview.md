@@ -10,6 +10,9 @@ date: 20/07/2016
 category: news
 ---
 
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/manufacture.jpg" align="middle"></ul>
+
+<br>
 The first edition of IN(3D)USTRY From Needs to
 Solutions, has underlined the fact that the so-called
 Fourth Industrial Revolution, starring additive
@@ -21,7 +24,9 @@ automotive industry, health and consumer products,
 and to facilitate business contacts between companies
 and end users.<br>
 <br>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/manufacture.jpg" align="middle"></ul>
 
+<br>
 The event, co-organized by Fab City Research Lab, featured more than one hundred prestigious
 speakers from a very representative spectrum of the
 economic and social ecosystem that has flourished around
@@ -50,7 +55,9 @@ From Needs to Solutions, 40% were in senior management
 and 60% were purchasing influencers, which further
 underlines the importance of the event to the sector.<br>
 <br>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/manufacture.jpg" align="middle"></ul>
 
+<br>
 The director of IN(3D)USTRY From Needs to Solutions,
 Miquel Serrano, expressed his satisfaction at the fact that
 "over the course of these last three days, Barcelona has
@@ -74,7 +81,9 @@ are on the threshold of a new economic model which will
 also see the widespread use of open collaboration
 programmes.<br>
 <br>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/manufacture.jpg" align="middle"></ul>
 
+<br>
 The vice-president and general manager of HP 3D Printing,
 Ramón Pastor, said in his presentation that "3D printing is
 transforming industrial production models, heralding a
@@ -102,7 +111,9 @@ envisages "huge opportunities in 3D technology for
 designing, customising and repairing products and giving
 them a new life".<br>
 <br>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/manufacture.jpg" align="middle"></ul>
 
+<br>
 The director of Technology Transfer at Acciona, José Daniel García, noted that 'with additive
 manufacturing, if you can design it, you can print it.'
 At its first edition, the event enjoyed the support of
@@ -113,7 +124,10 @@ Directorate General for Industry, ACCIÓ and the Zona Franca
 Consortium.<br>
 <br>
 
-<strong>Check out <a href="http://makerpro.fab.city/">In3dustry photo gallery</a></strong>
+<strong>Check out <a href="http://makerpro.fab.city/">In3dustry photo gallery</a></strong><br>
+<br>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/manufacture.jpg" align="middle"></ul>
 
+<br>
 
 ---
