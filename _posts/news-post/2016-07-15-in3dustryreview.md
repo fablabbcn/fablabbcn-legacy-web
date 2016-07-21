@@ -1,6 +1,6 @@
 ---
 layout: blog_post
-type: news
+type: blog
 teaserlatest: blog_loop_latest/in3dsmall.jpg
 teaserlist: blog_loop_latest/in3d5.jpg
 title: In3dustry: from needs to solutions
