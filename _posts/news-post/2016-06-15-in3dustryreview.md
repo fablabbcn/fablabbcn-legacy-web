@@ -111,7 +111,7 @@ envisages "huge opportunities in 3D technology for
 designing, customising and repairing products and giving
 them a new life".<br>
 <br>
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/manufacture.jpg" align="middle"></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/in3d7.jpg" align="middle"></ul>
 
 <br>
 The director of Technology Transfer at Acciona, José Daniel García, noted that 'with additive
