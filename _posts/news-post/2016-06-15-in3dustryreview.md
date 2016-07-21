@@ -110,7 +110,8 @@ Barcelona City Council through Barcelona Activa, the Catalan
 Government through the Secretariat for Governance of
 Information and Communication Technologies, the
 Directorate General for Industry, ACCIÓ and the Zona Franca
-Consortium.
+Consortium.<br>
+<br>
 
 <strong>Check out <a href="http://makerpro.fab.city/">In3dustry photo gallery</a></strong>
 
