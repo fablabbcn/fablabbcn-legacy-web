@@ -3,7 +3,7 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/in3dsmall.jpg
 teaserlist: blog_loop_latest/in3d5.jpg
-title: "In3dustry: from needs to solutions"
+title: "IN(3D)USTRY From Needs to Solutions"
 meta: "IN(3D)USTRY proves that the 3D revolution has already started to transform industry"
 author: Maria Ustarroz
 date: 20/07/2016
