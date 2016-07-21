@@ -23,19 +23,11 @@ Leka is a restaurant manufactured locally in the Poble Nou district 22 @, develo
 <h4>Origami Roof and panelling</h4>
 <h4><i>Techo de Origami y panelado</i></h4>
 <br>
-The false ceiling design is inspired by origami, for lightness and rigidity.
-
-Its acoustical performance is due to its geometry, which breaks the sound wave; thus dispelling the reverberation. The roof hangs under a base of rock wool sound absorbing.
-
-It is built with fine finishes boards 3.5mm birch and bonded under pressure; a system as a 3D puzzle easy to assemble. Their placement is quite simple, since due to its rigidity few precise attachment points.
-
-Paneling draw a free line the walls of the restaurant and reminiscent of origami roof lines. It consists of conical holes that lead the sound wave inside, where they are absorbed with mineral wool.
-
-
-
-The acustic roof is conceived as a triangular mesh that breaks the sound waves; thus dispelling the reverberation.<br>
+The false ceiling design is inspired by origami, for lightness and rigidity.<br>
 <br>
-The design is inspired by origami, for lightness and rigidity. It is a puzzle: no screws, no glue; the pieces join between each other. The roof hangs under a base of rock wool that absorbs sound and is constructed in 3.5mm boards nished in birch and joined under pressure; it is a system that works as a 3D puzzle, easy to assemble. Their placement is quite simple, since due to its rigidity few precise attachment points.<br>
+Its acoustical performance is due to its geometry, which breaks the sound wave; thus dispelling the reverberation. The roof hangs under a base of rock wool that is sound absorbing. It is built with 3.5 mm thin birch boards bonded under pressure; it is a system that works as a 3D puzzle, easy to assemble. Their placement is quite simple, since due to its rigidity it requires few attachment points.<br>
+<br>
+Paneling draws a free line through the walls of the restaurant that reminds of the origami roof lines. It consists of conical holes that lead the sound wave inside, where they are absorbed with the mineral wool.<br>
 <br>
 <br>
 <i>
