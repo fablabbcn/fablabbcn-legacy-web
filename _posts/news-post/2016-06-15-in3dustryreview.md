@@ -33,7 +33,7 @@ the trade show area featured the leading manufacturers of
 amongst others.<br>
 <br>
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/manufacture.jpg" align="middle"></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/puigdemont.jpg" align="middle"></ul>
 
 <strong>Check out all the <a href="http://makerpro.fab.city/">Maker Pro projects, talks and exhibitors</a></strong>
 <br>
