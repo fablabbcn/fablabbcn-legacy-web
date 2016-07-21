@@ -446,9 +446,8 @@ Las mesas altas son triangulares en planta, se combinan en disposiciones lineale
 The stools are ergonomically designed, again, based on triangulations. Most are arranged in the bar, forming an elevation which letters L - E - K - A play within the set.<br>
 <br>
 <br>
-<i>
-
-Los taburetes tienen un diseño ergonómico, de nuevo, a base de triangulaciones. La mayoría se disponen en la barra, formando un alzado en el que las letras L – E – K – A juegan dentro del conjunto.</i><br>
+<i>Los taburetes tienen un diseño ergonómico, de nuevo, a base de triangulaciones. La mayoría se disponen en la barra, formando un alzado en el que las letras L – E – K – A juegan dentro del conjunto.</i>
+<br>
 
 <br>
 <br>
