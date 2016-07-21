@@ -10,7 +10,7 @@ date: 20/07/2016
 category: news
 ---
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/manufacture.jpg" align="middle"></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/in3d1.jpg" align="middle"></ul>
 
 <br>
 The first edition of IN(3D)USTRY From Needs to
@@ -71,7 +71,7 @@ revolution"'.<br>
 <br>
 
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/manufacture.jpg" align="middle"></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/in3d8.jpg" align="middle"></ul>
 
 
 
