@@ -20,15 +20,38 @@ Leka is a restaurant manufactured locally in the Poble Nou district 22 @, develo
 <i>Leka es un restaurante fabricado localmente en el barrio de Poblenou 22@, desarrollado y fabricado en Fablab Barcelona; que también forma parte del barrio. Una red local de distribuidores y ocios completan el proceso.</i><br>
 <br>
 <br>
-<h4>Origami Roof</h4>
-<h4><i>Techo de Origami</i></h4>
+<h4>Origami Roof and panelling</h4>
+<h4><i>Techo de Origami y panelado</i></h4>
 <br>
+The false ceiling design is inspired by origami, for lightness and rigidity.
+
+Its acoustical performance is due to its geometry, which breaks the sound wave; thus dispelling the reverberation. The roof hangs under a base of rock wool sound absorbing.
+
+It is built with fine finishes boards 3.5mm birch and bonded under pressure; a system as a 3D puzzle easy to assemble. Their placement is quite simple, since due to its rigidity few precise attachment points.
+
+Paneling draw a free line the walls of the restaurant and reminiscent of origami roof lines. It consists of conical holes that lead the sound wave inside, where they are absorbed with mineral wool.
+
+
+
 The acustic roof is conceived as a triangular mesh that breaks the sound waves; thus dispelling the reverberation.<br>
 <br>
 The design is inspired by origami, for lightness and rigidity. It is a puzzle: no screws, no glue; the pieces join between each other. The roof hangs under a base of rock wool that absorbs sound and is constructed in 3.5mm boards nished in birch and joined under pressure; it is a system that works as a 3D puzzle, easy to assemble. Their placement is quite simple, since due to its rigidity few precise attachment points.<br>
 <br>
 <br>
-<i>El techo acústico se concibe como una malla triangular que rompe la onda sonora; disipando así la reverberación.<br>
+<i>
+El diseño del falso techo se inspira en el origami, para conseguir ligereza y rigidez.
+
+Su funcionamiento acústico se debe a su geometría, que rompe la onda sonora; disipando así la reverberación. El techo cuelga bajo una base de lana de roca que absorbe el sonido.
+
+Se construye con finos tableros de 3.5mm acabados en abedul y unidos a presión; un sistema a modo de puzle 3D fácil de ensamblar. Su colocación es bastante simple, ya que debido a su rigidez precisa de pocos puntos de sujeción.
+
+El panelado dibuja un trazo libre por las paredes del restaurante y que recuerda a las líneas del techo origami. Está compuesto de perforaciones cónicas que conducen la onda sonora al interior, donde se absorben con lana mineral.
+
+
+
+
+
+El techo acústico se concibe como una malla triangular que rompe la onda sonora; disipando así la reverberación.<br>
 <br>
 El diseño se inspira en el origami, para conseguir ligereza y rigidez. Es un puzzle, sin tornillos, sin pegamento; sólo encaje entre las piezas. El techo cuelga bajo una base de lana de roca que absorbe el sonido y se construye con nos tableros de 3.5mm acabados en abedul y unidos a presión; un sistema a modo de puzle 3D fácil de ensamblar. Su colocación es bastante simple, ya
 que debido a su rigidez precisa de pocos puntos de sujeción.</i><br>
