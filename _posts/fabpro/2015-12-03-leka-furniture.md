@@ -569,8 +569,6 @@ Tables, stools and bottle rack designed by Miguel Guerrero<br>
 <br>
 <br>
 <br>
-<br>
-
 
 
 <h4>Cabinet for dishes</h4>
@@ -620,6 +618,7 @@ Tables, stools and bottle rack designed by Miguel Guerrero<br>
 
 <!----- Image Slider ----------------------------- Image Slider -------------->
 
+<br>
 <br>
 Diseño de Ingi Freyr.
 <br>
