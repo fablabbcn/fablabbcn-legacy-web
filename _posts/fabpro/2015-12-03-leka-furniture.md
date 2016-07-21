@@ -170,12 +170,13 @@ La construcción de los diferentes muebles se realiza con la misma técnica: un 
 <h5>Chair</h5>
 <h5><i>Silla</i></h5>
 
-Ergonomically designed to be stacked and save space in the restaurant.
-
-Concebidas con ergonomía y para ser apiladas liberando espacio en el restaurante. 
-
-
+Ergonomically designed to be stacked and save space in the restaurant.<br>
 <br>
+<br>
+<i>Concebidas con ergonomía y para ser apiladas liberando espacio en el restaurante. </i>
+<br>
+
+
 
 <br>
 
