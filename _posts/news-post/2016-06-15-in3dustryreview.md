@@ -126,7 +126,7 @@ Consortium.<br>
 
 <strong>Check out <a href="http://makerpro.fab.city/">In3dustry photo gallery</a></strong><br>
 <br>
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/manufacture.jpg" align="middle"></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/in3d9.jpg" align="middle"></ul>
 
 <br>
 
