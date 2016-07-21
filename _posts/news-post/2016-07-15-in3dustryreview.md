@@ -13,11 +13,11 @@ category: news
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/in3d1.jpg" align="middle"></ul>
 
 <br>
-The first edition of IN(3D)USTRY From Needs to Solutions, has underlined the fact that the so-called
+<h4>The first edition of IN(3D)USTRY From Needs to Solutions, has underlined the fact that the so-called
 Fourth Industrial Revolution, starring additive manufacturing and the digitalisation of production
 processes, is already well underway. The event served to showcase the current applications and future challenges
 of this technology in fields such as architecture, the automotive industry, health and consumer products,
-and to facilitate business contacts between companies and end users.<br>
+and to facilitate business contacts between companies and end users.</h4><br>
 <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/in3d5.jpg" align="middle"></ul>
 
