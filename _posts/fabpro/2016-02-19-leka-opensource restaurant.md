@@ -15,7 +15,7 @@ More info at <a href="http://www.restauranteleka.com" target="_blank">LEKA Resta
 <br>
 
 
-Leka is a restaurant locally developped in Poble Nou 22@ neighborhood, it was manufactured in Fab Lab Barcelona with the support of a net of local dealers and workshops who complete the process.<br>
+Leka is a restaurant locally manufactured in Poble Nou 22@ neighborhood, it was developed and manufactured in Fab Lab Barcelona with the support of a net of local dealers and workshops.<br>
 <br>
 The restaurant is conceived as an open source platform, where all the knowledge is shared to everyone and gives it a unique character. By this way, all the designs, the recepies and the nutrition advice can be download from the restaurant web site.<br>
 <br>
@@ -24,12 +24,44 @@ The project is organized by families: furniture, acustic elements, interactive e
 <b>Check out all the <a href="http://fablabbcn.org/2015/12/03/leka-furniture.html" target="_blank">Leka elements</a></b>
 <br>
 <br>
-<i>Leka es un restaurante desarrollado localmente en el barrio de Poblenou 22@ de Barcelona, es fabricado en Fab Lab Barcelona (que también forma parte del barrio) y una red local de distribuidores y socios completan el proceso.<br>
+<i>Leka es un restaurante fabricado localmente en el barrio de Poblenou 22@ de Barcelona, desarrollado y fabricado en Fablab Barcelona en colaboración con una red local de distribuidores y oficios.<br>
 <br>
 El restaurante se concibe como una plataforma de código abierto, donde todo el conocimiento implicado es compartido, que le da carácter único. De esta forma, todos los diseños, las recetas, los consejos de nutrición, son descargables desde la web. <br>
 <br>
 El proyecto se ordena en varias familias: mobiliario, elementos acústicos, elementos interactivos, etc. Cada uno de ellos requiere de un sistema constructivo distinto, los muebles han de ser recios y preparados para un movimiento constante, el techo ligero con una geometría que rompa el sonido, los panelados con perforaciones, etc... Para su desarrollo, creamos un diseño programado por cada familia; obteniendo sistemas exportables y originales. Este diseño se basa en desarrollar los elementos comunes en cada familia. De esta forma el mobiliario comparte el mismo sistema constructivo, a su vez los distintos triángulos del techo y así sucesivamente.<br>
 <br>
+
+ El restaurante se concibe como una plataforma de código abierto,
+
+donde todo el conocimiento implicado, y que le da carácter, es compartido. De esta forma,
+
+todos los diseños, las recetas, los consejos de nutrición, son descargables desde la web.
+
+El proyecto se ordena en varias familias: mobiliario, elementos acústicos, elementos
+
+interactivos, etc. Cada uno de ellos requiere de un sistema constructivo distinto, los muebles
+
+han de ser recios, preparados para un movimiento constante, el techo ligero, con una
+
+geometría que rompa el sonido, los panelados con perforaciones, etc... Para su desarrollo,
+
+creamos un diseño programado por cada familia; obteniendo sistemas exportables y
+
+originales. Este diseño se basa en desarrollar los elementos comunes en cada familia. De esta
+
+forma el mobiliario comparte el mismo sistema constructivo, a su vez los distintos triángulos
+
+del techo y así sucesivamente.
+
+
+
+
+
+
+
+
+
+
 <b>Descubre todos los <a href="http://fablabbcn.org/2015/12/03/leka-furniture.html" target="_blank">elementos Leka</a></b>
 </i><br>
 <br>
