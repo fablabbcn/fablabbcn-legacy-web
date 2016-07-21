@@ -374,8 +374,14 @@ Las mesas están pensadas para ser combinadas en distintas disposiciones, desde 
 <h5><i>Mesa alta</i></h5>
 
 <br>
-Las mesas altas son triangulares en planta, se combinan en disposiciones lineales, orgánicas e incluso hexágonos. 
 
+High tables are triangular in plan. They are combined in linear, organic and even hexagonal arrangements.<br>
+<br>
+<br>
+<i>
+
+
+Las mesas altas son triangulares en planta, se combinan en disposiciones lineales, orgánicas e incluso hexágonos. </i><br>
 <br>
 <br>
 
