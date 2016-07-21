@@ -13,7 +13,6 @@ More info at <a href="http://www.restauranteleka.com" target="_blank">LEKA Resta
 <br>
 <br>
 <br>
-<br>
 Leka is a restaurant manufactured locally in the Poble Nou district 22 @, developed and manufactured in Fablab Barcelona; which is also part of the neighborhood. A local network of distributors and trades complete the process.<br>
 <br>
 
@@ -172,7 +171,6 @@ La construcción de los diferentes muebles se realiza con la misma técnica: un 
 
 Ergonomically designed to be stacked and save space in the restaurant.<br>
 <br>
-<br>
 <i>Concebidas con ergonomía y para ser apiladas liberando espacio en el restaurante. </i>
 <br>
 
@@ -232,11 +230,10 @@ Ergonomically designed to be stacked and save space in the restaurant.<br>
 
 <!----- Image Slider ----------------------------- Image Slider -------------->
 
-
+<br>
 <br>
 
 Diseño de Ingi Freyr y Miguel Guerrero.
-<br>
 <br>
 <br>
 <br>
@@ -247,7 +244,6 @@ Diseño de Ingi Freyr y Miguel Guerrero.
 
 <br>
 The tables are designed to be combined in different arrangements, from a linear composition for a maximum density of diners to a combined composition for a large celebrations' table.<br>
-<br>
 <br>
 <i>
 Las mesas están pensadas para ser combinadas en distintas disposiciones, desde una composición lineal para una máxima densidad de comensales a una composición en conjunto para una gran mesa de celebraciones.</i>
