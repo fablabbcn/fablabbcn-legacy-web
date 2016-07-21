@@ -14,7 +14,12 @@ More info at <a href="http://www.restauranteleka.com" target="_blank">LEKA Resta
 <br>
 <br>
 <br>
+Leka is a restaurant manufactured locally in the Poble Nou district 22 @, developed and manufactured in Fablab Barcelona; which is also part of the neighborhood. A local network of distributors and trades complete the process.<br>
+<br>
 
+<i>Leka es un restaurante fabricado localmente en el barrio de Poblenou 22@, desarrollado y fabricado en Fablab Barcelona; que también forma parte del barrio. Una red local de distribuidores y ocios completan el proceso.</i><br>
+<br>
+<br>
 <h4>Origami Roof</h4>
 <h4><i>Techo de Origami</i></h4>
 <br>
