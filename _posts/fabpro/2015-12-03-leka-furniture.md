@@ -510,10 +510,7 @@ The stools are ergonomically designed, again, based on triangulations. Most are 
 <br>
 <br>
 
-<br>
-<br>
-<br>
-<br>
+
 
 <h4>Bottle Rack</h4>
 <h4><i>Botellero</i></h4>
