@@ -31,22 +31,11 @@ Paneling draws a free line through the walls of the restaurant that reminds of t
 <br>
 <br>
 <i>
-El diseño del falso techo se inspira en el origami, para conseguir ligereza y rigidez.
-
-Su funcionamiento acústico se debe a su geometría, que rompe la onda sonora; disipando así la reverberación. El techo cuelga bajo una base de lana de roca que absorbe el sonido.
-
-Se construye con finos tableros de 3.5mm acabados en abedul y unidos a presión; un sistema a modo de puzle 3D fácil de ensamblar. Su colocación es bastante simple, ya que debido a su rigidez precisa de pocos puntos de sujeción.
-
-El panelado dibuja un trazo libre por las paredes del restaurante y que recuerda a las líneas del techo origami. Está compuesto de perforaciones cónicas que conducen la onda sonora al interior, donde se absorben con lana mineral.
-
-
-
-
-
-El techo acústico se concibe como una malla triangular que rompe la onda sonora; disipando así la reverberación.<br>
+El diseño del falso techo se inspira en el origami, para conseguir ligereza y rigidez.<br>
 <br>
-El diseño se inspira en el origami, para conseguir ligereza y rigidez. Es un puzzle, sin tornillos, sin pegamento; sólo encaje entre las piezas. El techo cuelga bajo una base de lana de roca que absorbe el sonido y se construye con nos tableros de 3.5mm acabados en abedul y unidos a presión; un sistema a modo de puzle 3D fácil de ensamblar. Su colocación es bastante simple, ya
-que debido a su rigidez precisa de pocos puntos de sujeción.</i><br>
+Su funcionamiento acústico se debe a su geometría, que rompe la onda sonora; disipando así la reverberación. El techo cuelga bajo una base de lana de roca que absorbe el sonido. Se construye con finos tableros de 3.5mm acabados en abedul y unidos a presión; un sistema a modo de puzle 3D fácil de ensamblar. Su colocación es bastante simple, ya que debido a su rigidez precisa de pocos puntos de sujeción.<br>
+<br>
+El panelado dibuja un trazo libre por las paredes del restaurante y que recuerda a las líneas del techo origami. Está compuesto de perforaciones cónicas que conducen la onda sonora al interior, donde se absorben con lana mineral.</i><br>
 <br>
 
 <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/ceiling/gif_ceiling.gif">
