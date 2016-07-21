@@ -561,6 +561,7 @@ The stools are ergonomically designed, again, based on triangulations. Most are 
 <!----- Image Slider ----------------------------- Image Slider -------------->
 
 <br>
+<br>
 Tables, stools and bottle rack designed by Miguel Guerrero<br>
 <br>
 
