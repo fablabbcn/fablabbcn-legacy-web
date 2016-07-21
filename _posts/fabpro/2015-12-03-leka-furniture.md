@@ -242,12 +242,16 @@ Diseño de Ingi Freyr y Miguel Guerrero.
 <br>
 
 
-<h5>Table for four</h5>
-<h5><i>Mesa para cuatro</i></h5>
+<h5>Table for two and four</h5>
+<h5><i>Mesa para dos y cuatro</i></h5>
 
 <br>
-Las mesas están pensadas para ser combinadas en distintas disposiciones, desde una composición lineal para una máxima densidad de comensales a una composición en conjunto para una gran mesa de celebraciones
-
+The tables are designed to be combined in different arrangements, from a linear composition for a maximum density of diners to a combined composition for a large celebrations' table.<br>
+<br>
+<br>
+<i>
+Las mesas están pensadas para ser combinadas en distintas disposiciones, desde una composición lineal para una máxima densidad de comensales a una composición en conjunto para una gran mesa de celebraciones.</i>
+<br>
 <br>
 <br>
 
@@ -313,17 +317,7 @@ Las mesas están pensadas para ser combinadas en distintas disposiciones, desde 
 
 <br>
 <br>
-<br>
-<br>
-<br>
 
-<h5>Table for two</h5>
-<h5><i>Mesa para dos</i></h5>
-
-
-
-<br>
-<br>
 
 
 
@@ -373,7 +367,7 @@ Las mesas están pensadas para ser combinadas en distintas disposiciones, desde 
 <br>
 <br>
 <br>
-<br>
+
 
 
 <h5>High table</h5>
