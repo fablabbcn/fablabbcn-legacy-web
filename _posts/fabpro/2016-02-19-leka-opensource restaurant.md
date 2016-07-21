@@ -46,7 +46,7 @@ El proyecto se ordena en varias familias: mobiliario, elementos acústicos, elem
 <div class="carousel-inner" role="listbox">
 
     
-    <div class="item">
+    <div class="item active">
       <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-102.jpg" />
     </div>
     
