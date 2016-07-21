@@ -572,7 +572,10 @@ Los taburetes tienen un diseño ergonómico, de nuevo, a base de triangulaciones
 <!----- Image Slider ----------------------------- Image Slider -------------->
 
 <br>
-Mesas, taburetes y botellero diseñados por Miguel Guerrero
+Tables, stools and bottle rack designed by Miguel Guerrero<br>
+<br>
+
+<i>Mesas, taburetes y botellero diseñados por Miguel Guerrero</i>
 <br>
 <br>
 <br>
