@@ -174,8 +174,8 @@ La construcción de los diferentes muebles se realiza con la misma técnica: un 
 <br>
 
 <br>
-<h4>Chair</h4>
-<h4><i>Silla</i></h4>
+<h5>Chair</h5>
+<h5><i>Silla</i></h5>
 
 
 Concebidas con ergonomía y para ser apiladas liberando espacio en el restaurante. 
