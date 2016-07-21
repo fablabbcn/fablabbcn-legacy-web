@@ -124,7 +124,7 @@ Directorate General for Industry, ACCIÓ and the Zona Franca
 Consortium.<br>
 <br>
 
-<strong>Check out <a href="http://makerpro.fab.city/">In3dustry photo gallery</a></strong><br>
+<strong>Check out <a href="https://www.facebook.com/117274535021472/photos/?tab=album&album_id=1065840466831536">In3dustry photo gallery</a></strong><br>
 <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/in3d9.jpg" align="middle"></ul>
 
