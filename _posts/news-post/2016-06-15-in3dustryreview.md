@@ -24,7 +24,7 @@ automotive industry, health and consumer products,
 and to facilitate business contacts between companies
 and end users.<br>
 <br>
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/manufacture.jpg" align="middle"></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/in3d5.jpg" align="middle"></ul>
 
 <br>
 The event, co-organized by Fab City Research Lab, featured more than one hundred prestigious
@@ -55,7 +55,7 @@ From Needs to Solutions, 40% were in senior management
 and 60% were purchasing influencers, which further
 underlines the importance of the event to the sector.<br>
 <br>
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/manufacture.jpg" align="middle"></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/in3d2.jpg" align="middle"></ul>
 
 <br>
 The director of IN(3D)USTRY From Needs to Solutions,
@@ -81,7 +81,7 @@ are on the threshold of a new economic model which will
 also see the widespread use of open collaboration
 programmes.<br>
 <br>
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/manufacture.jpg" align="middle"></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/in3d6.jpg" align="middle"></ul>
 
 <br>
 The vice-president and general manager of HP 3D Printing,
