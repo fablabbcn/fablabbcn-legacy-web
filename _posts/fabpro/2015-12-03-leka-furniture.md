@@ -91,14 +91,15 @@ El panelado dibuja un trazo libre por las paredes del restaurante y que recuerda
 <h4>Furniture</h4>
 <h4><i>Mobiliario</i></h4>
 <br>
-<h5>Modularity</h5>
-<h5><i>Modularidad</i></h5>
-<br>
 
 The furniture is designed as a family. It’s geometry is inspired by the triangulations of the project and it's adapted to the design requirements of each piece of furniture; thought to have multiple combinations depending on the changing configuration of the restaurant and to withstand constant movement.<br>
 <br>
+The construction of this furniture is made with the same technique: a common design on the union between pieces. This union provides the necessary rigidity to withstand the continuous movement of the restaurant and allow quick assembly.<br>
 <br>
-<i>El mobiliario está concebido como una familia. Su geometría está inspirada en las triangulaciones del proyecto y se adapta a los requisitos de diseño de cada mueble; pensados para tener múltiples combinaciones según la configuración cambiante del restaurante y soportar un movimiento constante.</i>
+<br>
+<i>El mobiliario está concebido como una familia. Su geometría está inspirada en las triangulaciones del proyecto y se adapta a los requisitos de diseño de cada mueble; pensados para tener múltiples combinaciones según la configuración cambiante del restaurante y soportar un movimiento constante.<br>
+<br>
+La construcción de los diferentes muebles se realiza con la misma técnica: un diseño común en la unión entre piezas. Esta unión proporciona la rigidez necesaria para soportar el continuo movimiento del restaurante y permitir un montaje rápido.</i>
 <br>
 
 
@@ -155,18 +156,6 @@ The furniture is designed as a family. It’s geometry is inspired by the triang
 
 <br>
 
-<h5>Joinery</h5>
-<h5><i>Uniones</i></h5>
-
-The construction of this furniture is made with the same technique: a common design on the union between pieces. This union provides the necessary rigidity to withstand the continuous movement of the restaurant and allow quick assembly.<br>
-
-<br>
-<br>
-
-<i>
-La construcción de los diferentes muebles se realiza con la misma técnica: un diseño común en la unión entre piezas. Esta unión proporciona la rigidez necesaria para soportar el continuo movimiento del restaurante y permitir un montaje rápido.</i>
-
-<br>
 <br>
 
 <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/img01.jpg">
