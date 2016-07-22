@@ -74,7 +74,9 @@ The presentations, which attracted big audience numbers
 among visitors to the show, coincided in declaring that we
 are on the threshold of a new economic model which will
 also see the widespread use of open collaboration
-programmes. One of the most remarcable panels was the Architecture & Habitat Panel on June 22nd. Some of the leading personalities in the field discussed about the opportunities of digital technologies. This panel was curated by IAAC Academic Director Areti Markopoulou and joined experts like Mark Bury (Sagrada Familia's Architect).
+programmes. <br>
+<br>
+One of the most remarcable panels was the Architecture & Habitat Panel on June 22nd. Some of the leading personalities in the field discussed about the opportunities of digital technologies. This panel was curated by IAAC Academic Director Areti Markopoulou and joined experts like  Nils Fischer (Senior Associate / CODE Computational Design Research Group - Zaha Hadid Architects),  Robert Stuart-Smith (Founding director - Robert Stuart-Smith Design), Ferran Figuerola (CEO - Cricursa), José Daniel García (Technology Transfer Director - Acciona),  Enrico Dini (Founder - D-Shape) and  Dave Pigram (Director - supermanouvre). During the event, there were also panels about other topics as Healthcare, Retail & Consumer Goods and Automotive & Aeronautics.
 
   
 
