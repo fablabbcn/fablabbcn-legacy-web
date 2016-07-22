@@ -74,7 +74,11 @@ The presentations, which attracted big audience numbers
 among visitors to the show, coincided in declaring that we
 are on the threshold of a new economic model which will
 also see the widespread use of open collaboration
-programmes.<br>
+programmes. One of the most remarcable panels was the Architecture & Habitat Panel on June 22nd. Some of the leading personalities in the field discussed about the opportunities of digital technologies. This panel was curated by IAAC Academic Director Areti Markopoulou and joined experts like Mark Bury (Sagrada Familia's Architect).
+
+  
+
+<br>
 <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/in3d6.jpg" align="middle"></ul>
 
