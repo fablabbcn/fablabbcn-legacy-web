@@ -56,43 +56,47 @@ la producción final de piezas en impresión 3D por tiempo, coste y fragilidad.
 
     
     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-102.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/in3d_tables/proto/p00.jpg" />
     </div>
     
       <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-126.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/in3d_tables/proto/p01.jpg" />
     </div>
     
       <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-155.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/in3d_tables/proto/p02.jpg" />
     </div>
     
      <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabproleka_gral/gral/1423-202.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/in3d_tables/proto/p03.jpg" />
     </div>
     
      <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-226.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/in3d_tables/proto/p04.jpg" />
     </div>
     
      <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-254.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/in3d_tables/proto/p05.jpg" />
     </div>
     
      <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-273.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/in3d_tables/proto/p06.jpg" />
     </div>
     
      <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-285.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/in3d_tables/proto/p07.jpg" />
     </div>
     
      <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-304.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/in3d_tables/proto/p08.jpg" />
     </div>
     
      <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-290.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/in3d_tables/proto/p09.jpg" />
+    </div>
+     
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/in3d_tables/proto/p10.jpg" />
     </div>
      
 </div> <!-- carousel inner -->
