@@ -4,8 +4,8 @@ type: fabpro
 fabproteaser: leka_gral/gral/1423-054.jpg
 title: In3dustry tables
 meta: "Locally made in Poblenou, Barcelona"
-author: Anastasia Pistofidou y Miguel Guerrero Fab Lab BCN
-date: 2016-02-16
+author: Miguel Guerrero Fab Lab BCN
+date: 2016-09-06
 ---
 
 
