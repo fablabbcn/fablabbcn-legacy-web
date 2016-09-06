@@ -228,45 +228,17 @@ de la exposición.
 
     
     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-102.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/in3d_tables/term2/tb01.jpg" />
     </div>
     
       <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-126.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/in3d_tables/term2/tb02.jpg" />
     </div>
     
       <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-155.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/in3d_tables/term2/tb03.jpg" />
     </div>
     
-     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabproleka_gral/gral/1423-202.jpg" />
-    </div>
-    
-     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-226.jpg" />
-    </div>
-    
-     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-254.jpg" />
-    </div>
-    
-     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-273.jpg" />
-    </div>
-    
-     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-285.jpg" />
-    </div>
-    
-     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-304.jpg" />
-    </div>
-    
-     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-290.jpg" />
-    </div>
-     
 </div> <!-- carousel inner -->
 
 <!-------------------- Controls --------------------->
