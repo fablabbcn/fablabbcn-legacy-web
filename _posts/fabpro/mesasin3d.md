@@ -142,43 +142,47 @@ pegamento ni tornillería para permitir un proceso de fabricación rápido y eco
 
     
     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-102.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/in3d_tables/term1/01.jpg" />
     </div>
     
       <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-126.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/in3d_tables/term1/02.jpg" />
     </div>
     
       <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-155.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/in3d_tables/term1/03.jpg" />
     </div>
     
      <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabproleka_gral/gral/1423-202.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/in3d_tables/term1/04.jpg" />
     </div>
     
      <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-226.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/in3d_tables/term1/05.jpg" />
     </div>
     
      <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-254.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/in3d_tables/term1/06.jpg" />
     </div>
     
      <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-273.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/in3d_tables/term1/07.jpg" />
     </div>
     
      <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-285.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/in3d_tables/term1/08.jpg" />
     </div>
     
      <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-304.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/in3d_tables/term1/09.jpg" />
     </div>
     
      <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/gral/1423-290.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/in3d_tables/term1/10.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/in3d_tables/term1/11.jpg" />
     </div>
      
 </div> <!-- carousel inner -->
