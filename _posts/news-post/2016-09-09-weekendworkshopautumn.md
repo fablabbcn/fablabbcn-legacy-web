@@ -38,6 +38,7 @@ In this workshop you will discover all the steps to do it and you will use diffe
 <strong>Price:</strong>  200 € (materials included)<br>
 </i>
 <br>
+<hr>
 <br>
 <strong>
 Introducción a Arduino</strong> <br>
@@ -56,6 +57,7 @@ Arduino can read environmental data with different kinds of sensors and you can 
 <strong>Price:</strong>  180 € (Arduino Kit included)<br>
 </i>
 <br>
+<hr>
 <br>
 <strong>
 Taller de Escaneo e Impresión 3D</strong> <br>
@@ -75,6 +77,7 @@ Take part in the workshop and learn how 3d printing technology works and the opt
 <strong>Price:</strong>  150 € (materials included)<br>
 </i>
 <br>
+<hr>
 <br>
 <strong>
 Made Again Workshop</strong> <br>
