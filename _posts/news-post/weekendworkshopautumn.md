@@ -45,19 +45,37 @@ Introducción a Arduino</strong> <br>
 ¡Vuelve tu entorno interactivo!<br>
 Arduino permite leer datos de nuestro ambiente mediante todo tipo de sensores y utilizar éstos para controlar todo tipo de actuadores como motores, luces o nuestro propio ordenador.<br>
 <strong>Fechas:</strong>  14 Octubre (tarde) y 15 Octubre (todo el día)<br>
-<strong>Precio:</strong>  200 € (materiales incluidos)<br>
- <br>
+<strong>Precio:</strong>  180 € (Kit Arduino incluido)<br>
+  <br>
  <i>
 <strong>Arduino Basics</strong><br>
 <br>
 Make your world interactive!<br>
 Arduino can read environmental data with different kinds of sensors and you can use these to control all kinds of actuators as motors, lights or even your computer.<br>
 <strong>Dates:</strong>  October 14th (afternoon) and 15th (all day)<br>
-<strong>Price:</strong>  200 € (materials included)<br>
+<strong>Price:</strong>  180 € (Arduino Kit included)<br>
 </i>
 <br>
 <br>
+<strong>
+Taller de Escaneo e Impresión 3D</strong> <br>
+<br>
+La impresión 3d esta tranformando no solo la forma en que se producen los objetos que nos rodean, como tambien los patrones de consumo de nuestra sociedad.<br>
 
+Participa en el taller y aprende como funciona la tecnología de impresión 3d, los distintos proyectos y maquinas que existen y cual de ellas es la mas adequada para tu proyecto. Podrás elegir entre diferentes impresoras y aprenderás a utilizar los programas que controlan cada una de ellas. Además, tendras la oportunidad de imprimir un objeto creado por ti o por alguno de los utilizadores que comparten sus modelos en plataformas abiertas. Aprenderás a escanear y su procesamiento como imagen 3D para luego ser fabricado en una impresora 3D.<br>
+<strong>Fechas:</strong>  21 Octubre (tarde) y 22 Octubre (todo el día)<br>
+<strong>Precio:</strong>  150 € (materiales incluidos)<br>
+ <br>
+ <i>
+<strong>3D Printing and Scanning</strong><br>
+<br>
+3d printing is transforming not only how we produce the objects that surround us, as also the consumption patterns of our society.<br>
+Take part in the workshop and learn how 3d printing technology works and the option on technique and machines more suitable for your project. You can choose between different printers and learn to use the programs that control each one. In addition, you will have the opportunity to print an object created by you or by any of the users who share their models in open platforms.You will learn to scan, to process the 3D images and then make them on a 3D printer.<br>
+<strong>Dates:</strong>  October 21st (afternoon) and 22nd (all day)<br>
+<strong>Price:</strong>  150 € (materials included)<br>
+</i>
+<br>
+<br>
 
 
 
