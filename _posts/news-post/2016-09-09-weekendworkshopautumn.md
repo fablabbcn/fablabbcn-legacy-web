@@ -33,7 +33,7 @@ En este taller conocerás todos los pasos para hacerlo y podrás utilizar las di
 <strong>Make your Fab Skate</strong><br>
 <br>
 Can you imagine the perfect board? And design it and fabricate it yourself?<br>
-In this workshop you will discover all the steps to do it and you will use different tools of digital fabrication for woodworking.
+In this workshop you will discover all the steps to do it and you will use different tools of digital fabrication for woodworking.<br>
 <strong>Dates:</strong>  September 30th (afternoon) and October 01st (all day)<br>
 <strong>Price:</strong>  200 € (materials included)<br>
 </i>
