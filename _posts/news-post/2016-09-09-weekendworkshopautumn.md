@@ -95,7 +95,6 @@ Everyday you can find old furniture in the streets of Barcelona. Often these obj
 </i>
 <br>
 <br>
-<br>
 <h4><a href="http://fablab.fikket.com/">Reserva tu plaza <i>Book here!</i></a>
 </h4>
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/workshops20162.png" align="middle"> </ul>
