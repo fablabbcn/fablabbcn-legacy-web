@@ -76,9 +76,22 @@ Take part in the workshop and learn how 3d printing technology works and the opt
 </i>
 <br>
 <br>
-
-
-
+<strong>
+Made Again Workshop</strong> <br>
+<br>
+Cada día encontramos muebles viejos en las calles de Barcelona. Muchas veces estos objetos sólo necesitan un poco de restauración para tener una nueva vida. Trae cualquier mueble que quieras hackear, restaurar o mejorar al hospital de muebles del Fab Lab y lo trataremos con fresadoras, corte láser e impresión 3D.<br>
+<strong>Fechas:</strong>  19 Noviembre (tarde) y 20 Noviembre (todo el día)<br>
+<strong>Precio:</strong>  100 € (materiales incluidos)<br>
+ <br>
+ <i>
+<strong>Made Again Workshop</strong><br>
+<br>
+Everyday you can find old furniture in the streets of Barcelona. Often these objects only need a little hack and restoration for a new life. You can bring any furniture or material you want to hack, restore or upgrade with style in Fab Lab´s furniture hospital so we can treat them with CNC milling, laser cutting or 3D printing.<br>
+<strong>Dates:</strong>  November 19th (afternoon) and 20th (all day)<br>
+<strong>Price:</strong>  100 € (materials included)<br>
+</i>
+<br>
+<br>
 <br>
 <h4><a href="http://fablab.fikket.com/">Reserva tu plaza<br>
 <i>Book here!</i></a>
