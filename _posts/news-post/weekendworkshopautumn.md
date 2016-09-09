@@ -12,11 +12,13 @@ category: event
 
 
 
-<h4>Check out next workshops for Autumn 2016!</h4>
+<h4>Ya tenemos calendario de Workshops para otoño!<br>
+<i>Check out next workshops for Autumn 2016!</i></h4>
 
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/workshops20161.png" align="middle"> </img></ul>
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/imprimida.jpg" align="middle"> </img></ul>
-
+Todas las clases son en Castellano e inglés. Trae tu portátil. No es necesario ningún conocimiento previo. Materiales incluidos.
+<i>Classes in English and Spanish. Bring your laptop. No previous knowdlege needed. Materials included. </i>
 
 <strong>
 Fabrica tu Fab Skate</strong> 
@@ -25,7 +27,6 @@ Fabrica tu Fab Skate</strong>
 En este taller conocerás todos los pasos para hacerlo y podrás utilizar las diferentes herramientas de fabricación digital para trabajar madera.
 
  
-
  
 <strong>Make your Fab Skate</strong>
 
