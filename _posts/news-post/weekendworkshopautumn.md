@@ -20,19 +20,39 @@ category: event
 Todas las clases son en Castellano e inglés. Trae tu portátil. No es necesario ningún conocimiento previo. Materiales incluidos.
 <i>Classes in English and Spanish. Bring your laptop. No previous knowdlege needed. Materials included. </i><br>
 <br>
+<br>
 <strong>
 Fabrica tu Fab Skate</strong> <br>
 <br>
 ¿Te imaginas la tabla perfecta? ¿Y diseñarla y fabricarla tú mismo?<br>
 En este taller conocerás todos los pasos para hacerlo y podrás utilizar las diferentes herramientas de fabricación digital para trabajar madera.<br>
+<strong>Fechas:</strong>  30 Setiembre (tarde) y 01 Octubre (todo el día)<br>
 <strong>Precio:</strong>  200 € (materiales incluidos)<br>
  <br>
  <i>
 <strong>Make your Fab Skate</strong><br>
 <br>
-
 Can you imagine the perfect board? And design it and fabricate it yourself?<br>
 In this workshop you will discover all the steps to do it and you will use different tools of digital fabrication for woodworking.
+<strong>Dates:</strong>  September 30th (afternoon) and October 01st (all day)<br>
+<strong>Price:</strong>  200 € (materials included)<br>
+</i>
+<br>
+<br>
+<strong>
+Introducción a Arduino</strong> <br>
+<br>
+¡Vuelve tu entorno interactivo!<br>
+Arduino permite leer datos de nuestro ambiente mediante todo tipo de sensores y utilizar éstos para controlar todo tipo de actuadores como motores, luces o nuestro propio ordenador.<br>
+<strong>Fechas:</strong>  14 Octubre (tarde) y 15 Octubre (todo el día)<br>
+<strong>Precio:</strong>  200 € (materiales incluidos)<br>
+ <br>
+ <i>
+<strong>Arduino Basics</strong><br>
+<br>
+Make your world interactive!<br>
+Arduino can read environmental data with different kinds of sensors and you can use these to control all kinds of actuators as motors, lights or even your computer.<br>
+<strong>Dates:</strong>  October 14th (afternoon) and 15th (all day)<br>
 <strong>Price:</strong>  200 € (materials included)<br>
 </i>
 <br>
