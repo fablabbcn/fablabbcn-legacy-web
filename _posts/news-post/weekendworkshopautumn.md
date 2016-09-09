@@ -1,24 +1,44 @@
 ---
 layout: blog_post
 type: event
-teaserlatest: blog_loop_latest/imprimidasmall.jpg
-teaserlist: blog_loop_latest/imprimida.jpg
-title: Don't miss Imprimida Workshop from 14th to 23rd June 
-meta: "IN(3D)USTRY From Needs to Solutions, Sonar+D and IAAC are launching an open call for artists, makers and designers to participate in a 8 days workshop and further exhibition in Barcelona with experts from the field of digital fabrication and computational design in order to explore the limits of art production in our times."
+teaserlatest: blog_loop_latest/workshopssmall.jpg
+teaserlist: blog_loop_latest/workshops20161.png
+title: Weekend Workshops - Autumn Series
+meta: Check out next workshops for Autumn 2016!
 author: Maria Ustarroz
-date: 23/05/2016
+date: 09/09/2016
 category: event
 ---
 
 
 
-<h4>Advanced manufacturing is transforming the production methods for artists and creators. 3D printers, code, CNC machines and robots are not only changing how we work, live and play, but they reshaping the processes and interactions between artists and technologies, and how this new mediation between machine and humans is making the process as important as the end work, all becoming a whole.</h4>
+<h4>Check out next workshops for Autumn 2016!</h4>
 
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/imprimida.jpg" align="middle"> </img></ul>
 
 
-<strong>IN(3D)USTRY From Needs to Solutions, Sonar+D and IAAC</strong> are launching an open call for artists, makers and designers to participate in a 8 days workshop and further exhibition in Barcelona with experts from the field of digital fabrication and computational design in order to explore the limits of art production in our times. This 8 day workshop will be held during the Sonar+D June 16th to 18th 2016 and during IN(3D)USTRY Maker Pro exhibition from June 21st to 23rd  2016. All participants will have access to one SONAR Full Delegate pass and Full Delegate Pass for IN(3D)USTRY From Needs to Solutions event and to all the production means to make their work real.<br>
+<strong>
+Fabrica tu Fab Skate</strong> 
+
+¿Te imaginas la tabla perfecta? ¿Y diseñarla y fabricarla tú mismo?
+En este taller conocerás todos los pasos para hacerlo y podrás utilizar las diferentes herramientas de fabricación digital para trabajar madera.
+
+ 
+
+ 
+<strong>Make your Fab Skate</strong>
+
+
+Can you imagine the perfect board? And design it and fabricate it yourself?
+In this workshop you will discover all the steps to do it and you will use different tools of digital fabrication for woodworking.
+
+
+English and Spanish
+
+<strong>Price:</strong>  200 € (materials included)
+
+are launching an open call for artists, makers and designers to participate in a 8 days workshop and further exhibition in Barcelona with experts from the field of digital fabrication and computational design in order to explore the limits of art production in our times. This 8 day workshop will be held during the Sonar+D June 16th to 18th 2016 and during IN(3D)USTRY Maker Pro exhibition from June 21st to 23rd  2016. All participants will have access to one SONAR Full Delegate pass and Full Delegate Pass for IN(3D)USTRY From Needs to Solutions event and to all the production means to make their work real.<br>
 <br>
 During the course participants will explore generative design techniques associated to agent behaviors and iterative strategies. The outputs of the explorations conducted during the course will be translating into an open process of fabrication mainly related to 3d printing and additive manufacturing. The final results will be exhibited in IN(3D)USTRY From Needs to Solutions inside the MAKER PRO area.<br>
 <br>
