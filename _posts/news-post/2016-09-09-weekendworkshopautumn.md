@@ -15,7 +15,7 @@ category: event
 <h4>Ya tenemos calendario de Workshops para otoño!<br>
 <i>Check out next workshops for Autumn 2016!</i></h4>
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/workshops20161.png" align="middle"> </img></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/workshops20161.png" align="middle"> </ul>
 
 Todas las clases son en Castellano e inglés. Trae tu portátil. No es necesario ningún conocimiento previo. Materiales incluidos.
 <i>Classes in English and Spanish. Bring your laptop. No previous knowdlege needed. Materials included. </i><br>
