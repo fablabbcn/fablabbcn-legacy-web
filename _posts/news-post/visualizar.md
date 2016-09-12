@@ -12,6 +12,8 @@ category: news
 
 
 <h4>Visualizar'16</h4>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/visualizar6.png" align="middle"> </ul>
+
 <br>
 What is the resilience of a city regarding its manufacturing, distribution and consumption of goods? What is the role of citizens in changing the existing networks with open, distributed and collaborative projects and making activities in the city? The Fab City Dashboard project aims at developing a visualisation tool for Fab Cities that show the relation between urban spaces and their networks of design, production and consumption by highlighting their supply chains, resilience and impact. Such a tool can help cities and citizens to understand how citizens design and produce in urban spaces within networks of suppliers, manufacturers, craftsmen, fab labs, makerspaces, hackerspaces, and so on. The project aims at developing a dashboard for all the Fab Cities where citizens can understand the existing resilience of cities regarding manufacturing, and how the Maker movement is having an impact on this. Citizens will be able to upload information regarding their projects and their impact on the local systems and networks. Citizens will also be able to participate in the discussion regarding their impact on urban resilience. In this way, citizens will be able to document the networks and activities that are generated from their projects, and thus understand their impact on the resilience of cities and therefore participate in shaping Fab Cities.<br>
 <br>
