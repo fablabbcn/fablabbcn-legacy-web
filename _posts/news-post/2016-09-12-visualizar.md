@@ -3,7 +3,7 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/visualizarsmall.png
 teaserlist: blog_loop_latest/visualizar6.jpg
-title: Visualizar'16 launch
+title: Fab City Dashboard at Visualizar’16
 meta: "The Fab City Dashboard project was selected for the Visualizar'16 International Workshop, titled Ciudades abiertas, Open Cities. It will will take place from September 26th to October 5th. During ten days, eight multidisciplinary teams will develop eight projects dealing with city data. Check it out."
 author: Maria Ustarroz
 date: 12/05/2016
@@ -11,7 +11,7 @@ category: news
 ---
 
 
-<h4>Visualizar'16</h4>
+<h4>Fab City Dashboard at Visualizar’16</h4>
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/visualizar6.png" align="middle"> </ul>
 
 <br>
