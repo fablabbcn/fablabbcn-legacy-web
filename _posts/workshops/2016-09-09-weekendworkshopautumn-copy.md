@@ -1,8 +1,8 @@
 ---
 layout: workshop_post
 type: workshop
-teaserlatest: blog_loop_latest/workshopssmall.jpg
-teaserlist: blog_loop_latest/workshops20161.png
+teaserlatest: workshops_loop/workshops2016.png
+workshopteaser: workshops_loop/workshops2016.png
 title: Weekend Workshops - Autumn Series
 meta: Check out next workshops for Autumn 2016!
 author: Maria Ustarroz
