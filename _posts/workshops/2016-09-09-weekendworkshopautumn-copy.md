@@ -1,16 +1,13 @@
 ---
-layout: blog_post
-type: event
-teaserlatest: blog_loop_latest/workshopssmall.jpg
-teaserlist: blog_loop_latest/workshops20161.png
+layout: workshop_post
+type: workshop
+workshopteaser: workshops_loop/workshops2016.png
 title: Weekend Workshops - Autumn Series
 meta: Check out next workshops for Autumn 2016!
 author: Maria Ustarroz
 date: 09/09/2016
-category: event
+category: workshop
 ---
-
-
 
 <h4>Ya tenemos calendario de Workshops para otoño!<br>
 <i>Check out next workshops for Autumn 2016!</i></h4>
