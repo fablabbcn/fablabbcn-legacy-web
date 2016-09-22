@@ -4,9 +4,9 @@ type: event
 teaserlatest: blog_loop_latest/eumakerweeksmall.png
 teaserlist: blog_loop_latest/eumakerweeksmall.png
 title: Open Fabrication Day
-meta: "Friday June 3rd from 16h to 20h, come to Fab Lab Barcelona and fabricate!"
+meta: "Friday October 7th from 16h to 20h, come to Fab Lab Barcelona and fabricate!"
 author: Maria Ustarroz
-date: 26/05/2016
+date: 22/09/2016
 category: event
 ---
 
@@ -19,7 +19,9 @@ category: event
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/eumakerweeksmall.png" align="middle"> </img></ul>
 
 <br>
-El próximo viernes 3 de Junio, celebramos el European Maker Week Open Fabrication Day en Fab Lab Barcelona. Ven y aprende cómo imprimir en 3D y usar la cortadora láser. Sólo tienes que seguir estos pasos:<br>
+El próximo viernes 7 de Octubre, celebramos un Open Fabrication Day en Fab Lab Barcelona. Ven y aprende cómo imprimir en 3D y usar la cortadora láser. También habrá demos de robótica, Arduino y algunas sorpresas más.<br>
+<br>
+Para venir a fabricar, sólo tienes que seguir estos pasos:<br>
 <br>
 <ul>
 1.<a href="https://docs.google.com/forms/d/1MJAREBja3GWx8qnD0lgA_QXMdN3wVR_UNkfZn3Ms-sU/viewform?edit_requested=true"> Regístrate</a> <br>
