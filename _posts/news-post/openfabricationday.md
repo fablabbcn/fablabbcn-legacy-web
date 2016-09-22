@@ -16,7 +16,7 @@ category: event
 
  <br>
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/eumakerweeksmall.png" align="middle"> </img></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/opendayoct2016.jpg" align="middle"> </img></ul>
 
 <br>
 El próximo viernes 7 de Octubre, celebramos un Open Fabrication Day en Fab Lab Barcelona. Ven y aprende cómo imprimir en 3D y usar la cortadora láser. También habrá demostraciones de robótica, Arduino y algunas sorpresas más.<br>
