@@ -57,7 +57,7 @@ Para venir a fabricar, sólo tienes que seguir estos pasos:<br>
 
 <br>
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/opendayoct2016.jpg" align="middle"> </img></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/opendayoct2016.jpg" align="middle"> </ul>
 
 <br>
 
