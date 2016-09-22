@@ -4,7 +4,7 @@ type: event
 teaserlatest: blog_loop_latest/openday2small.jpg
 teaserlist: blog_loop_latest/openday2small.jpg
 title: October Open Fabrication Day
-meta: "Friday October 7th from 16h to 20h, come to Fab Lab Barcelona and fabricate!"
+meta: "Friday October 7th from 16h to 20h join us in the Open Fabrication Day at Fab Lab Barcelona. There will be robotics and Arduino demos and, of course, open 3D printing and laser cutting."
 author: Maria Ustarroz
 date: 22/09/2016
 category: event
