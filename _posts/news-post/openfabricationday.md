@@ -19,12 +19,12 @@ category: event
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/eumakerweeksmall.png" align="middle"> </img></ul>
 
 <br>
-El próximo viernes 7 de Octubre, celebramos un Open Fabrication Day en Fab Lab Barcelona. Ven y aprende cómo imprimir en 3D y usar la cortadora láser. También habrá demos de robótica, Arduino y algunas sorpresas más.<br>
+El próximo viernes 7 de Octubre, celebramos un Open Fabrication Day en Fab Lab Barcelona. Ven y aprende cómo imprimir en 3D y usar la cortadora láser. También habrá demostraciones de robótica, Arduino y algunas sorpresas más.<br>
 <br>
 Para venir a fabricar, sólo tienes que seguir estos pasos:<br>
 <br>
 <ul>
-1.<a href="https://docs.google.com/forms/d/1MJAREBja3GWx8qnD0lgA_QXMdN3wVR_UNkfZn3Ms-sU/viewform?edit_requested=true"> Regístrate</a> <br>
+1.<a href="https://docs.google.com/forms/d/e/1FAIpQLSfJ1cbpjawILZKA2ngkCjAOzrytO-6jJ2JQFWrHAmPcpAoiSw/viewform"> Regístrate</a> <br>
 2.<a href="http://fablabbarcelona.simplybook.it/sheduler/manage/event/3/unit/1"> Reserva la máquina que quieres usar</a><br>
 3. Diseña lo que quieras hacer y comprueba los ficheros:
 
@@ -61,7 +61,9 @@ Para venir a fabricar, sólo tienes que seguir estos pasos:<br>
 
 <br>
 
-Next June 3rd, join us for the European Maker Week Open Fabrication Day at Fab Lab Barcelona. Come and learn how to 3D print and laser cut. You only have to follow these steps:<br>
+Next October 7rd, join us for the Open Fabrication Day at Fab Lab Barcelona. Come and learn how to 3D print and laser cut. There will be robotics and Arduino demos and some surprises too. <br>
+<br>
+To book your fabrication slot, you only have to follow these steps:<br>
 <br>
 <ul>
 1.<a href="https://docs.google.com/forms/d/1MJAREBja3GWx8qnD0lgA_QXMdN3wVR_UNkfZn3Ms-sU/viewform?edit_requested=true"> Sing in</a> <br>
