@@ -66,7 +66,7 @@ Next October 7rd, join us for the Open Fabrication Day at Fab Lab Barcelona. Com
 To book your fabrication slot, you only have to follow these steps:<br>
 <br>
 <ul>
-1.<a href="https://docs.google.com/forms/d/1MJAREBja3GWx8qnD0lgA_QXMdN3wVR_UNkfZn3Ms-sU/viewform?edit_requested=true"> Sing in</a> <br>
+1.<a href="https://docs.google.com/forms/d/e/1FAIpQLSfJ1cbpjawILZKA2ngkCjAOzrytO-6jJ2JQFWrHAmPcpAoiSw/viewform"> Sing in</a> <br>
 2.<a href="http://fablabbarcelona.simplybook.it/sheduler/manage/event/3/unit/1"> Book the machine you want to use</a><br>
 3. Design what you want to do and check the files:
 
