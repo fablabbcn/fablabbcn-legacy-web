@@ -34,7 +34,7 @@ Para venir a fabricar, sólo tienes que seguir estos pasos:<br>
 <ul>
 <b>Para cortar a láser:</b> el grosor de las piezas debe ser entre 0.1mm y 5mm<br>
 
-- guarda tu archivo en formato .dxf
+-guarda tu archivo en formato .dxf <br>
 - se reciclarán materiales de otros proyectos para las piezas, si lo prefieres trae tu propio material. Ten en cuenta que no se puede utilizar PVC ni polycarbonatos.
 
 <br>
@@ -77,7 +77,9 @@ To book your fabrication slot, you only have to follow these steps:<br>
 <ul>
 <b>Laser cuts:</b> the thickness of the pieces must be between 0.1mm and 5mm
 <br>
-- format your file in .dxf
+-format your file in .dxf <br>
+-the materials used will be recycled from the lab. If you prefer, you can bring your own, but no PVC or Polycarbonate is allowed.
+
 
 <br>
 <br>
