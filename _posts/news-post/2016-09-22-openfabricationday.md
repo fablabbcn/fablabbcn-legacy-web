@@ -45,7 +45,7 @@ Para venir a fabricar, sólo tienes que seguir estos pasos:<br>
 -<a href="https://ultimaker.com/en/products/cura-software"> Descarga Cura</a><br>
 - Guarda tu archivo .stl como archivo .gcode y ajusta los settings para una impresión estándard en PLA, como se ve en la imagen:
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/3dsettings.png" align="middle"> </img></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/3dsettings.png" align="middle"> </ul>
 <br>
 </ul>
 <h4>
@@ -86,7 +86,7 @@ To book your fabrication slot, you only have to follow these steps:<br>
 -<a href="https://ultimaker.com/en/products/cura-software"> Download Cura</a><br>
 - Save your .stl file to .gcode and adjust the setting for standard PLA, as shown in the picture:
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/3dsettings.png" align="middle"> </img></ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/3dsettings.png" align="middle"> </ul>
 <br>
 </ul>
 <h4>
