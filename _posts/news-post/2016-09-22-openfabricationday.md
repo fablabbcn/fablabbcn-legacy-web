@@ -35,7 +35,7 @@ Para venir a fabricar, sólo tienes que seguir estos pasos:<br>
 <b>Para cortar a láser:</b> el grosor de las piezas debe ser entre 0.1mm y 5mm<br>
 
 - guarda tu archivo en formato .dxf
-
+- se reciclarán materiales de otros proyectos para las piezas, si lo prefieres trae tu propio material. Ten en cuenta que no se puede utilizar PVC ni polycarbonatos.
 <br>
 
 <br>
