@@ -36,6 +36,7 @@ Para venir a fabricar, sólo tienes que seguir estos pasos:<br>
 
 - guarda tu archivo en formato .dxf
 - se reciclarán materiales de otros proyectos para las piezas, si lo prefieres trae tu propio material. Ten en cuenta que no se puede utilizar PVC ni polycarbonatos.
+
 <br>
 
 <br>
