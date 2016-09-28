@@ -25,7 +25,7 @@ Para venir a fabricar, sólo tienes que seguir estos pasos:<br>
 <br>
 <ul>
 1.<a href="https://docs.google.com/forms/d/e/1FAIpQLSfJ1cbpjawILZKA2ngkCjAOzrytO-6jJ2JQFWrHAmPcpAoiSw/viewform"> Regístrate</a> <br>
-2.<a href="http://fablabbarcelona.simplybook.it/sheduler/manage/event/3/unit/1"> Reserva la máquina que quieres usar</a><br>
+2.<a href="http://fablabbarcelona.simplybook.it/sheduler/manage"> Reserva la máquina que quieres usar</a><br>
 3. Diseña lo que quieras hacer y comprueba los ficheros:
 
 </ul>
@@ -68,7 +68,7 @@ To book your fabrication slot, you only have to follow these steps:<br>
 <br>
 <ul>
 1.<a href="https://docs.google.com/forms/d/e/1FAIpQLSfJ1cbpjawILZKA2ngkCjAOzrytO-6jJ2JQFWrHAmPcpAoiSw/viewform"> Sing in</a> <br>
-2.<a href="http://fablabbarcelona.simplybook.it/sheduler/manage/event/3/unit/1"> Book the machine you want to use</a><br>
+2.<a href="http://fablabbarcelona.simplybook.it/sheduler/manage"> Book the machine you want to use</a><br>
 3. Design what you want to do and check the files:
 
 </ul>
