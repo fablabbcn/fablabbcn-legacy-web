@@ -10,6 +10,20 @@ date: 12/05/2016
 category: news
 ---
 
+<h4>Maker Faire Rome 2016</h4>
+<br>
+Once again Maker Faire Rome – The European Edition 4.0 has been a success and that’s because the participation of more than 700 makers showing their projects, passion and creativity.<br>
+<br>
+This year we went beyond the 2015 edition attendance by reaching 110,000 visitors! The public, the press, the international community consider Maker Faire Rome a must, a paramount event, something that cannot be missed due to the high quality of the projects presented and because of the large offering of educational activities.<br>
+<br>
+We showed our ongoing projects: 
+The new <a href="http://market.fablabs.io/">Fab Market</a>: an online market where you can find a variety of locally made products designed by people from all over the world. Products are sold ready for use, assembly or fabrication, giving the user the ability to participate in the making process.
+
+<a href="http://make-it.io/">MAKE-IT</a>: this Horizon 2020 European research project focused on how the role of Collective Awareness Platforms (CAPS) enables the growth and governance of the Maker movement, particularly in relation to Information Technology, using and creating social innovations and achieving sustainability. 
+
+<a href="http://making-sense.eu/">Making Sense</a>: this Horizon 2020 European research project aim to explore how open source software, open source hardware, digital maker practices and open design can be effectively used by local communities to fabricate their own sensing tools, make sense of their environments and address pressing environmental problems in air, water, soil and sound pollution.
+
+<a href="https://madeat.eu/">Made@EU</a> aims to integrate digital fabrication to the existing workflows of craftsmen, artists designers and artisans across Europe. This project has the support of Creative Europe Programme  A project by IAAC | Fab Lab Barcelona, ENSCI, and PCA.
 
 <h4>Fab City Dashboard at Visualizar’16</h4>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ehXkZ5dhtco" frameborder="0" allowfullscreen></iframe>
