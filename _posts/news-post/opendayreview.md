@@ -117,6 +117,46 @@ Check out the photos!<br>
       <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/22.jpg" />
     </div>
      
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/23.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/24.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/25.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/26.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/27.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/28.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/29.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/30.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/31.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/32.jpg" />
+    </div>
+     
   </div>
 
 <!-------------------- Controls --------------------->
