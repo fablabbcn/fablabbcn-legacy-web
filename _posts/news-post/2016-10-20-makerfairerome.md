@@ -38,12 +38,10 @@ We showed our ongoing projects: <br>
 <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/makerfairerome/8.jpg" align="middle"> </ul>
 
-We presented Cristian Rizzuti's project: <a href="https://madeat.eu/cristian-rizzuti">Elastica</a> a wereable suit developed during his residency in Fab Lab Barcelona. Through the use of E-textile and conductive thread the body biometrics allow performers to capture data of their behaviour, enhancing how they engage with an external environment. </ul><br>
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/makerfairerome/6.jpg" align="middle"> </ul>
-
+We presented Cristian Rizzuti's project: <a href="https://madeat.eu/cristian-rizzuti">Elastica</a> a wereable suit developed during his residency in Fab Lab Barcelona. Through the use of E-textile and conductive thread the body biometrics allow performers to capture data of their behaviour, enhancing how they engage with an external environment. 
 <br>
 Thanks to this project, we were awarded with the "Maker of Merit" of the Maker Faire Rome 2016. <br>
-Thank you Maker Faire Rome and congratulations to the team!<br>
+<h4>Thank you Maker Faire Rome and congratulations to the team!</h4><br>
 <br>
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/makerfairerome/7.jpg" align="middle"> </ul>
 
