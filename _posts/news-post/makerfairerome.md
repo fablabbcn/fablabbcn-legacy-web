@@ -3,8 +3,8 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/visualizarsmall.png
 teaserlist: blog_loop_latest/visualizar6.jpg
-title: Fab City Dashboard at Visualizar’16
-meta: "The Fab City Dashboard project was selected for the Visualizar'16 International Workshop, titled Ciudades abiertas, Open Cities. It will will take place from September 26th to October 5th. During ten days, eight multidisciplinary teams will develop eight projects dealing with city data. Check it out."
+title: We are Maker of Merit of Maker Faire Rome 2016!
+meta: "This year, Maker Faire Rome - The European Edition 4.0 reached 110,000 visitors. We showed our ongoing projects and won the Maker of Merit 2016 award."
 author: Maria Ustarroz
 date: 12/05/2016
 category: news
@@ -16,16 +16,34 @@ Once again Maker Faire Rome – The European Edition 4.0 has been a success and 
 <br>
 This year we went beyond the 2015 edition attendance by reaching 110,000 visitors! The public, the press, the international community consider Maker Faire Rome a must, a paramount event, something that cannot be missed due to the high quality of the projects presented and because of the large offering of educational activities.<br>
 <br>
-We showed our ongoing projects: 
-The new <a href="http://market.fablabs.io/">Fab Market</a>: an online market where you can find a variety of locally made products designed by people from all over the world. Products are sold ready for use, assembly or fabrication, giving the user the ability to participate in the making process.
+We showed our ongoing projects: <br>
+<br>
+<ul>The new <a href="http://market.fablabs.io/">Fab Market</a>: an online market where you can find a variety of locally made products designed by people from all over the world. Products are sold ready for use, assembly or fabrication, giving the user the ability to participate in the making process.</ul><br>
+<br>
 
-<a href="http://make-it.io/">MAKE-IT</a>: this Horizon 2020 European research project focused on how the role of Collective Awareness Platforms (CAPS) enables the growth and governance of the Maker movement, particularly in relation to Information Technology, using and creating social innovations and achieving sustainability. 
 
-<a href="http://making-sense.eu/">Making Sense</a>: this Horizon 2020 European research project aim to explore how open source software, open source hardware, digital maker practices and open design can be effectively used by local communities to fabricate their own sensing tools, make sense of their environments and address pressing environmental problems in air, water, soil and sound pollution.
 
-<a href="https://madeat.eu/">Made@EU</a> aims to integrate digital fabrication to the existing workflows of craftsmen, artists designers and artisans across Europe. This project has the support of EU Creative Europe Programme, and it's a collaboration between Europe's top research and education centers on the field of digital fabrication: IAAC | Fab Lab Barcelona, ENSCI Paris, and Plymouth Collage of Art. 
 
-We presented Cristian Rizzuti's project: <a href="https://madeat.eu/cristian-rizzuti">Elastica</a> a wereable suit developed during his residency in Fab Lab Barcelona. Through the use of E-textile and conductive thread the body biometrics allow performers to capture data of their behaviour, enhancing how they engage with an external environment. 
 
-<h4>Fab City Dashboard at Visualizar’16</h4>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ehXkZ5dhtco" fram
+<ul><a href="http://make-it.io/">MAKE-IT</a>: this Horizon 2020 European research project focused on how the role of Collective Awareness Platforms (CAPS) enables the growth and governance of the Maker movement, particularly in relation to Information Technology, using and creating social innovations and achieving sustainability. MAKE-IT project participated in the EU CAPs informal meeting and hosted a panel to explain our research to the Faire assistants.</ul><br>
+<br>
+
+
+
+<ul><a href="http://making-sense.eu/">Making Sense</a>: this Horizon 2020 European research project aim to explore how open source software, open source hardware, digital maker practices and open design can be effectively used by local communities to fabricate their own sensing tools, make sense of their environments and address pressing environmental problems in air, water, soil and sound pollution.</ul> <br>
+<br>
+
+
+
+<ul><a href="https://madeat.eu/">Made@EU</a> aims to integrate digital fabrication to the existing workflows of craftsmen, artists designers and artisans across Europe. This project has the support of EU Creative Europe Programme, and it's a collaboration between Europe's top research and education centers on the field of digital fabrication: IAAC | Fab Lab Barcelona, ENSCI Paris, and Plymouth Collage of Art. <br>
+<br>
+We presented Cristian Rizzuti's project: <a href="https://madeat.eu/cristian-rizzuti">Elastica</a> a wereable suit developed during his residency in Fab Lab Barcelona. Through the use of E-textile and conductive thread the body biometrics allow performers to capture data of their behaviour, enhancing how they engage with an external environment. </ul><br>
+<br>
+Thanks to this project, we were awarded with the "Maker of Merit" of the Maker Faire Rome 2016. <br>
+Thank you Maker Faire Rome and congratulations to the team!<br>
+<br>
+
+
+
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/visualizar1.png" align="middle"> </ul>
+<br>
