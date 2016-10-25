@@ -30,7 +30,7 @@ En este workshop, queremos explorar tres estrategias para una Barcelona más aut
 2.Cosechar alimentos en las azoteas de Barcelona: a través de la agricultura urbana, los ciudadanos puden cosechar una parte de lo que comen.<br>
 3.Producir energía renovable: con la llegada de las baterías domésticas y la bajada de costes de la tecnología solar, los ciudadanos tienen las herramientas para producir una parte de du consumo energético.<br>
 </ul>
-   
+   <br>
    
 <ul>
     <h4><a href="http://sched.co/8Yfh"> Miércoles 26 - 3:15pm - 3:30pm:
@@ -39,17 +39,16 @@ Construyendo la Fab City</a></h4> <br>
 Este es el reto que quiere resolver la iniciativa Fab City; tomando los ideales de los Fab Labs (conexión, creatividad, colaboración, ciencia, cultura y tecnología) y escalandolos a la ciudad. Durante esta sesión, Tomas Diez nos invitará a atterizar este concepto junto con el anuncio del primer prototipo a gran escala de Fab City en Barcelona.  </ul>
 <ul>
 <br>
-<br>
+
    <h4><a href="http://sched.co/8Yfe">Miércoles 26 - 3:30pm - 4:15pm:
 Regenerando la producción local: hacia un modelo espiral</a> </h4><br>
  Durante esta sesión, descubriremos como la red de Makers de Barcelona está cambiando el paradigma de la economía industrial actual. Desde un modelo lineal de importación de productos y generación de desechos hacia un ecosistema de innovación espiral.<br>
 <br>
 Varios actores de Barcelona (i.e. Fab Lab managers, makers, cliente local, etc) nos invitarán a explorar la construcción de esta nueva economía espiral basada en una infraestructura distribuida de datos y fabricación en el que los materiales fluyen dentro de la ciudad y la información sobre cómo se realizan los objetos circula globalmente. </ul>
-<br>
+
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fab-city-prototype_v1.png" align="middle"> </ul>
 
-<br>
 <ul>
 <h4><a href="http://sched.co/8Yff">Miércoles 26 - 4:45pm - 5:15pm:
 Más allá de los libros de texto. Aprender haciendo con tecnologías creativas </a> </h4> <br>  
@@ -57,7 +56,7 @@ Durante esta sesión, descubriremos cómo la cultura Maker está impactando en l
 <br> 
 Analizaremos como los Fab Labs y la inclusión de metodologías activas y las tecnologías creativas en la educación formal y no formal, ayudan a despertar el interés de los alumnos a través del “aprender haciendo” [learning by doing] en los sistemas educativos.</ul>
 <br>
-<br>
+
 <ul>
 <h4><a href="http://sched.co/8YgA">Jueves 27 - 3:00pm - 3:30pm:
 Dinamizando el ecosistema maker: del prototipo al mercado </a> </h4><br> 
