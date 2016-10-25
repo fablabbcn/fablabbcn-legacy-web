@@ -4,7 +4,7 @@ type: event
 teaserlatest: blog_loop_latest/fabcityoui.jpg
 teaserlist: blog_loop_latest/OSFestFabCity.png
 title: Taller Fab City en Oui Share Fest
-meta: "El 26 y 27 de octubre participaremos en el Oui Share Fest Barcelona con diversos eventos relacionados con el proyecto Fab City, Fab Lab y Aquapioneers. No te lo pierdas, es gratis! "
+meta: "El 26 y 27 de octubre participaremos en el Oui Share Fest Barcelona con diversos eventos relacionados con el proyecto Fab City, Fab Lab y Aquapioneers. ¡No te lo pierdas! "
 author: Maria Ustarroz
 date: 22/09/2016
 category: event
