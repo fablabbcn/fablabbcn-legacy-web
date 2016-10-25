@@ -2,7 +2,7 @@
 layout: blog_post
 type: event
 teaserlatest: blog_loop_latest/fabcityoui.jpg
-teaserlist: blog_loop_latest/fabcityoui.jpg
+teaserlist: blog_loop_latest/OSFestFabCity.png
 title: Taller Fab City en Oui Share Fest
 meta: "El 26 y 27 de octubre participaremos en el Oui Share Fest Barcelona con diversos eventos relacionados con el proyecto Fab City, Fab Lab y Aquapioneers. No te lo pierdas, es gratis! "
 author: Maria Ustarroz
@@ -14,10 +14,10 @@ category: event
 <h4>¿Crees en una Barcelona más productiva a nivel de fabricar cosas, producir energía y cosechar alimentos?<br>
   <br>
 
-¡Te invitamos a compartir tus ideas para que Barcelona sea más autosuficiente en los proximos 5 anos!<br>
+¡Te invitamos a compartir tus ideas para que Barcelona sea más autosuficiente en los proximos 5 años!<br>
 </h4>
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/opendayoct2016.jpg" align="middle"> </ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/OSFestFabCity.png" align="middle"> </ul>
 
 
 <ul>
@@ -48,9 +48,12 @@ Regenerando la producción local: hacia un modelo espiral</a> </h4><br>
 
 Varios actores de Barcelona (i.e. Fab Lab managers, makers, cliente local, etc) nos invitarán a explorar la construcción de esta nueva economía espiral basada en una infraestructura distribuida de datos y fabricación en el que los materiales fluyen dentro de la ciudad y la información sobre cómo se realizan los objetos circula globalmente. </ul>
 <br>
+
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fab-city-prototype_v1.png" align="middle"> </ul>
+
 <br>
 <ul>
-<h4><a href="http://sched.co/8Yff">Miércoles 26 - 4:45pm - 5:15pm :
+<h4><a href="http://sched.co/8Yff">Miércoles 26 - 4:45pm - 5:15pm:
 Más allá de los libros de texto. Aprender haciendo con tecnologías creativas </a> </h4> <br>  
 <br> 
 Durante esta sesión, descubriremos cómo la cultura Maker está impactando en la educación, reconectando conocimientos y habilidades de los alumnos con el mundo real para hacer frente a una sociedad cambiante.<br> 
@@ -67,8 +70,5 @@ Dinamizando el ecosistema maker: del prototipo al mercado </a> </h4><br>
 </ul>
 
  <br>
-
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/opendayoct2016.jpg" align="middle"> </ul>
-
 <br>
 
