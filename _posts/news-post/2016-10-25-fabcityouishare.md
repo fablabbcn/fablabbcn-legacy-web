@@ -16,9 +16,13 @@ category: event
 
 ¡Te invitamos a compartir tus ideas para que Barcelona sea más autosuficiente en los proximos 5 anos!<br>
 </h4>
+
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/opendayoct2016.jpg" align="middle"> </ul>
+
+
 <ul>
-  <a href="http://sched.co/8Yfg">Miércoles 26 - 12:00pm - 1:30pm: 
-Taller - Visualizando y co-creando una Barcelona autosuficiente</a>   <br> 
+  <h4><a href="http://sched.co/8Yfg">Miércoles 26 - 12:00pm - 1:30pm: 
+Taller - Visualizando y co-creando una Barcelona autosuficiente</a>   </h4><br> 
   <br>
 En este workshop, queremos explorar tres estrategias para una Barcelona más autosuficiente:<br>
 <br>
@@ -27,33 +31,36 @@ En este workshop, queremos explorar tres estrategias para una Barcelona más aut
 3.Producir energía renovable: con la llegada de las baterías domésticas y la bajada de costes de la tecnología solar, los ciudadanos tienen las herramientas para producir una parte de du consumo energético.<br>
 </ul>
     <br>
-    
+    <br>
 <ul>
-    <a href="http://sched.co/8Yfh"> Miércoles 26 - 3:15pm - 3:30pm:
-Construyendo la Fab City</a> <br> 
+    <h4><a href="http://sched.co/8Yfh"> Miércoles 26 - 3:15pm - 3:30pm:
+Construyendo la Fab City</a></h4> <br> 
 <br>
     Cómo podemos fomentar ciudades y ciudadanos mas resilientes, localmente productivas y globalmente conectadas?
 Este es el reto que quiere resolver la iniciativa Fab City; tomando los ideales de los Fab Labs (conexión, creatividad, colaboración, ciencia, cultura y tecnología) y escalandolos a la ciudad. Durante esta sesión, Tomas Diez nos invitará a atterizar este concepto junto con el anuncio del primer prototipo a gran escala de Fab City en Barcelona.  </ul>
 <ul>
-   <a href="http://sched.co/8Yfe">Miércoles 26 - 3:30pm - 4:15pm:
-Regenerando la producción local: hacia un modelo espiral</a> <br>
+<br>
+<br>
+   <h4><a href="http://sched.co/8Yfe">Miércoles 26 - 3:30pm - 4:15pm:
+Regenerando la producción local: hacia un modelo espiral</a> </h4><br>
  <br>
  Durante esta sesión, descubriremos como la red de Makers de Barcelona está cambiando el paradigma de la economía industrial actual. Desde un modelo lineal de importación de productos y generación de desechos hacia un ecosistema de innovación espiral.
 
 Varios actores de Barcelona (i.e. Fab Lab managers, makers, cliente local, etc) nos invitarán a explorar la construcción de esta nueva economía espiral basada en una infraestructura distribuida de datos y fabricación en el que los materiales fluyen dentro de la ciudad y la información sobre cómo se realizan los objetos circula globalmente. </ul>
-
+<br>
+<br>
 <ul>
-<a href="http://sched.co/8Yff">Miércoles 26 - 4:45pm - 5:15pm :
-Más allá de los libros de texto. Aprender haciendo con tecnologías creativas </a>  <br>  
+<h4><a href="http://sched.co/8Yff">Miércoles 26 - 4:45pm - 5:15pm :
+Más allá de los libros de texto. Aprender haciendo con tecnologías creativas </a> </h4> <br>  
 <br> 
 Durante esta sesión, descubriremos cómo la cultura Maker está impactando en la educación, reconectando conocimientos y habilidades de los alumnos con el mundo real para hacer frente a una sociedad cambiante.<br> 
 <br> 
 Analizaremos como los Fab Labs y la inclusión de metodologías activas y las tecnologías creativas en la educación formal y no formal, ayudan a despertar el interés de los alumnos a través del “aprender haciendo” [learning by doing] en los sistemas educativos.</ul>
-
-
+<br>
+<br>
 <ul>
-<a href="http://sched.co/8YgA">Jueves 27 - 3:00pm - 3:30pm: </a> 
-Dinamizando el ecosistema maker: del prototipo al mercado<br> 
+<h4><a href="http://sched.co/8YgA">Jueves 27 - 3:00pm - 3:30pm:
+Dinamizando el ecosistema maker: del prototipo al mercado </a> </h4><br> 
  <br>
     
  Durante esta sesión reflexionaremos sobre la dificultad de pasar del prototipo al mercado. Indagaremos sobre cómo se puede dinamizar el ecosistema maker para facilitar este proceso y analizaremos cuales son los retos principales a los que se enfrentan los makers durante el desarrollo de un producto o servicio. 
