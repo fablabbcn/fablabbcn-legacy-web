@@ -18,3 +18,7 @@ Para fabricarla, utlizamos madera laminada de 30 mm, fresada la Precix milling m
 <br>
 
 <a title="mekamix" href="http://flxl.wordpress.com/2012/02/29/mekamix-never-ending-bench-made-in-fablab-bcn/#" target="_blank"><strong>Mekamix</strong></a> 
+
+<br>
+
+<img src="<img src="http://flxl.files.wordpress.com/2012/02/mekamix_bsf_1-1_015.jpg?w=1000&amp;h=" alt="" width="900" />
