@@ -21,5 +21,4 @@ Para fabricarla, utlizamos madera laminada de 30 mm, fresada la Precix milling m
 
 <br>
 
-<img src="<img src="https://drive.google.com/open?id=0B2Ty9JX4GLWoSW1vcFRGQUZaSVU
-="900" />
+<img src="https://drive.google.com/open?id=0B2Ty9JX4GLWoSW1vcFRGQUZaSVU" alt="" width="900" />
