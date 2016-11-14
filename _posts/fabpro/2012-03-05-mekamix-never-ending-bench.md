@@ -21,4 +21,5 @@ Para fabricarla, utlizamos madera laminada de 30 mm, fresada la Precix milling m
 
 <br>
 
-<img src="<img src="http://flxl.files.wordpress.com/2012/02/mekamix_bsf_1-1_015.jpg?w=1000&amp;h=" alt="" width="900" />
+<img src="<img src="https://drive.google.com/open?id=0B2Ty9JX4GLWoSW1vcFRGQUZaSVU
+="900" />
