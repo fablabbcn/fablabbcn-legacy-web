@@ -1,8 +1,8 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/makerfairereview.jpg
-teaserlist: blog_loop_latest/makerfairereview.jpg
+teaserlatest: blog_loop_latest/INTERNSSMALL.jpg
+teaserlist: blog_loop_latest/INTERNSSMALL.jpg
 title: Prácticas 2017 en Fab Lab Barcelona
 meta: "¿Estás buscando prácticas para 2017? ¡Hazlas con nosotros!"
 author: Maria Ustarroz
