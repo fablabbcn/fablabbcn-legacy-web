@@ -13,8 +13,9 @@ category: news
 <h4>Prácticas 2017 en Fab Lab Barcelona</h4>
 <br>
 
-Fab Lab Barcelona abre una convocatoria para 3 plazas en su Programa de Prácticas.<br>
+<strong>Fab Lab Barcelona abre una convocatoria para 3 plazas en su Programa de Prácticas.</strong><br>
 <br>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/OSFestFabCity.png" align="middle"> </ul>
 
 A través de este programa los practicantes tendrán la oportunidad de trabajar directamente en el Fab Lab con máquinas de Fabricación Digital y un entorno creativo único.<br>
 <br>
