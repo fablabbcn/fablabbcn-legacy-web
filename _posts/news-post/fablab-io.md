@@ -3,7 +3,7 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/INTERNSSMALL.jpg
 teaserlist: blog_loop_latest/INTERNSSMALL.jpg
-title: Prácticas 2017 en Fab Lab Barcelona
+title: Fablabs.io
 meta: "Fablabs.io"
 author: Maria Ustarroz
 date: 13/12/2016
