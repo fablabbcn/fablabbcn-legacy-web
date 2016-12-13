@@ -10,14 +10,14 @@ date: 13/12/2016
 category: news
 ---
 
-<h4>Fablabs.io is in the transition from being a list of Fab Labs to become a social network for the community, and a platform for value exchange between people, organisations, labs, projects, products and events related to our ecosystem</h4>
+<h4>Fall 2016 updates</h4>
 <br>
 
-<strong>Fall 2016 updates</strong><br>
+<strong>Fablabs.io is in the transition from being a list of Fab Labs to become a social network for the community, and a platform for value exchange between people, organisations, labs, projects, products and events related to our ecosystem</strong><br>
 <br>
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/INTERNSSMALL.jpg" align="middle"> 
 
-.....<br>
+
 <br>
 <strong>TEAM</strong>
 
@@ -27,7 +27,6 @@ We are happy to introduce you to the people that will be working on the day by d
 -Matias Verderau, Network Manager<br>
 -Gui Seiz, Creative Director and Design<br>
 -Mariana Quintero, Design<br>
-<br>
 
 <br>
 We currently are in a transition phase for the new team to get to know all the details of the current state of the platform and plan its future development, and the priority right now is to fix existing critical issues and in finalizing the development of several changes we have been working for several months. We have already been working on a first draft of a roadmap for the future with issues and milestones on the Fablabs.io GitHub repo, and once we got through this transition, we will complete the roadmap and proceed with the development of many more features. From just a list of labs, Fablabs.io is becoming a more complete platform for connecting people, projects and laboratories, and especially for this reason its development is now under reorganization. For example, we just added our cookie and privacy policies and our terms of service, an important steps towards growing as a full platform: please read them carefully, by using Fablabs.io you acknowledge, accept and agree these terms and policies.<br>
@@ -40,7 +39,6 @@ For this reason, and for implementing advanced functionalities for community dis
 -Machines: regarding the machines and technologies on Fablabs.io;<br>
 -Projects, regarding the projects on Fablabs.io;<br>
 -Events: regarding the events on Fablabs.io (a feature under development at the moment) and other related events like the FABx events: FAB14, FAB13, FAB12, FAB11, FAB10, FAB9, and so on.<br>
-<br>
 
 <br>
 Furthermore, there are also these categories that are not yet present on the main Fablabs.io, but that can be very useful for you:<br>
