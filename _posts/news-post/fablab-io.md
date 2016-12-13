@@ -10,14 +10,14 @@ date: 13/12/2016
 category: news
 ---
 
-<h4>........</h4>
+<h4>Fablabs.io is in the transition from being a list of Fab Labs to become a social network for the community, and a platform for value exchange between people, organisations, labs, projects, products and events related to our ecosystem</h4>
 <br>
 
 <strong>Fall 2016 updates</strong><br>
 <br>
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/INTERNSSMALL.jpg" align="middle"> 
 
-Fablabs.io is in the transition from being a list of Fab Labs to become a social network for the community, and a platform for value exchange between people, organisations, labs, projects, products and events related to our ecosystem.<br>
+.....<br>
 <br>
 <strong>TEAM</strong>
 
