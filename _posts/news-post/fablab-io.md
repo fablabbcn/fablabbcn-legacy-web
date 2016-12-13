@@ -69,9 +69,6 @@ to the Labs approved during the last month: You will be asked to provide detaile
 <br>
 We will keep you updated about the future development of Fablabs.io.<br>
 
-Best regards,<br>
-
-The Fablabs.io team<br>
 
 
 
