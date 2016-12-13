@@ -4,16 +4,16 @@ type: blog
 teaserlatest: blog_loop_latest/fablabiosmall.jpg
 teaserlist: blog_loop_latest/fablabiosmall.jpg
 title: Fablabs.io
-meta: "Fablabs.io"
+meta: "Fablabs.io is in the transition from being a list of Fab Labs to become a social network for the community, and a platform for value exchange between people, organisations, labs, projects, products and events related to our ecosystem. Here all 2016 updates."
 author: Maria Ustarroz
 date: 13/12/2016
 category: news
 ---
 
-<h4>Fall 2016 updates</h4>
+
 <br>
 
-<strong>Fablabs.io is in the transition from being a list of Fab Labs to become a social network for the community, and a platform for value exchange between people, organisations, labs, projects, products and events related to our ecosystem.</strong><br>
+<strong>Fablabs.io - Fall 2016 updates</strong><br>
 <br>
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fablabiobanner.jpg" align="middle"> 
 
