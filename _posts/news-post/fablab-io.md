@@ -6,11 +6,11 @@ teaserlist: blog_loop_latest/INTERNSSMALL.jpg
 title: Prácticas 2017 en Fab Lab Barcelona
 meta: "¿Estás buscando prácticas para 2017? ¡Hazlas con nosotros!"
 author: Maria Ustarroz
-date: 12/05/2016
+date: 13/12/2016
 category: news
 ---
 
-<h4>Prácticas 2017 en Fab Lab Barcelona</h4>
+<h4>Fablabs.io - Fall 2016 updates</h4>
 <br>
 
 <strong>Fab Lab Barcelona abre una convocatoria para 3 plazas en su Programa de Prácticas.</strong><br>
