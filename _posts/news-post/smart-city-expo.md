@@ -10,7 +10,7 @@ date: 14/05/2016
 category: news
 ---
 
-<strong>IAAC TAKES PART TO THE SMART CITY EXPO WORLD CONGRESS 2016</strong><br>
+<strong>IAAC | Fab Lab Barcelona takes part to the Smart City Expo World Congress 2016</strong><br>
 
 <strong>The Smart City Expo World Congress, the international summit of discussion about the link between urban reality and technological revolution, reached this year its 6th edition.</strong><br>
 
