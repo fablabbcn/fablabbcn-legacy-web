@@ -4,7 +4,7 @@ type: blog
 teaserlatest: blog_loop_latest/cancerdiagnosissmall.jpg
 teaserlist: blog_loop_latest/cancerdiagnosissmall.jpg
 title: IAAC MAA Faculty Project to Speed up Cancer Diagnosis
-meta: "The startup AIMS to fast-forward the generation of a healthcare ecosystem where fast and biopsy-free diagnostics, and effective and painless treatments are an option for cancer patients."
+meta: "The goal is to design new Plug and Play RNA biodevices to carry out therapy and tumoral cell identification methods capable to assist doctors in surgical tumor removal"
 author: Maria Ustarroz
 date: 14/05/2016
 category: news
