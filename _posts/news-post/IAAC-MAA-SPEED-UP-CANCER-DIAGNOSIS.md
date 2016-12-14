@@ -1,12 +1,12 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/INTERNSSMALL.jpg
-teaserlist: blog_loop_latest/INTERNSSMALL.jpg
-title: Prácticas 2017 en Fab Lab Barcelona
-meta: "¿Estás buscando prácticas para 2017? ¡Hazlas con nosotros!"
+teaserlatest: blog_loop_latest/cancerdiagnosissmall.jpg
+teaserlist: blog_loop_latest/cancerdiagnosissmall.jpg
+title: IAAC MAA Faculty Project to Speed up Cancer Diagnosis
+meta: "The startup AIMS to fast-forward the generation of a healthcare ecosystem where fast and biopsy-free diagnostics, and effective and painless treatments are an option for cancer patients."
 author: Maria Ustarroz
-date: 12/05/2016
+date: 14/05/2016
 category: news
 ---
 
@@ -17,32 +17,24 @@ category: news
 <br>
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/INTERNSSMALL.jpg" align="middle"> 
 
-A través de este programa los practicantes tendrán la oportunidad de trabajar directamente en el Fab Lab con máquinas de Fabricación Digital y un entorno creativo único.<br>
+Around 15 million patients are diagnosed with cancer all around the world every year. Nowadays, there is hope for patients, especially when treatment can start quickly with a fast diagnosis.<br>
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/cancerdiagnosis1.png" align="middle"> 
 <br>
-<strong>Requisitos</strong>
 
-Buscamos estudiantes avanzados o recien graduados en las siguientes áreas:<br>
--Ingenierías informáticas, en Telecomunicaciones o en informática<br>
--Diseño industrial y de producto<br>
--Communicación<br>
-<br>
-Imprescindible, nivel medio-alto de Inglés.<br>
-<br>
-Si no cumples estos requisitos pero tienes muchas ganas de sumarte al equipo, tambien puedes aplicar.<br>
-<br>
-<strong>Detalles del programa</strong>
+<strong>MAA IAAC Faculty Núria Conde</strong> is among the five enthusiastic scientists and PhDs founders of <strong>Moirai Biodesign</strong>, a Barcelona based biotech startup born with the ambition of improving human health. The startup aims to fast-forward the generation of a healthcare ecosystem where fast and biopsy-free diagnostics, and effective and painless treatments are an option for cancer patients.<br>
 
-El programa es de 6 meses, conmienza el 1 de enero al 1 de Julio de 2017, con una dedicación semanal de 20 horas.
-Las prácticas no son remuneradas.
+In the long term, their goal is to design new Plug and Play RNA biodevices to carry out therapy and tumoral cell identification methods capable to assist doctors in surgical tumor removal. The startup is currently collecting funds to develop a prototype of a <strong>diagnostic kit for Acute Myeloid Leukemia</strong>.<br>
 
-<strong>Como aplicar</strong>
+Myeloid leukemias are cancers that start in cells that would normally develop into white blood cells. It is called acute because it progresses very quickly if not treated, and can be fatal in a few months. Hence, a fast and affordable diagnosis is of paramount importance.<br>
 
-1.<a href="https://docs.google.com/forms/d/e/1FAIpQLScuwSLEMjWGBRCComUC0SXMpC6KS2NHFZR6IluH0Ip-Dt9XYg/viewform">Rellena el formulario</a> 
+Their main goal is to develop diagnostic kits capable of detecting those biomarkers within the patient’s blood. A diagnostic kit will be similar to a pregnancy test: it will consist of a reactive paper strip that will change color upon biomarker detection.<br>
+
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/cancerdiagnosis2.png" align="middle"> 
 <br>
-2.Envia tu CV + Portfolio a: info@fablabbcn.org<br>
-<br>
-<strong>¡Esperamos tu correo!</strong>
-<br>
-<a href="http://fablabbcn.org/uploads/programa%20de%20practicas%20fab%20lab%20bcn_2015-16.pdf">Mas info</a>
+
+Learn more and donate visiting: <br>
+
+<a href="http://savetimesavelives.info/">http://savetimesavelives.info/</a> <br>
+
 
 
