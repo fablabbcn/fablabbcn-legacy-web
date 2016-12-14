@@ -3,7 +3,7 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/cancerdiagnosissmall.jpg
 teaserlist: blog_loop_latest/cancerdiagnosissmall.jpg
-title: IAAC MAA Faculty Project to Speed up Cancer Diagnosis
+title: Project to Speed up Cancer Diagnosis
 meta: "The goal is to design new Plug and Play RNA biodevices to carry out therapy and tumoral cell identification methods capable to assist doctors in surgical tumor removal"
 author: Maria Ustarroz
 date: 14/05/2016
@@ -16,7 +16,7 @@ category: news
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/cancerdiagnosis1.png" align="middle"> 
 <br>
 
-<strong>MAA IAAC Faculty Núria Conde</strong> is among the five enthusiastic scientists and PhDs founders of <strong>Moirai Biodesign</strong>, a Barcelona based biotech startup born with the ambition of improving human health. The startup aims to fast-forward the generation of a healthcare ecosystem where fast and biopsy-free diagnostics, and effective and painless treatments are an option for cancer patients.<br>
+<strong>Our profesor of Biology Zero Course and Bio Academy at Green Fab Lab, Dr. Núria Conde</strong> is among the five enthusiastic scientists and PhDs founders of <strong>Moirai Biodesign</strong>, a Barcelona based biotech startup born with the ambition of improving human health. The startup aims to fast-forward the generation of a healthcare ecosystem where fast and biopsy-free diagnostics, and effective and painless treatments are an option for cancer patients.<br>
 
 In the long term, their goal is to design new Plug and Play RNA biodevices to carry out therapy and tumoral cell identification methods capable to assist doctors in surgical tumor removal. The startup is currently collecting funds to develop a prototype of a <strong>diagnostic kit for Acute Myeloid Leukemia</strong>.<br>
 
