@@ -12,7 +12,6 @@ category: news
 
 
 <strong>Around 15 million patients are diagnosed with cancer all around the world every year. Nowadays, there is hope for patients, especially when treatment can start quickly with a fast diagnosis.</strong><br>
-<br>
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/cancerdiagnosis1.png" align="middle"> 
 <br>
