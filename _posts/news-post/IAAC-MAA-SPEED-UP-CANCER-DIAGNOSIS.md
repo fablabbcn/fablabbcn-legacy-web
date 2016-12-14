@@ -10,14 +10,10 @@ date: 14/05/2016
 category: news
 ---
 
-<h4>Prácticas 2017 en Fab Lab Barcelona</h4>
+
+<strong>Around 15 million patients are diagnosed with cancer all around the world every year. Nowadays, there is hope for patients, especially when treatment can start quickly with a fast diagnosis.</strong><br>
 <br>
 
-<strong>Fab Lab Barcelona abre una convocatoria para 3 plazas en su Programa de Prácticas.</strong><br>
-<br>
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/INTERNSSMALL.jpg" align="middle"> 
-
-Around 15 million patients are diagnosed with cancer all around the world every year. Nowadays, there is hope for patients, especially when treatment can start quickly with a fast diagnosis.<br>
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/cancerdiagnosis1.png" align="middle"> 
 <br>
 
