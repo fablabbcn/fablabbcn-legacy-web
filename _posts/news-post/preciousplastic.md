@@ -22,22 +22,22 @@ you will find the project here: <a href="www.fablabs.io/projects/142">www.fablab
 <br>
 Their project is clear:<br>
 <br>
-1- Develop Machines - For the past two years we have been developing machines to recycle plastic waste, locally;<br>
-2- Share, for free - The machines are developed using basic tools and materials. We share all the blueprints open source online. This way people around the world can build them;<br>
-3- Spread the know-how - In order to build these machines people need to know that the blueprints are available. We need to spread the know-how to every corner of the world;<br>
-4- Create - Once the machines are built people can start experimenting, creating and producing new products from their local plastic waste;<br>
-5- Clean up - The primary goal is to recycle as much plastic as we possibly can. This would clean up our shared environment, improve living conditions and possibly create financial value;<br>
-6- Community - An important aspect of the project is to create a world wide community of like-minded plastic savers. People working for a cleaner future, sharing knowledge, helping each other, and collaborating;<br>
+1- <strong>Develop Machines</strong> - For the past two years we have been developing machines to recycle plastic waste, locally;<br>
+2- <strong>Share, for free</strong> - The machines are developed using basic tools and materials. We share all the blueprints open source online. This way people around the world can build them;<br>
+3- <strong>Spread the know-how</strong> - In order to build these machines people need to know that the blueprints are available. We need to spread the know-how to every corner of the world;<br>
+4- <strong>Create</strong> - Once the machines are built people can start experimenting, creating and producing new products from their local plastic waste;<br>
+5- <strong>Clean up</strong> - The primary goal is to recycle as much plastic as we possibly can. This would clean up our shared environment, improve living conditions and possibly create financial value;<br>
+6- <strong>Community</strong> - An important aspect of the project is to create a world wide community of like-minded plastic savers. People working for a cleaner future, sharing knowledge, helping each other, and collaborating;<br>
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/preciousplastic3.jpg" align="middle"> 
 <br>
 
-In November 2016 the plastic recycling machines created in cooperation with Precious Plastic and Fab Lab Barcelona were exposed to the  <a href="http://www.worldsurfleague.com/events/2016/mct/1522/meo-rip-curl-pro-portugal">Rip Curl Pro in Supertubos</a>  at the Peniche Municipality stand and their did some demos with the injection machine!.<br>
+In November 2016 the plastic recycling machines created in cooperation with <strong>Precious Plastic</strong> and <strong>Fab Lab Barcelona</strong> were exposed to the  <a href="http://www.worldsurfleague.com/events/2016/mct/1522/meo-rip-curl-pro-portugal">Rip Curl Pro in Supertubos</a>  at the Peniche Municipality stand and their did some demos with the injection machine!.<br>
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/preciousplastic4.jpg" align="middle"> 
 <br>
 
-In colaboration with the OPO'lab in Porto, Precious Plastic did some demonstrations with the kids which was really nice as well.<br>
+Few weeks later in colaboration with the <a href="http://www.opolab.com/#studio">OPO'lab</a> in Porto, <strong>Precious Plastic</strong> did some demonstrations with the kids which was really nice as well.<br>
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/preciousplastic5.png" align="middle"> 
 <br>
