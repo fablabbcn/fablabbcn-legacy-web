@@ -14,11 +14,11 @@ category: news
 you will find the project here: <a href="www.fablabs.io/projects/142">www.fablabs.io/projects/142</a><br>
 
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/preciousplastic1.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/preciousplastic2.jpg" align="middle"> 
 
 <strong>"A plan that will allow people, anywhere in the world to transform plastic waste into valuable things."</strong><br>
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/preciousplastic2.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/preciousplastic1.jpg" align="middle"> 
 <br>
 Their project is clear:<br>
 <br>
@@ -31,19 +31,13 @@ Their project is clear:<br>
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/preciousplastic3.jpg" align="middle"> 
 <br>
-???????????????????????????????????????
-You can see some of the things we have been doing in the latest weeks on the instagram page. You'll see we were able to make the waxscraper that João designed for us with the injection machine!
 
-you will find more pictures here:<br>  <a href="https://www.instagram.com/plasticopreciosobcn/">https://www.instagram.com/plasticopreciosobcn/</a><br>
+In November 2016 the plastic recycling machines created in cooperation with Precious Plastic and Fab Lab Barcelona were exposed to the  <a href="http://www.worldsurfleague.com/events/2016/mct/1522/meo-rip-curl-pro-portugal">Rip Curl Pro in Supertubos</a>  at the Peniche Municipality stand and their did some demos with the injection machine!.<br>
 
-We brought the machines to the Rip Curl Pro in Supertubos where they were exposed at the Peniche Municipality stand and we did some demos, but unfortunately the competition was held at the other location almost every day so we didn't have as many visitors as expected..
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/preciousplastic4.jpg" align="middle"> 
 <br>
-Two weeks ago we brought them to Joao at the OPO'lab in Porto and did some demonstrations there with the kids which was really nice as well. We then decided to leave the machines there because we're not staying in Portugal, and we thought it would be easier to arrange for them to go back to Barcelona if they are at the OPO'Lab. Moreover João wanted to present the machines to the waste management company of Porto in the coming weeks.
 
-So that's what we've been doing with the machines in Portugal. We're not planning on doing any more demonstrations so if João is done with them I think he can arrange for them to be sent back to Barcelona (he's in cc so you can talk to him directly about it).
-
-I saw Mattia plans on making a Precious Plastic 3.0 so I'll try to share as much info as possible that I have gained from making the machines to help him succeed!<br>
+In colaboration with the OPO'lab in Porto, Precious Plastic did some demonstrations with the kids which was really nice as well.<br>
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/preciousplastic5.png" align="middle"> 
 <br>
