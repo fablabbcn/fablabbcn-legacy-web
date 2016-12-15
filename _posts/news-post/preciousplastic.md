@@ -1,8 +1,8 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/smartcitysmall.jpg
-teaserlist: blog_loop_latest/smartcitysmall.jpg
+teaserlatest: blog_loop_latest/preciousplasticsmall.jpg
+teaserlist: blog_loop_latest/preciousplasticsmall.jpg
 title: PRECIOUS PLASTIC
 meta: "Precious Plastic cooperated with Fab Lab Barcelona to fabricate 4 small-scale plastic recycling machines based on the open-source materials."
 author: Maria Ustarroz
