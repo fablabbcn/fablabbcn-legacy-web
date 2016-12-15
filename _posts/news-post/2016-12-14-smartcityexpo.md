@@ -3,7 +3,7 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/smartcitysmall.jpg
 teaserlist: blog_loop_latest/smartcitysmall.jpg
-title: SMART CITY EXPO WORLD CONGRESS 2016
+title: Smart City Expo World Congress 2016
 meta: "The Smart City Expo World Congress, the international summit of discussion about the link between urban reality and technological revolution, reached this year its 6th edition."
 author: Maria Ustarroz
 date: 14/05/2016
