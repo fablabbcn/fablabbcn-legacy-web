@@ -15,9 +15,9 @@ category: news
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/telefonica1.jpg" align="middle"> 
 <br>
 
-¿Cómo mejorar las competencias de los estudiantes para que puedan aprovechar todas las oportunidades de la sociedad digital? El 14 y 16 de noviembre, Fundación Telefónica presentò en Barcelona y Madrid respectivamente el informe ‘Top 100 Innovaciones Educativas 2016: Educar para la Sociedad Digital’, con el que han dado respuesta a esta y otras preguntas. Ambos eventos se pudieron seguir en redes con el hashtag #Top100InnovacionesEducativas, que llegó a ser Trending Topic en España<br>
+¿Cómo mejorar las competencias de los estudiantes para que puedan aprovechar todas las oportunidades de la sociedad digital? El 14 y 16 de noviembre, <strong>Fundación Telefónica</strong> presentò en Barcelona y Madrid respectivamente el informe <strong>‘Top 100 Innovaciones Educativas 2016: Educar para la Sociedad Digital’</strong>, con el que han dado respuesta a esta y otras preguntas. Ambos eventos se pudieron seguir en redes con el hashtag #Top100InnovacionesEducativas, que llegó a ser Trending Topic en España<br>
 
-Santiago Fuentemilla, Fab Academy tutor del Fab Lab Barcelona, durante la presentación en Madrid explicó como funciona un Fab Lab, el Networking local/global a través de Fab Foundation y presentó la proxima edicion del Fab Academy 2017<br>
+<strong>Santiago Fuentemilla, Fab Academy tutor del Fab Lab Barcelona, durante la presentación en Madrid explicó como funciona el <strong>Fab Lab</strong>, la <strong><a href="http://www.fabfoundation.org/?_ga=1.129159246.351943665.1481728902">Fab Foundation</a></strong> y presentó la proxima edicion del <strong><a href="http://fabacademy.org/">Fab Academy 2017</a></strong><br>
 
 En sociedades donde la tecnología está marcando cada vez más las tendencias sociales y laborales, las habilidades y competencias tienen que ir orientadas a un desarrollo pleno en contextos altamente digitales. No se trata de centrarse sólo en el manejo de herramientas tecnológicas, sino también desarrollar la capacidad para aprender, trabajar con otros, participar y crear en la sociedad digital. Es necesario un replanteamiento del proceso educativo que garantice que las generaciones presentes y futuras se beneficien plenamente del potencial transformador de las nuevas tecnologías.<br>
 
@@ -27,6 +27,8 @@ El 18 de marzo finalizó el plazo de presentación de aquellas innovaciones educ
 
 for more information: <br>
 
-<a href="http://www.fundaciontelefonica.com/educacion_innovacion/desafio_educacion/">http://www.fundaciontelefonica.com/educacion_innovacion/desafio_educacion/</a> <br>
+<a href="http://www.fundaciontelefonica.com/educacion_innovacion/desafio_educacion/">http://www.fundaciontelefonica.com</a> <br>
+
+
 
 
