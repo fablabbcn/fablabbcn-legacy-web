@@ -1,49 +1,32 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/preciousplasticsmall.jpg
-teaserlist: blog_loop_latest/preciousplasticsmall.jpg
-title: PRECIOUS PLASTIC
-meta: "Precious Plastic cooperated with Fab Lab Barcelona to fabricate 4 small-scale plastic recycling machines based on the open-source materials."
+teaserlatest: blog_loop_latest/telefonicasmall.jpg
+teaserlist: blog_loop_latest/telefonicasmall.jpg
+title: Top 100 Innovaciones educativas 2016 - Fundación Telefónica
+meta: "Este proyecto busca identificar las iniciativas que contribuyen a mejorar las competencias digitales de los alumnos y a prepararles para trabajar en la sociedad digital del futuro y el Fab Lab fue seleccionado por ser presentado el 14 y el 16 de noviembre en Barcelona y Madrid"
 author: Maria Ustarroz
 date: 15/05/2016
 category: news
 ---
 
-<strong>Precious Plastic cooperated with Fab Lab Barcelona to fabricate 4 small-scale plastic recycling machines based on the open-source materials uploaded on their site: <a href="https://preciousplastic.com/en">http://preciousplastic.com/</a></strong><br>
-you will find the project here: <a href="www.fablabs.io/projects/142">www.fablabs.io/projects/142</a><br>
+<strong>Este proyecto busca identificar las iniciativas que contribuyen a mejorar las competencias digitales de los alumnos y a prepararles para trabajar en la sociedad digital del futuro y el Fab Lab fue seleccionado por ser presentado el 14 y el 16 de noviembre en Barcelona y Madrid</strong><br>
 
-
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/preciousplastic2.jpg" align="middle"> 
-
-<strong>"A plan that will allow people, anywhere in the world to transform plastic waste into valuable things."</strong><br>
-
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/preciousplastic1.jpg" align="middle"> 
-<br>
-Their project is clear:<br>
-<br>
-1- <strong>Develop Machines</strong> - For the past two years we have been developing machines to recycle plastic waste, locally;<br>
-2- <strong>Share, for free</strong> - The machines are developed using basic tools and materials. We share all the blueprints open source online. This way people around the world can build them;<br>
-3- <strong>Spread the know-how</strong> - In order to build these machines people need to know that the blueprints are available. We need to spread the know-how to every corner of the world;<br>
-4- <strong>Create</strong> - Once the machines are built people can start experimenting, creating and producing new products from their local plastic waste;<br>
-5- <strong>Clean up</strong> - The primary goal is to recycle as much plastic as we possibly can. This would clean up our shared environment, improve living conditions and possibly create financial value;<br>
-6- <strong>Community</strong> - An important aspect of the project is to create a world wide community of like-minded plastic savers. People working for a cleaner future, sharing knowledge, helping each other, and collaborating;<br>
-
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/preciousplastic3.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/telefonica1.jpg" align="middle"> 
 <br>
 
-In November 2016 the plastic recycling machines created in cooperation with <strong>Precious Plastic</strong> and <strong>Fab Lab Barcelona</strong> were exposed to the  <a href="http://www.worldsurfleague.com/events/2016/mct/1522/meo-rip-curl-pro-portugal">Rip Curl Pro in Supertubos</a>  at the Peniche Municipality stand and their did some demos with the injection machine!.<br>
+¿Cómo mejorar las competencias de los estudiantes para que puedan aprovechar todas las oportunidades de la sociedad digital? El 14 y 16 de noviembre, Fundación Telefónica presentò en Barcelona y Madrid respectivamente el informe ‘Top 100 Innovaciones Educativas 2016: Educar para la Sociedad Digital’, con el que han dado respuesta a esta y otras preguntas. Ambos eventos se pudieron seguir en redes con el hashtag #Top100InnovacionesEducativas, que llegó a ser Trending Topic en España<br>
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/preciousplastic4.jpg" align="middle"> 
-<br>
+Santiago Fuentemilla, Fab Academy tutor del Fab Lab Barcelona, durante la presentación en Madrid explicó como funciona un Fab Lab, el Networking local/global a través de Fab Foundation y presentó la proxima edicion del Fab Academy 2017<br>
 
-Few weeks later in colaboration with the <a href="http://www.opolab.com/#studio">OPO'lab</a> in Porto, <strong>Precious Plastic</strong> did some demonstrations with the kids which was really nice as well.<br>
+En sociedades donde la tecnología está marcando cada vez más las tendencias sociales y laborales, las habilidades y competencias tienen que ir orientadas a un desarrollo pleno en contextos altamente digitales. No se trata de centrarse sólo en el manejo de herramientas tecnológicas, sino también desarrollar la capacidad para aprender, trabajar con otros, participar y crear en la sociedad digital. Es necesario un replanteamiento del proceso educativo que garantice que las generaciones presentes y futuras se beneficien plenamente del potencial transformador de las nuevas tecnologías.<br>
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/preciousplastic5.png" align="middle"> 
-<br>
+<strong>Proyectos seleccionados</strong><br>
+
+El 18 de marzo finalizó el plazo de presentación de aquellas innovaciones educativas que aportasen una solución a este desafío. Tras la identificación de 100 iniciativas, se realizó una preselección de 30 que han sido valoradas por un jurado compuesto por representantes de instituciones vinculadas a la educación. Atendiendo a criterios de escalabilidad, sostenibilidad e impacto demostrado, se seleccionaron cinco innovaciones, dos nacionales y tres internacionales, que se han presentado el 14 y el 16 de noviembre en Barcelona y Madrid.<br>
 
 for more information: <br>
 
-<a href="https://preciousplastic.com/en">https://preciousplastic.com/en/</a> <br>
+<a href="http://www.fundaciontelefonica.com/educacion_innovacion/desafio_educacion/">http://www.fundaciontelefonica.com/educacion_innovacion/desafio_educacion/</a> <br>
 
 
