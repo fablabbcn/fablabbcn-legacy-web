@@ -10,11 +10,11 @@ date: 24/10/2016
 category: news
 ---
 
-<h4>Thanks for coming to the October Open Fabrication Day</h4>
+<h4>Thanks for coming to the Poblenou Urban District Open Night</h4>
 <br>
-Last October 7th we opened the Fab Lab Barcelona doors and it was a success, there were almost 500 visitors during the afternoon!<br>
+Last Friday 16th we opened the IAAC|Fab Lab Barcelona doors and it was a success, there were more than 300 visitors during the night!<br>
 <br>
-This day visitors and students could discover all the digital fabrication tools we have in the Fab Lab and also discover our projects and programs like <a href="http://fablabbcn.org/fab_academy.html">Fab Academy</a> and the <a href="http://fablabbcn.org/event/2016/09/09/weekendworkshopautumn.html">Weekend Workshops</a>.<br>
+This day visitors could discover all the digital fabrication tools we have in the Fab Lab and also discover some of our projects like <a href="http://madeat.eu/">Made@EU</a>, <a href="http://fablabs.io/">Fablabs.io</a> and <a href="http://making-sense.eu/">Making Sense</a>.<br>
 <br>
 Check out the photos!<br>
 
@@ -30,133 +30,53 @@ Check out the photos!<br>
   <div class="carousel-inner" role="listbox">
    
     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/1.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight/1.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/2.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight/2.jpg" />
     </div>
 
   <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/3.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight/3.jpg" />
     </div>
     
       <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/4.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight/4.jpg" />
     </div>
     
       <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/5.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight/5.jpg" />
     </div>
      
      <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/6.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight/6.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/7.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight/7.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/8.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight/8.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/9.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight/9.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/10.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight/10.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/11.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight/11.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/12.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight/12.jpg" />
     </div>
     
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/13.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/14.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/15.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/16.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/17.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/18.jpg" />
-    </div>
-     
-     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/19.jpg" />
-    </div>
-
-<div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/20.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/21.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/22.jpg" />
-    </div>
-     
-     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/23.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/24.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/25.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/26.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/27.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/28.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/29.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/30.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/31.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday/32.jpg" />
-    </div>
-     
   </div>
 
 <!-------------------- Controls --------------------->
@@ -173,13 +93,14 @@ Check out the photos!<br>
 
 <br>
 
-<h4>Gracias por venir al October Open Fabrication Day</h4>
+<h4>Gracias por venir al Poblenou Urban District Open Night</h4>
 <br>
-El pasado viernes 7 de octubre, abrimos las puertas del Fab Lab Barcelona y fue todo un éxito, tuvimos casi 500 visitantes a lo largo de la tarde!<br>
+El pasado viernes 16 de diciembre, abrimos las puertas de IAAC|Fab Lab Barcelona y fue todo un éxito, tuvimos más de 300 visitantes a lo largo de la noche!<br>
 <br>
-Durante el Open Day visitantes y estudiantes pudieron descubrir todas las herramientas de fabricación digital y también nuestros proyectos y programas como <a href="http://fablabbcn.org/fab_academy.html">Fab Academy</a> y los <a href="http://fablabbcn.org/event/2016/09/09/weekendworkshopautumn.html">Weekend Workshops</a>.<br>
+Durante el Open Night visitantes y estudiantes pudieron descubrir todas las herramientas de fabricación digital y también alguno de nuestros proyectos como <a href="http://madeat.eu/">Made@EU</a>, <a href="http://fablabs.io/">Fablabs.io</a> y <a href="http://making-sense.eu/">Making Sense</a>.<br>
 <br>
-Dale un vistazo a las fotos!<br>
+Échale un vistazo a las fotos!<br>
+
 
 
 
