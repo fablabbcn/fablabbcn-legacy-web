@@ -3,8 +3,8 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/opennightsmall.jpg
 teaserlist: blog_loop_latest/opennightsmall.jpg
-title: Thanks for coming to the October Open Fabrication Day
-meta: "Last October 7th we opened the Fab Lab doors and it was a success, check out the photos!"
+title: Thanks for coming to the Poblenou Urban District Open Night
+meta: "Last December 16th we opened again the Fab Lab doors and it was a success, check out the photos!"
 author: Maria Ustarroz
 date: 24/10/2016
 category: news
