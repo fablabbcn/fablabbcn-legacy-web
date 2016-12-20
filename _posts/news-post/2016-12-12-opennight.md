@@ -1,8 +1,8 @@
 ---
 layout: blog_post
 type: event
-teaserlatest: blog_loop_latest/opennightsmall.jpg
-teaserlist: blog_loop_latest/opennightsmall.jpg
+teaserlatest: blog_loop_latest/opennight.jpeg
+teaserlist: blog_loop_latest/opennight.jpeg
 title: Poblenou Urban District Open Night
 meta: "IAAC | Fab Lab Barcelona abren sus puertas al público para que la gente pueda vivir y conocer el espacio y sus proyectos con talleres y eventos abiertos a todos."
 author: Maria Ustarroz
