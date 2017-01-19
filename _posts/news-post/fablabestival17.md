@@ -1,8 +1,8 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/flssmall.jpg
-teaserlist: blog_loop_latest/flssmall.jpg
+teaserlatest: blog_loop_latest/flfsmall.jpg
+teaserlist: blog_loop_latest/flfsmall.jpg
 title: Fab Lab Festival 2017
 meta: "Este proyecto busca identificar las iniciativas que contribuyen a mejorar las competencias digitales de los alumnos y a prepararles para trabajar en la sociedad digital del futuro y el Fab Lab fue seleccionado por ser presentado el 14 y el 16 de noviembre en Barcelona y Madrid"
 author: Marco Sanalitro
