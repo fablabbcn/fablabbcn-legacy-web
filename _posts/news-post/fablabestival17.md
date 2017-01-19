@@ -29,9 +29,9 @@ Whereas the <strong>2016 edition</strong> focused on the community of French and
 The international aspect of the festival will be continued in 2018 with the hosting of  <strong><a href="http://fab12.fabevent.org/">FAB14</a></strong> in Toulouse. The event will be the 14th edition of <strong>Fab Conferences</strong>, the chief gath-ering of fab labs from across the world. Sponsored by <strong><a href="http://www.fabfoundation.org/?_ga=1.129159246.351943665.1481728902">the Fab Foundation</a></strong>, this global event, which has so far been hosted in Boston, Barcelona, Shen-zhen, and Santiago, Chile.<br>
 
 for more information: <br>
-website: <a href="http://www.fablabfestival.fr">www.fablabfestival.fr</a> <br>
+<br>website: <a href="http://www.fablabfestival.fr">www.fablabfestival.fr</a> <br>
 
-email: contact@artilect.fr ; pauline.gadea@fablabfestival.fr ; lea.morfoisse@artilect.fr
+email: contact@artilect.fr ; pauline.gadea@fablabfestival.fr ; lea.morfoisse@artilect.fr<br>
 
 
 
