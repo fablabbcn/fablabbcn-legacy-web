@@ -10,7 +10,7 @@ date: 19/05/2016
 category: news
 ---
 
-<strong>Este proyecto busca identificar las iniciativas que contribuyen a mejorar las competencias digitales de los alumnos y a prepararles para trabajar en la sociedad digital del futuro y el Fab Lab fue seleccionado por ser presentado el 14 y el 16 de noviembre en Barcelona y Madrid</strong><br>
+<strong>The Fablab Festival 2017 will take place in Toulouse in May (11-14) </strong><br>
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fls1.jpg" align="middle"> 
 <br>
@@ -20,12 +20,15 @@ category: news
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fls2.jpg" align="middle"> 
 <br>
 
+Whereas the <strong>2016 edition</strong> focused on the community of French and Francophone fab labs and made the creation of the French Network of Fab Labs possible, the <strong>2017 edition</strong> is called <strong>Make Europe</strong> and seeks to bring together European <strong>fab labs</strong> to testify to the dynamism of these structures in Europe and to explore the possibilities of creating a <strong>European network</strong>. With an ambitious program and top sponsorship, <strong>Make Europe</strong> proposes four days of diverse events intended to create surprising experiences outside of the day-to-day.
+<br>
+
 <strong>Santiago Fuentemilla</strong>, Fab Academy tutor del Fab Lab Barcelona, durante la presentación en Madrid explicó como funciona el <strong>Fab Lab</strong>, la <strong><a href="http://www.fabfoundation.org/?_ga=1.129159246.351943665.1481728902">Fab Foundation</a></strong> y presentó la proxima edicion del <strong><a href="http://fabacademy.org/">Fab Academy 2017</a></strong><br>
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fls3.jpg" align="middle"> 
 <br>
 
-En sociedades donde la tecnología está marcando cada vez más las tendencias sociales y laborales, las habilidades y competencias tienen que ir orientadas a un desarrollo pleno en contextos altamente digitales. No se trata de centrarse sólo en el manejo de herramientas tecnológicas, sino también desarrollar la capacidad para aprender, trabajar con otros, participar y crear en la sociedad digital. Es necesario un replanteamiento del proceso educativo que garantice que las generaciones presentes y futuras se beneficien plenamente del potencial transformador de las nuevas tecnologías.<br>
+The international aspect of the festival will be continued in 2018 with the hosting of  <strong>FAB14</strong> in Toulouse. The event will be the 14th edition of <strong>Fab Conferences</strong>, the chief gath-ering of fab labs from across the world. Sponsored by <strong>the Fab Foundation</strong>, this global event, which has so far been hosted in Boston, Barcelona, Shen-zhen, and Santiago, Chile.<br>
 
 <strong>Proyectos seleccionados</strong><br>
 
