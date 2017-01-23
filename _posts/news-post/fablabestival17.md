@@ -15,7 +15,7 @@ category: news
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fls1.jpg" align="middle"> 
 <br>
 If you have a fablab related project about society, environment,culture,cities and territories or technology, this event could be an opportunity to show or talk about it.
-The call for participation to take part in the 2017 Fablab Festival in Toulouse will close Sunday, February 19, 2017. If you want to be part of this!<strong><a href="link https://docs.google.com/a/iaac.net/forms/d/e/1FAIpQLSe8ucobau_eaiQFE-EIUf0KHb8qKscJw-nEVD620V9R4eA2zg/viewform">2017 FabLab Festival - Make Europe </a></strong> 
+The call for participation to take part in the 2017 Fablab Festival in Toulouse will close Sunday, February 19, 2017. If you want to be part of this, here more information:<strong><a href="link https://docs.google.com/a/iaac.net/forms/d/e/1FAIpQLSe8ucobau_eaiQFE-EIUf0KHb8qKscJw-nEVD620V9R4eA2zg/viewform">2017 FabLab Festival - Make Europe </a></strong> 
 <br>
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fls2.jpg" align="middle"> 
