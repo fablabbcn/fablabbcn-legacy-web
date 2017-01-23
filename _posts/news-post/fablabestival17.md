@@ -6,7 +6,7 @@ teaserlist: blog_loop_latest/flfsmall.jpg
 title: Fab Lab Festival 2017
 meta: "The 2017 edition is called Make Europe and seeks to bring together European fab labs to testify to the dynamism of these structures in Europe and to explore the possibilities of increasing the European network."
 author: Marco Sanalitro
-date: 19/05/2016
+date: 19/01/2017
 category: news
 ---
 
