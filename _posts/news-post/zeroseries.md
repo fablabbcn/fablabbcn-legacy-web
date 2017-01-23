@@ -11,9 +11,6 @@ category: event
 ---
 
 
-<h4></h4>
-
- <br>
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/zeros1.jpg" align="middle"> </ul>
 
