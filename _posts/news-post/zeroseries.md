@@ -11,7 +11,7 @@ category: event
 ---
 
 
-<h4>Zero Series 2017</h4>
+<h4></h4>
 
  <br>
 
