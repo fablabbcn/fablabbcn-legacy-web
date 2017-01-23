@@ -3,8 +3,8 @@ layout: blog_post
 type: news
 teaserlatest: blog_loop_latest/modestoresmall.jpg
 teaserlist: blog_loop_latest/modestoresmall.jpg
-title: La Moodstore + Made Again
-meta: " Fab Lab Barcelona has exposed January 21 at La Moodstore the results from the Furniture hacking or Made Again weekend workshops 2015-16."
+title: Made Again + La Moodstore
+meta: " Fab Lab Barcelona has exposed at La Moodstore the results from the Furniture hacking or Made Again weekend workshops 2015-16."
 author: Marco Sanalitro
 date: 22/01/2017
 category: news
@@ -12,7 +12,7 @@ category: news
 
 
 
- <strong>Fab Lab Barcelona</strong> has exposed January 21 at <strong>"La Moodstore" the results from the <strong>Furniture hacking or <strong>"Made Again" weekend workshops 2015-16.<br>
+ January 21, <strong>Fab Lab Barcelona</strong> has exposed at <strong><a href="http://www.lamoodstore.com/en/homepage/">"La Moodstore"</a></strong> the results from the <strong><a href="http://fablabbcn.org/workshop/2015/05/05/furniture_hack.html#">Furniture hacking</a></strong> or <strong>"Made Again"</strong> weekend workshops 2015-16.<br>
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/moodstore1.jpg" align="middle"> </ul>
 
@@ -21,7 +21,7 @@ Objects can be up-cycled using CNC milling, laser cutting and 3D printing with h
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/moodstore2.jpg" align="middle"> </ul>
 
-The Works, made during the workshop held by <strong>Ingi Freyr Gudjónsson</strong>, <strong>Matthew Guarnaccia</strong> and <strong>Ricaro Valbuena</strong>, have been exhibited for a week. The visitors have been able to appreciate the pieces made with the use of digital fabrication and the maker creativity.<br>
+The Works, made during the workshop held by <strong>Ingi Freyr Gudjónsson</strong>, <strong>Matthew Guarnaccia</strong> and <strong>Ricaro Valbuena</strong>, have been exhibited for a week. The visitors have been able to appreciate the pieces made with digital fabrication and maker creativity.<br>
 
 <a href="http://www.lamoodstore.com/en/homepage/">la Moodstore</a><br>
 
