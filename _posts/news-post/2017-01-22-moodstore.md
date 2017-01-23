@@ -1,8 +1,8 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/modestoresmall.jpg
-teaserlist: blog_loop_latest/modestoresmall.jpg
+teaserlatest: blog_loop_latest/moodstoresmall.jpg
+teaserlist: blog_loop_latest/moodstoresmall.jpg
 title: Made Again + La Moodstore
 meta: " Fab Lab Barcelona has exposed at La Moodstore the results from the Furniture hacking or Made Again weekend workshops 2015-16."
 author: Marco Sanalitro
