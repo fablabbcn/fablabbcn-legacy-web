@@ -6,7 +6,7 @@ teaserlist: blog_loop_latest/zerossmall.jpg
 title: Zero Series 2017
 meta: "The Zero Series offers a collection of immersive and investigative workshops, engaging in practical introductions to the fields of Digital Fabrication, Biology, Forestry and Agroecology"
 author: Marco Sanalitro
-date: 21/12/2016
+date: 21/01/2017
 category: event
 ---
 
