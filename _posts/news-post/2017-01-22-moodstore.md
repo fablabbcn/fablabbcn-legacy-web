@@ -1,6 +1,6 @@
 ---
 layout: blog_post
-type: news
+type: blog
 teaserlatest: blog_loop_latest/modestoresmall.jpg
 teaserlist: blog_loop_latest/modestoresmall.jpg
 title: Made Again + La Moodstore
