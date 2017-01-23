@@ -21,7 +21,7 @@ Objects can be up-cycled using CNC milling, laser cutting and 3D printing with h
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/moodstore2.jpg" align="middle"> </ul>
 
-The Works, made during the workshop held by <strong>Ingi Freyr Gudjónsson</strong>, <strong>Matthew Guarnaccia</strong> and <strong>Ricaro Valbuena</strong>, have been exhibited for a week. The visitors have been able to appreciate the pieces made with digital fabrication and maker creativity.<br>
+The design Works, made during the workshop held by <strong>Ingi Freyr Gudjónsson</strong>, <strong>Matthew Guarnaccia</strong> and <strong>Ricaro Valbuena</strong>, have been exhibited for a week. The visitors have been able to appreciate the pieces made with digital fabrication and maker creativity.<br>
 
 <a href="http://www.lamoodstore.com/en/homepage/">la Moodstore</a><br>
 
