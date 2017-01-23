@@ -11,9 +11,9 @@ category: event
 ---
 
 
-<h4><strong>We are ready to start! January 25th, more of 400 students from 70 different sites, attend the first lesson of Professor Neil Gershenfeld from Boston</strong></h4>
+<h4>We are ready to start!</h4> 
 
- <br>
+January 25th, more of 400 students from 70 different sites, attend the first lesson of Professor Neil Gershenfeld from Boston <br>
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/opennight.jpeg" align="middle"> </ul>
 
@@ -50,4 +50,3 @@ See more at:<br>
 
 <a href="http://fabacademy.org/">fabacademy.org/</a><br>
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/opennight1.jpeg" align="middle"> </ul>
