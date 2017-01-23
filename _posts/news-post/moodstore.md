@@ -19,7 +19,7 @@ category: news
 Everyday somewhere in Barcelona you will find old or broken furniture even entire apartment interiors after flat restorations on the street. Often these objects only need a little hack / love and restoration for a new life. Participants can bring any furniture / material they want to hack, restore or upgrade with style in Fab Lab´s furniture hospital.<br>
 Objects can be up-cycled using CNC milling, laser cutting and 3D printing with help from professionals.<br>
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/modestore1.jpg" align="middle"> </ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/modestore2.jpg" align="middle"> </ul>
 
 The Works, made during the workshop held by <strong>Ingi Freyr Gudjónsson</strong>, <strong>Matthew Guarnaccia</strong> and <strong>Ricaro Valbuena</strong>, have been exhibited for a week. The visitors have been able to appreciate the pieces made with the use of digital fabrication and the maker creativity.<br>
 
