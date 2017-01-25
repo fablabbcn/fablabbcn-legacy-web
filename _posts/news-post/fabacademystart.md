@@ -13,17 +13,17 @@ category: event
 
 <h4>We are ready to start!</h4> 
 
-More of <strong>400 students from 70 different countries</strong> are ready to attend the first lesson of professor <strong>Neil Gershenfeld</strong> from Boston. <br>
+More of <strong>460 students from 72 different sites</strong> are ready to attend the first lesson of professor <strong>Neil Gershenfeld</strong> from Boston. <br>
 
 This year, <strong><a href="http://fablabbcn.org">FabLab Barcelona</a></strong> and <strong><a href="http://greenfablab.org/">Green Fab Lab</a></strong> have twenty-seven students from 14 different nationalities: Spain, UK, Switzerland, china, India, France, Greece, Israel, Colombia, Antigua and Barbuda, Mexico, Italy, Philippines and Pakistan<br>
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/opennight.jpeg" align="middle"> </ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/mod1.jpeg" align="middle"> </ul>
 
-<strong><a href="https://iaac.net/iaac/people/luciana-asinari/">Luciana Asinari</a></strong>, Coordinator of FabLab Barcelona, and <strong>FabAcademy Guru <a href="https://iaac.net/iaac/people/santi-fuentemilla/">Santiago Fuentemilla</a></strong> will introduce the first FabAcademy session 2017. <br>
+Today, January 25th,<strong><a href="https://iaac.net/people/tomas-diez/">Tomas Diez</a></strong>, Fab Lab Barcelona Co-founder and Fab City Research Lab Director,<strong><a href="https://iaac.net/iaac/people/luciana-asinari/">Luciana Asinari</a></strong>, Coordinator of FabLab Barcelona, and <strong>FabAcademy Guru <a href="https://iaac.net/iaac/people/santi-fuentemilla/">Santiago Fuentemilla</a></strong> introduced the first FabAcademy session 2017. <br>
 
 <strong><a href="http://fabacademy.org/">Fab Academy</a></strong> is a <strong>Digital Fabrication program</strong> directed by <strong>Neil Gershenfeld</strong> of <strong><a href="http://cba.mit.edu/">MIT’s Center For Bits and Atoms</a></strong> and based on MIT’s rapid prototyping course, MAS 863: <strong>How to Make (Almost) Anything.</strong><br>
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/opennight.jpeg" align="middle"> </ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/mod2.jpeg" align="middle"> </ul>
 
 The Fab Academy offers a <strong>6 month program</strong> on digital fabrication, and it could be taken in any of the participating labs.<br>
 
