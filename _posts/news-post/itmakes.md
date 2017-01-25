@@ -1,27 +1,29 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/flfsmall.jpg
-teaserlist: blog_loop_latest/flfsmall.jpg
-title: Fab Lab Festival 2017
+teaserlatest: blog_loop_latest/itmakessmall.jpg
+teaserlist: blog_loop_latest/itmakessmall.jpg
+title: #ITmakES
 meta: "Este proyecto busca identificar las iniciativas que contribuyen a mejorar las competencias digitales de los alumnos y a prepararles para trabajar en la sociedad digital del futuro y el Fab Lab fue seleccionado por ser presentado el 14 y el 16 de noviembre en Barcelona y Madrid"
 author: Marco Sanalitro
-date: 19/05/2016
+date: 24/01/2017
 category: news
 ---
 
-<strong>The Fablab Festival 2017 will take place in Toulouse in May (11-14) </strong><br>
+<strong>#ITmakES El nuevo saber hacer que nace entre Italia y España. Una iniciativa de #VivereALLitaliana</strong><br>
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fls1.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/itmakes1.jpg" align="middle"> 
 <br>
 
-<br>
+La iniciativa ITmakES es un conjunto de proyectos ideados por la Embajada de Italia acerca del saber hacer y del nuevo made in Italy: un concepto que supera la idea de un conjunto de productos y los límites de un territorio nacional.<br>
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fls2.jpg" align="middle"> 
-<br>
+El nuevo made in Italy es una manera de producir que conjuga belleza, funcionalidad, “saber hacer” y tradición con las nuevas tecnologías y con los conceptos de sostenibilidad medioambiental y responsabilidad social. El nuevo made in Italy se funda en el retorno a la dimensión territorial, en la revalorización del desarrollo local a través de empresas cohesivas, capaces de interactuar de manera provechosa, generando desarrollo y sinergias con el contexto social, económico y cultural en el cual operan.<br>
 
-Whereas the <strong>2016 edition</strong> focused on the community of French and Francophone fab labs and made the creation of the French Network of Fab Labs possible, the <strong><a href="http://www.fablabfestival.fr/">2017 edition</a></strong> is called <strong>Make Europe</strong> and seeks to bring together European <strong><a href="https://www.fablabs.io/">fab labs</a></strong> to testify to the dynamism of these structures in Europe and to explore the possibilities of creating a <strong>European network</strong>. With an ambitious program and top sponsorship, <strong>Make Europe</strong> proposes four days of diverse events intended to create surprising experiences outside of the day-to-day.
-<br>
+La capacidad de proyección internacional de estos entornos productivos locales, las idas y venidas de los “cerebros” – también gracias a la “generación Erasmus” y a los movimientos de personas desde Italia hacia Europa y el resto del mundo – crean y organizan identidades y maneras de emprender “glocales”.<br>
+
+Este esquema avanzado de producción compartida (saber hacer - tradición - nuevas tecnologías - mestizaje cultural) que estamos observando representa hoy un nuevo y relevante ámbito para el desarrollo de la relaciones económicas entre Italia y España. Y representa también un ejemplo de cómo se pueda reconocer, compartir y difundir el buen hacer a nivel internacional.<br>
+
+En este contexto, la Embajada de Italia en Madrid, en colaboración con todas las instituciones italianas del “Sistema Italia” en España, desde la observación de las contaminaciones creativas que se han generado entre diseñadores, creativos, makers y startuppers italianos y españoles, y contando con la aportación y la experiencia del tejido empresarial italiano presente en este País, desarrolla un proyecto para apoyar el nuevo made in Italy, contextualizado en la relación entre Italia y España, también a través de la creación de una red entre sociedades civiles, empresas, centros de formación, investigadores y personas italianas y españolas.<br>
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fls3.jpg" align="middle"> 
 <br>
