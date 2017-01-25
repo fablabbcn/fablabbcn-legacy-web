@@ -28,7 +28,9 @@ Today, January 25th, <strong><a href="https://iaac.net/people/tomas-diez/">Tomas
 The Fab Academy offers a <strong>6 month program</strong> on digital fabrication, and it could be taken in any of the participating labs.<br>
 
 During this 6 months, our students, learn how to envision, prototype and document their projects and ideas through many hours of hands-on experience with digital fabrication tools, taking a variety of code formats and turning them into physical objects.<br>
+<br>
 The diploma combines <strong>19 certificates</strong> provide familiarity with technical options and capabilities, hands-on experience, and direction for further study. The certificates are:<br>
+<br>
 Digital fabrication principles and practices – 1 week<br>
 Computer-aided design, manufacturing, and modeling – 1 week<br>
 Computer-controlled cutting – 1 week<br>
