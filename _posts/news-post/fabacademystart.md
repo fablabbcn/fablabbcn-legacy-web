@@ -6,16 +6,16 @@ teaserlist: blog_loop_latest/fassmall.jpg
 title: Fab Academy 2017 
 meta: "It's time to make (almost) anything"
 author: Marco Sanalitro
-date: 20/12/2016
+date: 25/01/2017
 category: event
 ---
 
 
 <h4>We are ready to start!</h4> 
 
-January 25th, more of <strong>400 students from 70 different sites</strong>, attend the first lesson of professor <strong>Neil Gershenfeld</strong> from Boston. 
+More of <strong>400 students from 70 different countries</strong> are ready to attend the first lesson of professor <strong>Neil Gershenfeld</strong> from Boston. <br>
 
-This year, FabAcademy has twenty-four students at <strong><a href="http://fablabbcn.org">FabLab Barcelona</a></strong>. Students are from 14 different nationalities and they come from countries like: Spain, UK, Switzerland, china, India, France, Greece, Israel, Colombia, Antigua and Barbuda, Mexico, Italy, Philippines and Pakistan<br>
+This year, <strong><a href="http://fablabbcn.org">FabLab Barcelona</a></strong> and <strong><a href="http://greenfablab.org/">Green Fab Lab</a></strong> have twenty-seven students from 14 different nationalities: Spain, UK, Switzerland, china, India, France, Greece, Israel, Colombia, Antigua and Barbuda, Mexico, Italy, Philippines and Pakistan<br>
 
 <strong><a href="https://iaac.net/iaac/people/luciana-asinari/">Luciana Asinari</a></strong>, Coordinator of FabLab Barcelona, and <strong>FabAcademy Guru <a href="https://iaac.net/iaac/people/santi-fuentemilla/">Santiago Fuentemilla</a></strong> will introduce the first FabAcademy session 2017. <br>
 
