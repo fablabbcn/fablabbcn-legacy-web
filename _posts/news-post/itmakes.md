@@ -3,7 +3,7 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/itmakessmall.jpg
 teaserlist: blog_loop_latest/itmakessmall.jpg
-title: #ITmakES
+title: ITmakES
 meta: "ITmakES es un conjunto de proyectos ideados por la Embajada de Italia acerca del saber hacer y del nuevo made in Italy: un concepto que supera la idea de un conjunto de productos y los límites de un territorio nacional."
 author: Marco Sanalitro
 date: 24/01/2017
