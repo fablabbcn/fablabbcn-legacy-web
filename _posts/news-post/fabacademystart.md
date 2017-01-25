@@ -17,11 +17,13 @@ More of <strong>400 students from 70 different countries</strong> are ready to a
 
 This year, <strong><a href="http://fablabbcn.org">FabLab Barcelona</a></strong> and <strong><a href="http://greenfablab.org/">Green Fab Lab</a></strong> have twenty-seven students from 14 different nationalities: Spain, UK, Switzerland, china, India, France, Greece, Israel, Colombia, Antigua and Barbuda, Mexico, Italy, Philippines and Pakistan<br>
 
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/opennight.jpeg" align="middle"> </ul>
+
 <strong><a href="https://iaac.net/iaac/people/luciana-asinari/">Luciana Asinari</a></strong>, Coordinator of FabLab Barcelona, and <strong>FabAcademy Guru <a href="https://iaac.net/iaac/people/santi-fuentemilla/">Santiago Fuentemilla</a></strong> will introduce the first FabAcademy session 2017. <br>
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/opennight.jpeg" align="middle"> </ul>
 
-<strong><a href="http://fabacademy.org/">Fab Academy</a></strong> is a <strong>Digital Fabrication program</strong> directed by <strong>Neil Gershenfeld</strong> of <strong><a href="http://cba.mit.edu/">MIT’s Center For Bits and Atoms</strong> and based on MIT’s rapid prototyping course, MAS 863: <strong>How to Make (Almost) Anything.</strong><br>
+<strong><a href="http://fabacademy.org/">Fab Academy</a></strong> is a <strong>Digital Fabrication program</strong> directed by <strong>Neil Gershenfeld</strong> of <strong><a href="http://cba.mit.edu/">MIT’s Center For Bits and Atoms</a></strong> and based on MIT’s rapid prototyping course, MAS 863: <strong>How to Make (Almost) Anything.</strong><br>
 
 The Fab Academy offers a <strong>6 month program</strong> on digital fabrication, and it could be taken in any of the participating labs.<br>
 
