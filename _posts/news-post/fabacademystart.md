@@ -21,13 +21,11 @@ This year, <strong><a href="http://fablabbcn.org">FabLab Barcelona</a></strong> 
 
 <strong><a href="https://iaac.net/iaac/people/luciana-asinari/">Luciana Asinari</a></strong>, Coordinator of FabLab Barcelona, and <strong>FabAcademy Guru <a href="https://iaac.net/iaac/people/santi-fuentemilla/">Santiago Fuentemilla</a></strong> will introduce the first FabAcademy session 2017. <br>
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/opennight.jpeg" align="middle"> </ul>
-
 <strong><a href="http://fabacademy.org/">Fab Academy</a></strong> is a <strong>Digital Fabrication program</strong> directed by <strong>Neil Gershenfeld</strong> of <strong><a href="http://cba.mit.edu/">MIT’s Center For Bits and Atoms</a></strong> and based on MIT’s rapid prototyping course, MAS 863: <strong>How to Make (Almost) Anything.</strong><br>
 
-The Fab Academy offers a <strong>6 month program</strong> on digital fabrication, and it could be taken in any of the participating labs.<br>
-
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/opennight.jpeg" align="middle"> </ul>
+
+The Fab Academy offers a <strong>6 month program</strong> on digital fabrication, and it could be taken in any of the participating labs.<br>
 
 During this 6 months, our students, learn how to envision, prototype and document their projects and ideas through many hours of hands-on experience with digital fabrication tools, taking a variety of code formats and turning them into physical objects.<br>
 The diploma combines <strong>19 certificates</strong> provide familiarity with technical options and capabilities, hands-on experience, and direction for further study. The certificates are:<br>
