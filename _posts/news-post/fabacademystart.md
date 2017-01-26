@@ -47,6 +47,8 @@ Digital fabrication applications and implications – 1 week<br>
 Invention, intellectual property, and business models – 1 week<br>
 Digital fabrication project development – 2 weeks<br>
 
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fass3.jpg" align="middle"> </ul>
+
 See more at:<br> 
 
 <a href="http://fablabbcn.org/fab_academy">fablabbcn.org/fab_academy</a><br>
