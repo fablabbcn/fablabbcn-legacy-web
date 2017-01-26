@@ -15,13 +15,13 @@ category: news
 
 More of **260 students from 72 different sites** are ready to attend the first lesson of professor **Neil Gershenfeld** from Boston.
 
-This year, **[FabLab Barcelona](http://fablabbcn.org)** and **[Green Fab Lab](http://greenfablab.org/)** have twenty-seven students from 14 different nationalities: Spain, UK, Switzerland, china, India, France, Greece, Israel, Colombia, Antigua and Barbuda, Mexico, Italy, Philippines and Pakistan
+This year, **[FabLab Barcelona](http://fablabbcn.org)** and **[Green Fab Lab](http://greenfablab.org/)** have twenty-seven students from 14 different nationalities: Spain, UK, Switzerland, China, India, France, Greece, Israel, Colombia, Antigua and Barbuda, Mexico, Italy, Philippines and Pakistan
 
 ![](http://www.fablabbcn.org/img/blog/blog_loop_latest/mod1.jpg)
 
 Today, January 25th, **[Tomas Diez](https://iaac.net/people/tomas-diez/)**, Fab Lab Barcelona Co-founder and Fab City Research Lab Director, **[Luciana Asinari](https://iaac.net/iaac/people/luciana-asinari/)**, Coordinator of FabLab Barcelona, and FabAcademy Guru **[Santiago Fuentemilla](https://iaac.net/iaac/people/santi-fuentemilla/)**&nbsp; introduce the first lecture **[Fab Academy 2017](http://fabacademy.org/)**.
 
-**[Fab Academy](http://fabacademy.org/)** is a **Digital Fabrication program** directed by **Neil Gershenfeld** of **[MIT’s Center For Bits and Atoms](http://cba.mit.edu/)** and based on MIT’s rapid prototyping course, MAS 863: **How to Make (Almost) Anything.**
+**[Fab Academy](http://fabacademy.org/)** is a **Digital Fabrication program** directed by **[Neil Gershenfeld](http://ng.cba.mit.edu/)** of **[MIT’s Center For Bits and Atoms](http://cba.mit.edu/)** and based on MIT’s rapid prototyping course, MAS 863: **How to Make (Almost) Anything.**
 
 ![](http://www.fablabbcn.org/img/blog/blog_loop_latest/mod2.jpg)
 
