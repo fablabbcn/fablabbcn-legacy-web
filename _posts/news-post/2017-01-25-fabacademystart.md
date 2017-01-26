@@ -4,7 +4,7 @@ type: blog
 teaserlatest: blog_loop_latest/fassmall2.jpg
 teaserlist: blog_loop_latest/fassmall2.jpg
 title: Fab Academy 2017
-meta: "It's time to make (almost) anything. This year, Fab Lab Barcelona and Green Fab Lab have twenty-seven students from 14 different nationalities"
+meta: "It's time to make (almost) anything. This year, Fab Lab Barcelona and Green Fab Lab have twenty-seven students from 14 different nationalities."
 author: Marco Sanalitro
 date: 25/01/2017
 category: news
