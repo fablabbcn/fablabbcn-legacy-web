@@ -1,8 +1,8 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/fassmall.jpg
-teaserlist: blog_loop_latest/fassmall.jpg
+teaserlatest: blog_loop_latest/fassmall2.jpg
+teaserlist: blog_loop_latest/fassmall2.jpg
 title: Fab Academy 2017
 meta: "It's time to make (almost) anything"
 author: Marco Sanalitro
