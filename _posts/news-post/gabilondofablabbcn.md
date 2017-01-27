@@ -16,8 +16,7 @@ category: news
 <br>
 El periodista entrevistó a <strong>Tomás Díez</strong>, el co-fundador del <strong>Fab Lab Barcelona</strong> y Director del <strong>Fab City Research Lab</strong>.<br>
 
-Durante el programa "Cuando ya no esté" se habló de muchos temas, centrando la atención en la Digital Fabrication, en la Impresión 3d y en la Fab City. 
-Junto con otros expertos, se intentó pronosticar un futuro muy cercano en el cual el consumidor podrá fabricarse la mayor parte de sus objetos en su casa.
+Durante el programa "Cuando ya no esté" se habló de muchos temas, centrando la atención en la <strong>Digital Fabrication</strong>, en la <strong>Impresión 3d</strong> y en the <strong>Fab City</strong>. Junto con otros expertos, se intentó pronosticar un futuro muy cercano en el cual el consumidor podrá fabricarse la mayor parte de sus objetos en su casa.<br>
 
 Si no lo pudiste ver, aquí puedes encontrar los vídeos y disfrutar del programa.<br>
 
