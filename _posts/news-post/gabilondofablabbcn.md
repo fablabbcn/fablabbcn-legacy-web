@@ -12,32 +12,21 @@ category: news
 
 <strong>El famoso periodista Iñaki Gabilondo vino al Fab Lab Barcelona!</strong><br>
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fls1.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/gabilondofablabbcn.jpg" align="middle"> 
 <br>
-El periodista entrevistó a <strong>Tomás Díez</strong>, el co-fundador del Fab Lab Barcelona y Director del Fab City Research Lab.<strong><br>
+El periodista entrevistó a <strong>Tomás Díez</strong>, el co-fundador del <strong>Fab Lab Barcelona</strong> y Director del <strong>Fab City Research Lab</strong>.<br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cm_BWCs-h8c" frameborder="0" allowfullscreen></iframe>
+Durante el programa "Cuando ya no esté" se habló de muchos temas, centrando la atención en la Digital Fabrication, en la Impresión 3d y en la Fab City. 
+Junto con otros expertos, se intentó pronosticar un futuro muy cercano en el cual el consumidor podrá fabricarse la mayor parte de sus objetos en su casa.
+
+Si no lo pudiste ver, aquí puedes encontrar los vídeos y disfrutar del programa.<br>
+
+"Cuando ya no esté": Un Futuro Impreso en 3D - Parte 1<br>
+<iframe width="500" height="315" src="https://www.youtube.com/embed/cm_BWCs-h8c" frameborder="0" allowfullscreen></iframe>
 <br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v6c9ADihP-c" frameborder="0" allowfullscreen></iframe>
+"Cuando ya no esté": Un Futuro Impreso en 3D - Parte 2<br>
+<iframe width="500" height="315" src="https://www.youtube.com/embed/v6c9ADihP-c" frameborder="0" allowfullscreen></iframe>
 <br>
-
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fls2.jpg" align="middle"> 
-<br>
-
-
-<br>
-
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fls3.jpg" align="middle"> 
-<br>
-
-The international aspect of the festival will be continued in 2018 with the hosting of  <strong><a href="http://fab12.fabevent.org/">FAB14</a></strong> in Toulouse. The event will be the 14th edition of <strong>Fab Conferences</strong>, the chief gath-ering of fab labs from across the world. Sponsored by <strong><a href="http://www.fabfoundation.org/?_ga=1.129159246.351943665.1481728902">the Fab Foundation</a></strong>, this global event, which has so far been hosted in Boston, Barcelona, Shen-zhen, and Santiago, Chile.<br>
-
-for more information: <br>
-<br>website: <a href="http://www.fablabfestival.fr">www.fablabfestival.fr</a> <br>
-
-email: contact@fablabfestival.fr<br>
-
 
 
 
