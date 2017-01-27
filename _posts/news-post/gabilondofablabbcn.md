@@ -22,10 +22,10 @@ Junto con otros expertos, se intentó pronosticar un futuro muy cercano en el cu
 Si no lo pudiste ver, aquí puedes encontrar los vídeos y disfrutar del programa.<br>
 
 "Cuando ya no esté": Un Futuro Impreso en 3D - Parte 1<br>
-<iframe width="500" height="315" src="https://www.youtube.com/embed/cm_BWCs-h8c" frameborder="0" allowfullscreen></iframe>
+<iframe width="530" height="315" src="https://www.youtube.com/embed/cm_BWCs-h8c" frameborder="0" allowfullscreen></iframe>
 <br>
 "Cuando ya no esté": Un Futuro Impreso en 3D - Parte 2<br>
-<iframe width="500" height="315" src="https://www.youtube.com/embed/v6c9ADihP-c" frameborder="0" allowfullscreen></iframe>
+<iframe width="530" height="315" src="https://www.youtube.com/embed/v6c9ADihP-c" frameborder="0" allowfullscreen></iframe>
 <br>
 
 
