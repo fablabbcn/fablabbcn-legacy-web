@@ -15,11 +15,11 @@ category: news
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/gabilondofablabbcn.jpg" align="middle"> 
 <br>
 El periodista entrevistó a <strong>Tomás Díez</strong>, el co-fundador del <strong>Fab Lab Barcelona</strong> y Director del <strong>Fab City Research Lab</strong>.<br>
-
+<br>
 Durante el programa <strong>"Cuando ya no esté"</strong> se habló de muchos temas, centrando la atención en la <strong>Digital Fabrication</strong>, en la <strong>Impresión 3d</strong> y en the <strong>Fab City</strong>. Junto con otros expertos, se intentó pronosticar un futuro muy cercano en el cual el consumidor podrá fabricarse la mayor parte de sus objetos en su casa.<br>
-
+<br>
 Si no lo pudiste ver, aquí puedes encontrar los vídeos y disfrutar del programa:<br>
-
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cm_BWCs-h8c" frameborder="0" allowfullscreen></iframe>
 <br>
 
