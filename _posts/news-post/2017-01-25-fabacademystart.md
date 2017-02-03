@@ -13,7 +13,7 @@ category: news
 
 #### We are ready to start!
 
-More of **260 students from 72 different sites** are ready to attend the first lesson of professor **Neil Gershenfeld** from Boston.
+More than **260 students from 72 different sites** are ready to attend the first lesson of professor **Neil Gershenfeld** from Boston.
 
 This year, **[FabLab Barcelona](http://fablabbcn.org)** and **[Green Fab Lab](http://greenfablab.org/)** have twenty-seven students from 14 different nationalities: Spain, UK, Switzerland, China, India, France, Greece, Israel, Colombia, Antigua and Barbuda, Mexico, Italy, Philippines and Pakistan
 
