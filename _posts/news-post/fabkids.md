@@ -4,34 +4,33 @@ type: event
 teaserlatest: blog_loop_latest/fabkidssmall.jpg
 teaserlist: blog_loop_latest/fabkidssmall.jpg
 title: Fab Kids at Fab Lab BCN
-meta: "Last month, an incredible group of kids from Kuwait participated in the creative laboratory Fab Kids. Santiago Fuentemilla, Jonathan Minchin and the Making Sense Team did discover them the Fab Lab BCN and the Green Fab Lab"
+meta: "Last month, an incredible group of kids from Kuwait (accompanied by CLM For Creativity Leadership Motivation) participated in the creative laboratory Fab Kids. Santiago Fuentemilla, Jonathan Minchin and the Making Sense Team did discover them the Fab Lab BCN and the Green Fab Lab"
 author: Marco Sanalitro
 date: 02/02/2017
 category: event
 ---
 
+"The learning process through experimentation and technology has no boundaries!" by Santiago Fuentemilla
 
-
-Last month, an incredible group of kids from Kuwait participated in the creative laboratory Fab Kids. Santiago Fuentemilla,Fab Academy Barcelona Tutor, Jonathan Minchin, Green Fab Lab Coordinator, and the Making Sense Team did discover them the Fab Lab BCN and the Green Fab Lab<br>
+Last month, an incredible group of kids from Kuwait (accompanied by <strong>CLM For Creativity Leadership Motivation</strong> and Mr. Jaber AlHajeri.) participated in the creative laboratory <strong>Fab Kids</strong>. <strong>Santiago Fuentemilla</strong>,Fab Academy Barcelona Tutor, <strong>Jonathan Minchin</strong>, Green Fab Lab Coordinator, and the <strong>Making Sense Team</strong> did discover them the Fab Lab BCN and the Green Fab Lab<br>
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids1.jpg" align="middle"> </ul>
 
-The FabKids, is a creative laboratory that favors the development of intelligence, creativity and imagination of children and youth. It is a place where thinking is encouraged and innovation occurs, a space where educational and recreational activities for children between 10 and 16 years of age, focus on design and digital manufacturing processes.<br>
+The <strong>FabKids</strong>, is a creative laboratory that favors the development of intelligence, creativity and imagination of children and youth. It is a place where thinking is encouraged and innovation occurs, a space where educational and recreational activities for children between 10 and 16 years of age, focus on design and digital manufacturing processes.<br>
 
-On a daily basis, children use technology intuitively. One of our motivations is to promote reflective, analytical and critical thinking. We think it is necessary that children become technologically skilled; for them to become active creators with the use of technology, smart objects and video games instead of being passive users.<br>
+During the 4-day workshops, children use technology intuitively. One of our motivations is to promote reflective, analytical and critical thinking. We think it is necessary that children become technologically skilled; for them to become active creators with the use of technology, smart objects and video games instead of being passive users.<br>
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids2.jpg" align="middle"> </ul>
 
-Green Fab Lab is a project promoted by IaaC (Institute for Advanced Architecture of Catalonia) and part of the Fab City network. The Green Fab Lab works towards the creation of a self-sufficient habitat and research centre at Can Valldaura. Located in the Collserola Natural Park, in the heart of the metropolitan area of Barcelona it has laboratories for the production of energy, food and things, and develops projects and academic programmes in association with leading research centres around the world.<br>
+The children have discovered and lived the philosophy of the <strong>Fab Lab Barcelona</strong> and <strong>Green Fab Lab</strong>.<br>
+
+Located in the <strong>Collserola Natural Park</strong>, in the heart of the metropolitan area of <strong>Barcelona</strong>, <strong>Green Fab Lab</strong> hosted part of the event. The students have approached different themes: self-sufficient habitat, pollution, environment protection and many others.<br>
+
+Green Fab Lab is a project promoted by <strong><a href="https://iaac.net/">IaaC (Institute for Advanced Architecture of Catalonia)</a></strong> and part of the Fab City network. The Green Fab Lab works towards the creation of a self-sufficient habitat and research centre at Can Valldaura.<br>
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids3.jpg" align="middle"> </ul>
 
-From precision agriculture to the fabrication of electronic devices, participants will learn how to fell trees, harvest resin, use territorial computation and mapping techniques using environmental robots. They will familiarize themselves onsite microbial ecology, use incubators and microscopes and measure metabolisms. Informed by a web of sciences we take experience from the <strong><a href="http://fabacademy.org/">Fab Academy</a></strong> connected to <strong><a href="http://cba.mit.edu/">MITs’ centre for bits and Atoms</a></strong>, the Bio Academy from Harvard medical school and the post-graduate programs of the <strong><a href="https://iaac.net/">Institute for Advanced Architecture of Catalonia IAAC</a></strong>.<br>
 
-Here is the Registration form for all workshops : 
-<a href="http://fabacademy.org/machform/view.php?id=2320">http://fabacademy.org/machform/view.php?id=23209</a><br>
 
-Accommodation :  Available and Optional Kitchens and restaurants onsite. <br>
-Contact : info@fablabbcn.org<br>
 
 
