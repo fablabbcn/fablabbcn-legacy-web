@@ -14,13 +14,13 @@ category: event
 
 Last month, an incredible group of kids from Kuwait (accompanied by <strong>CLM For Creativity Leadership Motivation</strong> and Mr. Jaber AlHajeri.) participated in the creative laboratory <strong>Fab Kids</strong>. <strong>Santiago Fuentemilla</strong>,Fab Academy Barcelona Tutor, <strong>Jonathan Minchin</strong>, Green Fab Lab Coordinator, and the <strong>Making Sense Team</strong> did discover them the Fab Lab BCN and the Green Fab Lab<br>
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids1.jpg" align="middle"> </ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids3.jpg" align="middle"> </ul>
 
 The <strong>FabKids</strong>, is a creative laboratory that favors the development of intelligence, creativity and imagination of children and youth. It is a place where thinking is encouraged and innovation occurs, a space where educational and recreational activities for children between 10 and 16 years of age, focus on design and digital manufacturing processes.<br>
 
 During the 4-day workshops, children use technology intuitively. One of our motivations is to promote reflective, analytical and critical thinking. We think it is necessary that children become technologically skilled; for them to become active creators with the use of technology, smart objects and video games instead of being passive users.<br>
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids2.jpg" align="middle"> </ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids5.jpg" align="middle"> </ul>
 
 The children have discovered and lived the philosophy of the <strong>Fab Lab Barcelona</strong> and <strong>Green Fab Lab</strong>.<br>
 
@@ -28,7 +28,7 @@ Located in the <strong>Collserola Natural Park</strong>, in the heart of the met
 
 Green Fab Lab is a project promoted by <strong><a href="https://iaac.net/">IaaC (Institute for Advanced Architecture of Catalonia)</a></strong> and part of the Fab City network. The Green Fab Lab works towards the creation of a self-sufficient habitat and research centre at Can Valldaura.<br>
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids3.jpg" align="middle"> </ul>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids2.jpg" align="middle"> </ul>
 
 
 
