@@ -212,15 +212,17 @@ El diseño se desarrolla a base de prototipos, maquetas a escala 1:1, en las que
 
 <!-------------------- Controls --------------------->
 
-  <a class="left carousel-control" href="#carousel-example-generic3" role="button" data-slide="prev">
+ 
+<a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="right carousel-control" href="#carousel-example-generic3" role="button" data-slide="next">
+  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-</div>
+  
+</div> 
 
 <!----- Image Slider ----------------------------- Image Slider -------------->
 
