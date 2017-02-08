@@ -25,7 +25,7 @@ The Zero series follows a seasonal almanac, beginning with 5 day Forestry worksh
 From precision agriculture to the fabrication of electronic devices, participants will learn how to fell trees, harvest resin, use territorial computation and mapping techniques using environmental robots. They will familiarize themselves onsite microbial ecology, use incubators and microscopes and measure metabolisms. Informed by a web of sciences we take experience from the <strong><a href="http://fabacademy.org/">Fab Academy</a></strong> connected to <strong><a href="http://cba.mit.edu/">MITs’ centre for bits and Atoms</a></strong>, the Bio Academy from Harvard medical school and the post-graduate programs of the <strong><a href="https://iaac.net/">Institute for Advanced Architecture of Catalonia IAAC</a></strong>.<br>
 
 Here is the Registration form for all workshops : 
-<a href="http://fabacademy.org/machform/view.php?id=2320">http://fabacademy.org/machform/view.php?id=23209</a><br>
+<a href="http://apply.fablabbcn.org/view.php?id=11367">http://apply.fablabbcn.org/view.php?id=11367</a><br>
 
 Accommodation :  Available and Optional Kitchens and restaurants onsite. <br>
 Contact : info@fablabbcn.org<br>
