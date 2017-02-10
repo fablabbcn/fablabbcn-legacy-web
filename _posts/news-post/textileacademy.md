@@ -1,32 +1,54 @@
 ---
 layout: blog_post
 type: event
-teaserlatest: blog_loop_latest/fabkidssmall.jpg
-teaserlist: blog_loop_latest/fabkidssmall.jpg
-title: Fab Kids at Fab Lab BCN
-meta: "Last month, an incredible group of kids from Kuwait (accompanied by CLM For Creativity Leadership Motivation) participated in the creative laboratory Fab Kids. Santiago Fuentemilla, Jonathan Minchin and the Making Sense Team did discover them the Fab Lab BCN and the Green Fab Lab"
+teaserlatest: blog_loop_latest/textileacademybootcampsmall.jpg
+teaserlist: blog_loop_latest/textileacademybootcampsmall.jpg
+title: Textile Academy Bootcamp 2017
+meta: "Join us to this intensive 40h bootcamp of our new program: a new fashion and technology textile-academy!"
 author: Marco Sanalitro
-date: 02/02/2017
+date: 10/02/2017
 category: event
 ---
 
-"The learning process through experimentation and technology has no boundaries!" by Santiago Fuentemilla
+Join us to this intensive 40h bootcamp of our new program: a new fashion and technology textile-academy!<br>
 
-Last month, an incredible group of kids from Kuwait (accompanied by <strong>CLM For Creativity Leadership Motivation</strong> and Mr. Jaber AlHajeri.) participated in the creative laboratory <strong>Fab Kids</strong>. <strong>Santiago Fuentemilla</strong>,Fab Academy Barcelona Tutor, <strong>Jonathan Minchin</strong>, Green Fab Lab Coordinator, and the <strong>Making Sense Team</strong> did discover them the Fab Lab BCN and the Green Fab Lab<br>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/textileacademybootcamp1.jpg" align="middle"> </ul>
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids5.jpg" align="middle"> </ul>
+We believe that <strong>fashion education</strong> should be updated, embrace <strong>multidisciplinarity</strong> and change the current model of fast fashion to customised and sustainable. We love making , experimenting and innovating using hands on bottom up approaches and new technology. In this <strong>40h course</strong>, we have included all the <strong>new tools</strong> a fashion designer should learn! If you are an <strong>educator</strong>, a <strong>professional</strong> or a <strong>student</strong> this is the course for you!<br>
 
-The <strong>FabKids</strong>, is a creative laboratory that favors the development of intelligence, creativity and imagination of children and youth. It is a place where thinking is encouraged and innovation occurs, a space where educational and recreational activities for children between 10 and 16 years of age, focus on design and digital manufacturing processes.<br>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/textileacademybootcamp2.jpg" align="middle"> </ul>
 
-During the 4-day workshops, children use technology intuitively. One of our motivations is to promote reflective, analytical and critical thinking. We think it is necessary that children become technologically skilled; for them to become active creators with the use of technology, smart objects and video games instead of being passive users.<br>
+More Detailed programme:<br> 
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids6.jpg" align="middle"> </ul>
+Presentation of <a href="https://www.facebook.com/fabtextiles/?fref=ts">Fab Textiles</a></strong> projects & <a href="https://www.facebook.com/AmsterdamTextileLab/?fref=ts">TextileLab Amsterdam</a></strong> projects.<br>
 
-The children have discovered and lived the philosophy of the <strong>Fab Lab Barcelona</strong> and <strong>Green Fab Lab</strong>.<br>
+Introduction to the new <strong>Textile Academy</strong> course of September 2017<br>
 
-Located in the <strong>Collserola Natural Park</strong>, in the heart of the metropolitan area of <strong>Barcelona</strong>, <strong>Green Fab Lab</strong> hosted part of the event. The students have approached different themes: self-sufficient habitat, pollution, environment protection and many others.<br>
 
-Green Fab Lab is a project promoted by <strong><a href="https://iaac.net/">IaaC (Institute for Advanced Architecture of Catalonia)</a></strong> and part of the Fab City network. The Green Fab Lab works towards the creation of a self-sufficient habitat and research centre at Can Valldaura.<br>
+
+TALKS: Hacking the Fashion Industry, by <strong><a href="https://www.facebook.com/zoeromano">Zoe Romano</a></strong> <br>
+
+TALKS: Open Source Hardware, by <strong><a href="https://www.facebook.com/varvara.guljajeva">Varvara Guljajeva</a></strong> & <strong>Mar Canet</strong> <br>
+
+TALKS : 3D scanning & 3D printing by <strong><a href="http://fabacademy.org/">FabAcademy</a></strong> <br>
+
+
+
+TUTORIAL : Computational Fashion, by <strong><a href="https://www.facebook.com/aldo.sollazzo.98?fref=ts">Aldo Sollazzo</a></strong><br>
+
+TUTORIAL : E-textiles & Wearables, by <strong><a href="https://www.facebook.com/angel.munoz.98">Ángel Muñoz</a></strong> <br>
+
+TUTORIAL: 2D modeling for laser cutting and tutorial of 3D modeling for CNC milling<br>
+
+
+
+IN DEPTH: Biomaterials and Biocomposites by <strong><a href="https://www.facebook.com/ceciilya.frupsiess?fref=ts">Cecilia Raspanti</a></strong> & <strong><a href="https://www.facebook.com/anastasia.pistofidou?fref=ts">Anastasia Pistofidou</a></strong><br>
+
+JAM session in collaboration with local fashion designers and artists<br>
+
+Here you will find the form to subscribe: <a href="https://docs.google.com/forms/d/1CQy2jE0wcD0y7sjF1bVTqqZz1j7q5QEUuthqx2t1j14/viewform?ts=58905761&edit_requested=true">https://docs.google.com/forms/d/1CQy2jE0wcD0y7sjF1bVTqqZz1j7q5QEUuthqx2t1j14/viewform?ts=58905761&edit_requested=true</a>
+
+
 
 
 
