@@ -20,7 +20,7 @@ We believe that <strong>fashion education</strong> should be updated, embrace <s
 
 More Detailed programme:<br> 
 
-Presentation of <a href="https://www.facebook.com/fabtextiles/?fref=ts">Fab Textiles</a></strong> projects & <a href="https://www.facebook.com/AmsterdamTextileLab/?fref=ts">TextileLab Amsterdam</a></strong> projects.<br>
+Presentation of <strong><a href="https://www.facebook.com/fabtextiles/?fref=ts">Fab Textiles</a></strong> projects & <strong><a href="https://www.facebook.com/AmsterdamTextileLab/?fref=ts">TextileLab Amsterdam</a></strong> projects.<br>
 
 Introduction to the new <strong>Textile Academy</strong> course of September 2017<br>
 
