@@ -1,31 +1,41 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/gabilondofablabbcnsmall.jpg
-teaserlist: blog_loop_latest/gabilondofablabbcnsmall.jpg
-title: Iñaki Gabilondo vino al Fab Lab Barcelona
-meta: "El famoso periodista entrevistó a Tomás Díez, el co-fundador del Fab Lab Barcelona y Director del Fab City Research Lab."
+teaserlatest: blog_loop_latest/adacolausmall.jpg
+teaserlist: blog_loop_latest/adacolausmall.jpg
+title: Ada Colau at Fab Lab Barcelona
+meta: "In the framework of the Poblenou Maker District, Barcelona's Mayor Ada Colau, together with Gerardo Pisarello, First Deputy Mayor of Barcelona, and Francesca Bria, Chief Technology and Digital Innovation Officer, visited this morning the Fab Lab Barcelona at IAAC."
 author: Marco Sanalitro
-date: 27/01/2017
+date: 14/02/2017
 category: news
 ---
 
-<strong>El famoso periodista Iñaki Gabilondo vino al Fab Lab Barcelona!</strong><br>
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/gabilondofablabbcn.jpg" align="middle"> 
-<br>
-El periodista entrevistó a <strong><a href="https://iaac.net/people/tomas-diez/">Tomás Díez</a></strong>, el co-fundador del <strong>Fab Lab Barcelona</strong> y Director del <strong><a href="http://fab.city/">Fab City Research Lab</a></strong>.<br>
-<br>
-Durante el programa <strong><a href="http://www.movistarplus.es/cero/cuandoyanoeste">"Cuando ya no esté"</a></strong> se habló de muchos temas, centrando la atención en la <strong>Digital Fabrication</strong>, en la <strong>Impresión 3d</strong> y en the <strong><a href="http://fab.city/">Fab City</a></strong>. Junto con otros expertos, se intentó pronosticar un futuro muy cercano en el cual el consumidor podrá fabricarse la mayor parte de sus objetos en su casa.<br>
-<br>
-Si no lo pudiste ver, aquí puedes encontrar los vídeos y disfrutar del programa:<br>
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cm_BWCs-h8c" frameborder="0" allowfullscreen></iframe>
+
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/adacolau1.jpg" align="middle"> 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v6c9ADihP-c" frameborder="0" allowfullscreen></iframe>
+In the framework of the <strong>Poblenou Maker District</strong>, <strong>Barcelona's Mayor Ada Colau</strong>, together with <strong>Gerardo Pisarello</strong>, First Deputy Mayor of Barcelona, and <strong>Francesca Bria</strong>, Chief Technology and Digital Innovation Officer, visited this morning the <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona at <strong><a href="https://iaac.net/">IAAC.</strong><br>
+
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/adacolau2.jpg" align="middle"> 
 <br>
 
+<strong><a href="https://iaac.net/people/tomas-diez/">Tomas Diez</a></strong>, <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona and <strong><a href="http://fab.city/">Fab City Research Lab Director</a></strong>, showed the Fab Lab and the Institute to the Mayor, explaining projects such as the <strong><a href="http://fabacademy.org/">Fab Academy</a></strong>, the <strong><a href="http://fabtextiles.org/">Fab Textile</a></strong> and the <strong><a href="https://smartcitizen.me/kits/#sck">Smart Citizen</a></strong>. <br>
+
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/adacolau3.jpg" align="middle"> 
+<br>
+
+After the visit to the Fab Lab Barcelona, the Mayor went to La Plataforma, the headquarter of the <strong>Poble Nou Urban District</strong>, to take the chance to discuss with Tomás Diez and other makers of the neighbourhood the future of the <strong>Maker District</strong> initiative.<br>
+
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/adacolau4.jpg" align="middle"> 
+<br>
+
+<strong>Poblenou Maker District</strong> is an initiative that aims to facilitate the development of a series of activities, events, workshops and projects, which promote interaction between the local community and citizen initiatives on a small scale, connected in turn to the global community.<br> 
+
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/adacolau5.jpg" align="middle"> 
+<br>
+
+This interaction will allow society to experience the <strong>Maker culture</strong> of technology and innovation, by participating in an active way in the prototyping and testing of products, services and interventions created by the movement.<br>
 
 
 
