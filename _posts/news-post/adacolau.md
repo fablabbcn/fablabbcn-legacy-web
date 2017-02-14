@@ -20,17 +20,17 @@ In the framework of the <strong>Poblenou Maker District</strong>, <strong>Barcel
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/adacolau2.jpg" align="middle"> 
 <br>
 
-<strong><a href="https://iaac.net/people/tomas-diez/">Tomas Diez</a></strong>, <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona and <strong><a href="http://fab.city/">Fab City Research Lab Director</a></strong>, showed the Fab Lab and the Institute to the Mayor, explaining projects such as the <strong><a href="http://fabacademy.org/">Fab Academy</a></strong>, the <strong><a href="http://fabtextiles.org/">Fab Textile</a></strong> and the <strong><a href="https://smartcitizen.me/kits/#sck">Smart Citizen</a></strong>. <br>
+<strong><a href="https://iaac.net/people/tomas-diez/">Tomas Diez</a></strong>, <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> and <strong><a href="http://fab.city/">Fab City Research Lab</a> Director</strong>, showed the Fab Lab and the Institute to the Mayor, explaining projects such as the <strong><a href="http://fabacademy.org/">Fab Academy</a></strong>, the <strong><a href="http://fabtextiles.org/">Fab Textile</a></strong> and the <strong><a href="https://smartcitizen.me/kits/#sck">Smart Citizen</a></strong>. <br>
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/adacolau3.jpg" align="middle"> 
 <br>
 
-After the visit to the Fab Lab Barcelona, the Mayor went to La Plataforma, the headquarter of the <strong>Poble Nou Urban District</strong>, to take the chance to discuss with Tomás Diez and other makers of the neighbourhood the future of the <strong>Maker District</strong> initiative.<br>
+After the visit to the Fab Lab Barcelona, the Mayor went to La Plataforma, the headquarter of the <strong><a href="http://www.poblenouurbandistrict.com/es/">Poble Nou Urban District</a></strong>, to take the chance to discuss with Tomás Diez and other makers of the neighbourhood the future of the <strong><a href="http://ajuntament.barcelona.cat/estrategiadigital/en">Maker District</a></strong> initiative.<br>
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/adacolau4.jpg" align="middle"> 
 <br>
 
-<strong>Poblenou Maker District</strong> is an initiative that aims to facilitate the development of a series of activities, events, workshops and projects, which promote interaction between the local community and citizen initiatives on a small scale, connected in turn to the global community.<br> 
+<strong><a href="http://www.poblenouurbandistrict.com/es/">Poblenou Maker District</a></strong> is an initiative that aims to facilitate the development of a series of activities, events, workshops and projects, which promote interaction between the local community and citizen initiatives on a small scale, connected in turn to the global community.<br> 
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/adacolau5.jpg" align="middle"> 
 <br>
