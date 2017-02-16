@@ -1,8 +1,8 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/adacolausmall.jpg
-teaserlist: blog_loop_latest/adacolausmall.jpg
+teaserlatest: blog_loop_latest/mwciedsmall.jpg
+teaserlist: blog_loop_latest/mwciedsmall.jpg
 title: Fab Lab BCN & IED BCN, Un desfile de moda tecnológico para el MWC
 meta: "El Mundo publicó un articolo sobre el Instituto Europeo de Diseño de Barcelona que en colaboración con el Fab Lab Barcelona, prepara, por encargo de The Youth Mobile Festival, diez prendas de ropa que incorporan tecnología para una 'performance' en el marco del Mobile World Congress."
 author: Marco Sanalitro
