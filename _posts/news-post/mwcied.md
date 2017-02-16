@@ -3,17 +3,16 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/adacolausmall.jpg
 teaserlist: blog_loop_latest/adacolausmall.jpg
-title: Barcelona's Mayor Ada Colau at Fab Lab Barcelona
-meta: "In the framework of the Poblenou Maker District, Barcelona's Mayor Ada Colau, together with Gerardo Pisarello, First Deputy Mayor of Barcelona, and Francesca Bria, Chief Technology and Digital Innovation Officer, visited this morning the Fab Lab Barcelona at IAAC."
+title: Fab Lab BCN & IED BCN, Un desfile de moda tecnológico para el MWC
+meta: "El día 14 de febrero el periodico El Mundo ha publicado un articolo sobre el Instituto Europeo de Diseño de Barcelona que en colaboración con el Fab Lab Barcelona, prepara, por encargo de The Youth Mobile Festival, diez prendas de ropa que incorporan tecnología para una 'performance' en el marco del Mobile World Congress."
 author: Marco Sanalitro
-date: 14/02/2017
+date: 16/02/2017
 category: news
 ---
 
 
+"It's been incredible collaborating with Anastasia Pistofidou y Fab Lab Barcelona on the creation of new textiles made from ecological sources, for the wearable tech fashion show I'm directing for YOMO"<br> .Alex Murray-Leslie<br>
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/adacolau1.jpg" align="middle"> 
-<br>
 
 In the framework of the <strong>Poblenou Maker District</strong>, <strong>Barcelona's Mayor Ada Colau</strong>, together with <strong>Gerardo Pisarello</strong>, First Deputy Mayor of Barcelona, and <strong>Francesca Bria</strong>, Chief Technology and Digital Innovation Officer, visited this morning the <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona at <strong><a href="https://iaac.net/">IAAC.</strong><br>
 
