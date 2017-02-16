@@ -19,7 +19,7 @@ Durante cuatro días, se podrá ver en <strong><a href="http://www.mwcyomo.com/b
 Los looks están elaborados con <strong>materiales sostenibles y biodegradables</strong>, utilizan la luz como un elemento estético y el concepto <strong>Selfie</strong> como punto de vista crítico de la influencia de las redes sociales en nuestras vidas. Después de una profunda investigación, los estudiantes del <strong><a href="http://iedbarcelona.es/">IED</a></strong> han trabajado con materiales rompedores, incluyendo e-textiles hechos a medida y producidos en colaboración con <strong>Anastasia Pistofidou</strong> en el <strong>Fab Lab Barcelona</strong>, <strong>tejidos de malla realizados con una impresora 3D</strong>, <strong>bioplásticos</strong>, <strong>tejidos vegetales</strong>, <strong>tecnologías on-body</strong> y <strong>corte láser</strong>. Asimismo, también desarrollaron sus propios tejidos a partir de retales para promover una economía circular.<br>
 
 «Está siendo espectacular ver la evolución de estas cosas en cinco días y como de rápido las cosas pueden juntarse en una situación como ésta... Es importante tener <strong>caos</strong> en el procedimiento y cometer muchos errores, porque así es como se llega a los <strong>destinos más interesantes</strong>... Se puede hacer muchísimo más y cosas mucho más interesantes. Esto es sólo el principio.»<br>
-. Alex Murray-Leslie .<br>
+. <strong><a href="http:https://www.instagram.com/alexmurrayleslie/">Alex Murray-Leslie</a></strong> .<br>
 
 
 
