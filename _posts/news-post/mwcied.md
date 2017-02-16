@@ -11,7 +11,15 @@ category: news
 ---
 
 
-"It's been incredible collaborating with Anastasia Pistofidou y Fab Lab Barcelona on the creation of new textiles made from ecological sources, for the wearable tech fashion show I'm directing for YOMO"<br> .Alex Murray-Leslie<br>
+«It's been incredible collaborating with Anastasia Pistofidou y Fab Lab Barcelona on the creation of new textiles made from ecological sources, for the wearable tech fashion show I'm directing for YOMO»<br> . Alex Murray-Leslie .<br>
+
+Durante cuatro días, se podrá ver en YOMO Barcelona una performance artística con la última tecnología en moda. El Instituto Europeo de Diseño de Barcelona presenta diez looks realizados con innovadores materiales hechos a medida en el Fab Lab Barcelona, usando nuevas formas y colores llamativos, por encargo de The Youth Mobile Festival, en el marco del Mobile World Congress.<br>
+
+Los looks están elaborados con materiales sostenibles y biodegradables, utilizan la luz como un elemento estético y el concepto Selfie como punto de vista crítico de la influencia de las redes sociales en nuestras vidas. Después de una profunda investigación, los estudiantes del IED han trabajado con materiales rompedores, incluyendo e-textiles hechos a medida y producidos en colaboración con Anastasia Pistofidou en el Fab Lab Barcelona, tejidos de malla realizados con una impresora 3D, bioplásticos, tejidos vegetales, tecnologías on-body y corte láser. Asimismo, también desarrollaron sus propios tejidos a partir de retales para promover una economía circular.<br>
+
+«Está siendo espectacular ver la evolución de estas cosas en cinco días y como de rápido las cosas pueden juntarse en una situación como ésta... Es importante tener caos en el procedimiento y cometer muchos errores, porque así es como se llega a los destinos más interesantes... Se puede hacer muchísimo más y cosas mucho más interesantes. Esto es sólo el principio.»<br>
+. Alex Murray-Leslie .<br>
+
 
 
 In the framework of the <strong>Poblenou Maker District</strong>, <strong>Barcelona's Mayor Ada Colau</strong>, together with <strong>Gerardo Pisarello</strong>, First Deputy Mayor of Barcelona, and <strong>Francesca Bria</strong>, Chief Technology and Digital Innovation Officer, visited this morning the <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona at <strong><a href="https://iaac.net/">IAAC.</strong><br>
