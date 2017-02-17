@@ -10,12 +10,12 @@ date: 16/02/2017
 category: news
 ---
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/mwcied1.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/mwcied2.jpg" align="middle"> 
 <br>
 
 El día 14 de febrero el periodico <strong><a href="http://www.elmundo.es/economia/2017/02/14/58a2d83146163fde5a8b458c.html">El Mundo</a></strong> publicó un articolo sobre el <strong><a href="http://iedbarcelona.es/">IED de Barcelona</a></strong> que en colaboración con el <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong>, prepara, por encargo de <strong><a href="http://www.mwcyomo.com/bcn/">The Youth Mobile Festival</a></strong>, diez prendas de ropa que incorporan tecnología para una 'performance' en el marco del <strong><a href="https://www.mobileworldcongress.com/">Mobile World Congress</a></strong>.
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/mwcied2.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/mwcied1.jpg" align="middle"> 
 <br>
 
 «Ha sido increíble colaborar con <strong>Anastasia Pistofidou</strong> y <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> en la creación de nuevos textiles hechos de <strong>materiales ecológicos</strong>, para el <strong>wearable tech fashion show</strong> que estoy dirigiendo para <strong><a href="http://www.mwcyomo.com/bcn/">YOMO</a></strong>»<br> . <strong><a href="http:https://www.instagram.com/alexmurrayleslie/">Alex Murray-Leslie</a></strong> .<br>
