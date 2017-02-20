@@ -22,7 +22,7 @@ During the 4-day workshops, children use technology intuitively. One of our moti
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids6.jpg" align="middle"> </ul>
 
-The children have discovered and lived the philosophy of the <strong>Fab Lab Barcelona</strong> and <strong><a href="http://greenfablab.org/">Green Fab Lab</a></strong>.<br>
+The children have discovered and lived the philosophy of the <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> and <strong><a href="http://greenfablab.org/">Green Fab Lab</a></strong>.<br>
 
 Located in the <strong>Collserola Natural Park</strong>, in the heart of the metropolitan area of <strong>Barcelona</strong>, <strong>Green Fab Lab</strong> hosted part of the event. The students have approached different themes: self-sufficient habitat, pollution, environment protection and many others.<br>
 
