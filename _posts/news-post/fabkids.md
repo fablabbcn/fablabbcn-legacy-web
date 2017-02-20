@@ -16,9 +16,9 @@ Last month, an incredible group of kids from Kuwait (accompanied by <strong>CLM 
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids5.jpg" align="middle"> </ul>
 
-The <strong>FabKids</strong>, is a creative laboratory that favors the development of intelligence, creativity and imagination of children and youth. It is a place where thinking is encouraged and innovation occurs, a space where educational and recreational activities for children between 10 and 16 years of age, focus on design and digital manufacturing processes.<br>
+The <strong>FabKids</strong>, is a creative laboratory that favors the development of intelligence, creativity and imagination of children and youth. It is a place where thinking is encouraged and innovation occurs, a space where educational and recreational activities for children between 10 and 16 years of age are focus on design and digital manufacturing processes.<br>
 
-During the 4-day workshops, children use technology intuitively. One of our motivations is to promote reflective, analytical and critical thinking. We think it is necessary that children become technologically skilled; for them to become active creators with the use of technology, smart objects and video games instead of being passive users.<br>
+During the 4-day workshops, children use technology intuitively. One of our motivations is to promote reflective, analytical and critical thinking. We think it is necessary that children become technologically skilled; for them it is basic to become active creators with the use of technology, smart objects and video games instead of being passive users.<br>
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids6.jpg" align="middle"> </ul>
 
