@@ -1,21 +1,24 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/mwciedsmall.jpg
-teaserlist: blog_loop_latest/mwciedsmall.jpg
-title: Fab Lab BCN & IED BCN, Un desfile de moda tecnológico para el MWC
-meta: "El Mundo publicó un articolo sobre el Instituto Europeo de Diseño de Barcelona que en colaboración con el Fab Lab Barcelona, prepara, por encargo de The Youth Mobile Festival, diez prendas de ropa que incorporan tecnología para una 'performance' en el marco del Mobile World Congress."
+teaserlatest: blog_loop_latest/mwbsmall.jpg
+teaserlist: blog_loop_latest/mwbsmall.jpg
+title: El Futuro de las Ciudades
+meta: "El día 20 de Febrero Tomas Diez, Fab City Research Lab Director, participó como asesor en el debate sobre El Futuro de las Ciudades. 
+Barcelona es una ciudad que nació con el espíritu de reinventarse y experimentar con la innovación, sin embargo se enfrenta a grandes retos para convertirse en una Smart City de referencia."
 author: Marco Sanalitro
-date: 16/02/2017 
+date: 22/02/2017 
 category: news
 ---
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/mwcied2.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/mwb1.jpg" align="middle"> 
 <br>
 
-El día 14 de febrero el periodico <strong><a href="http://www.elmundo.es/economia/2017/02/14/58a2d83146163fde5a8b458c.html">El Mundo</a></strong> publicó un articolo sobre el <strong><a href="http://iedbarcelona.es/">IED de Barcelona</a></strong> que en colaboración con el <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong>, prepara, por encargo de <strong><a href="http://www.mwcyomo.com/bcn/">The Youth Mobile Festival</a></strong>, diez prendas de ropa que incorporan tecnología para una 'performance' en el marco del <strong><a href="https://www.mobileworldcongress.com/">Mobile World Congress</a></strong>.
+El día 20 de Febrero Tomas Diez, Fab City Research Lab Director, participó como asesor en el debate sobre El Futuro de las Ciudades. 
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/mwcied1.jpg" align="middle"> 
+Barcelona es una ciudad que nació con el espíritu de reinventarse y experimentar con la innovación, sin embargo se enfrenta a grandes retos para convertirse en una Smart City de referencia..
+
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/mwb2.jpg" align="middle"> 
 <br>
 
 «Ha sido increíble colaborar con <strong>Anastasia Pistofidou</strong> y <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> en la creación de nuevos textiles hechos de <strong>materiales ecológicos</strong>, para el <strong>wearable tech fashion show</strong> que estoy dirigiendo para <strong><a href="http://www.mwcyomo.com/bcn/">YOMO</a></strong>»<br> . <strong><a href="http:https://www.instagram.com/alexmurrayleslie/">Alex Murray-Leslie</a></strong> .<br>
