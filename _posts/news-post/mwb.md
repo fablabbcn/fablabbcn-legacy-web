@@ -20,7 +20,7 @@ Durante la <strong><a href="https://fablabbcn.org/index.html">Mobile Week Barcel
 
 <strong>Barcelona</strong> es una ciudad que nació con el <strong>espíritu de reinventarse y experimentar</strong> con la innovación, una ciudad cosmopolita, capital mundial del móvil y con reconocimiento internacional. Sin embargo, como cualquier gran ciudad también se enfrenta a grandes retos para convertirse en una <strong>Smart City</strong> de referencia.<br>
 <br>
-En este diálogo debatiremos sobre cómo las <strong>nuevas tecnologías</strong> pueden crear <strong>espacios urbanos más sostenibles</strong>, sobre la importancia del procesamiento, almacenamiento y gestión de datos, y sobretodo cómo potenciar una sociedad de <strong>smart citizens</strong>.<br>
+En este diálogo debatieron sobre cómo las <strong>nuevas tecnologías</strong> pueden crear <strong>espacios urbanos más sostenibles</strong>, sobre la importancia del procesamiento, almacenamiento y gestión de datos, y sobretodo cómo potenciar una sociedad de <strong>smart citizens</strong>.<br>
 
 
 
