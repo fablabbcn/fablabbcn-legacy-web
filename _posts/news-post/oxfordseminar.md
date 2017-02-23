@@ -1,36 +1,27 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/mwbsmall.jpg
-teaserlist: blog_loop_latest/mwbsmall.jpg
+teaserlatest: blog_loop_latest/oxfordsmall.jpg
+teaserlist: blog_loop_latest/oxfordsmall.jpg
 title: InSIS, Guillem Camprodon at Oxford University
-meta: "14th February, our expert in Physical Computing and Smart Citizen Project Leader, Guillem Camprodon, spoke about DIY Science and Smart Citizenship at University of Oxford. InSIS invited us to take part at a series of seminars around the Promises and Perils of DIY Science."
+meta: "14th February, our expert in Physical Computing and Smart Citizen Project Leader, Guillem Camprodon, spoke about DIY Science and Smart Citizenship at University of Oxford. InSIS invited us to take part at a series of seminars about the Promises and Perils of DIY Science."
 author: Marco Sanalitro
-date: 22/02/2017 
+date: 23/02/2017 
 category: news
 ---
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/mwb1.jpg" align="middle"> 
+14th February 2017 <strong><a href="https://iaac.net/people/guillem-camprodon/">Guillem Camprodon</a></strong>, our expert in Physical Computing and <strong><a href="https://smartcitizen.me/">Smart Citizen</a></strong> Project Leader, spoke about DIY Science and Smart Citizenship at <strong><a href="http://www.ox.ac.uk/">University of Oxford</a></strong>.<br>
+
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/oxford.jpg" align="middle"> 
 <br>
 
-14th February 2017 Guillem Camprodon, our expert in Physical Computing and Smart Citizen Project Leader, spoke about DIY Science and Smart Citizenship at University of Oxford:<br>
+"<strong><a href="http://www.insis.ox.ac.uk/">The Institute for Science, Innovation and Society (InSIS) at Oxford University</strong> invited us to present the <strong><a href="https://smartcitizen.me/">Smart Citizen project</a></strong> as part of a series of seminars around the <strong><a href="http://www.insis.ox.ac.uk/news-events/news/article/date/2016/12/insis-seminar-series-science-in-your-own-hands-promises-and-perils-of-diy-science/?cHash=721c60130bcb82d1b81ebfa7d3901efb">Promises and Perils of DIY Science</a></strong>. The session was chair by <strong><a href="http://www.keble.ox.ac.uk/academics/about/professor-steve-rayner">Steve Rayner</a></strong>, director of the institute, and it was a really nice opportunity to discuss our work on <strong>Participatory Sensing</strong> and <strong>Citizen Science</strong> we have been carrying out since 2013 with the Oxford community." by <strong><a href="https://iaac.net/people/guillem-camprodon/">Guillem Camprodon</a></strong><br>
 
-"The Institute for Science, Innovation and Society (InSIS) at Oxford University invited us to present the Smart Citizen project as part of a series of seminars around the Promises and Perils of DIY Science. The session was chair by Steve Rayner, director of the institute, and it was a really nice opportunity to discuss our work on Participatory Sensing and Citizen Science we have been carrying out since 2013 with the Oxford community." by Guillem Camprodon<br>
+In the <strong>21st century</strong>, the production of scientific knowledge has moved beyond <strong>academic or industrial laboratories to online communities</strong>, <strong>low-rent "hackspaces"</strong>, <strong>personal wearable devices</strong>, and <strong>low-cost kits</strong> ordered from the internet. Does <strong>DIY science</strong> provide a more democratic, relevant and accountable form of <strong>self-guided expertise</strong>? Or are authority and control simply shifted and permeating the production of DIY activities in unexplored ways? How are quality and outcomes assessed? Like an ever-evolving ecosystem, knowledge production and use is expanding into new niches and functioning in creative ways among new sets of actors.<br>
 
-In the 21st century, the production of scientific knowledge has moved beyond academic or industrial laboratories to online communities, low-rent "hackspaces", personal wearable devices, and low-cost kits ordered from the internet. Does DIY science provide a more democratic, relevant and accountable form of self-guided expertise? Or are authority and control simply shifted and permeating the production of DIY activities in unknown ways? How are quality and outcomes assessed? Like an ever-evolving ecosystem, knowledge production and use is expanding into new niches and functioning in creative ways among new sets of actors.
+This seminar explored the changing ecologies of knowledge and the implications of the public taking the production of science "into their own hands".<br>
 
-This seminar explored the changing ecologies of knowledge and the implications of the public taking the production of science "into their own hands".
-
-Durante la <strong><a href="https://fablabbcn.org/index.html">Mobile Week Barcelona</a></strong>, un punto de encuentro entre el mundo de la <strong>emprendeduría</strong> y la <strong>industria digital y del pensamiento</strong>, asi como de las <strong>industrias creativas</strong>, el día 20 de Febrero, <strong><a href="https://iaac.net/people/tomas-diez/">Tomas Diez</a></strong>, <strong>Co-fundador del <a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> y <strong><a href="http://fab.city/">Fab City</a> Research Lab Director</strong>, participó como asesor en el debate sobre <strong><a href="http://mobileweekbcn.com/es/dialogos/el-futuro-de-las-ciudades/">"El Futuro de las Ciudades"</a></strong>. <br>
-
-En este diálogo debatieron sobre cómo las <strong>nuevas tecnologías</strong> pueden crear <strong>espacios urbanos más sostenibles</strong>, sobre la importancia del procesamiento, almacenamiento y gestión de datos, y sobretodo cómo potenciar una sociedad de <strong>smart citizens</strong>.<br>
-
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/mwb3.jpg" align="middle"> 
-<br>
-
-Con el invitado <strong><a href="http://www.bcnecologia.net/es/equipo/salvador-rueda">Salvador Rueda</a></strong>, <strong>director the <a href="http://www.bcnecologia.net/es">Urban Ecology Agency of Barcelona</a></strong>, y los otros invitados de la noche, también se habló de la importancia del trabajo de la <strong><a href="http://www.bcnecologia.net/es/proyectos/la-supermanzana-nueva-celula-urbana-para-la-construccion-de-un-nuevo-modelo-funcional-y">Superilla</a></strong> en el proyecto <strong><a href="http://fab.city/">Fab City</a></strong>.<br>
-
-<strong>Barcelona</strong> es una ciudad que nació con el <strong>espíritu de reinventarse y experimentar</strong> con la innovación, una ciudad cosmopolita. Sin embargo, como cualquier gran ciudad también se enfrenta a grandes retos para convertirse en una <strong>Smart City</strong> de referencia.<br>
+for more information: <strong><a href="http://www.insis.ox.ac.uk/news-events/news/article/date/2016/12/insis-seminar-series-science-in-your-own-hands-promises-and-perils-of-diy-science/?cHash=721c60130bcb82d1b81ebfa7d3901efb">InSIS Seminar Series - 'Science in Your Own Hands: Promises and Perils of DIY Science'</a></strong>
 <br>
 
 
