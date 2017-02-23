@@ -7,7 +7,7 @@ title: El Futuro de las Ciudades, MWB
 meta: "El día 20 de Febrero Tomas Diez, Co-fundador del Fab Lab Barcelona y Fab City Research Lab Director, participó como asesor en el debate sobre El Futuro de las Ciudades. 
 Barcelona es una ciudad que nació con el espíritu de reinventarse y experimentar con la innovación, sin embargo se enfrenta a grandes retos para convertirse en una Smart City de referencia."
 author: Marco Sanalitro
-date: 22/02/2017 
+date: 21/02/2017 
 category: news
 ---
 
