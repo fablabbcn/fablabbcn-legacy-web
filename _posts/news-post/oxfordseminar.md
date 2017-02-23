@@ -3,9 +3,8 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/mwbsmall.jpg
 teaserlist: blog_loop_latest/mwbsmall.jpg
-title: El Futuro de las Ciudades, MWB
-meta: "El día 20 de Febrero Tomas Diez, Co-fundador del Fab Lab Barcelona y Fab City Research Lab Director, participó como asesor en el debate sobre El Futuro de las Ciudades. 
-Barcelona es una ciudad que nació con el espíritu de reinventarse y experimentar con la innovación, sin embargo se enfrenta a grandes retos para convertirse en una Smart City de referencia."
+title: InSIS, Guillem Camprodon at Oxford University
+meta: "14th February, our expert in Physical Computing and Smart Citizen Project Leader, Guillem Camprodon, spoke about DIY Science and Smart Citizenship at University of Oxford. InSIS invited us to take part at a series of seminars around the Promises and Perils of DIY Science."
 author: Marco Sanalitro
 date: 22/02/2017 
 category: news
@@ -14,7 +13,7 @@ category: news
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/mwb1.jpg" align="middle"> 
 <br>
 
-14th February 2017 Guillem Camprodon, our expert in Physical Computing and Smart Citizen Project Leader, at University of Oxford, spoke about Science, DIY and Smart Citizenship.<br>
+14th February 2017 Guillem Camprodon, our expert in Physical Computing and Smart Citizen Project Leader, spoke about DIY Science and Smart Citizenship at University of Oxford:<br>
 
 "The Institute for Science, Innovation and Society (InSIS) at Oxford University invited us to present the Smart Citizen project as part of a series of seminars around the Promises and Perils of DIY Science. The session was chair by Steve Rayner, director of the institute, and it was a really nice opportunity to discuss our work on Participatory Sensing and Citizen Science we have been carrying out since 2013 with the Oxford community." by Guillem Camprodon<br>
 
