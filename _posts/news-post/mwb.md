@@ -22,7 +22,7 @@ En este diálogo debatieron sobre cómo las <strong>nuevas tecnologías</strong>
 
 Con el invitado <strong>Salvador Rueda</strong>, <strong>director the <a href="http://www.bcnecologia.net/es">Urban Ecology Agency of Barcelona</a></strong>, y los otros invitados de la noche, también se habló de la importancia del trabajo de la <strong><a href="http://www.bcnecologia.net/es/proyectos/la-supermanzana-nueva-celula-urbana-para-la-construccion-de-un-nuevo-modelo-funcional-y">Superilla</a></strong> en el proyecto <strong><a href="http://fab.city/">Fab City</a></strong>.<br>
 
-<strong>Barcelona</strong> es una ciudad que nació con el <strong>espíritu de reinventarse y experimentar</strong> con la innovación, una ciudad cosmopolita, capital mundial del móvil y con reconocimiento internacional. Sin embargo, como cualquier gran ciudad también se enfrenta a grandes retos para convertirse en una <strong>Smart City</strong> de referencia.<br>
+<strong>Barcelona</strong> es una ciudad que nació con el <strong>espíritu de reinventarse y experimentar</strong> con la innovación, una ciudad cosmopolita. Sin embargo, como cualquier gran ciudad también se enfrenta a grandes retos para convertirse en una <strong>Smart City</strong> de referencia.<br>
 <br>
 
 
