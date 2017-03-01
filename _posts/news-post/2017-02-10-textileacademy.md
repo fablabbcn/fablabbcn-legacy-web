@@ -47,6 +47,8 @@ IN DEPTH: Biomaterials and Biocomposites by <strong><a href="https://www.faceboo
 JAM session in collaboration with local fashion designers and artists<br>
 <br>
 
+<strong><a href="http://waag.org/en">Waag Society</a></strong>
+
 Contact: <strong>info@textile-academy.org</strong><br>
 <br>
 Here you will find the form to subscribe: <strong><a href="https://docs.google.com/forms/d/1CQy2jE0wcD0y7sjF1bVTqqZz1j7q5QEUuthqx2t1j14/viewform?ts=58905761&edit_requested=true">https://docs.google.com/forms/d/1CQy2jE0wcD0y7sjF1bVTqqZz1j7q5QEUuthqx2t1j14/viewform?ts=58905761&edit_requested=true</a></strong><br>
