@@ -3,29 +3,27 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/mwbsmall.jpg
 teaserlist: blog_loop_latest/mwbsmall.jpg
-title: El Futuro de las Ciudades, MWB
+title: Aquapioneers
 meta: "El día 20 de Febrero Tomas Diez, Co-fundador del Fab Lab Barcelona y Fab City Research Lab Director, participó como asesor en el debate sobre El Futuro de las Ciudades. 
 Barcelona es una ciudad que nació con el espíritu de reinventarse y experimentar con la innovación, sin embargo se enfrenta a grandes retos para convertirse en una Smart City de referencia."
 author: Marco Sanalitro
-date: 21/02/2017 
+date: 13/03/2017 
 category: news
 ---
 
+<strong><a href="http://aquapioneers.io/">Aquapioneers</a></strong> project started during <strong><a href="http://fabacademy.org/">Fab Academy'16</a></strong> final project from <strong><a href="https://www.facebook.com/guillaume.tess">Guillaume Teyssié</a></strong> at the <strong><a href="http://greenfablab.org/">Green Fab Lab</a></strong>. 
+
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/mwb1.jpg" align="middle"> 
 <br>
-Durante la <strong><a href="https://fablabbcn.org/index.html">Mobile Week Barcelona</a></strong>, un punto de encuentro entre el mundo de la <strong>emprendeduría</strong> y la <strong>industria digital y del pensamiento</strong>, asi como de las <strong>industrias creativas</strong>, el día 20 de Febrero, <strong><a href="https://iaac.net/people/tomas-diez/">Tomas Diez</a></strong>, <strong>Co-fundador del <a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> y <strong><a href="http://fab.city/">Fab City</a> Research Lab Director</strong>, participó como asesor en el debate sobre <strong><a href="http://mobileweekbcn.com/es/dialogos/el-futuro-de-las-ciudades/">"El Futuro de las Ciudades"</a></strong>. <br>
 
-En este diálogo debatieron sobre cómo las <strong>nuevas tecnologías</strong> pueden crear <strong>espacios urbanos más sostenibles</strong>, sobre la importancia del procesamiento, almacenamiento y gestión de datos, y sobretodo cómo potenciar una sociedad de <strong>smart citizens</strong>.<br>
-
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/mwb3.jpg" align="middle"> 
-<br>
-
-Con el invitado <strong><a href="http://www.bcnecologia.net/es/equipo/salvador-rueda">Salvador Rueda</a></strong>, <strong>director the <a href="http://www.bcnecologia.net/es">Urban Ecology Agency of Barcelona</a></strong>, y los otros invitados de la noche, también se habló de la importancia del trabajo de la <strong><a href="http://www.bcnecologia.net/es/proyectos/la-supermanzana-nueva-celula-urbana-para-la-construccion-de-un-nuevo-modelo-funcional-y">Superilla</a></strong> en el proyecto <strong><a href="http://fab.city/">Fab City</a></strong>.<br>
-
-<strong>Barcelona</strong> es una ciudad que nació con el <strong>espíritu de reinventarse y experimentar</strong> con la innovación, una ciudad cosmopolita. Sin embargo, como cualquier gran ciudad también se enfrenta a grandes retos para convertirse en una <strong>Smart City</strong> de referencia.<br>
-<br>
+Since then, the project has evolved and now include two team members with <strong><a href="http://aquapioneers.io/">Loic LeGoueff</a></strong>. Together, they are pushing for <strong>aquaponics</strong> as a mean of <strong>sustainable food production</strong> in Barcelona, and globally spread the word using <strong>the power of open source tools</strong>. From this perspective, the design of their aquaponics systems has been thought to be open in order to  facilitate its replication in other Fab Labs.
 
 
 
+To walk the talk, last November, <strong><a href="http://aquapioneers.io/">Aquapioneers</a></strong>' team get invited in <strong><a href="http://www.sinergiatech.com/">Sinergia Tech</a></strong> (<strong>Fab Lab Montevideo, Uruguay</strong>) to <strong>beta test</strong> its <strong>Aquaponics Kit</strong>. This has been made possible thanks to the collaboration of <strong><a href="https://www.facebook.com/susi.garrido.73?fref=ts">Caro Vignoli</a></strong> (<strong><a href="http://fabacademy.org/">FabAcademyBCN'16</a></strong> student) and actual Director of <strong>FabLab Montevideo</strong>. 
+
+From these Barcelona and Montevideo experiences, they will launch a <strong>crowdfunding campaign</strong> in the next coming months to enable the other Fab Labs to do the same.
+
+Stay tune !
 
 
