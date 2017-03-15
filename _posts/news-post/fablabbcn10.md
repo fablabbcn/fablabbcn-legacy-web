@@ -12,19 +12,19 @@ category: event
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/101.jpg" align="middle"> </ul>
 
-Para celebrar el décimo aniversario del Fab Lab Barcelona hemos organizado un gran evento con muchas actividades libres para todos y una gran fiesta final!
+Para celebrar el décimo aniversario del <strong><a href="http://fablabbcn.org/">Fab Lab Barcelona</a></strong> hemos organizado un gran evento con muchas actividades libres para todos y una gran fiesta final!
 Obviamente lo haremos a nuestro estilo: innovando, enseñando, investigando y compartiendo!<br>
 
-Durante el día <strong>21 de Marzo</strong> se alternarán Demos y Talleres con diferentes temas y/o tecnologías.
-Los visitantes podrán sumergirse en la realidad y la filosofía del Fab Lab y el mundo Maker, las palabras claves son "learning by doing" y "diversión".<br>
+Durante el día <strong>21 de Marzo</strong> se alternarán <strong>Demos y Talleres</strong> con diferentes temas y/o tecnologías.
+Los visitantes podrán sumergirse en la realidad y la filosofía del <strong>Fab Lab</strong> y el <strong>mundo Maker</strong>, las palabras claves son <strong>"learning by doing"</strong> y <strong>"diversión"</strong>.<br>
 
-Impresión 3D, Smart Citizen y Making Sense, Brazo Robótico, Video Mapping, Fab Kids (talleres para los niños), Fab Textiles (moda y tecnología) y muchos otros eventos relacionados con la fabricación digital, tecnología y innovación te esperan en el Fab Lab Barcelona, no te pierdas esta oportunidad.<br>
-
-
+<strong>Impresión 3D</strong>, <strong><a href="https://smartcitizen.me/">Smart Citizen</a></strong> y <strong><a href="http://making-sense.eu/">Making Sense</a></strong>, <strong>Brazo Robótico</strong>, <strong>Video Mapping</strong>, <strong>Fab Kids (talleres para los niños), <strong><a href="http://fabtextiles.org/">Fab Textiles</a></strong> (moda y tecnología) y muchos otros eventos relacionados con la fabricación digital, tecnología y innovación te esperan en el <strong><a href="http://fablabbcn.org/">Fab Lab Barcelona</a></strong>, no te pierdas esta oportunidad.<br>
 
 
 
 
+
+<!-- =============================================================================================================
 
 We believe that <strong>fashion education</strong> should be updated, embrace <strong>multidisciplinarity</strong> and change the current model of fast fashion to customised and sustainable. We love making , experimenting and innovating using hands on bottom up approaches and new technology. In this <strong>40h course</strong>, we have included all the <strong>new tools</strong> a fashion designer should learn! If you are an <strong>educator</strong>, a <strong>professional</strong> or a <strong>student</strong> this is the course for you!<br>
 
@@ -70,7 +70,7 @@ Professional: 600€  /  Student: 450€<br>
 <br>
 Fab Academy Alumni: 350€<br>
 <br>
-Online Attendance: 150€<br>
+Online Attendance: 150€<br> -->
 
 
 
