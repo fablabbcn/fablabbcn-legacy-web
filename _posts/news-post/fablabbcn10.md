@@ -15,6 +15,8 @@ category: event
 Para celebrar el décimo aniversario del <strong><a href="http://fablabbcn.org/">Fab Lab Barcelona</a></strong> hemos organizado un gran evento con muchas actividades libres para todos y una gran fiesta final!
 Obviamente lo haremos a nuestro estilo: innovando, enseñando, investigando y compartiendo!<br>
 
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/102.jpg" align="middle"> </ul>
+
 Durante el día <strong>21 de Marzo</strong> se alternarán <strong>Demos y Talleres</strong> con diferentes temas y/o tecnologías.
 Los visitantes podrán sumergirse en la realidad y la filosofía del <strong>Fab Lab</strong> y el <strong>mundo Maker</strong>, las palabras claves son <strong>"learning by doing"</strong> y <strong>"diversión"</strong>.<br>
 
