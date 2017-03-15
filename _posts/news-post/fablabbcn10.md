@@ -1,18 +1,30 @@
 ---
 layout: blog_post
 type: event
-teaserlatest: blog_loop_latest/textileacademybootcampsmall.jpg
-teaserlist: blog_loop_latest/textileacademybootcampsmall.jpg
-title: Textile Academy Bootcamp 2017
-meta: "Join us to this intensive 40h bootcamp of our new program: a new fashion and technology textile-academy!"
+teaserlatest: blog_loop_latest/10small.jpg
+teaserlist: blog_loop_latest/10small.jpg
+title: 10 Years Fab Lal BCN
+meta: "Para celebrar el décimo aniversario del Fab Lab Barcelona hemos organizado un gran evento con muchas actividades libres para todos y una gran fiesta final!"
 author: Marco Sanalitro
-date: 10/02/2017
+date: 15/02/2017
 category: event
 ---
 
-Join us to this intensive 40h bootcamp of our new program: a new fashion and technology textile-academy!<br>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/101.jpg" align="middle"> </ul>
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/textileacademybootcamp1.jpg" align="middle"> </ul>
+Para celebrar el décimo aniversario del Fab Lab Barcelona hemos organizado un gran evento con muchas actividades libres para todos y una gran fiesta final!
+Obviamente lo haremos a nuestro estilo: innovando, enseñando, investigando y compartiendo!<br>
+
+Durante el día 21 de Marzo se alternarán Demos y Talleres con diferentes temas y/o tecnologías.
+Los visitantes podrán sumergirse en la realidad y la filosofía del Fab Lab y el mundo Maker, las palabras claves son "learning by doing" y "diversión".<br>
+
+Impresión 3D, Smart Citizen y Making Sense, Brazo Robótico, Video Mapping, Fab Kids (talleres para los niños), Fab Textiles (moda y tecnología) y muchos otros eventos relacionados con la fabricación digital, tecnología y innovación te esperan en el Fab Lab Barcelona, no te pierdas esta oportunidad.<br>
+
+
+
+
+
+
 
 We believe that <strong>fashion education</strong> should be updated, embrace <strong>multidisciplinarity</strong> and change the current model of fast fashion to customised and sustainable. We love making , experimenting and innovating using hands on bottom up approaches and new technology. In this <strong>40h course</strong>, we have included all the <strong>new tools</strong> a fashion designer should learn! If you are an <strong>educator</strong>, a <strong>professional</strong> or a <strong>student</strong> this is the course for you!<br>
 
