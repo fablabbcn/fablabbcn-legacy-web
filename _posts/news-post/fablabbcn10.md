@@ -3,7 +3,7 @@ layout: blog_post
 type: event
 teaserlatest: blog_loop_latest/10small.jpg
 teaserlist: blog_loop_latest/10small.jpg
-title: 10 Years Fab Lal BCN
+title: 10 Years Fab Lab BCN
 meta: "Para celebrar el décimo aniversario del Fab Lab Barcelona hemos organizado un gran evento con muchas actividades libres para todos y una gran fiesta final!"
 author: Marco Sanalitro
 date: 15/02/2017
@@ -18,7 +18,7 @@ Obviamente lo haremos a nuestro estilo: innovando, enseñando, investigando y co
 Durante el día <strong>21 de Marzo</strong> se alternarán <strong>Demos y Talleres</strong> con diferentes temas y/o tecnologías.
 Los visitantes podrán sumergirse en la realidad y la filosofía del <strong>Fab Lab</strong> y el <strong>mundo Maker</strong>, las palabras claves son <strong>"learning by doing"</strong> y <strong>"diversión"</strong>.<br>
 
-<strong>Impresión 3D</strong>, <strong><a href="https://smartcitizen.me/">Smart Citizen</a></strong> y <strong><a href="http://making-sense.eu/">Making Sense</a></strong>, <strong>Brazo Robótico</strong>, <strong>Video Mapping</strong>, <strong>Fab Kids (talleres para los niños), <strong><a href="http://fabtextiles.org/">Fab Textiles</a></strong> (moda y tecnología) y muchos otros eventos relacionados con la fabricación digital, tecnología y innovación te esperan en el <strong><a href="http://fablabbcn.org/">Fab Lab Barcelona</a></strong>, no te pierdas esta oportunidad.<br>
+<strong>Impresión 3D</strong>, <strong><a href="https://smartcitizen.me/">Smart Citizen</a></strong> y <strong><a href="http://making-sense.eu/">Making Sense</a></strong>, <strong>Brazo Robótico</strong>, <strong>Video Mapping</strong>, <strong>Fab Kids</strong> (talleres para los niños), <strong><a href="http://fabtextiles.org/">Fab Textiles</a></strong> (moda y tecnología) y muchos otros eventos relacionados con la fabricación digital, tecnología y innovación te esperan en el <strong><a href="http://fablabbcn.org/">Fab Lab Barcelona</a></strong>, no te pierdas esta oportunidad.<br>
 
 
 
