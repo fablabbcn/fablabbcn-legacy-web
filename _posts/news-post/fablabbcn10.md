@@ -15,7 +15,7 @@ category: event
 Para celebrar el décimo aniversario del Fab Lab Barcelona hemos organizado un gran evento con muchas actividades libres para todos y una gran fiesta final!
 Obviamente lo haremos a nuestro estilo: innovando, enseñando, investigando y compartiendo!<br>
 
-Durante el día 21 de Marzo se alternarán Demos y Talleres con diferentes temas y/o tecnologías.
+Durante el día <strong>21 de Marzo</strong> se alternarán Demos y Talleres con diferentes temas y/o tecnologías.
 Los visitantes podrán sumergirse en la realidad y la filosofía del Fab Lab y el mundo Maker, las palabras claves son "learning by doing" y "diversión".<br>
 
 Impresión 3D, Smart Citizen y Making Sense, Brazo Robótico, Video Mapping, Fab Kids (talleres para los niños), Fab Textiles (moda y tecnología) y muchos otros eventos relacionados con la fabricación digital, tecnología y innovación te esperan en el Fab Lab Barcelona, no te pierdas esta oportunidad.<br>
