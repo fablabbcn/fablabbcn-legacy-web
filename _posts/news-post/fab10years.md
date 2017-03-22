@@ -17,7 +17,7 @@ Gracias a todos por celebrar con nosotros el 10° aniversario de <strong><a href
 Para aquellos que se lo perdieron, no os preocupéis, la aventura continúa ...<br>
 <br>
 #FABLABBCN10YRS
-<br>
+<br><br>
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/103.jpg" align="middle"> 
 <br>
 
@@ -25,7 +25,7 @@ Thank you all for celebrating with us the 10th anniversary of <strong><a href="h
 For the ones who missed the occasion, do not worry, the adventure continues ...<br>
 <br>
 #FABLABBCN10YRS
-<br>
+<br><br>
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/104.jpg" align="middle"> 
 <br>
 
