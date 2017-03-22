@@ -12,6 +12,28 @@ category: news
 
 <!----- Image Slider ----------------------------- Image Slider -------------->
 
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel" >
+
+<!--------------- Wrapper for slides --------------->
+
+<div class="carousel-inner" role="listbox">
+   
+    <div class="item active">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/ceiling/img_1451.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/ceiling/img_1441.jpg" />
+    </div>
+    
+     <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_gral/ceiling/a1.png" />
+    </div>
+    
+</div> <!-- carousel inner -->
+
+<!----- Image Slider ----------------------------- Image Slider -------------->
+
 
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 
