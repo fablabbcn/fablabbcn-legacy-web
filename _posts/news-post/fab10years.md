@@ -3,12 +3,54 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/aquasmall.jpg
 teaserlist: blog_loop_latest/aquasmall.jpg
-title: Aquapioneers
-meta: "Aquapioneers project started during Fab Academy BCN 2016 at Green Fab Lab; Aquapioneers' team get invited in Sinergia Tech (Fab Lab Montevideo) to beta test its Aquaponics Kit."
+title: Thank you all!
+meta: "Thank you all for celebrating with us the 10th anniversary of Fab Lab Barcelona."
 author: Marco Sanalitro
-date: 13/03/2017 
+date: 22/03/2017 
 category: news
 ---
+
+<!----- Image Slider ----------------------------- Image Slider -------------->
+
+
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+
+<!--------------- Wrapper for slides --------------->
+
+  <div class="carousel-inner" role="listbox">
+   
+    <div class="item active">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/fablab_leka_plantamobiliario.png" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-009.jpg" />
+    </div>
+
+  <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-031.jpg" />
+    </div>
+    
+      <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-037.jpg" />
+    </div>
+    
+      <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/fabpro/leka_furniture/1423-041.jpg" />
+    </div>
+     
+  </div>
+
+Gracias a todos por celebrar con nosotros el 10° aniversario de <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong>. En particular, gracias a nuestros amigos y colaboradores por hacer esta noche única y fabulosa. Más de 400 personas vinieron ayer para vivir esta maravillosa experiencia.<br><br>
+Para aquellos que se lo perdieron, no os preocupéis, la aventura continúa ...<br>
+<br>
+#FABLABBCN10YRS
+_________
+
+Thank you all for celebrating with us the 10th anniversary of <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong>. Especially, thanks to our friends and collaborators to make this night unique and fabulous. More than 400 people came yesterday to live this amazing experience.
+For the ones who missed the occasion, do not worry, the adventure continues ...
+
+#FABLABBCN10YRS
 
 <strong><a href="http://aquapioneers.io/">Aquapioneers</a></strong> project started during <strong><a href="http://fabacademy.org/">Fab Academy'16</a></strong> final project from <strong><a href="https://www.facebook.com/guillaume.tess">Guillaume Teyssié</a></strong> at the <strong><a href="http://greenfablab.org/">Green Fab Lab</a></strong>. <br>
 
