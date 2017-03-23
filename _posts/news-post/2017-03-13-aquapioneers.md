@@ -4,7 +4,7 @@ type: blog
 teaserlatest: blog_loop_latest/aquasmall.jpg
 teaserlist: blog_loop_latest/aquasmall.jpg
 title: Aquapioneers
-meta: "Aquapioneers project started during Fab Academy BCN 2016 at Green Fab Lab; Aquapioneers' team get invited in Sinergia Tech (Fab Lab Montevideo) to beta test its Aquaponics Kit."
+meta: "Aquapioneers, project started during Fab Academy BCN 2016 at Green Fab Lab, will launch a crowdfunding campaign in the next coming months."
 author: Marco Sanalitro
 date: 13/03/2017 
 category: news
@@ -27,6 +27,6 @@ To walk the talk, last November, <strong><a href="http://aquapioneers.io/">Aquap
 
 From these Barcelona and Montevideo experiences, they will launch a <strong><a href="http://aquapioneers.io/">crowdfunding campaign</a></strong> in the next coming months to enable the other Fab Labs to do the same.<br>
 
-Stay tune !<br>
+Stay tune!<br>
 
 
