@@ -25,7 +25,7 @@ To walk the talk, last November, <strong><a href="http://aquapioneers.io/">Aquap
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/aqua1.jpg" align="middle"> 
 <br>
 
-From these Barcelona and Montevideo experiences, they will launch a  <strong><a href="http://aquapioneers.io/">crowdfunding campaign</a></strong> in the next coming months to enable the other Fab Labs to do the same.<br>
+From these Barcelona and Montevideo experiences, they will launch a <strong><a href="http://aquapioneers.io/">crowdfunding campaign</a></strong> in the next coming months to enable the other Fab Labs to do the same.<br>
 
 Stay tune !<br>
 
