@@ -21,7 +21,7 @@ Para aquellos que se lo perdieron, no os preocupéis, la aventura continúa ...<
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/103.jpg" align="middle"> 
 <br>
 
-Yesterday 21st February was the 10th anniversary of <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong>. Thank you all for celebrating with us.<br> Especially, thanks to our friends and collaborators to make this night unique and fabulous. More than 400 people came yesterday to live this amazing experience.<br>
+Yesterday 21st February was the 10th anniversary of <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong>. Thank you all for celebrating with us.<br> Especially, thanks to our friends and collaborators to make this night unique and fabulous. More than 400 people came yesterday to live this amazing experience.<br><br>
 For the ones who missed the occasion, do not worry, the adventure continues ...<br>
 <br>
 #FABLABBCN10YRS
