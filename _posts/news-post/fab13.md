@@ -12,7 +12,7 @@ category: news
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fab131.jpg" align="middle"> 
 <br>
 
-Your are all invited to the <strong>13th edition</strong> of the International Digital Fabrication Conference and Symposium that will be held this year <strong>Santiago de Chile</strong> from <strong>July 31</strong> till <strong>August 6</strong>. <strong>The world's biggest event on digital fabrication and technology.</strong><br>
+Your are all invited to the <strong>13th edition</strong> of the <strong>International Digital Fabrication Conference and Symposium</strong> that will be held this year <strong>Santiago de Chile</strong> from <strong>July 31</strong> till <strong>August 6</strong>. <strong>The world's biggest event on digital fabrication and technology.</strong><br>
 
 <strong>Until March 30 Early Bird for General Public will apply!</strong> <strong><a href="http://fab13.fabevent.org/">Fab13</a></strong>' team invites you all to be part of this event, visiting <strong>Chile</strong>.
 For more information contact <strong><a href="http://fab13.fabevent.org/">Fab13</a></strong> at: <strong>fab13@fablabsantiago.org</strong><br><br>
