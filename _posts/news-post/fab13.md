@@ -3,7 +3,7 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/fab13small.jpg
 teaserlist: blog_loop_latest/fab13small.jpg
-title: Fab13
+title: FAB13
 meta: "Your are all invited to the 13th edition of the International Digital Fabrication Conference and Symposium that will be held this year Santiago de Chile from July 31 till August 6. The world's biggest event on digital fabrication and technology."
 author: Marco Sanalitro
 date: 12/03/2017 
