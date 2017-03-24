@@ -24,18 +24,6 @@ Fabricademy, a new textile academy is will be functioning on the same principles
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/101.jpg" align="middle"> 
 <br>
 
-The course was given by experts in the fashion industry and technology:
-
-Anastasia Pistofidou, Fab Textiles Project Leader
-Cecilia Raspanti,
-Zoe Romano, founder of the wemake.cc makerspace and expert in Circular Fashion
-Fiore Basile
-Varvara Guljajeva & Mar Canet, Artist duo working with Art and Technology
-Amber Slooten, Dutch Fashion Designer
-Aldo Sollazzo, Noumena, World-renowned expert in Computational Design
-Ángel Muñoz & Christian Rizzuti, expert in Interactive Design and Interactive Media Artist
-Liza Stark, Content + Community Lead at littleBits
-Adriana Cabrera, Mentor
 
 DAY 1 – HACKING THE FASHION INDUSTRY-SEAMLESS CLOTHES - The aim of the first day was to define the context in which we are going to work, the reasons behind this forthcoming and explorative textile movement in Fab Labs and other typologies of innovation labs. 
 <br><br>
@@ -63,20 +51,20 @@ DAY 5 – JAM - After a super full week, the JAM day was the perfect moment to b
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/101.jpg" align="middle"> 
 <br>
 
-The course was given by experts in the fashion industry and technology:<br><br>
+The course was given by experts in the new fashion industry and technology:<br><br>
 
-Anastasia Pistofidou, Fab Textiles Project Leader<br>
-Cecilia Raspanti, Textile Lab Amsterdam and TCBL EU project<br>
-Zoe Romano, founder of the wemake.cc makerspace and expert in Circular Fashion<br>
-Fiore Basile, software Developer, creative and <br>
-Varvara Guljajeva & Mar Canet, Artist duo working with Art and Technology<br>
-Amber Slooten, Dutch Fashion Designer<br>
-Aldo Sollazzo, Noumena, World-renowned expert in Computational Design<br>
-Ángel Muñoz & Christian Rizzuti, expert in Interactive Design and Interactive Media Artist<br>
-Liza Stark, Content + Community Lead at LittleBits<br>
-Alex Murray-Leslie, Artist/Researcher and Curator, working in the areas of computational foot-wearables, digital music instrument design, Pop Music & Live-Art. Mentor<br>
-Annemie Maes, Artist and a Researcher, Director of Looking Glass, So-on and Okno, Mentor<br>
-Adriana Cabrera,FabLab Kamp-Lintfort - Scientific Assistant, Mentor<br>
+. Anastasia Pistofidou, Fab Textiles Project Leader;<br>
+. Cecilia Raspanti, Textile Lab Amsterdam and TCBL EU project;<br>
+. Zoe Romano, founder of the wemake.cc makerspace and expert in Circular Fashion;<br>
+. Fiore Basile, Software Developer, Creative and Fab Lab Cascina Manager, Fab Academy Guru;<br>
+. Varvara Guljajeva & Mar Canet, Artist duo working with Art and Technology;<br>
+. Amber Slooten, Dutch Fashion Designer;<br>
+. Aldo Sollazzo, Noumena, World-renowned expert in Computational Design;<br>
+. Ángel Muñoz & Christian Rizzuti, expert in Interactive Design and Interactive Media Artist;<br>
+. Liza Stark, Content + Community Lead at LittleBits;<br>
+. Alex Murray-Leslie, Artist/Researcher and Curator, foot-wearables, Pop Music & Live_Art;<br>
+. Annemie Maes, Artist and a Researcher, Director of Looking Glass, So-on and Okno, Mentor;<br>
+. Adriana Cabrera,FabLab Kamp-Lintfort - Scientific Assistant, Mentor.<br>
 
 For more information: <strong><a href="http://fabtextiles.org/textile-academy-bootcamp-wrapup/">Textile Academy Bootcamp Wrapup/</a></strong>
 
