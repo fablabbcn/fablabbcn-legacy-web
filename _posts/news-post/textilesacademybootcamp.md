@@ -13,7 +13,7 @@ category: news
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/bootcamp/bootcamp1.jpg" align="middle"> 
 <br>
 
-The <strong><a href="http://fablabbcn.org/event/2017/02/10/textileacademy.html">Textiles Academy Bootcamp</a></strong> was an intensive <strong>40h course</strong> that took place at <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> with <strong>45 participants</strong> from 16 countries.<br><br>
+The <strong><a href="http://fablabbcn.org/event/2017/02/10/textileacademy.html">Textiles Academy Bootcamp</a></strong> was an intensive <strong>40h course</strong> that took place at <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> with <strong>45 participants</strong> from 16 countries.<br>
 
 This course was the kick off and a pilot course to test the forthcoming <strong><a href="http://textile-academy.org/">Fabricademy</a></strong>, a <strong>new textile academy</strong> that will run in multiple places all over the world simultaneously, starting mid September 2017. <br>
 
