@@ -4,7 +4,7 @@ type: blog
 teaserlatest: blog_loop_latest/textileacademybootcampsmall.jpg
 teaserlist: blog_loop_latest/textileacademybootcampsmall.jpg
 title: Textile Academy Bootcamp
-meta: "The Textiles Academy Bootcamp was an intensive 40h fashion and technology course that took place at Fab Lab Barcelona with 45 participants from all over the world."
+meta: "The Textiles Academy Bootcamp was an intensive 40h fashion and technology course that took place at Fab Lab Barcelona with 45 participants from 16 countries."
 author: Marco Sanalitro
 date: 23/03/2017 
 category: news
