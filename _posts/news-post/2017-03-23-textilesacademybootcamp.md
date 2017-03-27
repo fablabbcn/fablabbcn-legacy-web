@@ -64,7 +64,7 @@ The course was given by experts in the new fashion industry and technology:<br><
 . <strong><a href="http://thesoftcircuiteer.net/">Liza Stark</a></strong>, Content + Community Lead at <strong><a href="http://littlebits.cc/">LittleBits</a></strong>;<br>
 . <strong><a href="https://en.wikipedia.org/wiki/Chicks_on_Speed">Alex Murray-Leslie</a></strong>, Artist/Researcher and Curator, foot-wearables, Pop Music & Live_Art;<br>
 . <strong><a href="http://annemariemaes.net/">Annemie Maes</a></strong>, Artist and a Researcher, Director of Looking Glass, So-on and Okno, Mentor;<br>
-. <strong><a href="http://archive.fabacademy.org/archives/2016/fablabkamplintfort/students/124/">Adriana Cabrera</a></strong>,<strong><a href="http://fablab.hochschule-rhein-waal.de/index.php/en/">FabLab Kamp-Lintfort</a></strong> - Scientific Assistant, Mentor.<br>
+. <strong><a href="http://archive.fabacademy.org/archives/2016/fablabkamplintfort/students/124/">Adriana Cabrera</a></strong>,<strong><a href="http://fablab.hochschule-rhein-waal.de/index.php/en/">FabLab Kamp-Lintfort</a></strong> - Scientific Assistant, Mentor.<br><br>
 
 For more information: <strong><a href="http://fabtextiles.org/textile-academy-bootcamp-wrapup/">Textile Academy Bootcamp Wrapup/</a></strong>
 
