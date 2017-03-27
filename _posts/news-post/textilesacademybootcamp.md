@@ -33,12 +33,12 @@ DAY 1 – <strong>HACKING THE FASHION INDUSTRY-SEAMLESS CLOTHES</strong> - The a
 
 DAY 2 – <strong>NEW MATERIALS, ALTERNATIVES PROCESSES</strong> - The goal for this second day was to learn how to work with new material and processes aimed at growing your own clothes.<br>
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/bootcamp/bootcamp5.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/bootcamp/bootcamp4.jpg" align="middle"> 
 <br>
 
 DAY 3 – <strong>COMPUTATION FASHION</strong> - The main theme of this day was to investigate how computers and digital technologies can revolutionize the work of fashion designers and common people alike.<br>
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/bootcamp/bootcamp4.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/bootcamp/bootcamp5.jpg" align="middle"> 
 <br>
 
 DAY 4 – <strong>ELECTRONICS – SOFT SENSORS- ATTINY – OPEN HARDWARE</strong> - The focus of the day was to enter the electronics, wearables field and the development of soft sensors using conductive fabric.<br>
