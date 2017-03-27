@@ -33,22 +33,22 @@ DAY 1 – <strong>HACKING THE FASHION INDUSTRY-SEAMLESS CLOTHES</strong> - The a
 
 DAY 2 – <strong>NEW MATERIALS, ALTERNATIVES PROCESSES</strong> - The goal for this second day was to learn how to work with new material and processes aimed at growing your own clothes.<br>
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/bootcamp/bootcamp4.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/bootcamp/bootcamp6.jpg" align="middle"> 
 <br>
 
 DAY 3 – <strong>COMPUTATION FASHION</strong> - The main theme of this day was to investigate how computers and digital technologies can revolutionize the work of fashion designers and common people alike.<br>
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/bootcamp/bootcamp5.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/bootcamp/bootcamp4.jpg" align="middle"> 
 <br>
 
 DAY 4 – <strong>ELECTRONICS – SOFT SENSORS- ATTINY – OPEN HARDWARE</strong> - The focus of the day was to enter the electronics, wearables field and the development of soft sensors using conductive fabric.<br>
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/bootcamp/bootcamp6.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/bootcamp/bootcamp7.jpg" align="middle"> 
 <br>
 
 DAY 5 – <strong>JAM</strong> - After a super full week, the JAM day was the perfect moment to bring together all the lessons learnt during the bootcamp and make stuff! We had an amazing team of mentors helping the participants in the project fabrication, a great thanks goes to them for the support and passion.<br>
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/bootcamp/bootcamp7.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/bootcamp/bootcamp5.jpg" align="middle"> 
 <br>
 
 The course was given by experts in the new fashion industry and technology:<br><br>
