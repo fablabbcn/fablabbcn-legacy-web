@@ -13,11 +13,11 @@ category: news
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/bootcamp/bootcamp1.jpg" align="middle"> 
 <br>
 
-The <strong><a href="http://fablabbcn.org/event/2017/02/10/textileacademy.html">Textiles Academy Bootcamp</a></strong> was an intensive <strong>40h course</strong> that took place at <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> with <strong>45 participants</strong> from 16 countries.<br>
+The <strong><a href="http://fablabbcn.org/event/2017/02/10/textileacademy.html">Textiles Academy Bootcamp</a></strong> was an intensive <strong>40h course</strong> that took place at <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> with <strong>45 participants</strong> from 16 countries.<br><br>
 
-This course was the kick off and a pilot course to test the forthcoming <strong><a href="http://textile-academy.org/">Fabricademy</a></strong>, a <strong>new textile academy</strong> that will run in multiple places all over the world simultaneously, starting mid September 2017. <br>
+This course was the kick off and a pilot course to test the forthcoming <strong><a href="http://textile-academy.org/">Fabricademy</a></strong>, a <strong>new textile academy</strong> that will run in multiple places all over the world simultaneously, starting mid September 2017. <br><br>
 
-For more information: <strong><a href="http://fabtextiles.org/textile-academy-bootcamp-wrapup/">Textile Academy Bootcamp Wrapup/</a></strong><br>
+For more information: <strong><a href="http://fabtextiles.org/textile-academy-bootcamp-wrapup/">Textile Academy Bootcamp Wrapup/</a></strong><br><br>
 
 <strong><a href="http://textile-academy.org/">Fabricademy</a></strong>, a new textile academy is will be functioning on the same principles and infrastructure of the global <strong><a href="https://www.fablabs.io/">Fab Lab network</a></strong>, but focused on <strong>new alternative materials</strong>, <strong>processes</strong> and <strong>techniques related to textiles</strong>, <strong>wearables</strong> and <strong>soft fabrication</strong>. The class will be launched in <strong>September 2017</strong>, with a top level faculty and an extensive program of 13 weeks, followed by two months of individual project development. Many labs around the world have already expressed interest in participating to this program and we will be opening soon students applications. The course is planned to be carried out all over the world, and the bootcamp is already showing that we will be able to involve everybody interested no matter in which continent they are based.<br>
 
