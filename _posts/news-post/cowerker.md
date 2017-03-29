@@ -13,18 +13,18 @@ category: news
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/cowerk/cowerk3.jpg" align="middle"> 
 <br>
 
-What effects are based on the Maker movement?<br>
-What socio-political objectives can be accomplished in this movement?<br>
-What (political) instruments are able to promote the desired effects on the economy and society?<br>
+What are the effects of the Maker movement?<br>
+What socio-political objectives can be accomplished by this movement?<br>
+What (political) instruments are able to promote the desired effects on the economy and on our society?<br>
 
-1st March in Berlin, the <strong><a href="http://www.cowerk.org/veranstaltungen/die-transformative-kraft-der-maker.html">Cower-conference</a></strong> aim was to discuss the <strong>transformative power of the maker movement</strong> with the following questions.
+1st March in Berlin, the <strong><a href="http://www.cowerk.org/veranstaltungen/die-transformative-kraft-der-maker.html">Cowerk-conference</a></strong> aim was to discuss the <strong>transformative power of the maker movement</strong> trough the above questions.
 
-Innovation processes are more open than never before. Various stakeholders support this development in order to use the <strong>creativity</strong> and the <strong>knowledge of many</strong>. Companies make <strong>technological knowledge</strong> available and provide <strong>infrastructure</strong> for product development. On the basis of freely <strong>accessible technologies</strong>, <strong>innovative start-ups</strong> and <strong>well-oriented initiatives</strong> are founded.
+Innovation processes are more open than never before. Various stakeholders support this development in order to use the <strong>creativity</strong> and the <strong>accessible knowledge</strong>. Companies make <strong>technological knowledge</strong> available and provide <strong>infrastructure</strong> for product development. On the basis of freely <strong>accessible technologies</strong>, <strong>innovative start-ups</strong> and <strong>well-oriented initiatives</strong> are founded.
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/cowerk/cowerk2.jpg" align="middle"> 
 <br>
 
-The <strong>decentralization of production</strong> has the potential to transform the <strong>economy</strong> and <strong>society</strong>. The proclamation of <strong>"Fab Cities"</strong> or <strong>"Maker Cities"</strong> shows what this may mean for urban development. At the conference, practical examples will show the potentials in the technical and social innovations of the makers.
+The <strong>decentralization of production</strong> has the potential to transform the <strong>economy</strong> and the <strong>society</strong>. The proclamation of <strong>"Fab Cities"</strong> or <strong>"Maker Cities"</strong> shows what this may mean for urban development. At the conference, practical examples showed the potentials in the technical and social innovations of the makers.
 
 During the conference <strong><a href="https://iaac.net/people/tomas-diez/">Tomas Diez</a></strong>, <strong>Co-fundador <a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> and <strong><a href="http://fab.city/">Fab City</a> Research Lab Director</strong>, talked about <strong><a href="http://fab.city/">Fab City Barcelona</a></strong> and the <strong>Mass Distribution of Everything</strong>.<br>
 
