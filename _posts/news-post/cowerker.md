@@ -1,8 +1,8 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/cowerksmall.jpg
-teaserlist: blog_loop_latest/cowerksmall.jpg
+teaserlatest: blog_loop_latest/cowerk/cowerksmall.jpg
+teaserlist: blog_loop_latest/cowerk/cowerksmall.jpg
 title: Cowerk, the Transformative Power of the Makers
 meta: "1st March Tomas Diez, Co-fundador Fab Lab Barcelona and Fab City Research Lab Director, participated at the conference: The Transformative Power of the Makers. How can be Revolutionized the production of goods? He talked about Fab City and the Mass Distribution."
 author: Marco Sanalitro
