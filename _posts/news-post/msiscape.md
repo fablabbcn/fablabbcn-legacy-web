@@ -3,7 +3,7 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/cowerk/cowerksmall.jpg
 teaserlist: blog_loop_latest/cowerk/cowerksmall.jpg
-title: Cowerk, the Transformative Power of the Makers
+title: iScape 
 meta: "1st March Tomas Diez, Co-founder Fab Lab Barcelona and Fab City Research Lab Director, participated at the conference: The Transformative Power of the Makers. How can be Revolutionized the production of goods? He talked about Fab City and the Mass Distribution."
 author: Marco Sanalitro
 date: 29/03/2017 
@@ -12,6 +12,14 @@ category: news
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/cowerk/cowerk3.jpg" align="middle"> 
 <br>
+
+On the iScape General Assembly table there are lots coffee, lots computers and lots neurons working.
+It's time to develop the strategy of Living Lab in 7 city!
+
+28th and 29th March in Valldaura Lab a group of Expert from Future Cities Catapult, Finish Meteorological Institute, Join Research Center, Pureti, T6, Trinity College Dublin, Technical University Dormunt, University College Dublin, Unversity of Hasselt, Universitiy of Bologna, Universitiy of Surrey and European Network of Living Labs leaded by IAAC | Fab Lab Barcelona Smart Citizen team, gathered to collecting ideas
+
+
+
 
 What are the effects of the Maker movement?<br>
 What socio-political objectives can be accomplished by this movement?<br>
