@@ -3,23 +3,21 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/cowerk/cowerksmall.jpg
 teaserlist: blog_loop_latest/cowerk/cowerksmall.jpg
-title: iScape 
+title: FabKids, escuelas infantiles para soñadores tecnológicos 
 meta: "1st March Tomas Diez, Co-founder Fab Lab Barcelona and Fab City Research Lab Director, participated at the conference: The Transformative Power of the Makers. How can be Revolutionized the production of goods? He talked about Fab City and the Mass Distribution."
 author: Marco Sanalitro
-date: 29/03/2017 
+date: 30/03/2017 
 category: news
 ---
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/cowerk/cowerk3.jpg" align="middle"> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wHsNa2owS6A" frameborder="0" allowfullscreen></iframe>
 <br>
 
-On the iScape General Assembly table there are lots coffee, lots computers and lots neurons working.
-It's time to develop the strategy of Living Lab in 7 city!
+"No es importante que un nino aprenda como se usa perfectamente una herraminta, si no que puede crear con ella...
+hay que intentar ver un poquito más allá de lo que hay detrás de las tecnología" Santiago 
 
-28th and 29th March in Valldaura Lab a group of Expert from Future Cities Catapult, Finish Meteorological Institute, Join Research Center, Pureti, T6, Trinity College Dublin, Technical University Dormunt, University College Dublin, Unversity of Hasselt, Universitiy of Bologna, Universitiy of Surrey and European Network of Living Labs leaded by IAAC | Fab Lab Barcelona Smart Citizen team, gathered to collecting ideas
-
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wHsNa2owS6A" frameborder="0" allowfullscreen></iframe>
+<br>
 
 What are the effects of the Maker movement?<br>
 What socio-political objectives can be accomplished by this movement?<br>
