@@ -13,11 +13,10 @@ category: news
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wHsNa2owS6A" frameborder="0" allowfullscreen></iframe>
 <br>
 
-"No es importante que un nino aprenda como se usa perfectamente una herraminta, si no que puede crear con ella...
-hay que intentar ver un poquito más allá de lo que hay detrás de las tecnología" Santiago 
+"No es importante que un niño aprenda como se usa perfectamente una herramienta, si no que puede crear con ella, come te puede ayudar y cómo puede combinarlas con los otros procesos para crear ... hay que intentar ver un poquito más allá de lo que hay detrás de las tecnología" <strong><a href="https://fablabbcn.org/about_us.html">Santiago Fuentemilla</a></strong>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wHsNa2owS6A" frameborder="0" allowfullscreen></iframe>
-<br>
+<strong><a href="https://fablabbcn.org/about_us.html">Santiago Fuentemilla</a></strong>, Fab Academy Barcelona Instructor y Fab Education Coordinator, fue entrevistado por elFuturoEsOne (Vodafone One 
+
 
 What are the effects of the Maker movement?<br>
 What socio-political objectives can be accomplished by this movement?<br>
