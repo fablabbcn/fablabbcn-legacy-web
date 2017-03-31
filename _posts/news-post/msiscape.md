@@ -10,7 +10,7 @@ date: 31/03/2017
 category: news
 ---
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/msiscape/msiscape2.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/msiscape/msiscape1.jpg" align="middle"> 
 <br>
 
 On the iScape General Assembly table there were lots coffee, lots computers and lots neurons working.<br>
@@ -21,12 +21,12 @@ It's time to develop the strategy of Living Lab in 7 city!<br>
 
 28th and 29th March in Valldaura Lab a group of Expert from Future Cities Catapult, Finish Meteorological Institute, Join Research Center, Pureti, T6, Trinity College Dublin, Technical University Dormunt, University College Dublin, Unversity of Hasselt, Universitiy of Bologna, Universitiy of Surrey and European Network of Living Labs, leaded by IAAC | Fab Lab Barcelona Smart Citizen team, gathered to collecting ideas.<br>
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/msiscape/msiscape2.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/msiscape/msiscape3.jpg" align="middle"> 
 <br>
 
 The iScape project aims to integrate and advance the control of air quality and carbon emissions in European cities in the context of climate change through the development of sustainable and passive air pollution remediation strategies, policy interventions and behavioural change initiatives<br>
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/msiscape/msiscape2.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/msiscape/msiscape4.jpg" align="middle"> 
 <br>
 
 
