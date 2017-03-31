@@ -4,9 +4,9 @@ type: blog
 teaserlatest: blog_loop_latest/cowerk/cowerksmall.jpg
 teaserlist: blog_loop_latest/cowerk/cowerksmall.jpg
 title: iScape 
-meta: "1st March Tomas Diez, Co-founder Fab Lab Barcelona and Fab City Research Lab Director, participated at the conference: The Transformative Power of the Makers. How can be Revolutionized the production of goods? He talked about Fab City and the Mass Distribution."
+meta: "28th and 29th March in Valldaura Lab a group of Expert"
 author: Marco Sanalitro
-date: 29/03/2017 
+date: 31/03/2017 
 category: news
 ---
 
@@ -16,8 +16,18 @@ category: news
 On the iScape General Assembly table there are lots coffee, lots computers and lots neurons working.
 It's time to develop the strategy of Living Lab in 7 city!
 
-28th and 29th March in Valldaura Lab a group of Expert from Future Cities Catapult, Finish Meteorological Institute, Join Research Center, Pureti, T6, Trinity College Dublin, Technical University Dormunt, University College Dublin, Unversity of Hasselt, Universitiy of Bologna, Universitiy of Surrey and European Network of Living Labs leaded by IAAC | Fab Lab Barcelona Smart Citizen team, gathered to collecting ideas
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/cowerk/cowerk3.jpg" align="middle"> 
+<br>
 
+28th and 29th March in Valldaura Lab a group of Expert from Future Cities Catapult, Finish Meteorological Institute, Join Research Center, Pureti, T6, Trinity College Dublin, Technical University Dormunt, University College Dublin, Unversity of Hasselt, Universitiy of Bologna, Universitiy of Surrey and European Network of Living Labs, leaded by IAAC | Fab Lab Barcelona Smart Citizen team, gathered to collecting ideas.
+
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/cowerk/cowerk3.jpg" align="middle"> 
+<br>
+
+The iScape project aims to integrate and advance the control of air quality and carbon emissions in European cities in the context of climate change through the development of sustainable and passive air pollution remediation strategies, policy interventions and behavioural change initiatives
+
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/cowerk/cowerk3.jpg" align="middle"> 
+<br>
 
 
 
