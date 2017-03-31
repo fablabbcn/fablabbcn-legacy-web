@@ -1,7 +1,7 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/fabkids/fabkids1small.jpg
+teaserlatest: blog_loop_latest/fabkids/fabkidssmall.jpg
 teaserlist: blog_loop_latest/fabkids/fabkidssmall.jpg
 title: FabKids, escuelas infantiles para soñadores tecnológicos 
 meta: "Hugo, un niño de 7 años, ha experimentado unos días especial en el Fab Lab Barcelona: con el ayudo de Santiago Fuentemilla, Fab Academy Barcelona Instructor y Fab Education Coordinator, ha realizado el sueño de convertir un simple dibujo en un objeto real con el utilizó de la fabricación digital. "
