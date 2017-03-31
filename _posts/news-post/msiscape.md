@@ -10,47 +10,24 @@ date: 31/03/2017
 category: news
 ---
 
-
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/msiscape/msiscape2.jpg" align="middle"> 
-<br>
-
-28th and 29th March in Valldaura Lab a group of Expert from Future Cities Catapult, Finish Meteorological Institute, Join Research Center, Pureti, T6, Trinity College Dublin, Technical University Dormunt, University College Dublin, Unversity of Hasselt, Universitiy of Bologna, Universitiy of Surrey and European Network of Living Labs, leaded by IAAC | Fab Lab Barcelona Smart Citizen team, gathered to collecting ideas.<br>
-
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/msiscape/msiscape1.jpg" align="middle"> 
 <br>
 
 On the iScape General Assembly table there were lots coffee, lots computers and lots neurons working to develop the strategy of new 7 Living Lab in 7 european city and and much more.
+
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/msiscape/msiscape2.jpg" align="middle"> 
 <br>
+
+28th and 29th March in <strong><a href="https://fablabbcn.org/index.html">Valldaura Lab</a></strong> a group of Expert from <strong><a href="https://fablabbcn.org/index.html">Future Cities Catapult</a></strong>, <strong><a href="https://fablabbcn.org/index.html">Finish Meteorological Institute</a></strong>, <strong><a href="https://fablabbcn.org/index.html">Join Research Center</a></strong>, <strong><a href="https://fablabbcn.org/index.html">Pureti</a></strong>, <strong><a href="https://fablabbcn.org/index.html">T6</a></strong>, <strong><a href="https://fablabbcn.org/index.html">Trinity College Dublin</a></strong>, <strong><a href="https://fablabbcn.org/index.html">Technical University Dormunt</a></strong>, <strong><a href="https://fablabbcn.org/index.html">University College Dublin</a></strong>, <strong><a href="https://fablabbcn.org/index.html">Unversity of Hasselt</a></strong>, <strong><a href="https://fablabbcn.org/index.html">Universitiy of Bologna</a></strong>,<strong><a href="https://fablabbcn.org/index.html"> Universitiy of Surrey</a></strong> and <strong><a href="https://fablabbcn.org/index.html">European Network of Living Labs</a></strong>, leaded by IAAC | <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a> <a href="https://fablabbcn.org/index.html">Smart Citizen team</a></strong>, gathered to collecting ideas.<br>
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/msiscape/msiscape3.jpg" align="middle"> 
 <br>
 
-The iScape project aims to integrate and advance the control of air quality and carbon emissions in European cities in the context of climate change through the development of sustainable and passive air pollution remediation strategies, policy interventions and behavioural change initiatives<br>
+The iScape project, research project funded by the EU H2020 framework, aims to integrate and advance the control of air quality and carbon emissions in European cities in the context of climate change through the development of sustainable and passive air pollution remediation strategies, policy interventions and behavioural change initiatives<br>
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/msiscape/msiscape4.jpg" align="middle"> 
 <br>
 
-
-
-What are the effects of the Maker movement?<br>
-What socio-political objectives can be accomplished by this movement?<br>
-What (political) instruments are able to promote the desired effects on the economy and on our society?<br><br>
-
-1st March in Berlin, the <strong><a href="http://www.cowerk.org/veranstaltungen/die-transformative-kraft-der-maker.html">Cowerk-conference</a></strong> aim was to discuss the <strong>transformative power of the maker movement</strong> trough the above questions.<br><br>
-
-Innovation processes are more open than never before. Various stakeholders support this development in order to use the <strong>creativity</strong> and the <strong>accessible knowledge</strong>. Companies make <strong>technological knowledge</strong> available and provide <strong>infrastructure</strong> for product development. On the basis of freely <strong>accessible technologies</strong>, <strong>innovative start-ups</strong> and <strong>well-oriented initiatives</strong> are founded.<br>
-
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/cowerk/cowerk2.jpg" align="middle"> 
-<br>
-
-The <strong>decentralization of production</strong> has the potential to transform the <strong>economy</strong> and the <strong>society</strong>. The proclamation of <strong>"Fab Cities"</strong> or <strong>"Maker Cities"</strong> shows what this may mean for urban development. At the conference, practical examples showed the potentials in the technical and social innovations of the makers.<br><br>
-
-During the conference <strong><a href="https://iaac.net/people/tomas-diez/">Tomas Diez</a></strong>, <strong>Co-founder <a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> and <strong><a href="http://fab.city/">Fab City</a> Research Lab Director</strong>, talked about <strong><a href="http://fab.city/">Fab City Barcelona</a></strong> and the <strong>Mass Distribution of Everything</strong>.<br>
-
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/cowerk/cowerk1.jpg" align="middle"> 
-<br>
-
-for more information: <strong><a href="http://www.cowerk.org/veranstaltungen/die-transformative-kraft-der-maker.html">Cowerk</a></strong>
 
 
 
