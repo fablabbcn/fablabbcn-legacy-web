@@ -28,7 +28,7 @@ Este es el proposito del <strong><a href="https://www.facebook.com/fabkidsbcn/?f
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids/fabkids2.jpg" align="middle"> 
 <br>
 
-aquí un ejemplo: <strong><a href="https://fablabbcn.org/event/2017/02/02/fabkids.html">FabKids</a></strong>
+aquí otro ejemplo: <strong><a href="https://fablabbcn.org/event/2017/02/02/fabkids.html">FabKids</a></strong>
 
 
 
