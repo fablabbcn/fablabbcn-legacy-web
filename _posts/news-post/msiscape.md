@@ -4,22 +4,23 @@ type: blog
 teaserlatest: blog_loop_latest/msiscape/msiscapesmall.jpg
 teaserlist: blog_loop_latest/msiscape/msiscapesmall.jpg
 title: iScape General Assembly
-meta: "28th and 29th March in Valldaura Lab a group of Expert from everypart of Europe leaded by IAAC | Fab Lab Barcelona Smart Citizen team, gathered to collecting ideas for develop the strategy of new iScape project."
+meta: "28th and 29th March in Valldaura Lab a group of Expert from every part of europe leaded by IAAC | Fab Lab Barcelona Smart Citizen team, gathered to collecting ideas for develop the strategy of new iScape project."
 author: Marco Sanalitro
 date: 31/03/2017 
 category: news
 ---
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/msiscape/msiscape1.jpg" align="middle"> 
-<br>
-
-On the iScape General Assembly table there were lots coffee, lots computers and lots neurons working.<br>
-It's time to develop the strategy of Living Lab in 7 city!<br>
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/msiscape/msiscape2.jpg" align="middle"> 
 <br>
 
 28th and 29th March in Valldaura Lab a group of Expert from Future Cities Catapult, Finish Meteorological Institute, Join Research Center, Pureti, T6, Trinity College Dublin, Technical University Dormunt, University College Dublin, Unversity of Hasselt, Universitiy of Bologna, Universitiy of Surrey and European Network of Living Labs, leaded by IAAC | Fab Lab Barcelona Smart Citizen team, gathered to collecting ideas.<br>
+
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/msiscape/msiscape1.jpg" align="middle"> 
+<br>
+
+On the iScape General Assembly table there were lots coffee, lots computers and lots neurons working to develop the strategy of new 7 Living Lab in 7 european city and and much more.
+<br>
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/msiscape/msiscape3.jpg" align="middle"> 
 <br>
