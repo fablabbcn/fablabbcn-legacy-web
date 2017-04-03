@@ -4,7 +4,7 @@ type: blog
 teaserlatest: blog_loop_latest/msiscape/msiscapesmall.jpg
 teaserlist: blog_loop_latest/msiscape/msiscapesmall.jpg
 title: iScape General Assembly
-meta: "28th and 29th March in Valldaura Lab a group of Expert from every part of europe leaded by IAAC | Fab Lab Barcelona Smart Citizen team, gathered to collecting ideas for develop the strategy of new iScape project."
+meta: "28th and 29th March in Valldaura Lab a group of Expert from every part of Europe leaded by IAAC | Fab Lab Barcelona Smart Citizen team, gathered to collecting ideas for develop the strategy of new iScape project."
 author: Marco Sanalitro
 date: 31/03/2017 
 category: news
