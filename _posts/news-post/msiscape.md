@@ -13,7 +13,7 @@ category: news
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/msiscape/msiscape1.jpg" align="middle"> 
 <br>
 
-<strong><a href="https://www.iscapeproject.eu/">iScape</a></strong> fully embraces the Living Lab approach by bringing together a transdisciplinary team of scientists, developers, end users (the Cities and citizen initiatives) and other stakeholders around the challenge of co-creating real-time interventions designed ad-hoc for each test case and then deployed and tested in our seven real-life Cities.<br>
+The <strong><a href="https://www.iscapeproject.eu/">iScape project</a></strong>, research project funded by the EU H2020 framework, aims to integrate and advance the control of air quality and carbon emissions in European cities in the context of climate change through the development of sustainable and passive air pollution remediation strategies, policy interventions and behavioural change initiatives<br>
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/msiscape/msiscape2.jpg" align="middle"> 
 <br>
@@ -23,7 +23,7 @@ category: news
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/msiscape/msiscape3.jpg" align="middle"> 
 <br>
 
-The <strong><a href="https://www.iscapeproject.eu/">iScape project</a></strong>, research project funded by the EU H2020 framework, aims to integrate and advance the control of air quality and carbon emissions in European cities in the context of climate change through the development of sustainable and passive air pollution remediation strategies, policy interventions and behavioural change initiatives<br>
+<strong><a href="https://www.iscapeproject.eu/">iScape</a></strong> fully embraces the Living Lab approach by bringing together a transdisciplinary team of scientists, developers, end users (the Cities and citizen initiatives) and other stakeholders around the challenge of co-creating real-time interventions designed ad-hoc for each test case and then deployed and tested in our seven real-life Cities.<br>
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/msiscape/msiscape4.jpg" align="middle"> 
 <br>
