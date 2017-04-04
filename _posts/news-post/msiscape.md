@@ -13,8 +13,6 @@ category: news
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/msiscape/msiscape1.jpg" align="middle"> 
 <br>
 
-On the <strong><a href="https://www.iscapeproject.eu/">iScape</a></strong> General Assembly table there were lots coffee, lots computers and lots neurons working to develop the strategy of new 7 Living Lab in 7 European City and much more.<br>
-
 <strong><a href="https://www.iscapeproject.eu/">iScape</a></strong> fully embraces the Living Lab approach by bringing together a transdisciplinary team of scientists, developers, end users (the Cities and citizen initiatives) and other stakeholders around the challenge of co-creating real-time interventions designed ad-hoc for each test case and then deployed and tested in our seven real-life Cities.<br>
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/msiscape/msiscape2.jpg" align="middle"> 
