@@ -16,13 +16,13 @@ category: video
 
 <br>
 
-[Video](http://fablabbcn.org/video/2015/09/10/Latest-video-on-the-history-of-technology-and-architecture.html)  
+[Link to video](http://fablabbcn.org/video/2015/09/10/Latest-video-on-the-history-of-technology-and-architecture.html)  
 
 Beyond Building Barcelona 2015 was the largest reunion of the construction sector and associated industries in Spain, Southern Europe, Northern Africa, and Latin America. The Pavilion of Innovation 2015 in Beyond Building Barcelona, curated by IaaC | Fab Lab Barcelona, presented new ideas and construction paradigms emerging from international excellence in research and pilot projects, forming the basis of future buildings and cities. The video was projected in 4 large screen throughout the whole pavilion.  
 
 <br>
 
-####FAB CITY REFERENCES
+#### FAB CITY REFERENCES
 
 * - A New Productive Ecosystem (SPA)
 * - Global transitions, Fab Labs and Fab Cities
@@ -36,7 +36,7 @@ Beyond Building Barcelona 2015 was the largest reunion of the construction secto
 
 <br>
 
-####RAW TEXT
+#### RAW TEXT
 
 Check the  raw text of the script:
 
