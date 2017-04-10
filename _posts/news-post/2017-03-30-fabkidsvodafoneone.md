@@ -28,7 +28,8 @@ Este es el proposito del <strong><a href="https://www.facebook.com/fabkidsbcn/?f
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids/fabkids2.jpg" align="middle"> 
 <br>
 
-aquí otro ejemplo: <strong><a href="https://fablabbcn.org/event/2017/02/02/fabkids.html">FabKids</a></strong><br>
+Para más Información: <strong><a href="http://kids.fablabbcn.org/">FabKids</a></strong><br>
+Pre-Inscripción a los Programas Fab Kids: <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSfkKPqHDtUESpk3iPvJwu8TmU3Iaj35yf5iiKWYW5uzIBPrJQ/viewform">Formulario</a></strong><br>
 
 
 
