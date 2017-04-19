@@ -1,0 +1,156 @@
+---
+layout: default
+---
+
+<header>
+	
+	{% include nav.html %} 	
+	
+</header><!-- site-header -->
+
+<!-- ======== Hero ==================================================================== Hero ============-->
+
+    <section id="header-pages-blog">
+	    <div class="container" id="header-pages-blog-title">
+            
+            <a href="blog.html"> <h2 class="page-title">Blog</h2>  </a>                    
+							
+	    </div> <!-- container -->								        	        	                  	      	                     	            	            		                  			   		   	  		                                                                                          
+    </section> <!-- hero -->
+
+<!-- ======== pages-social-icons ===========-->
+
+
+    {% include social.html %} 
+
+<!-- =============================================================================================================-->
+    
+<div class="container" id="separator-pages-top"></div> 
+
+<!-- ======== Blog Home ========================================================= Navbar ============== -->
+
+<section id="blog-home">
+	
+	<div class="container">
+	
+	        <div class="row">
+	
+<!-------------------- Blog Entries Column -------------------------->
+	        
+	        
+            
+	            <div class="col-md-8">
+	{% for post in site.posts limit: 20 %}
+            {% if post.type == 'blog' %}
+<!------------------------ Blog Post --------->
+	                
+	                <h3><a href="{{ post.url }}">{{post.title}}</a></h3>
+	                
+	                <p class="lead">by&nbsp;<u>{{post.author}}</u>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Posted on <u>{{post.date | date:"%B %d, %Y" }}</u></p>
+	                    <br>	                
+	                <img class="img-responsive" src="{{site.baseurl}}/img/blog/{{post.teaserlist}}" alt="">
+                        <br>                    
+	                <p>{{post.meta}}</p>
+	                    <br>
+	                <a href="{{ post.url }}" ><strong>read more</strong> &rarr;</a>    	    
+	                    <br><br>
+	                    <hr>
+	                    <br>
+	            {% endif %}
+	        {% endfor %}        
+	            
+	            
+	      
+	                
+<!-------------------- Hr -------------------------->	
+                
+	                <div id="separator"></div>
+	                
+<!-------------------- Hr -------------------------->
+	
+	                <!-- Pager -->
+	                <ul class="pager">
+	                    <li class="previous">
+	                        <a href="#">&larr; Older</a>
+	                    </li>
+	                    <li class="next">
+	                        <a href="#">Newer &rarr;</a>
+	                    </li>
+	                </ul>
+	
+	            </div>
+	
+<!--------------------- Blog Sidebar Widgets Column -------------------->
+
+	            <div class="col-md-4">
+	
+<!----------------- Blog Search Well -->
+	                <br>
+	                <div class="well">
+	                    
+	                    <h4>Search</h4>
+	                    
+	                    <div class="input-group">
+	                        <input type="text" class="form-control">
+	                        <span class="input-group-btn">
+	                            <button class="btn btn-default" type="button">
+	                                <span class="glyphicon glyphicon-search"></span>
+	                            </button>
+	                        </span>
+	                        </input>
+	                    </div><!-- input-group -->
+	                
+	                </div> <!-- well -->
+	
+<!----------------- Blog Categories Well --> 
+	                
+	                <div class="well">
+	                
+	                    <h4>Categories</h4>
+	                    <div class="row">
+		                    {% for c in site.categories %}
+	                        <div class="col-lg-6">
+	                            <ul class="list-unstyled">
+	                                <li><a href="/tags/{{c | first}}/">{{ c | first }}</a>
+	                                </li>
+	                            </ul>
+	                        </div>
+	                        {% endfor %}
+	                    </div> <!-- row --> 
+	                        
+	                </div> <!-- well -->
+	
+<!----------------- Blog Social Well -->
+	                
+	                <div class="well">
+		                
+	                    <h4>Share this post:</h4>
+	                    <br>
+	                     
+	                    <span class='st_facebook_large' displayText='Facebook'></span>
+	                    
+<span class='st_twitter_large' displayText='Tweet'></span>
+
+<span class='st_linkedin_large' displayText='LinkedIn'></span>
+
+<span class='st_googleplus_large' displayText='Google +'></span>
+
+<span class='st_pinterest_large' displayText='Pinterest'></span>
+
+<span class='st_email_large' displayText='Email'></span>
+
+	                </div> <!-- well -->
+	
+	            </div> <!-- col -->
+	        </div> <!-- row -->
+	</div> <!-- container --> 
+</section> 
+	        
+<!-- =============================================================================================================-->
+    
+<div class="container" id="separator"></div>    
+
+<!-- =============================================================================================================-->
+
+
+{% include footer.html %} 
