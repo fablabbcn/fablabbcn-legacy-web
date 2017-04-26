@@ -46,8 +46,6 @@ Pronto tendremos otros talleres.<br><br>
 
 <strong><a href="http://lifeline-learning.com/join-us-for-summer-camp/">Carbon Free Thinkers Summer Camp</a></strong><br><br>
 
-Para más Información: <strong><a href="http://kids.fablabbcn.org/">FabKids</a></strong><br>
-Pre-Inscripción a los Programas Fab Kids: <strong><a href="http://apply.fablabbcn.org/view.php?id=12407">Formulario</a></strong><br>
 
 
 
