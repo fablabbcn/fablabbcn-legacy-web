@@ -10,7 +10,7 @@ date: 26/04/2017
 category: event
 ---
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids/fabkids3.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids/fabkids7.jpg" align="middle"> 
 <br>
 
 <strong><a href="http://kids.fablabbcn.org/">Fab Kids</a></strong> es un laboratorio de creación que favorece el desarrollo de la inteligencia, la creatividad y la imaginación de niños y jóvenes. Es un lugar donde se estimula el pensamiento y se produce innovación, un espacio donde se realizan actividades educativas y lúdicas dirigidas a niñas y niños de menos de 16 años, enfocadas al diseño y a la fabricación digital.<br>
@@ -35,7 +35,7 @@ category: event
 
 Pronto tendremos otros talleres.<br><br>
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids/fabkids7.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids/fabkids5.jpg" align="middle"> 
 <br>
 
 <strong><a href="http://kids.fablabbcn.org/programa-intensivo-casal/">PROGRAMA INTENSIVO – CASAL</a></strong><br><br>
