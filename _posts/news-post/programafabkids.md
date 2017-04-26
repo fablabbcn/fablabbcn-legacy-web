@@ -3,10 +3,10 @@ layout: blog_post
 type: event
 teaserlatest: blog_loop_latest/fabkids/fabkidssmall.jpg
 teaserlist: blog_loop_latest/fabkids/fabkidssmall.jpg
-title: FabKids, escuelas infantiles para soñadores tecnológicos 
+title: FabKids Barcelona, los nuevos talleres
 meta: "Hugo, un niño de 7 años, ha experimentado unos días especial en el Fab Lab Barcelona: con el ayudo de Santiago Fuentemilla, Fab Academy Barcelona Instructor y Fab Education Coordinator, ha realizado el sueño de convertir un simple dibujo en un objeto real con el utilizó de la fabricación digital. "
 author: Marco Sanalitro
-date: 30/03/2017 
+date: 26/04/2017 
 category: event
 ---
 
@@ -17,7 +17,7 @@ category: event
 
 <strong><a href="https://fablabbcn.org/about_us.html">Santiago Fuentemilla</a></strong>, <strong><a href="https://fablabbcn.org/about_us.html">Fab Academy Barcelona Instructor</a></strong> y Fab Education Coordinator, fue entrevistado por <strong><a href="https://www.youtube.com/channel/UC_PZITA0uBZRC5E1fCrBVXQ">"elFuturoEsOne" (Vodafone One)</a></strong>.<br>
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids/fabkids1.jpg" align="middle"> 
+<a href="http://fablabbcn.org/"><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids/fabkids1.jpg" align="middle"> </a>
 <br>
 
 Hugo, un niño de 7 años, ha experimentado unos días especial en el <strong><a href="http://fablabbcn.org/">Fab Lab Barcelona</a></strong>: con el ayudo de <strong><a href="https://fablabbcn.org/about_us.html">Santiago Fuentemilla</a></strong> ha realizado el sueño de convertir un simple dibujo en un objeto real con el utilizó de la <strong>fabricación digital</strong>.
