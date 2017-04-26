@@ -17,7 +17,7 @@ category: event
 
 <strong><a href="https://fablabbcn.org/about_us.html">Santiago Fuentemilla</a></strong>, <strong><a href="https://fablabbcn.org/about_us.html">Fab Academy Barcelona Instructor</a></strong> y Fab Education Coordinator, fue entrevistado por <strong><a href="https://www.youtube.com/channel/UC_PZITA0uBZRC5E1fCrBVXQ">"elFuturoEsOne" (Vodafone One)</a></strong>.<br>
 
-<a href="http://fablabbcn.org/"><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids/fabkids1.jpg" align="middle"> </a>
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids/fabkids1.jpg" align="middle"> 
 <br>
 
 Hugo, un niño de 7 años, ha experimentado unos días especial en el <strong><a href="http://fablabbcn.org/">Fab Lab Barcelona</a></strong>: con el ayudo de <strong><a href="https://fablabbcn.org/about_us.html">Santiago Fuentemilla</a></strong> ha realizado el sueño de convertir un simple dibujo en un objeto real con el utilizó de la <strong>fabricación digital</strong>.
