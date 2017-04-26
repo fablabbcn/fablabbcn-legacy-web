@@ -13,6 +13,31 @@ category: event
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wHsNa2owS6A" frameborder="0" allowfullscreen></iframe>
 <br>
 
+Fab Kids es un laboratorio de creación que favorece el desarrollo de la inteligencia, la creatividad y la imaginación de niños y jóvenes. Es un lugar donde se estimula el pensamiento y se produce innovación, un espacio donde se realizan actividades educativas y lúdicas dirigidas a niñas y niños de menos de 16 años, enfocadas al diseño y a la fabricación digital.<br>
+
+Fab Kids usa la tecnología, la fabricación digital, la creatividad y la co-creación, entre otras, para insertarlas como eje transversal en el currículo de la educación infantil, primaria y secundaria. Impresión 3D, fresado CNC, corte láser, electrónica, robótica y programación, son algunas de las habilidades que están integradas en cada uno de los cursos, talleres y programas que desarrollamos.<br>
+
+<strong><a href="http://kids.fablabbcn.org/talleres/">TALLERES</a></strong><br>
+<br>
+Fab Kids ofrece talleres cortos para que los participantes tengan un primer contacto con el mundo Fab Lab, descubran el entorno tecnológico inmediato, se familiaricen con la programación y se acostumbren a encontrar soluciones basadas en problemas reales.<br>
+<br>
+<strong>Próximos eventos:</strong><br><br>
+
+<strong><a href="http://apply.fablabbcn.org/view.php?id=12407">Spring Program</a></strong><br><br>
+
+<strong><a href="http://apply.fablabbcn.org/view.php?id=11904">Design Thinking & Making</a></strong><br><br>
+
+Pronto tendremos otros talleres.<br><br>
+
+<strong><a href="http://kids.fablabbcn.org/programa-intensivo-casal/">PROGRAMA INTENSIVO – CASAL</a></strong><br><br>
+
+Fab Kids ofrecemos una experiencia de impacto, con sesiones intensivas para vivir una experiencia maker inmersiva. Estas sesiones ofrecen a los participantes no solo las nuevas herramientas tecnológicas sino también la experiencia de trabajar en equipo,  organizar su trabajo, organizar su tiempo y necesidades para acometer las metas planteadas.
+
+<strong>Próximos eventos:</strong><br><br>
+
+<strong><a href="http://lifeline-learning.com/join-us-for-summer-camp/">Carbon Free Thinkers Summer Camp</a></strong><br><br>
+
+
 "No es importante que un niño aprenda como se usa perfectamente una herramienta, si no que puede crear con ella, come te puede ayudar y cómo puede combinarlas con los otros procesos para crear ... hay que intentar ver un poquito más allá de lo que hay detrás de las tecnología" <strong><a href="https://fablabbcn.org/about_us.html">Santiago Fuentemilla</a></strong><br><br>
 
 <strong><a href="https://fablabbcn.org/about_us.html">Santiago Fuentemilla</a></strong>, <strong><a href="https://fablabbcn.org/about_us.html">Fab Academy Barcelona Instructor</a></strong> y Fab Education Coordinator, fue entrevistado por <strong><a href="https://www.youtube.com/channel/UC_PZITA0uBZRC5E1fCrBVXQ">"elFuturoEsOne" (Vodafone One)</a></strong>.<br>
