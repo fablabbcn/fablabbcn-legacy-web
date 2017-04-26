@@ -3,7 +3,7 @@ layout: blog_post
 type: event
 teaserlatest: blog_loop_latest/fabkids/fabkids2small.jpg
 teaserlist: blog_loop_latest/fabkids/fabkids2small.jpg
-title: FabKids BCN, Design your Learning Experience
+title: FabKids BCN
 meta: "Fab Kids BCN ofrece unos nuevos talleres de creación que favorece el desarrollo de la inteligencia, la creatividad y la imaginación de niños y jóvenes. Impresión 3D, fresado CNC, corte láser, electrónica, robótica y programación, son algunas de las habilidades que están integradas en cada uno de los cursos, talleres y programas que desarrollamos."
 author: Marco Sanalitro
 date: 26/04/2017 
