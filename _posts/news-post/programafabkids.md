@@ -10,12 +10,15 @@ date: 26/04/2017
 category: event
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wHsNa2owS6A" frameborder="0" allowfullscreen></iframe>
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids/fabkids1.jpg" align="middle"> 
 <br>
 
 Fab Kids es un laboratorio de creación que favorece el desarrollo de la inteligencia, la creatividad y la imaginación de niños y jóvenes. Es un lugar donde se estimula el pensamiento y se produce innovación, un espacio donde se realizan actividades educativas y lúdicas dirigidas a niñas y niños de menos de 16 años, enfocadas al diseño y a la fabricación digital.<br>
 
 Fab Kids usa la tecnología, la fabricación digital, la creatividad y la co-creación, entre otras, para insertarlas como eje transversal en el currículo de la educación infantil, primaria y secundaria. Impresión 3D, fresado CNC, corte láser, electrónica, robótica y programación, son algunas de las habilidades que están integradas en cada uno de los cursos, talleres y programas que desarrollamos.<br>
+
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids/fabkids1.jpg" align="middle"> 
+<br>
 
 <strong><a href="http://kids.fablabbcn.org/talleres/">TALLERES</a></strong><br>
 <br>
@@ -29,32 +32,19 @@ Fab Kids ofrece talleres cortos para que los participantes tengan un primer cont
 
 Pronto tendremos otros talleres.<br><br>
 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids/fabkids1.jpg" align="middle"> 
+<br>
+
 <strong><a href="http://kids.fablabbcn.org/programa-intensivo-casal/">PROGRAMA INTENSIVO – CASAL</a></strong><br><br>
 
-Fab Kids ofrecemos una experiencia de impacto, con sesiones intensivas para vivir una experiencia maker inmersiva. Estas sesiones ofrecen a los participantes no solo las nuevas herramientas tecnológicas sino también la experiencia de trabajar en equipo,  organizar su trabajo, organizar su tiempo y necesidades para acometer las metas planteadas.
+Fab Kids ofrece una experiencia de impacto, con sesiones intensivas para vivir una experiencia maker inmersiva. Estas sesiones ofrecen a los participantes no solo las nuevas herramientas tecnológicas sino también la experiencia de trabajar en equipo,  organizar su trabajo, organizar su tiempo y necesidades para acometer las metas planteadas.<br><br>
 
 <strong>Próximos eventos:</strong><br><br>
 
 <strong><a href="http://lifeline-learning.com/join-us-for-summer-camp/">Carbon Free Thinkers Summer Camp</a></strong><br><br>
 
-
-"No es importante que un niño aprenda como se usa perfectamente una herramienta, si no que puede crear con ella, come te puede ayudar y cómo puede combinarlas con los otros procesos para crear ... hay que intentar ver un poquito más allá de lo que hay detrás de las tecnología" <strong><a href="https://fablabbcn.org/about_us.html">Santiago Fuentemilla</a></strong><br><br>
-
-<strong><a href="https://fablabbcn.org/about_us.html">Santiago Fuentemilla</a></strong>, <strong><a href="https://fablabbcn.org/about_us.html">Fab Academy Barcelona Instructor</a></strong> y Fab Education Coordinator, fue entrevistado por <strong><a href="https://www.youtube.com/channel/UC_PZITA0uBZRC5E1fCrBVXQ">"elFuturoEsOne" (Vodafone One)</a></strong>.<br>
-
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids/fabkids1.jpg" align="middle"> 
-<br>
-
-Hugo, un niño de 7 años, ha experimentado unos días especial en el <strong><a href="http://fablabbcn.org/">Fab Lab Barcelona</a></strong>: con el ayudo de <strong><a href="https://fablabbcn.org/about_us.html">Santiago Fuentemilla</a></strong> ha realizado el sueño de convertir un simple dibujo en un objeto real con el utilizó de la <strong>fabricación digital</strong>.
-La impresión 3D, el Corte laser, el uso de software para la modelación y mucho mas en unos días que el nunca olvidará.<br><br>
-
-Este es el proposito del <strong><a href="https://www.facebook.com/fabkidsbcn/?fref=ts">FabKids</a></strong>,un laboratorio creativo que favorece el desarrollo de la inteligencia, la creatividad y la imaginación de los niños y jóvenes: emocionar y educar una nueva generación consciente y sensibilizada para un nuevo mundo.<br>
-
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids/fabkids2.jpg" align="middle"> 
-<br>
-
 Para más Información: <strong><a href="http://kids.fablabbcn.org/">FabKids</a></strong><br>
-Pre-Inscripción a los Programas Fab Kids: <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSfkKPqHDtUESpk3iPvJwu8TmU3Iaj35yf5iiKWYW5uzIBPrJQ/viewform">Formulario</a></strong><br>
+Pre-Inscripción a los Programas Fab Kids: <strong><a href="http://apply.fablabbcn.org/view.php?id=12407">Formulario</a></strong><br>
 
 
 
