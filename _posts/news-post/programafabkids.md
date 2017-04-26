@@ -1,8 +1,8 @@
 ---
 layout: blog_post
 type: event
-teaserlatest: blog_loop_latest/fabkids/fabkidssmall.jpg
-teaserlist: blog_loop_latest/fabkids/fabkidssmall.jpg
+teaserlatest: blog_loop_latest/fabkids/fabkids2small.jpg
+teaserlist: blog_loop_latest/fabkids/fabkids2small.jpg
 title: FabKids Barcelona, los nuevos talleres
 meta: "Hugo, un niño de 7 años, ha experimentado unos días especial en el Fab Lab Barcelona: con el ayudo de Santiago Fuentemilla, Fab Academy Barcelona Instructor y Fab Education Coordinator, ha realizado el sueño de convertir un simple dibujo en un objeto real con el utilizó de la fabricación digital. "
 author: Marco Sanalitro
