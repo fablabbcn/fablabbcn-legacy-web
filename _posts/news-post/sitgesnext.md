@@ -12,17 +12,17 @@ category: news
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/sitgesnext/sitgesnext1.jpg" align="middle"> 
 <br>
 
-<strong><a href="http://sitgesnext.com/">Sitges Next</a></strong> is the festival dedicated to promoting <strong>innovation</strong> in the <strong>communication</strong> of <strong>brands</strong>, <strong>agencies</strong>, <strong>start-up</strong>s and <strong>technological creators</strong>.
+<strong><a href="http://sitgesnext.com/">Sitges Next</a></strong> is the festival dedicated to promoting <strong>innovation</strong> in the <strong>communication</strong> of <strong>brands</strong>, <strong>agencies</strong>, <strong>start-up</strong>s and <strong>technological creators</strong>.<br><br>
 
-Two days, <strong>5th and 6th of May</strong>, to establish <strong>new connections</strong>, receive <strong>input</strong> and inspiration with the objective of making an important contribution to <strong>the transformation of the way we communicate</strong> over the upcoming years.
+Two days, <strong>5th and 6th of May</strong>, to establish <strong>new connections</strong>, receive <strong>input</strong> and inspiration with the objective of making an important contribution to <strong>the transformation of the way we communicate</strong> over the upcoming years.<br><br>
 
 <iframe width="720" height="315" src="https://www.youtube.com/embed/TsOIpKj7dRE" frameborder="0" allowfullscreen></iframe>
 <br>
 
-Among the experts invited to attend, Saturday 6th May, <strong><a href="https://fablabbcn.org/about_us.html">Tomas Diez</a></strong>, Co-founder <strong><a href="http://fablabbcn.org/">Fab Lab Barcelona</a></strong> and <strong><a href="http://fab.city/">Fab City</a></strong> Research Lab Director, presents the conference <strong>"The Revolution of Digital Fabrication Technology: from consumers to co-producers"</strong>, an overview of Digital Fabrication and Circular Economy.
+Among the experts invited to attend, Saturday 6th May, <strong><a href="https://fablabbcn.org/about_us.html">Tomas Diez</a></strong>, Co-founder <strong><a href="http://fablabbcn.org/">Fab Lab Barcelona</a></strong> and <strong><a href="http://fab.city/">Fab City</a></strong> Research Lab Director, presents the conference <strong>"The Revolution of Digital Fabrication Technology: from consumers to co-producers"</strong>, an overview of Digital Fabrication and Circular Economy.<br><br>
 
-For more information: <strong><a href="http://sitgesnext.com/">Sitges NEXT</a></strong>
-Buy tickets: <strong><a href="http://sitgesnext.com/buy-tickets/">tickets</a></strong>
+For more information: <strong><a href="http://sitgesnext.com/">Sitges NEXT</a></strong><br><br>
+Buy tickets: <strong><a href="http://sitgesnext.com/buy-tickets/">tickets</a></strong><br><br>
 
 
 
