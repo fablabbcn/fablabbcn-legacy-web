@@ -19,7 +19,7 @@ Two days, <strong>5th and 6th of May</strong>, to establish <strong>new connecti
 <iframe width="720" height="315" src="https://www.youtube.com/embed/TsOIpKj7dRE" frameborder="0" allowfullscreen></iframe>
 <br>
 
-Saturday 6th May, <strong><a href="https://fablabbcn.org/about_us.html">Tomas Diez</a></strong>, Co-founder <strong><a href="http://fablabbcn.org/">Fab Lab Barcelona</a></strong> and <strong><a href="http://fab.city/">Fab City</a></strong> Research Lab Director, presents the conference <strong>"The Revolution of Digital Fabrication Technology: from consumers to co-producers"</strong>.
+Among the experts invited to attend, Saturday 6th May, <strong><a href="https://fablabbcn.org/about_us.html">Tomas Diez</a></strong>, Co-founder <strong><a href="http://fablabbcn.org/">Fab Lab Barcelona</a></strong> and <strong><a href="http://fab.city/">Fab City</a></strong> Research Lab Director, presents the conference <strong>"The Revolution of Digital Fabrication Technology: from consumers to co-producers"</strong>, an overview of Digital Fabrication and the Circular Economy.
 
 For more information: <strong><a href="http://sitgesnext.com/">Sitges NEXT</a></strong>
 Buy tickets: <strong><a href="http://sitgesnext.com/buy-tickets/">tickets</a></strong>
