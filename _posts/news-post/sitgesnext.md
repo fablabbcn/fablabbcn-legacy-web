@@ -9,8 +9,11 @@ author: Marco Sanalitro
 date: 30/03/2017 
 category: news
 ---
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/sitgesnext/sitgesnext1.jpg" align="middle"> 
+<br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wHsNa2owS6A" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TsOIpKj7dRE" frameborder="0" allowfullscreen></iframe>
 <br>
 
 "No es importante que un niño aprenda como se usa perfectamente una herramienta, si no que puede crear con ella, come te puede ayudar y cómo puede combinarlas con los otros procesos para crear ... hay que intentar ver un poquito más allá de lo que hay detrás de las tecnología" <strong><a href="https://fablabbcn.org/about_us.html">Santiago Fuentemilla</a></strong><br><br>
