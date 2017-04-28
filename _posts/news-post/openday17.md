@@ -15,7 +15,7 @@ category: event
 
 <p>Saturday 6th of May, the creative community of Poblenou neighborhood in Barcelona will open its doors to offer a wide variety of cultural proposals.<br><br>
 
-For more information: <strong><a href="http://ow.ly/OtiN30bbS7f">Program</a></strong><br><br>
+For more information: <strong><a href="http://ow.ly/OtiN30bbS7f">Program Open Day Poblenou UD</a></strong><br><br>
 
 In this occasion, <strong><a href="https://iaac.net/">Iaac</a></strong> | <strong><a href="http://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> will open its doors from 16:00 to 20:00, offering demos and short workshops, robotic manufacture and 3D printing, activities for kids and much more. <br><br>
 
