@@ -19,9 +19,9 @@ If you are a <strong>Maker</strong> or just <strong>curious</strong>, we have an
 
 <strong><a href="http://barcelona.makerfaire.com/">Barcelona Marker Faire</a></strong> hosts the most inspired, talented and ambitious makers, enthusiastic to share all their knowledge and creativity through <strong>exhibitions</strong>, <strong>workshops</strong>, and <strong>interactive demos</strong>. <strong>The Call for #Makers is now open.</strong> Apply Now and share your project!<br><br>
 
-Barcelona Maker Faire will be organized by <strong><a href="https://sonar.es/">Sonar</a></strong>, <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> and <strong><a href="http://www.soko.tech/">Soko</a></strong>, with the support of <strong><a href="http://makezine.com/">Make magazine</a></strong>, <strong><a href="http://ajuntament.barcelona.cat/ca/">Barcelona City Hall</a></strong> and <strong><a href="http://www.in3dustry.com/en/home">IN(3D)USTRY</a></strong>.
+Barcelona Maker Faire will be organized by <strong><a href="https://sonar.es/">Sonar</a></strong>, <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> and <strong><a href="http://www.soko.tech/">Soko</a></strong>, with the support of <strong><a href="http://makezine.com/">Make magazine</a></strong>, <strong><a href="http://ajuntament.barcelona.cat/ca/">Barcelona City Hall</a></strong> and <strong><a href="http://www.in3dustry.com/en/home">IN(3D)USTRY</a></strong>.<br><br>
 
-For more information and apply: <strong><a href="http://barcelona.makerfaire.com/">Barcelona Marker Faire</a></strong>
+For more information and apply: <strong><a href="http://barcelona.makerfaire.com/">Barcelona Marker Faire</a></strong><br><br>
 
 Read more on <strong><a href="http://makerfaire.com/makerfairehistory/">Maker Faire history</a></strong> and the <strong><a href="http://makerfaire.com/maker-movement/">Maker Movement</a></strong>.<br><br>
 
