@@ -17,13 +17,14 @@ category: event
 
 For more information: <strong><a href="http://ow.ly/OtiN30bbS7f">Program</a></strong><br><br>
 
-In this occasion, <strong><a href="https://iaac.net/">Iaac</a></strong> | <strong><a href="http://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> will open its doors from 16:00 to 20:00, offering demos and short workshops, robotic manufacture and 3D printing, activities for kids and much more. 
+In this occasion, <strong><a href="https://iaac.net/">Iaac</a></strong> | <strong><a href="http://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> will open its doors from 16:00 to 20:00, offering demos and short workshops, robotic manufacture and 3D printing, activities for kids and much more. <br><br>
 
-In addition, every 30 minutes we will offer a guided tour of the <strong><a href="https://iaac.net/">IAAC</a></strong> and <strong><a href="http://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong>, where you can learn more about us.
+In addition, every 30 minutes we will offer a guided tour of the <strong><a href="https://iaac.net/">IAAC</a></strong> and <strong><a href="http://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong>, where you can learn more about us.<br><br>
 
 If you are curious about technology, you want to learn how a Digital Fabrication Laboratory works and anjoy a nice evening with music and beer, don't miss this appointment!<br><br>
 
 For more information: <strong><a href="http://ow.ly/OtiN30bbS7f">Event</a></strong><br><br>
+</p>
 
 
 
