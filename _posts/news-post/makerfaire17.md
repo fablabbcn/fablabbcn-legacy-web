@@ -1,16 +1,16 @@
 ---
 layout: blog_post
 type: event
-teaserlatest: blog_loop_latest/openday17/openday17small.jpg
-teaserlist: blog_loop_latest/openday17/openday17small.jpg
-title: Open Day 2017
-meta: "6th of May, Iaac | Fab Lab Barcelona will open its doors from 16:00 to 20:00, offering demos and short workshops, robotic manufacture and 3D printing, activities for kids and much more. If you are curious about technology and you want to learn how a Digital Fabrication Laboratory works, don't miss this appointment!"
+teaserlatest: blog_loop_latest/makerfaire17/makerfaire17small.jpg
+teaserlist: blog_loop_latest/makerfaire17/makerfaire17small.jpg
+title: Call for Makers - Maker Faire 2017
+meta: "One of the most important Technological and Innovative events in Europe, the Maker Faire BCN will take place on 17th and 18th June here in #Barcelona. The Call for #Makers is now open!"
 author: Marco Sanalitro
-date: 28/04/2017 
+date: 29/04/2017 
 category: event
 ---
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/openday17/openday171.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/makerfaire17/makerfaire171.jpg" align="middle"> 
 <br>
 
 <p>Saturday 6th of May, the creative community of Poblenou neighborhood in Barcelona will open its doors to offer a wide variety of cultural proposals.<br><br>
