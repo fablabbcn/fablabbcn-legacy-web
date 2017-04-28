@@ -13,28 +13,17 @@ category: event
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/makerfaire17/makerfaire171.jpg" align="middle"> 
 <br>
 
-<p>Saturday 6th of May, the creative community of Poblenou neighborhood in Barcelona will open its doors to offer a wide variety of cultural proposals.<br><br>
+<strong><a href="http://barcelona.makerfaire.com/">Barcelona Marker Faire</a></strong>, One of the most important Technological and Innovative events in Europe, is a gathering of fascinating, curious people who enjoy learning and who love sharing what they can do. It’s a venue for makers to show examples of their work and interact with others about it.
 
-For more information: <strong><a href="http://ow.ly/OtiN30bbS7f">Program Open Day Poblenou UD</a></strong><br><br>
+If you are a <strong>Maker</strong> or just <strong>curious</strong>, we have an appointment on 17th – 18th June</strong> at <strong><a href="http://barcelona.makerfaire.com/">Barcelona Maker Faire 2017</a></strong> (<strong><a href="https://www.google.es/search?q=Fira+Barcelona+Montjuic%2C+Pavell%C3%B2+Itali%C3%A0&oq=Fira+Barcelona+Montjuic%2C+Pavell%C3%B2+Itali%C3%A0&aqs=chrome..69i57.826j0j7&sourceid=chrome&ie=UTF-8#q=Fira+Barcelona+Montjuic,+Pavell%C3%B2+Itali%C3%A0&rflfq=1&rlha=0&rllag=41372858,2152025,159&tbm=lcl&rldimm=1998029704403837795&tbs=lrf:!2m1!1e2!3sEAE,lf:1,lf_ui:2">Fira Barcelona Montjuic, Pavellò Italià</a></strong>). Save the date and come with your family and your friends!<br><br>
 
-In this occasion, <strong><a href="https://iaac.net/">Iaac</a></strong> | <strong><a href="http://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> will open its doors from 16:00 to 20:00, offering demos and short workshops, robotic manufacture and 3D printing, activities for kids and much more: <br><br>
+<strong><a href="http://barcelona.makerfaire.com/">Barcelona Marker Faire</a></strong> hosts the most inspired, talented and ambitious makers, enthusiastic to share all their knowledge and creativity through <strong>exhibitions</strong>, <strong>workshops</strong>, and <strong>interactive demos</strong>. <strong>The Call for #Makers is now open.</strong> Apply Now and share your project!<br><br>
 
-.<strong><a href="https://www.facebook.com/bounceybox/">BounceyBox</a></strong> - Music 
-.<strong><a href="http://making-sense.eu/cabbage-soil-smart-citizen-kits-sensing-environments/"> Making Sense EU</a></strong> - "Smart Kids Lab"
-.<strong><a href="http://kids.fablabbcn.org/"> Fabkids BCN</a></strong> - Activities for kids in "Superilla" of Barcelona
-.<strong> Robotic Manufacture and 3d printing</strong> - Demos
-.<strong><a href="http://market.fablabs.io/"> Fab Market</a></strong> - Product design and Demos
+Barcelona Maker Faire will be organized by <strong><a href="https://sonar.es/">Sonar</a></strong>, <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> and <strong><a href="http://www.soko.tech/">Soko</a></strong>, with the support of <strong><a href="http://makezine.com/">Make magazine</a></strong>, <strong><a href="http://ajuntament.barcelona.cat/ca/">Barcelona City Hall</a></strong> and <strong><a href="http://www.in3dustry.com/en/home">IN(3D)USTRY</a></strong>.
 
-In addition, every 30 minutes we will offer a guided tour of the <strong><a href="https://iaac.net/">IAAC</a></strong> and <strong><a href="http://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong>, where you can learn more about us.<br><br>
+For more information and apply: <strong><a href="http://barcelona.makerfaire.com/">Barcelona Marker Faire</a></strong>
 
-If you are curious about technology, you want to learn how a Digital Fabrication Laboratory works and anjoy a nice evening with music and beer, don't miss this appointment!<br><br>
-
-For more information: <strong><a href="https://www.facebook.com/events/126133541267280/">Event Iaac | Fab Lab BCN</a></strong><br><br>
-</p>
-
-
-
-
+Read more on <strong><a href="http://makerfaire.com/makerfairehistory/">Maker Faire history</a></strong> and the <strong><a href="http://makerfaire.com/maker-movement/">Maker Movement</a></strong>.<br><br>
 
 
 
