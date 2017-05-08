@@ -4,7 +4,7 @@ type: blog
 teaserlatest: blog_loop_latest/openday17/openday17small2.jpg
 teaserlist: blog_loop_latest/openday17/openday17small2.jpg
 title: Thanks for coming to the Poblenou Urban District Open Day!
-meta: "Iaac | Fab Lab Barcelona opened its doors, offering demos and short workshops, robotic manufacture and 3D printing, activities for kids and much more. More than 800 visitors If you are curious about technology and you want to learn how a Digital Fabrication Laboratory works, don't miss this appointment!"
+meta: "Iaac | Fab Lab Barcelona opened its doors. More than 800 visitors If you are curious about technology and you want to learn how a Digital Fabrication Laboratory works, don't miss this appointment!"
 author: Marco Sanalitro
 date: 08/05/2017 
 category: news
@@ -81,7 +81,7 @@ category: news
 <br>
 El pasado sábado 6 de mayo, abrimos las puertas de IAAC|Fab Lab Barcelona y fue todo un éxito!<br>
 
-Más de 800 visitantes pudieron visitar el nuestro espacio de fabricación digital y descubrir alguno de nuestros proyectos: <a href="http://making-sense.eu/">Making Sense ("Smart Kids Lab")</a>, <a href="http://aquapioneers.io/">Aquapioneers</a>, <a href="http://kids.fablabbcn.org/">Fabkids BCN</a>, <a href="http://fablabbcn.org/event/2017/01/21/zeroseries.html">Zero Series, <a href="https://opensourcebeehives.com/">apicultura de "código abierto"</a>, Fabricación robótica y Impresión 3d, <a href="http://market.fablabs.io/">Fab Market</a>, <a href="https://www.facebook.com/bounceybox/">BounceyBox</a>. Gracias a nuestros amigos y colaboradores por hacer esta tarde única.<br>
+Más de 800 visitantes pudieron visitar nuestro espacio de fabricación digital y descubrir alguno de nuestros proyectos: <a href="http://making-sense.eu/">Making Sense ("Smart Kids Lab")</a>, <a href="http://aquapioneers.io/">Aquapioneers</a>, <a href="http://kids.fablabbcn.org/">Fabkids BCN</a>, <a href="http://fablabbcn.org/event/2017/01/21/zeroseries.html">Zero Series, <a href="https://opensourcebeehives.com/">apicultura de "código abierto"</a>, Fabricación robótica y Impresión 3d, <a href="http://market.fablabs.io/">Fab Market</a>, <a href="https://www.facebook.com/bounceybox/">BounceyBox</a>. Gracias a nuestros amigos y colaboradores por hacer esta tarde única.<br>
 
 Para aquellos que se lo perdieron, no os preocupéis, pronto repetiremos esta maravillosa experiencia.<br>
 
