@@ -3,8 +3,8 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/openday17/openday17small2.jpg
 teaserlist: blog_loop_latest/openday17/openday17small2.jpg
-title: Open Day 2017
-meta: "6th of May, Iaac | Fab Lab Barcelona will open its doors from 16:00 to 20:00, offering demos and short workshops, robotic manufacture and 3D printing, activities for kids and much more. If you are curious about technology and you want to learn how a Digital Fabrication Laboratory works, don't miss this appointment!"
+title: Thanks for coming to the Poblenou Urban District Open Day!
+meta: "Iaac | Fab Lab Barcelona opened its doors, offering demos and short workshops, robotic manufacture and 3D printing, activities for kids and much more. More than 800 visitors If you are curious about technology and you want to learn how a Digital Fabrication Laboratory works, don't miss this appointment!"
 author: Marco Sanalitro
 date: 08/05/2017 
 category: news
@@ -25,54 +25,45 @@ category: news
   <div class="carousel-inner" role="listbox">
    
     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight/1.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday17/1.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight/2.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday17/2.jpg" />
     </div>
 
   <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight/3.jpg" />
-    </div>
-    
-      <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight/4.jpg" />
-    </div>
-    
-      <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight/5.jpg" />
-    </div>
-     
-     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight/6.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday17/3.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight/7.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday17/4.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight/8.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday17/5.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight/9.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday17/6.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight/10.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday17/7.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight/11.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday17/8.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight/12.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday17/9.jpg" />
     </div>
     
-  </div>
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday17/10.jpg" />
+    </div>
+</div>
 
 <!-------------------- Controls --------------------->
 
