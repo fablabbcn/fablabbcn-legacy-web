@@ -11,7 +11,7 @@ category: event
 ---
 
 
-<iframe src="https://player.vimeo.com/video/216487092" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/216487092" width="720" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <strong><a href="http://fabtextiles.org/fabricademy-textile-technology-academy/">Fabtextiles</a></strong> is officially launching the : <strong><a href="http://textile-academy.org/">Fabricademy</a></strong> at <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong>. An international textile and technology academy that combines soft fabrication, wearable technology, sustainability and materials.
 The program consists of 13 classes given by world known experts and the two month incubation and project development with mentorship.<br><br>
