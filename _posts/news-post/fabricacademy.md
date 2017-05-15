@@ -1,32 +1,21 @@
 ---
 layout: blog_post
 type: event
-teaserlatest: blog_loop_latest/makerfaire17/makerfaire17small.jpg
-teaserlist: blog_loop_latest/makerfaire17/makerfaire17small.jpg
-title: Call for Makers - Maker Faire 2017
-meta: "One of the most important Technological and Innovative events in Europe, the Maker Faire BCN will take place on 17th and 18th June here in Barcelona. The Call for Makers is now open!"
+teaserlatest: blog_loop_latest/fabricademy17/fabricademy17small.jpg
+teaserlist: blog_loop_latest/fabricademy17/fabricademy17small.jpg
+title: Fabricademy, Fabtextiles
+meta: "Fabricademy will start on the 26th of September 2017, a textile and technology academy that combines soft fabrication, wearable technology, sustainability and materials."
 author: Marco Sanalitro
-date: 29/04/2017 
+date: 15/05/2017 
 category: event
 ---
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/makerfaire17/makerfaire171.jpg" align="middle"> 
-<br>
 
 <iframe src="https://player.vimeo.com/video/216487092" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-<strong><a href="http://barcelona.makerfaire.com/">Barcelona Marker Faire</a></strong>, one of the most important Technological and Innovative events in Europe, is a gathering of fascinating, curious people who enjoy learning and who love sharing what they can do. It’s a venue for makers to show examples of their work and interact with others about it.
-
-If you are a <strong>Maker</strong> or just <strong>curious</strong>, we have an appointment on <strong>17th – 18th June</strong> at <strong><a href="http://barcelona.makerfaire.com/">Barcelona Maker Faire 2017</a></strong> (<strong><a href="https://www.google.es/search?q=Fira+Barcelona+Montjuic%2C+Pavell%C3%B2+Itali%C3%A0&oq=Fira+Barcelona+Montjuic%2C+Pavell%C3%B2+Itali%C3%A0&aqs=chrome..69i57.826j0j7&sourceid=chrome&ie=UTF-8#q=Fira+Barcelona+Montjuic,+Pavell%C3%B2+Itali%C3%A0&rflfq=1&rlha=0&rllag=41372858,2152025,159&tbm=lcl&rldimm=1998029704403837795&tbs=lrf:!2m1!1e2!3sEAE,lf:1,lf_ui:2">Fira Barcelona Montjuic, Pavellò Italià</a></strong>). Save the date and come with your family and your friends!<br><br>
-
-<strong><a href="http://barcelona.makerfaire.com/">Barcelona Marker Faire</a></strong> hosts the most inspired, talented and ambitious makers, enthusiastic to share all their knowledge and creativity through <strong>exhibitions</strong>, <strong>workshops</strong>, and <strong>interactive demos</strong>. <strong>The Call for #Makers is now open.</strong> Apply Now and share your project!<br><br>
-
-<strong><a href="http://barcelona.makerfaire.com/">Barcelona Marker Faire</a></strong> will be organized by <strong><a href="https://sonar.es/">Sonar</a></strong>, <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> and <strong><a href="http://www.soko.tech/">Soko</a></strong>, with the support of <strong><a href="http://makezine.com/">Make magazine</a></strong>, <strong><a href="http://ajuntament.barcelona.cat/ca/">Barcelona City Hall</a></strong> and <strong><a href="http://www.in3dustry.com/en/home">IN(3D)USTRY</a></strong>.<br><br>
-
-For more information and apply: <strong><a href="http://barcelona.makerfaire.com/">Barcelona Marker Faire</a></strong><br><br>
-
-Read more on <strong><a href="http://makerfaire.com/makerfairehistory/">Maker Faire history</a></strong> and the <strong><a href="http://makerfaire.com/maker-movement/">Maker Movement</a></strong>.<br><br>
-
-
+<strong><a href="http://fabtextiles.org/fabricademy-textile-technology-academy/">Fabtextiles</a></strong> and <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> are officially launching the : <strong><a href="http://textile-academy.org/">Fabricademy</a></strong>. A textile and technology academy that combines soft fabrication, wearable technology, sustainability and materials.
+The program consists of 13 classes given by world known experts and the two month incubation and project development with mentorship.<br><br>
+Starting on the <strong>26th of September 2017</strong>, students from Europe and overseas will <strong>learn tools</strong> and <strong>develop concepts that intersect fashion</strong>, <strong>technology</strong> and <strong>biology</strong> with a scope to equip the <strong>multidisciplinary future designer</strong>.
+If you are interested in studying at the <strong><a href="http://textile-academy.org/">Fabricademy</a></strong> or participating as a hosting node, check the details <strong><a href="http://textile-academy.org/">here</a></strong>!<br><br>
 
 
