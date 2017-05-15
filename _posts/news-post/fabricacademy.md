@@ -4,7 +4,7 @@ type: event
 teaserlatest: blog_loop_latest/fabricademy17/fabricademy17small.jpg
 teaserlist: blog_loop_latest/fabricademy17/fabricademy17small.jpg
 title: Fabricademy, Fabtextiles
-meta: "Fabricademy will start on the 26th of September 2017, an international textile and technology academy that combines soft fabrication, wearable technology, sustainability and materials. If you are interested in studying at the Fabricademy or participating as a hosting node, check the details HERE"
+meta: "Fabricademy will start on the 26th of September 2017, an international textile and technology academy that combines soft fabrication, wearable technology, sustainability and materials. If you are interested in studying at the Fabricademy or participating as a hosting node, check the details here!"
 author: Marco Sanalitro
 date: 15/05/2017 
 category: event
