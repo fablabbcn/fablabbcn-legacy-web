@@ -20,7 +20,7 @@ Starting on the <strong>26th of September 2017</strong>, students from Europe an
 
 If you are interested in studying at the <strong><a href="http://textile-academy.org/">Fabricademy</a></strong> or participating as a hosting node, check the details <strong><a href="http://textile-academy.org/">HERE</a></strong>!<br><br>
 
-If you are a fab lab, institution, school, makerspace that wants to host and run the <strong><a href="http://textile-academy.org/">Fabricademy</a></strong> check our hard and soft requirements and apply as a node <strong><a href="http://textile-academy.org/sites/">HERE</a></strong>!<br><br>
+If you are a <strong>fab lab</strong>, <strong>institution</strong>, <strong>school</strong>, <strong>makerspace</strong> that wants to <strong>host</strong> and run the <strong><a href="http://textile-academy.org/">Fabricademy</a></strong> check our hard and soft requirements and apply as a node <strong><a href="http://textile-academy.org/sites/">HERE</a></strong>!<br><br>
 
 Enroll at the <strong><a href="http://textile-academy.org/">Fabricademy</a></strong> course, starting the 26th of September 2017. Check our current nodes or find your closest lab to use for your classes <strong><a href="https://www.fablabs.io/">HERE</a></strong>!<br><br>
 
