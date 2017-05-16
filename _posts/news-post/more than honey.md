@@ -29,7 +29,7 @@ This <strong>fundraiser</strong> is to raise money <strong>to make and install 6
 <strong>Live Music</strong><br>
 <strong><a href="https://www.facebook.com/justkiddingbcn/">Stand up comedy - Just kidding Barcelona.</a></strong><br><br>
 
-<strong>Adopt a Hive</strong> - <strong>One can adopt a hive</strong> which will in turn fund the installation of the bee-hives in the apiary. The donor's name will be displayed on the bee-hive and they can monitor the health of the hive they adopted, by looking at the sensor data on the <strong><a href="http://www.needlab.org/">Needlab Website</a></strong>.<br><br>
+<strong>Adopt a Hive</strong> - One can <strong>adopt a hive</strong> which will in turn fund the <strong>installation of the bee-hives in the apiary</strong>. The donor's name will be displayed on the bee-hive and they can monitor the health of the hive they adopted, by looking at the sensor data on the <strong><a href="http://www.needlab.org/">Needlab Website</a></strong>.<br><br>
 
 
 
