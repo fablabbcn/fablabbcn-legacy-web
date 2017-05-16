@@ -18,7 +18,7 @@ About a tenth of humanity lives in rural India, making it a focal point for issu
 
 This <strong>fundraiser</strong> is to raise money <strong>to make and install 60 bee hives</strong> in the proposed apiary which will supplement the income of the tribal people in Araku valley.<br><br>
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/morethanhoney/morethanhoney1.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/morethanhoney/morethanhoney2.jpg" align="middle"> 
 <br>
 
 <strong>Fundraiser Brunch</strong> - is scheduled to be hosted at <strong>6pm on 28th May 2017</strong>, at the <strong><a href="http://greenfablab.org/">Green Fablab</a></strong> of the, Can Valldaura estate, 20 minutes from the city of Barcelona, perfect background to learn about the importance of bees.<br><br>
