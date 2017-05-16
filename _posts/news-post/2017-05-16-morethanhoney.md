@@ -33,7 +33,7 @@ This <strong>fundraiser</strong> is to raise money <strong>to make and install 6
 
 For more information and apply:<br><br>
 
-<strong><a href="https://www.eventbrite.es/e/entradas-more-than-honey-b-project-34621955200">HERE</a></strong> the event brite link.<br><br>
+<strong><a href="https://www.eventbrite.es/e/entradas-more-than-honey-b-project-34621955200">HERE</a></strong> the Event Brite link.<br><br>
 
 <strong><a href="https://www.facebook.com/events/543626116025422/">HERE</a></strong> the Facebook Event link.<br><br>
 
