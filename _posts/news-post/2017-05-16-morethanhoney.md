@@ -31,8 +31,11 @@ This <strong>fundraiser</strong> is to raise money <strong>to make and install 6
 
 <strong>Adopt a Hive</strong> - One can <strong>adopt a hive</strong> which will in turn fund the <strong>installation of the bee-hives in the apiary</strong>. The donor's name will be displayed on the bee-hive and they can monitor the health of the hive they adopted, by looking at the sensor data on the <strong><a href="http://www.needlab.org/">Needlab Website</a></strong>.<br><br>
 
+For more information and apply:<br><br>
 
+<strong><a href="https://www.eventbrite.es/e/entradas-more-than-honey-b-project-34621955200">HERE</a></strong> the event brite link.<br><br>
 
+<strong><a href="https://www.facebook.com/events/543626116025422/">HERE</a></strong> the Facebook Event link.<br><br>
 
 
 
