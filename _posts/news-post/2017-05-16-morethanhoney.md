@@ -21,7 +21,7 @@ This <strong>fundraiser</strong> is to raise money <strong>to make and install 6
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/morethanhoney/morethanhoney2.jpg" align="middle"> 
 <br>
 
-<strong>Fundraiser Brunch</strong> - is scheduled to be hosted at <strong>6pm on 28th May 2017</strong>, at the <strong><a href="http://greenfablab.org/">Green Fablab</a></strong> of the, Can Valldaura estate, 20 minutes from the city of Barcelona, perfect background to learn about the importance of bees.<br><br>
+<strong>Fundraiser Brunch</strong> - is scheduled to be hosted at <strong>16:00h on 28th May 2017</strong>, at the <strong><a href="http://greenfablab.org/">Green Fablab</a></strong> of the, Can Valldaura estate, 20 minutes from the city of Barcelona, perfect background to learn about the importance of bees.<br><br>
 
 <strong>Entertainment</strong><br><br>
 
