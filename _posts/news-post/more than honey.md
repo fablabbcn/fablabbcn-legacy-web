@@ -4,7 +4,7 @@ type: blog
 teaserlatest: blog_loop_latest/morethanhoney/morethanhoneysmall.jpg
 teaserlist: blog_loop_latest/morethanhoney/morethanhoneysmall.jpg
 title: More than Honey, B-Project
-meta: "28th of May Needlab, in collaboration with Opensource Beehives, Fabcity Research Lab and with Think Peace-World will organize a fundraising event to build an apiary for the region to develop a sustainable community in Araku valley, Andhra Pradesh and India. Join us and adopt a Hive to initiate change!"
+meta: "28th of May Needlab, in collaboration with Opensource Beehives, Fabcity Research Lab and with Think Peace-World will organize a fundraising event to build an apiary to develop a sustainable community in Araku valley, Andhra Pradesh and India. Join us and adopt a Hive to initiate change!"
 author: Marco Sanalitro
 date: 16/05/2017 
 category: news
