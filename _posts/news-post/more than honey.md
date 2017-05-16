@@ -1,28 +1,34 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/sitgesnext/sitgesnextsmall.jpg
-teaserlist: blog_loop_latest/sitgesnext/sitgesnextsmall.jpg
-title: Sitges NEXT 2017
+teaserlatest: blog_loop_latest/morethanhoney/morethanhoneysmall.jpg
+teaserlist: blog_loop_latest/morethanhoney/morethanhoneysmall.jpg
+title: More than Honey
 meta: "5th-6th of May Sitges NEXT 2017 - Festival of Innovation in Communication. Tomas Diez, Co-founder Fab Lab Barcelona and Fab City Research Lab Director, presents .The Revolution of Digital Fabrication Technology: from consumers to co-producers."
 author: Marco Sanalitro
-date: 27/04/2017 
+date: 16/05/2017 
 category: news
 ---
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/sitgesnext/sitgesnext1.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/morethanhoney/morethanhoney1.jpg" align="middle"> 
 <br>
 
-<strong><a href="http://sitgesnext.com/">Sitges Next</a></strong> is the festival dedicated to promoting <strong>innovation</strong> in the <strong>communication</strong> of <strong>brands</strong>, <strong>agencies</strong>, <strong>start-up</strong>s and <strong>technological creators</strong>.<br><br>
+About a tenth of humanity lives in rural India, making it a focal point for issues of national and international concern.<br><br> 
 
-Two days, <strong>5th and 6th of May</strong>, to establish <strong>new connections</strong>, receive <strong>input</strong> and inspiration with the objective of making an important contribution to <strong>the transformation of the way we communicate</strong> over the upcoming years.<br><br>
+<strong><a href="http://www.needlab.org/">Needlab</a></strong> , In collaboration with <strong><a href="https://opensourcebeehives.com/">Opensource Beehives</a></strong> and <strong><a href="http://sitgesnext.com/">Fabcity Research Lab</a></strong>, initiated a project with <strong><a href="http://sitgesnext.com/">Think Peace-World</a></strong>, an <strong>NGO</strong> working in <strong>235 villages</strong> in <strong>Araku valley</strong>, <strong>Andhra Pradesh</strong>, <strong>India</strong>, by building an apiary for the region to develop a sustainable community.<br><br>
 
-<iframe width="720" height="315" src="https://www.youtube.com/embed/TsOIpKj7dRE" frameborder="0" allowfullscreen></iframe>
-<br>
+<strong>This fundraiser</strong> is to raise money to make and install <strong>60 bee hives</strong> in the proposed apiary which will supplement the income of the tribal people in Araku valley.<br><br>
 
-Saturday 6th May, <strong><a href="https://fablabbcn.org/about_us.html">Tomas Diez</a></strong>, Co-founder <strong><a href="http://fablabbcn.org/">Fab Lab Barcelona</a></strong> and <strong><a href="http://fab.city/">Fab City</a></strong> Research Lab Director, presents the conference <strong>"The Revolution of Digital Fabrication Technology: from consumers to co-producers"</strong>, an overview of Digital Fabrication and Circular Economy.<br><br>
+<strong>Fundraiser Brunch</strong> - is scheduled to be hosted at <strong>6pm on 28th May 2017</strong>, at the <strong><a href="http://greenfablab.org/">Green Fablab</a></strong> of the, Can Valldaura estate, 20 minutes from the city of Barcelona, perfect background to learn about the importance of bees.<br><br>
 
-For more information: <strong><a href="http://sitgesnext.com/">Sitges NEXT</a></strong><br><br>
-Buy tickets: <strong><a href="http://sitgesnext.com/buy-tickets/">tickets</a></strong><br><br>
+<strong>Entertainment</strong><br><br>
+
+<strong><a href="https://www.facebook.com/bounceybox/">DJ - Bouncy Box</a></strong><br>
+<strong>Live Music</strong><br>
+<strong><a href="https://www.facebook.com/justkiddingbcn/">Stand up comedy - Just kidding Barcelona.</a></strong><br><br>
+
+<strong>Adopt a Hive</strong> - <strong>One can adopt a hive</strong> which will in turn fund the installation of the bee-hives in the apiary. The donor's name will be displayed on the bee-hive and they can monitor the health of the hive they adopted, by looking at the sensor data on the <strong><a href="http://www.needlab.org/">Needlab Website</a></strong>.<br><br>
+
+
 
 
 
