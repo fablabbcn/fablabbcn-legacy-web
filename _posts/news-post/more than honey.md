@@ -3,8 +3,8 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/morethanhoney/morethanhoneysmall.jpg
 teaserlist: blog_loop_latest/morethanhoney/morethanhoneysmall.jpg
-title: More than Honey
-meta: "5th-6th of May Sitges NEXT 2017 - Festival of Innovation in Communication. Tomas Diez, Co-founder Fab Lab Barcelona and Fab City Research Lab Director, presents .The Revolution of Digital Fabrication Technology: from consumers to co-producers."
+title: More than Honey, B-Project
+meta: "28th of May Needlab, in collaboration with Opensource Beehives, Fabcity Research Lab and with Think Peace-World will organize a fundraising event to build an apiary for the region to develop a sustainable community in Araku valley, Andhra Pradesh and India. Join us and adopt a Hive to initiate change!"
 author: Marco Sanalitro
 date: 16/05/2017 
 category: news
@@ -14,9 +14,9 @@ category: news
 
 About a tenth of humanity lives in rural India, making it a focal point for issues of national and international concern.<br><br> 
 
-<strong><a href="http://www.needlab.org/">Needlab</a></strong> , In collaboration with <strong><a href="https://opensourcebeehives.com/">Opensource Beehives</a></strong> and <strong><a href="http://sitgesnext.com/">Fabcity Research Lab</a></strong>, initiated a project with <strong><a href="http://sitgesnext.com/">Think Peace-World</a></strong>, an <strong>NGO</strong> working in <strong>235 villages</strong> in <strong>Araku valley</strong>, <strong>Andhra Pradesh</strong>, <strong>India</strong>, by building an apiary for the region to develop a sustainable community.<br><br>
+<strong><a href="http://www.needlab.org/">Needlab</a></strong> , in collaboration with <strong><a href="https://opensourcebeehives.com/">Opensource Beehives</a></strong> and <strong><a href="http://fab.city/">Fabcity Research Lab</a></strong>, initiated a project with <strong><a href="https://www.facebook.com/ThinkPeaceworld/">Think Peace-World</a></strong>, an <strong>NGO</strong> working in <strong>235 villages</strong> in <strong>Araku valley</strong>, <strong>Andhra Pradesh</strong>, <strong>India</strong>, by building an apiary for the region to develop a sustainable community.<br><br>
 
-<strong>This fundraiser</strong> is to raise money to make and install <strong>60 bee hives</strong> in the proposed apiary which will supplement the income of the tribal people in Araku valley.<br><br>
+This <strong>fundraiser</strong> is to raise money <strong>to make and install 60 bee hives</strong> in the proposed apiary which will supplement the income of the tribal people in Araku valley.<br><br>
 
 <strong>Fundraiser Brunch</strong> - is scheduled to be hosted at <strong>6pm on 28th May 2017</strong>, at the <strong><a href="http://greenfablab.org/">Green Fablab</a></strong> of the, Can Valldaura estate, 20 minutes from the city of Barcelona, perfect background to learn about the importance of bees.<br><br>
 
