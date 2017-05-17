@@ -34,23 +34,23 @@ layout: default
 		        <div id="grid" data-columns="4">		
 			                		         
 			        {% for post in site.posts limit: 500 %}
-	                {% if post.type == 'project' and post.subtype != 'eu'%}    	 	            	            
+	               		 {% if post.type == 'project' %}    	 	            	            
 		        		            
-			            <div class="menu-item">
-				            
-				            <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/projects/{{post.projectimg}}" alt="project"></a>
-		                
-		                    <h3>
-		                    	<a href="{{site.baseurl}}{{post.url}}">{{post.title}}
-		                    	</a>
-	                    	</h3>  
+				            <div class="menu-item">
+					            
+					            <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/projects/{{post.projectimg}}" alt="project"></a>
 			                
-			                <p>{{post.meta}}</p>
-			                
-			            </div> <!-- menu item --> 
+			                    <h3>
+			                    	<a href="{{site.baseurl}}{{post.url}}">{{post.title}}
+			                    	</a>
+		                    	</h3>  
+				                
+				                <p>{{post.meta}}</p>
+				                
+				            </div> <!-- menu item --> 
 
 		           	            	        
-			        {% endif %}
+			       		 {% endif %}
 			        {% endfor %}
 		        
 	            </div> <!-- grid --> 

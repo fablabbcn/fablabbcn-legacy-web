@@ -1190,11 +1190,40 @@ iframe {
 
 }
 
+#project-body .claim {
+	font-size: 16px;
+	margin-bottom: 0;
+}
+
+#project-body .project-link {
+	margin: 5px 0 5px 0;
+	font-size: 18px;
+	font-weight: bold;;
+}
+
 #project-body  img {
 	display: block;
     margin-left: auto;
     margin-right: auto;
+   	margin-bottom: 30px;
+	margin-top: 30px;
 }
+
+#project-body  p {
+	margin-bottom: 7px;
+}
+
+#project-body  iframe {
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+
+#project-body  h1, #project-body  h2, #project-body  h3 {
+	color: #3d3d3d !important;
+	background: none !important;
+
+}
+
 
 @media (min-width: 668px) and (max-width: 991px) {
 	

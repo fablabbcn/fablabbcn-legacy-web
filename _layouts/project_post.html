@@ -53,10 +53,19 @@ layout: default
 	    <div class="container" id="project-body">
 		    	    
 				    <h2>{{page.title}}</h2>
-
-	                <p class="lead">by <a href="#">{{page.author}}</a></p>
 	                
-				    <p>{{page.meta}}</p>
+	                {% if page.author %} 	            	            
+					    <p class="lead">by <a href="#">{{page.author}}</a></p>
+			    	{% endif %}
+
+	                {% if page.url and page.niceurl %} 	            	            
+					    <div class="project-link">
+					    	<a href="{{page.url}}">{{page.niceurl}}</a>
+				    	</div>
+			    	{% endif %}
+
+
+				    <p class="claim">{{page.meta}}</p> 
 		   			    			    
 				    
 				    {{content}}					     					    			    		     		    		    
