@@ -136,7 +136,52 @@ iframe {
 }
 
 
+/* ========== Ribbon ======== */
 
+/*Beta Ribbon */
+
+.ribbon {
+  position: absolute;
+  left: 10px; top: 10px;
+  z-index: 1;
+  overflow: hidden;
+  width: 75px; height: 75px;
+  text-align: right;
+}
+.ribbon span {
+  font-size: 10px;
+  font-weight: bold;
+  color: #FFF;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 20px;
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  width: 100px;
+  display: block;
+  background: #003399;
+  position: absolute;
+  top: 19px; left: -21px;
+}
+
+.ribbon span::before {
+  content: "";
+  position: absolute; left: 0px; top: 100%;
+  z-index: -1;
+  border-left: 3px solid #000000;
+  border-right: 3px solid transparent;
+  border-bottom: 3px solid transparent;
+  border-top: 3px solid #000000;
+}
+.ribbon span::after {
+  content: "";
+  position: absolute; right: 0px; top: 100%;
+  z-index: -1;
+  border-left: 3px solid transparent;
+  border-right: 3px solid #000000;
+  border-bottom: 3px solid transparent;
+  border-top: 3px solid #000000;
+}
 
 /* ==== Navigation =============================================================  Navigation =============== */ 
 

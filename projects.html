@@ -34,13 +34,16 @@ layout: default
 		        <div id="grid" data-columns="4">		
 			                		         
 			        {% for post in site.posts limit: 500 %}
-	                {% if post.type == 'project' %}    	 	            	            
+	                {% if post.type == 'project' and post.subtype != 'eu'%}    	 	            	            
 		        		            
 			            <div class="menu-item">
 				            
 				            <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/projects/{{post.projectimg}}" alt="project"></a>
 		                
-		                    <h3><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>  
+		                    <h3>
+		                    	<a href="{{site.baseurl}}{{post.url}}">{{post.title}}
+		                    	</a>
+	                    	</h3>  
 			                
 			                <p>{{post.meta}}</p>
 			                
