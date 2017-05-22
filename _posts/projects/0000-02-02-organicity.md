@@ -1,7 +1,7 @@
 ---
 layout: project_post
 type: project
-subtype: eu
+subtype: eufeatured
 projectimg: eu_projects/oc-img.jpg
 squareimg: eu_projects/oc-thumnail.jpg
 url: http://organicity.eu/

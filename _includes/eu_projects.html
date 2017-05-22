@@ -4,6 +4,33 @@
 		    <div class="container">
 		    	<div class="row" id="content-blocks-row">
 
+		  		{% for post in site.posts limit: 500 %}
+		            {% if post.type == 'project' and post.subtype == 'eufeatured' %}  
+			    		
+			    	
+			    	<div class="col-md-3 col-sm-4" id="main-menu-button">
+				    	<div class="content-blocks-button">
+				    					                    
+			                <a href="{{site.baseurl}}{{post.url}}">
+
+				                <img src="{{site.baseurl}}/img/projects/{{post.squareimg}}" class="image-fade"/>
+							    <h2 class="content-blocks-text">{{post.title}}</h2>
+
+
+						    </a> 
+							
+							<div class="ribbon"><span>{{post.ribbon}}</span></div>
+
+				    	</div> 
+					</div>	
+					         	  	    				  
+
+					{% endif %}
+				{% endfor %}
+				
+				</div>
+
+				<div class="row" id="content-blocks-row">
 
 		  		{% for post in site.posts limit: 500 %}
 		            {% if post.type == 'project' and post.subtype == 'eu' %}  
@@ -12,15 +39,15 @@
 			    	<div class="col-md-3 col-sm-4" id="main-menu-button">
 				    	<div class="content-blocks-button">
 				    					                    
-		                <a href="{{site.baseurl}}{{post.url}}">
+			                <a href="{{site.baseurl}}{{post.url}}">
 
-			                <img src="{{site.baseurl}}/img/projects/{{post.squareimg}}" class="image-fade"/>
-						    <h2 class="content-blocks-text">{{post.title}}</h2>
+				                <img src="{{site.baseurl}}/img/projects/{{post.squareimg}}" class="image-fade"/>
+							    <h2 class="content-blocks-text">{{post.title}}</h2>
 
 
-					    </a> 
-						
-						<div class="ribbon"><span>{{post.ribbon}}</span></div>
+						    </a> 
+							
+							<div class="ribbon"><span>{{post.ribbon}}</span></div>
 
 				    	</div> 
 					</div>	

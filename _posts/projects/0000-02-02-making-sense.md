@@ -1,7 +1,7 @@
 ---
 layout: project_post
 type: project
-subtype: eu
+subtype: eufeatured
 projectimg: eu_projects/ms-img-1.jpg
 squareimg: eu_projects/ms-thumnail.jpg
 url: http://making-sense.eu/
@@ -22,8 +22,11 @@ Making Sense will show how open source software, open source hardware, digital m
 
 To achieve this, the project will develop a Making Sense Toolkit, based on the Smart Citizen platform, for bottom-up citizen science. The toolkit will be tested in pilots in Amsterdam, Barcelona and Prishtina, aiming to deepen our understanding on the processes enabling collective awareness.
 
+<img src="{{site.baseurl}}{{ site.url }}/img/projects/eu_projects/ms-img-2.jpg">
+
 Based on the pilots, we will develop a conceptual and methodological framework for participatory environmental maker practices. It will show how to provide citizens and communities with appropriate tools to enhance their everyday environmental awareness, to enable active intervention in their surroundings, and to change their individual and collective practices. And finally we will develop will develop a scientifically informed framework for citizen co-inquiry and action towards hands-on transformation of their surroundings.
 
+<img src="{{site.baseurl}}{{ site.url }}/img/projects/eu_projects/ms-img-1.jpg">
 
 <img src="{{site.baseurl}}{{ site.url }}/img/projects/eu_projects/ms-logo.png">
 
