@@ -19,7 +19,7 @@ They believe <strong><a href="http://aquapioneers.io/">Aquapioneers</a></strong>
 <strong><a href="http://aquapioneers.io/">Aquapioneers</a></strong> is an open source project born at the <strong><a href="http://greenfablab.org/">Green Fab Lab</a></strong>, from a combination of <strong><a href="https://www.facebook.com/guillaume.tess">Guillaume Teyssié</a></strong>’s open source aquaponic project during the <strong><a href="http://fabacademy.org/">FabAcademy</a></strong> 2016 and <strong><a href="https://www.facebook.com/loic.legoueff">Loic Legoueff</a></strong>’s <strong><a href="http://www.fertilecity.com/">master thesis</a></strong> in Aquaponics at <strong><a href="http://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html">Universidad Autonoma de Barcelona</a></strong>.<br><br> 
 
 
-To help them launch their production in Barcelona, without compromising the Open Source nature of the project, on 7th of June  at <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> will launch a Crowdfunding campaign.<br><br> 
+To help them launch their production in Barcelona, without compromising the Open Source nature of the project, on 7th of June  at <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> they will launch a Crowdfunding campaign.<br><br> 
 
 For the occasion, they will organized a Vietnamese cooking workshop using the first harvests of the <strong><a href="http://aquapioneers.io/">Aquapioneers</a></strong> kits.<br><br> 
 
