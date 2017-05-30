@@ -16,7 +16,7 @@ category: news
 
 We believe Aquapioneers will contribute to the growing urban farming movement in Barcelona. We envision a future where Barcelona’s citizens source most of their food from local farmers, from their rooftops, and from inside their own homes. We are committed to change the future of food, and we're proud to start with the Aquapioneers Ecosystem.
 
-This cultivation technique is called Acuaponics and Reduces water consumption by up to 90% compared to a conventional agriculture.<br><br> 
+This cultivation technique is called Acuaponics and reduces water consumption by up to 90% compared to a conventional agriculture.<br><br> 
 
 <strong><a href="http://aquapioneers.io/">Aquapioneers</a></strong> is an open source project born at the <strong><a href="http://greenfablab.org/">Green Fab Lab</a></strong>, from a combination of <strong><a href="https://www.facebook.com/guillaume.tess">Guillaume Teyssié</a></strong>’s open source aquaponic project during the <strong><a href="http://fabacademy.org/">FabAcademy</a></strong> 2016 and <strong><a href="https://www.facebook.com/loic.legoueff">Loic Legoueff</a></strong>’s <strong><a href="http://www.fertilecity.com/">master thesis</a></strong> in Aquaponics at Universidad Autonoma de Barcelona.<br><br> 
 
