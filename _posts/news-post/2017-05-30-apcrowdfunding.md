@@ -12,9 +12,9 @@ category: news
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/aquapioneerscrowdfunding/apcrowdfunding1.jpg" align="middle"> 
 <br>
 
-"Hello we are Loic and Guillaume, co-founders of Aquapioneers, dreamers and we use fish poo to grow organic veg. We are not joking!" by  <strong><a href="https://www.facebook.com/loic.legoueff">Loïc Le Goueff / <strong><a href="https://www.facebook.com/guillaume.tess">Guillaume Tess (<strong><a href="http://aquapioneers.io/">Aquapioneers</a></strong>)<br><br> 
+"Hello we are Loic and Guillaume, co-founders of Aquapioneers, dreamers and we use fish poo to grow organic veg. We are not joking!" by  <strong><a href="https://www.facebook.com/loic.legoueff">Loïc Le Goueff / <strong><a href="https://www.facebook.com/guillaume.tess">Guillaume Teyssié</a></strong> (<strong><a href="http://aquapioneers.io/">Aquapioneers</a></strong>)<br><br> 
 
-They believe <strong><a href="http://aquapioneers.io/">Aquapioneers</a></strong> will contribute to the growing urban farming movement in Barcelona. The envision a future where Barcelona’s citizens source most of their food from local farmers, from their rooftops, and from inside their own homes. They are committed to change the future of food, and they are proud to start with the <strong><a href="http://aquapioneers.io/">Aquapioneers Ecosystem</a></strong>.
+They believe <strong><a href="http://aquapioneers.io/">Aquapioneers</a></strong> will contribute to the growing urban farming movement in Barcelona. The envision a future where Barcelona’s citizens source most of their food from local farmers, from their rooftops, and from inside their own homes. They are committed to change the future of food, and they are proud to start with the <strong><a href="http://aquapioneers.io/">Aquapioneers Ecosystem</a></strong>.<br><br> 
 
 This cultivation technique is called Acuaponics and reduces water consumption by up to 90% compared to a conventional agriculture.<br><br> 
 
