@@ -9,7 +9,7 @@ author: Marco Sanalitro
 date: 30/05/2017 
 category: news
 ---
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/aquapioneerscrowdfunding/apcrowdfunding.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/aquapioneerscrowdfunding/apcrowdfunding1.jpg" align="middle"> 
 <br>
 
 "Hello we are Loic and Guillaume, co-founders of Aquapioneers, dreamers and we use fish poo to grow organic veg. We are not joking!" by  <strong><a href="https://www.facebook.com/loic.legoueff">Loïc Le Goueff / <strong><a href="https://www.facebook.com/guillaume.tess">Guillaume Tess (<strong><a href="http://aquapioneers.io/">Aquapioneers</a></strong>)<br><br> 
