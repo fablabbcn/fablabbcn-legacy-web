@@ -1,18 +1,18 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/morethanhoney/morethanhoneysmall.jpg
-teaserlist: blog_loop_latest/morethanhoney/morethanhoneysmall.jpg
-title: More than Honey, B-Project
-meta: "28th of May Needlab, in collaboration with Opensource Beehives, Fabcity Research Lab and with Think Peace-World will organize a fundraising event to build an apiary to develop a sustainable community in Araku valley, Andhra Pradesh and India. Join us and adopt a Hive to initiate change!"
+teaserlatest: blog_loop_latest/aquapioneerscrowdfunding/apcrowdfundingsmall.jpg
+teaserlist: blog_loop_latest/aquapioneerscrowdfunding/apcrowdfundingsmall.jpg
+title: Aquapioneers, crowdfunding campaign
+meta: "To help them launch their production in Barcelona, without compromising the Open Source nature of the project, on 7th of June  at Fab Lab Barcelona</a></strong> will launch a Crowdfunding campaign.<br><br>"
 author: Marco Sanalitro
 date: 16/05/2017 
 category: news
 ---
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/morethanhoney/morethanhoney1.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/aquapioneerscrowdfunding/apcrowdfunding.jpg" align="middle"> 
 <br>
 
-"Hola! Somos Loïc Le Goueff y Guillaume Tess, fundadores de Aquapioneers, somos unos soñadores y queremos revolucionar la agricultura urbana en Barcelona usando excrementos de pez. Y no es broma." by  <strong><a href="https://www.facebook.com/loic.legoueff">Loïc Le Goueff / <strong><a href="https://www.facebook.com/guillaume.tess">Guillaume Tess (<strong><a href="http://aquapioneers.io/">Aquapioneers</a></strong>)<br><br> 
+"Hi! We are Loïc Le Goueff y Guillaume Tess, founders of Aquapioneers, we are dreamers and we want somos unos soñadores y to revolutionize urban agriculture in Barcelona using fish excrement. We are not joking!" by  <strong><a href="https://www.facebook.com/loic.legoueff">Loïc Le Goueff / <strong><a href="https://www.facebook.com/guillaume.tess">Guillaume Tess (<strong><a href="http://aquapioneers.io/">Aquapioneers</a></strong>)<br><br> 
 
 This cultivation technique is called Acuapony and Reduces water consumption by up to 90% compared to a traditional vegetable garden.<br><br> 
 
