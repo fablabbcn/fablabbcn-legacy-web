@@ -17,7 +17,7 @@ As part of the opening celebrations of <strong><a href="http://barcelona.makerfa
 <strong>LECTURE 7:00 PM</strong> - <strong><a href="http://n-e-r-v-o-u-s.com/">NERVOUS SYSTEM</a></strong> <br><br>
 
 <strong>JESSICA ROSENKRANTZ AND JESSE LOUIS-ROSENBERG</strong> <br>
-<strong><a href="http://n-e-r-v-o-u-s.com/">Nervous System</a></strong> is a <strong>generative design studio</strong> that works at the <strong>intersection of science, art, and technology</strong>. Designers <strong>Jessica Rosenkrantz and <strong>Jesse Louis-Rosenberg</strong> explore how simulations of natural processes can be used in design and coupled with digital fabrication to create one-of-a-kind, customized products.<br><br>
+<strong><a href="http://n-e-r-v-o-u-s.com/">Nervous System</a></strong> is a <strong>generative design studio</strong> that works at the <strong>intersection of science, art, and technology</strong>. Designers <strong>Jessica Rosenkrantz</strong> and <strong>Jesse Louis-Rosenberg</strong> explore how simulations of natural processes can be used in design and coupled with digital fabrication to create one-of-a-kind, customized products.<br><br>
 
 <strong>CONCERT 8:30 PM</strong> - <strong><a href="http://nstruction.co/">CONSTRUCTION</a></strong> <br><br>
 
