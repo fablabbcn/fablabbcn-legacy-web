@@ -6,7 +6,7 @@ teaserlist: blog_loop_latest/makerfaire17/smallpreopeningmfbcn171.jpg
 title: Maker Faire Barcelona Pre-opening 2017
 meta: "Fab Lab Barcelona and IAAC will host a big event on June 16th with special guests Nervous System and Construction. A Night of Live Music and Digital fabrication to celebrate the opening of the 1st Edition of Maker Faire BCN."
 author: Marco Sanalitro
-date: 30/05/2017 
+date: 02/06/2017 
 category: news
 ---
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/makerfaire17/preopeningmfbcn171.jpg" align="middle"> 
