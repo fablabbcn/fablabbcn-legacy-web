@@ -33,7 +33,7 @@ In the field of <strong>sustainability</strong>, <strong>food ecosystems</strong
  
 Also <strong><a href="https://www.facebook.com/loic.legoueff">Jonathan Minchin</a></strong> (<strong><a href="https://www.facebook.com/loic.legoueff">Green Fab Lab</a></strong>) presented  in the Pavelló Italia, the <strong><a href="https://www.facebook.com/loic.legoueff">Zero Series Workshops</a></strong> which take place at the <strong><a href="https://www.facebook.com/loic.legoueff">Valldaura laboratories</a></strong> for Self-sufficiency, engaging in practical introductions to the fields of <strong>Digital Fabrication, Biology, Forestry and Agroecology</strong>.
  
-The conferences program ended with the talks on “Embedding Digital and Bio Technology in Fashion”</strong> moderated by <strong><a href="https://www.facebook.com/loic.legoueff">Anastasia Pistofidou</a></strong> (<strong><a href="https://www.facebook.com/loic.legoueff">Fab Textiles</a></strong>) and the remarkable lectures given by <strong><a href="https://www.facebook.com/loic.legoueff">Zoe Romano</a></strong> (<strong><a href="https://www.facebook.com/loic.legoueff">WeMake</a></strong>) and <strong><a href="https://www.facebook.com/loic.legoueff">Aldo Sollazzo</a></strong> (<strong><a href="https://www.facebook.com/loic.legoueff">Noumena</a></strong>), who will be instructors at the newly created <strong><a href="https://www.facebook.com/loic.legoueff">Fabricademy</a></strong> next September.
+The conferences program ended with the talks on <strong>“Embedding Digital and Bio Technology in Fashion”</strong> moderated by <strong><a href="https://www.facebook.com/loic.legoueff">Anastasia Pistofidou</a></strong> (<strong><a href="https://www.facebook.com/loic.legoueff">Fab Textiles</a></strong>) and the remarkable lectures given by <strong><a href="https://www.facebook.com/loic.legoueff">Zoe Romano</a></strong> (<strong><a href="https://www.facebook.com/loic.legoueff">WeMake</a></strong>) and <strong><a href="https://www.facebook.com/loic.legoueff">Aldo Sollazzo</a></strong> (<strong><a href="https://www.facebook.com/loic.legoueff">Noumena</a></strong>), who will be instructors at the newly created <strong><a href="https://www.facebook.com/loic.legoueff">Fabricademy</a></strong> next September.
 
  
 FAB LAB BARCELONA WORKSHOPS
@@ -55,20 +55,7 @@ ________________________________________________________________
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/aquapioneerscrowdfunding/apcrowdfunding1.jpg" align="middle"> 
 <br>
 
-"Hello we are Loic and Guillaume, co-founders of Aquapioneers, dreamers and we use fish poo to grow organic veg. We are not joking!" by  <strong><a href="https://www.facebook.com/loic.legoueff">Loïc Le Goueff / <strong><a href="https://www.facebook.com/guillaume.tess">Guillaume Teyssié</a></strong> (<strong><a href="http://aquapioneers.io/">Aquapioneers</a></strong>)<br><br> 
 
-They believe <strong><a href="http://aquapioneers.io/">Aquapioneers</a></strong> will contribute to the growing urban farming movement in Barcelona. The envision a future where Barcelona’s citizens source most of their food from local farmers, from their rooftops, and from inside their own homes. They are committed to change the future of food, and they are proud to start with the <strong><a href="http://aquapioneers.io/">Aquapioneers Ecosystem</a></strong>. This cultivation technique is called Aquaponics and reduces water consumption by up to 90% compared to conventional agriculture.<br><br> 
-
-<strong><a href="http://aquapioneers.io/">Aquapioneers</a></strong> is an open source project born at the <strong><a href="http://greenfablab.org/">Green Fab Lab</a></strong>, from a combination of <strong><a href="https://www.facebook.com/guillaume.tess">Guillaume Teyssié</a></strong>’s <strong>open source aquaponic project</strong> during the <strong><a href="http://fabacademy.org/">FabAcademy</a></strong> 2016 and <strong><a href="https://www.facebook.com/loic.legoueff">Loic Legoueff</a></strong>’s <strong><a href="http://www.fertilecity.com/">master thesis</a></strong> in Aquaponics at <strong><a href="http://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html">Universidad Autonoma de Barcelona</a></strong>.<br><br> 
-
-
-To help them launch their production in Barcelona, without compromising the Open Source nature of the project, on 7th of June  at <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> they will launch a Crowdfunding campaign.<br><br> 
-
-For the occasion, they will organized a Vietnamese cooking workshop using the first harvests of the <strong><a href="http://aquapioneers.io/">Aquapioneers</a></strong> kits.<br><br> 
-
-For more information about the launch event register <strong><a href="https://www.facebook.com/events/221763368326171/?acontext=%7B%22action_history%22%3A%22[%7B%5C%22surface%5C%22%3A%5C%22page%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22page_upcoming_events_card%5C%22%2C%5C%22extra_data%5C%22%3A[]%7D]%22%2C%22has_source%22%3Atrue%7D">HERE</a></strong><br><br> 
-
-<iframe width="720" height="315" src="https://www.youtube.com/embed/NIotF-8vEBo" frameborder="0" allowfullscreen></iframe>
 
 
 
