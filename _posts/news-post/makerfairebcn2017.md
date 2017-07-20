@@ -3,12 +3,15 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/aquapioneerscrowdfunding/apcrowdfundingsmall.jpg
 teaserlist: blog_loop_latest/aquapioneerscrowdfunding/apcrowdfundingsmall.jpg
-title: Aquapioneers, Crowdfunding Campaign Opening
+title: Fab Lab BCN @ Maker Faire BCN 2017
 meta: "7th of June at Fab Lab Barcelona do not miss the Crowdfunding Campaign Opening of Aquapioneers. Help them to change the future of food in Barcelona with the launch of the open source Aquaponics Kit: the Aquapioneers Ecosystem."
 author: Marco Sanalitro
-date: 30/05/2017 
+date: 20/07/2017 
 category: news
 ---
+
+<iframe width="720" height="315" src="https://www.youtube.com/embed/kfUr7YGyc1w" frameborder="0" allowfullscreen></iframe>
+
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/aquapioneerscrowdfunding/apcrowdfunding1.jpg" align="middle"> 
 <br>
 
