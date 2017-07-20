@@ -14,58 +14,43 @@ category: news
 
 FAB LAB BARCELONA: A KEY PLAYER IN THE FIRST EDITION OF MAKER FAIRE BARCELONA
 
-Last 17th and 18th of June Barcelona welcomed the first edition of the Maker Faire BCN 2017, one of the most innovative and famous events about the maker movement. More than 12.000 people visited the Pavelló Itàlia in Montjuic, the expo area where the faire took place, demonstrating the roaring success of this event aiming to bring together passionate creators, visionary inventors, local and international makers, families, children, friends and curios people visiting Barcelona. 
+Last 17th and 18th of June Barcelona welcomed the first edition of the <strong><a href="https://www.facebook.com/loic.legoueff">Maker Faire BCN 2017</a></strong>, one of the most innovative and famous events about the maker movement. More than 12.000 people visited the Pavelló Itàlia in Montjuic, the expo area where the faire took place, demonstrating the roaring success of this event aiming to bring together passionate creators, visionary inventors, local and international makers, families, children, friends and curios people visiting Barcelona. 
 
-Maker Faire BCN filled the place with 100 makers, 20 live demos, 70 speakers and 30 workshops, all of them open and free to the public. The exhibition in Pavelló Itàlia was complemented with a lineup of leading experts in technology, digital, smart cities and the Maker culture giving conferences at CaixaFòrum.
+<strong><a href="https://www.facebook.com/loic.legoueff">Maker Faire BCN</a></strong> filled the place with 100 makers, 20 live demos, 70 speakers and 30 workshops, all of them open and free to the public. The exhibition in Pavelló Itàlia was complemented with a lineup of leading experts in technology, digital, smart cities and the Maker culture giving conferences at <strong><a href="https://www.facebook.com/loic.legoueff">CaixaFòrum</a></strong>.
 
-Fab Lab Barcelona was a core part of this event and participated in this 1st edition with recent and successful projects and several workshops for the public:
-
-
-·   	Making Sense (foto)
- 
-·   	Make-IT (foto)
- 
-·   	Fab Academy (foto)
- 
-·   	FabKids (foto)
- 
-·   	Open Source Beehives and Zero Series (foto)
- 
-·   	Aquapioneers (foto)
- 
-·   	FabTextiles (foto)
+<strong><a href="https://www.facebook.com/loic.legoueff">Fab Lab Barcelona</a></strong> was a core part of this event and participated in this 1st edition with recent and successful projects and several workshops for the public: <strong><a href="https://www.facebook.com/loic.legoueff">Making Sense</a></strong>, <strong><a href="https://www.facebook.com/loic.legoueff">Make-IT</a></strong>, <strong><a href="https://www.facebook.com/loic.legoueff">Fab Academy</a></strong>, <strong><a href="https://www.facebook.com/loic.legoueff">FabKids</a></strong>, <strong><a href="https://www.facebook.com/loic.legoueff">Open Source Beehives</a></strong> and <strong><a href="https://www.facebook.com/loic.legoueff">Zero Series</a></strong>, <strong><a href="https://www.facebook.com/loic.legoueff">Aquapioneers</a></strong> and <strong><a href="https://www.facebook.com/loic.legoueff">FabTextiles</a></strong>.
  
 
 FAB LAB BARCELONA CONFERENCES & TALKS
  
-Fab Lab Barcelona contributed to the 1st edition of Maker Faire Barcelona with a wide range of interesting talks and workshops. Makers and experts in technology and innovation offered some highlights to the audience for a sustainable present and future for societies.
+<strong><a href="https://www.facebook.com/loic.legoueff">Fab Lab Barcelona</a></strong> contributed to the 1st edition of <strong><a href="https://www.facebook.com/loic.legoueff">Maker Faire Barcelona</a></strong> with a wide range of interesting talks and workshops. Makers and experts in technology and innovation offered some highlights to the audience for a sustainable present and future for societies.
  
-For instance, Tomás Diez (Fab City Research Lab Director) moderated the conference “Locally Productive, Globally Connected Self-sufficient Cities” and Mara Balestrini (Making Sense Project Leader) presented the European initiative Making Sense about tackling noise pollution in Barcelona with the help of citizen technology such as the Smart Citizen kit sensors.
+For instance, <strong><a href="https://www.facebook.com/loic.legoueff">Tomás Diez</a></strong> (<strong><a href="https://www.facebook.com/loic.legoueff">Fab City Research Lab Director</a></strong>) moderated the conference “Locally Productive, Globally Connected Self-sufficient Cities” and <strong><a href="https://www.facebook.com/loic.legoueff">Mara Balestrini</a></strong> (<strong><a href="https://www.facebook.com/loic.legoueff">Making Sense Project Leader</a></strong>) presented the European initiative <strong><a href="https://www.facebook.com/loic.legoueff">Making Sense</a></strong> about tackling noise pollution in Barcelona with the help of citizen technology such as the <strong><a href="https://www.facebook.com/loic.legoueff">Smart Citizen kit</a></strong> sensors.
 
-Santiago Fuentemilla, FabKids BCN and Fab Academy Coordinator, gave the most educational touch within the array of conference with his presentation on “Learning How to Learn” about his experience as a tutor and instructor on digital fabrication to adults and children.
+<strong><a href="https://www.facebook.com/loic.legoueff">Santiago Fuentemilla</a></strong>, <strong><a href="https://www.facebook.com/loic.legoueff">FabKids BCN</a></strong> and <strong><a href="https://www.facebook.com/loic.legoueff">Fab Academy</a></strong> Coordinator, gave the most educational touch within the array of conference with his presentation on <strong>“Learning How to Learn”</strong> about his experience as a tutor and instructor on digital fabrication to adults and children.
  
-In the field of sustainability, food ecosystems and technologies for local production, it should be noted the presence of Green Fab Lab project Aquapioneers, developed by Guillaume Teyssié, which shows how to revolutionise urban farming in Barcelona. In this line, Ivan Enriguez was in charge of presenting the project Leka Honest Food, an Open Source Restaurant conceptualized, designed and developed in the Fab Lab Barcelona.  
+In the field of <strong>sustainability</strong>, <strong>food ecosystems</strong> and <strong>technologies for local production</strong>, it should be noted the presence of <strong><a href="https://www.facebook.com/loic.legoueff">Green Fab Lab</a></strong> project <strong><a href="https://www.facebook.com/loic.legoueff">Aquapioneers</a></strong>, developed by <strong><a href="https://www.facebook.com/loic.legoueff">Guillaume Teyssié</a></strong>, which shows how to revolutionise urban farming in Barcelona. In this line, Ivan Enriguez was in charge of presenting the project <strong><a href="https://www.facebook.com/loic.legoueff">Leka Honest Food</a></strong>, an Open Source Restaurant conceptualized, designed and developed in the <strong><a href="https://www.facebook.com/loic.legoueff">Fab Lab Barcelona</a></strong>.  
  
-Also Jonathan Minchin (Green Fab Lab) presented  in the Pavelló Italia, the Zero Series Workshops which take place at the Valldaura laboratories for Self-sufficiency, engaging in practical introductions to the fields of Digital Fabrication, Biology, Forestry and Agroecology.
+Also <strong><a href="https://www.facebook.com/loic.legoueff">Jonathan Minchin</a></strong> (<strong><a href="https://www.facebook.com/loic.legoueff">Green Fab Lab</a></strong>) presented  in the Pavelló Italia, the <strong><a href="https://www.facebook.com/loic.legoueff">Zero Series Workshops</a></strong> which take place at the <strong><a href="https://www.facebook.com/loic.legoueff">Valldaura laboratories</a></strong> for Self-sufficiency, engaging in practical introductions to the fields of <strong>Digital Fabrication, Biology, Forestry and Agroecology</strong>.
  
-The conferences program ended with the talks on “Embedding Digital and Bio Technology in Fashion” moderated by Anastasia Pistofidou (Fab Textiles) and the remarkable lectures given by Zoe Romano (WeMake) and Aldo Sollazzo (Noumena), who will be instructors at the newly created Fabricademy next September.
+The conferences program ended with the talks on “Embedding Digital and Bio Technology in Fashion”</strong> moderated by <strong><a href="https://www.facebook.com/loic.legoueff">Anastasia Pistofidou</a></strong> (<strong><a href="https://www.facebook.com/loic.legoueff">Fab Textiles</a></strong>) and the remarkable lectures given by <strong><a href="https://www.facebook.com/loic.legoueff">Zoe Romano</a></strong> (<strong><a href="https://www.facebook.com/loic.legoueff">WeMake</a></strong>) and <strong><a href="https://www.facebook.com/loic.legoueff">Aldo Sollazzo</a></strong> (<strong><a href="https://www.facebook.com/loic.legoueff">Noumena</a></strong>), who will be instructors at the newly created <strong><a href="https://www.facebook.com/loic.legoueff">Fabricademy</a></strong> next September.
 
  
 FAB LAB BARCELONA WORKSHOPS
  
-Our Fab Lab not only had the opportunity to enjoy a first-role presence in the conference and talks program but also to be a key part of the organization of workshops for the curious public attending the Maker Faire Barcelona. Here you can find some interesting examples of the sessions planned linked to Fab Lab Barcelona current projects:
+Our <strong><a href="https://www.facebook.com/loic.legoueff">Fab Lab</a></strong> not only had the opportunity to enjoy a first-role presence in the conference and talks program but also to be a key part of the organization of workshops for the curious public attending the <strong><a href="https://www.facebook.com/loic.legoueff">Maker Faire Barcelona</a></strong>. Here you can find some interesting examples of the sessions planned linked to <strong><a href="https://www.facebook.com/loic.legoueff">Fab Lab Barcelona</a></strong> current projects:
  
-Learning how to fold a Parametric Paper Origami Hat and creating Jewelry with Bioplastic collection waste (Fabtextiles)
+Learning how to fold a <strong>Parametric Paper Origami Hat</strong> and creating <strong>Jewelry with Bioplastic collection</strong> waste (<strong><a href="https://www.facebook.com/loic.legoueff">Fabtextiles</a></strong>)
              	
-How Labs become relevant  (MAKE-IT): This workshop provided participants with hands-on tools for understanding their stakeholders on what actual “job” they are hiring the lab to get done, through the frameworks of value proposition design and customer development.         	
+<strong>How Labs become relevant</strong>  (<strong><a href="https://www.facebook.com/loic.legoueff">MAKE-IT</a></strong>): This workshop provided participants with hands-on tools for understanding their stakeholders on what actual “job” they are hiring the lab to get done, through the frameworks of value proposition design and customer development.         	
               	
-Reaching out inclusive maker spaces (MAKE-IT):  In this interactive session participants imagined how an ideal inclusive maker space would look like and think of how to reach out to people who hardly find their way to the maker space.
+<strong>Reaching out inclusive maker spaces</strong> (<strong><a href="https://www.facebook.com/loic.legoueff">MAKE-IT</a></strong>):  In this interactive session participants imagined how an ideal inclusive maker space would look like and think of how to reach out to people who hardly find their way to the maker space.
      	              	
-Sustainable Business Model for Labs (MAKE-IT): Every lab and makers space faces the challenges of obtaining appropriate funding and financial sustainability. This workshop helped lab managers to explore the commercial opportunities within their own lab.
+<strong>Sustainable Business Model for Labs</strong> (<strong><a href="https://www.facebook.com/loic.legoueff">MAKE-IT</a></strong>): Every lab and makers space faces the challenges of obtaining appropriate funding and financial sustainability. This workshop helped lab managers to explore the commercial opportunities within their own lab.
  
-Facilitation of Idea Validation (MAKE-IT): This workshop gave participants the tools and techniques on how to validate the things creators make and help lab users in their idea processes.
+<strong>Facilitation of Idea Validation</strong> (<strong><a href="https://www.facebook.com/loic.legoueff">MAKE-IT</a></strong>): This workshop gave participants the tools and techniques on how to validate the things creators make and help lab users in their idea processes.
 
-
+________________________________________________________________
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/aquapioneerscrowdfunding/apcrowdfunding1.jpg" align="middle"> 
 <br>
@@ -74,7 +59,7 @@ Facilitation of Idea Validation (MAKE-IT): This workshop gave participants the t
 
 They believe <strong><a href="http://aquapioneers.io/">Aquapioneers</a></strong> will contribute to the growing urban farming movement in Barcelona. The envision a future where Barcelona’s citizens source most of their food from local farmers, from their rooftops, and from inside their own homes. They are committed to change the future of food, and they are proud to start with the <strong><a href="http://aquapioneers.io/">Aquapioneers Ecosystem</a></strong>. This cultivation technique is called Aquaponics and reduces water consumption by up to 90% compared to conventional agriculture.<br><br> 
 
-<strong><a href="http://aquapioneers.io/">Aquapioneers</a></strong> is an open source project born at the <strong><a href="http://greenfablab.org/">Green Fab Lab</a></strong>, from a combination of <strong><a href="https://www.facebook.com/guillaume.tess">Guillaume Teyssié</a></strong>’s open source aquaponic project during the <strong><a href="http://fabacademy.org/">FabAcademy</a></strong> 2016 and <strong><a href="https://www.facebook.com/loic.legoueff">Loic Legoueff</a></strong>’s <strong><a href="http://www.fertilecity.com/">master thesis</a></strong> in Aquaponics at <strong><a href="http://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html">Universidad Autonoma de Barcelona</a></strong>.<br><br> 
+<strong><a href="http://aquapioneers.io/">Aquapioneers</a></strong> is an open source project born at the <strong><a href="http://greenfablab.org/">Green Fab Lab</a></strong>, from a combination of <strong><a href="https://www.facebook.com/guillaume.tess">Guillaume Teyssié</a></strong>’s <strong>open source aquaponic project</strong> during the <strong><a href="http://fabacademy.org/">FabAcademy</a></strong> 2016 and <strong><a href="https://www.facebook.com/loic.legoueff">Loic Legoueff</a></strong>’s <strong><a href="http://www.fertilecity.com/">master thesis</a></strong> in Aquaponics at <strong><a href="http://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html">Universidad Autonoma de Barcelona</a></strong>.<br><br> 
 
 
 To help them launch their production in Barcelona, without compromising the Open Source nature of the project, on 7th of June  at <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> they will launch a Crowdfunding campaign.<br><br> 
