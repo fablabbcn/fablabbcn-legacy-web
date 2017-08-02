@@ -1,8 +1,8 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/makerfaire17/smallpreopeningmfbcn171.jpg
-teaserlist: blog_loop_latest/makerfaire17/smallpreopeningmfbcn171.jpg
+teaserlatest: blog_loop_latest/aortas/aortassmall.jpg
+teaserlist: blog_loop_latest/aortas/aortassmall.jpg
 title: Fab lab Barcelona prints aortas in 3D for Badalona's Hospital surgery practices
 meta: "Fab Lab Barcelona and Badalona’s Hospital collaborate together in 3D printing aortic aneurysms for clinical surgery trials"
 author: Marco Sanalitro
