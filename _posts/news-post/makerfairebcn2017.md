@@ -73,11 +73,6 @@ Learning how to fold a <strong>Parametric Paper Origami Hat</strong> and creatin
  
 <strong>Facilitation of Idea Validation</strong> (<strong><a href="http://make-it.io/">MAKE-IT</a></strong>): This workshop gave participants the tools and techniques on how to validate the things creators make and help lab users in their idea processes.<br><br>
 
-________________________________________________________________
-
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/aquapioneerscrowdfunding/apcrowdfunding1.jpg" align="middle"> 
-<br>
-
 
 
 
