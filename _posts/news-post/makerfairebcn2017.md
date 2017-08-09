@@ -31,21 +31,21 @@ Last 17th and 18th of June Barcelona welcomed the first edition of the <strong><
 
 FAB LAB BARCELONA CONFERENCES & TALKS<br><br>
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/makerfaire17/makerfaire175.jpg" align="middle"> 
-<br>
-
 <strong><a href="http://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> contributed to the 1st edition of <strong><a href="http://barcelona.makerfaire.com/">Maker Faire Barcelona</a></strong> with a wide range of interesting talks and workshops. Makers and experts in technology and innovation offered some highlights to the audience for a sustainable present and future for societies.<br><br>
+ 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/makerfaire17/makerfaire175.jpg" align="middle"> 
+<br> 
  
 For instance, <strong><a href="http://fablabbcn.org/about_us.html">Tomás Diez</a></strong> (<strong><a href="http://fab.city/">Fab City Research Lab Director</a></strong>) moderated the conference “Locally Productive, Globally Connected Self-sufficient Cities” and <strong><a href="http://fablabbcn.org/about_us.html">Mara Balestrini</a></strong> (<strong><a href="http://making-sense.eu/">Making Sense Project Leader</a></strong>) presented the European initiative <strong><a href="http://making-sense.eu/">Making Sense</a></strong> about tackling noise pollution in Barcelona with the help of citizen technology such as the <strong><a href="https://smartcitizen.me/">Smart Citizen kit</a></strong> sensors.<br><br>
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/makerfaire17/makerfaire176.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/makerfaire17/makerfaire177.jpg" align="middle"> 
 <br>
 
 <strong><a href="http://fablabbcn.org/about_us.html">Santiago Fuentemilla</a></strong>, <strong><a href="http://fablabbcn.org/event/2017/04/26/programafabkids.html">FabKids BCN</a></strong> and <strong><a href="http://fabacademy.org/">Fab Academy</a></strong> Coordinator, gave the most educational touch within the array of conference with his presentation on <strong>“Learning How to Learn”</strong> about his experience as a tutor and instructor on digital fabrication to adults and children.<br><br>
  
 In the field of <strong>sustainability</strong>, <strong>food ecosystems</strong> and <strong>technologies for local production</strong>, it should be noted the presence of <strong><a href="http://greenfablab.org/">Green Fab Lab</a></strong> project <strong><a href="http://aquapioneers.io/">Aquapioneers</a></strong>, developed by <strong><a href="https://www.facebook.com/guillaume.tess?hc_ref=ARQSXGZMT7imbpcThyxdlc_U84M9zlAzzPh0ktq7Jdg6-oDHN9GDFVq4i4c_2z-ZYL0&fref=nf">Guillaume Teyssié</a></strong>, which shows how to revolutionise urban farming in Barcelona. In this line, Ivan Enriguez was in charge of presenting the project <strong><a href="http://www.restauranteleka.com/honest-food">Leka Honest Food</a></strong>, an Open Source Restaurant conceptualized, designed and developed in the <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong>.<br><br>  
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/makerfaire17/makerfaire177.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/makerfaire17/makerfaire176.jpg" align="middle"> 
 <br>
 
 Also <strong><a href="https://fablabbcn.org/about_us.html">Jonathan Minchin</a></strong> (<strong><a href="http://greenfablab.org/">Green Fab Lab</a></strong>) presented  in the Pavelló Italia, the <strong><a href="https://https://fablabbcn.org/event/2017/01/21/zeroseries.html">Zero Series Workshops</a></strong> which take place at the <strong><a href="http://valldaura.net/">Valldaura laboratories</a></strong> for Self-sufficiency, engaging in practical introductions to the fields of <strong>Digital Fabrication, Biology, Forestry and Agroecology</strong>.<br><br>
