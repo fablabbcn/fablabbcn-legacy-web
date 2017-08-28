@@ -28,7 +28,7 @@ This summer <strong><a href="http://www.needlab.org/">Needlab</a></strong> and <
 
 You can help this Project and <strong>adopt a hive</strong> which will in turn fund the installation of the bee-hives in the apiary. The donor's name will be displayed on the bee-hive and they can monitor the health of the hive they have adopted, by looking at the sensor data on the <strong><a href="http://www.needlab.org/">Needlab</a></strong> Website.
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/Bproject/Bproject4" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/Bproject/Bproject4.jpg" align="middle"> 
 <br>
 
 <strong><a href="http://www.needlab.org/">Needlab</a></strong> is a non-profit organization working with different communities in the world targeting human centered design and skill development for communities. 
