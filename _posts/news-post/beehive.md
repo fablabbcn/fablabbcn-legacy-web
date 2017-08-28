@@ -10,8 +10,6 @@ date: 28/08/2017
 category: news
 ---
 
-<iframe width="720" height="315" src="https://www.youtube.com/embed/kfUr7YGyc1w" frameborder="0" allowfullscreen></iframe>
-
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/makerfaire17/makerfaire176.jpg" align="middle"> 
 <br>
 
