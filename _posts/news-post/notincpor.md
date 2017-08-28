@@ -3,7 +3,7 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/notincpor/notincporsmall.jpg
 teaserlist: blog_loop_latest/notincpor/notincporsmall.jpg
-title: Fab Lab BCN Condemns the terrorist attack in Barcelona: WE stand United for PEACE
+title: Fab Lab BCN Condemns the terrorist attack in Barcelona: we stand united for PEACE
 meta: "The entire Fab Lab BCN community is saddened by the terrorist attack in Barcelona. We express our support and solidarity with the victims and their families"
 author: Marco Sanalitro
 date: 18/08/2017 
