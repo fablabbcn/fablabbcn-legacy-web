@@ -18,7 +18,7 @@ category: news
 
 The aim of <strong><a href="http://www.needlab.org/">B_project</a></strong> is to Make and install beehives for the apiary, which will generate income for the livelihood of the tribe in <strong>Araku valley</strong>, <strong>India</strong>.
 
-This project was done by <strong><a href="http://www.needlab.org/">Needlab</a></strong> in collaboration with <strong><a href="http://barcelona.makerfaire.com/">Fablab Barcelona</a></strong>, <strong><a href="https://www.osbeehives.com/">OSBH</a></strong>, <strong><a href="https://www.facebook.com/ThinkPeaceworld/">Thinkpeace- world</a></strong>.
+This project was designed and developed by <strong><a href="http://www.needlab.org/">Needlab</a></strong> in collaboration with <strong><a href="http://barcelona.makerfaire.com/">Fablab Barcelona</a></strong>, <strong><a href="https://www.osbeehives.com/">OSBH</a></strong>, <strong><a href="https://www.facebook.com/ThinkPeaceworld/">Thinkpeace- world</a></strong>.
 
 This summer <strong><a href="http://www.needlab.org/">Needlab</a></strong> and <strong><a href="https://www.osbeehives.com/">Open Source Beehives</a></strong> visited <strong>Araku valley</strong> and started a dialog with the tribal community. They learned a lot about the tribal community, their lifestyle to live in harmony with nature by following organic farming and Beekeeping. 
 
