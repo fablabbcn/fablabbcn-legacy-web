@@ -22,7 +22,7 @@ This project was designed and developed by <strong><a href="http://www.needlab.o
 
 This summer <strong><a href="http://www.needlab.org/">Needlab</a></strong> and <strong><a href="https://www.osbeehives.com/">Open Source Beehives</a></strong> visited <strong>Araku valley</strong> and started a dialog with the tribal community. They learned a lot about the tribal community, their lifestyle to live in harmony with nature by following organic farming and Beekeeping. 
 
-You can help this Project and adopt a hive which will in turn fund the installation of the bee-hives in the apiary. The donor's name will be displayed on the bee-hive and they can monitor the health of the hive they have adopted, by looking at the sensor data on the Needlab Website.
+You can help this Project and <strong>adopt a hive</strong> which will in turn fund the installation of the bee-hives in the apiary. The donor's name will be displayed on the bee-hive and they can monitor the health of the hive they have adopted, by looking at the sensor data on the <strong><a href="http://www.needlab.org/">Needlab</a></strong> Website.
 
 <strong><a href="http://www.needlab.org/">Needlab</a></strong> is a non-profit organization working with different communities in the world targeting human centered design and skill development for communities. 
 
