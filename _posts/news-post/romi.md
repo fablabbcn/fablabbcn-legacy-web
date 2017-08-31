@@ -1,8 +1,8 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/Bproject/Bprojectsmall.jpg
-teaserlist: blog_loop_latest/Bproject/Bprojectsmall.jpg
+teaserlatest: blog_loop_latest/romi/romismall.jpg
+teaserlist: blog_loop_latest/romi/romismall.jpg
 title: Project ROMI, RObotics for MIcrofarms
 meta: "The Fab City Reseach Lab is glad to announce that Fab Lab BCN and IAAC, together with partners, have won the Horizon 2020 funding for the project ROMI - RObotics for MIcrofarms."
 author: Marco Sanalitro
@@ -10,7 +10,7 @@ date: 31/08/2017
 category: news
 ---
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/Bproject/Bproject1.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/romi/romi1.jpg" align="middle"> 
 <br>
 
 The <strong><a href="http://fab.city/">Fab City Reseach Lab</a></strong> is glad to announce that <strong><a href="https://fablabbcn.org/index.html">Fab Lab BCN</a></strong> and <strong><a href="https://iaac.net/">IAAC</a></strong>, together with partners, have won the <strong><a href="https://ec.europa.eu/programmes/horizon2020/">Horizon 2020</a></strong> funding for the project <strong>ROMI - RObotics for MIcrofarms</strong>.<br> 
