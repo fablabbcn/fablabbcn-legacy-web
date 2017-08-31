@@ -19,7 +19,7 @@ The main goal of the project, which will be carried on at <strong><a href="http:
 
 This land robot will also acquire detailed information on sample plants and will be coupled with a drone that acquires more global information at crop level. Together, they will produce an integrated, <strong>multi-scale picture of the crop development</strong> that will help the farmer monitor the crops to increase efficient harvesting.<br> <br>
 
-The winning team, coordinated by the <strong><a href="http://fab.city/">Fab City Reseach Lab</a></strong> at <strong><a href="https://iaac.net/">IAAC</a></strong>, brings decades of experience at the forefront of the intersection between agronomy, robotics and data science, and are recognised as world leading in our application of new approaches to subjects such as plant modelling, adaptive learning, and high-performance computing.<br><br>
+The winning team, coordinated by the <strong><a href="http://fab.city/">Fab City Reseach Lab</a></strong> at <strong><a href="https://iaac.net/">IAAC</a></strong>, brings decades of experience at the forefront of the intersection between <strong>agronomy</strong>, <strong>robotics</strong> and <strong>data science</strong>, and are recognised as world leading in our application of new approaches to subjects such as <strong>plant modelling</strong>, <strong>adaptive learning</strong>, and <strong>high-performance computing</strong>.<br><br>
 
 Our Partners:<br><br>
 
