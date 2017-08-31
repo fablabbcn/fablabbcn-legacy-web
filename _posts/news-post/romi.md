@@ -17,9 +17,9 @@ The <strong><a href="http://fab.city/">Fab City Reseach Lab</a></strong> is glad
 
 The main goal of the project, which will be carried on at <strong><a href="http://valldaura.net/">Valldaura Labs</a></strong> under the direction of <strong><a href="https://fablabbcn.org/about_us.html">Jonantan Minchin</a></strong>, is to develop an open and lightweight <strong>robotics platform for micro-farms</strong>, to assist farmers in weed reduction and crop monitoring. <strong>ROMI</strong>’s weeding robot will <strong>reduce manual labour and increase the productivity</strong> through advanced planning tools, allowing farmers to save 25% of their time.<br> 
 
-This land robot will also acquire detailed information on sample plants and will be coupled with a drone that acquires more global information at crop level. Together, they will produce an integrated, multi-scale picture of the <strong>crop development</strong> that will help the farmer monitor the crops to increase efficient harvesting.<br> 
+This land robot will also acquire detailed information on sample plants and will be coupled with a drone that acquires more global information at crop level. Together, they will produce an integrated, <strong>multi-scale picture of the crop development</strong> that will help the farmer monitor the crops to increase efficient harvesting.<br> 
 
-The winning team, coordinated by the <strong><a href="http://fab.city/">Fab City Reseach Lab</a></strong> at <strong><a href="http://barcelona.makerfaire.com/">IAAC</a></strong>, brings decades of experience at the forefront of the intersection between agronomy, robotics and data science, and are recognised as world leading in our application of new approaches to subjects such as plant modelling, adaptive learning, and high-performance computing.<br> 
+The winning team, coordinated by the <strong><a href="http://fab.city/">Fab City Reseach Lab</a></strong> at <strong><a href="https://iaac.net/">IAAC</a></strong>, brings decades of experience at the forefront of the intersection between agronomy, robotics and data science, and are recognised as world leading in our application of new approaches to subjects such as plant modelling, adaptive learning, and high-performance computing.<br> 
 
 ## Partners
 
