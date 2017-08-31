@@ -23,10 +23,10 @@ The winning team, coordinated by the <strong><a href="http://fab.city/">Fab City
 
 ## Partners
 
-<strong><a href="https://www.csl.sony.fr/">* Sony Computer Science Laboratory Paris, Sony, UK</a></strong>
-<strong><a href="http://www.france-europe-innovation.fr/">* France Europe Innovation, FEI, FR</a></strong>
-<strong><a href="https://www.inria.fr/en/">* Institut national de recherche en informatique et en automatique, Inria, FR</a></strong>
-<strong><a href="http://www.cnrs.fr/index.php">* Centre national de la recherche scientifique, CNRS, FR</a></strong>
-<strong><a href="https://tramooc.eu/partners/humboldt-universit%C3%A4t-zu-berlin-uber">* Humboldt-Universität zu Berlin, UBER, DE</a></strong>
-<strong><a href="http://www.pepinieres-chatelain.com/">* Pépinières Chatelain, Chatelain, FR</a></strong>
+<strong><a href="https://www.csl.sony.fr/"> Sony Computer Science Laboratory Paris, Sony, UK</a></strong><br>
+<strong><a href="http://www.france-europe-innovation.fr/"> France Europe Innovation, FEI, FR</a></strong><br>
+<strong><a href="https://www.inria.fr/en/"> Institut national de recherche en informatique et en automatique, Inria, FR</a></strong><br>
+<strong><a href="http://www.cnrs.fr/index.php"> Centre national de la recherche scientifique, CNRS, FR</a></strong><br>
+<strong><a href="https://tramooc.eu/partners/humboldt-universit%C3%A4t-zu-berlin-uber">* Humboldt-Universität zu Berlin, UBER, DE</a></strong><br>
+<strong><a href="http://www.pepinieres-chatelain.com/"> Pépinières Chatelain, Chatelain, FR</a></strong><br>
 
