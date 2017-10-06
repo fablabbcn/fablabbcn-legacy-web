@@ -13,9 +13,9 @@ category: news
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/midtalent/midtalent1.jpg" align="middle"> 
 <br>
 
-A vegades la creativitat i la voluntat per sí mateixes no ens permeten assolir les nostres metes. <strong><a href="http://www.bcd.es/es/page.asp?id=438&selected=11&ui=8037">BCD Barcelona Centre de Disseny</a></strong> proposa, per segon any consecutiu, una iniciativa emmarcada en el <strong><a href="http://www.bcd.es/es/mid.asp?method=page&node=403">MID Mercat d'Idees Disseny</a></strong>, que et permetrà desenvolupar <strong>noves habilitats per endinsar-te al nou món laboral</strong>. Darrere d'aquest projecte emprenedor no podia faltar el <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong>, centre d'innovació i tecnologia per al desenvolupament de prototips i projectes des de fa 10 anys. 
+A vegades la creativitat i la voluntat per sí mateixes no ens permeten assolir les nostres metes. <strong><a href="http://www.bcd.es/es/page.asp?id=438&selected=11&ui=8037">BCD Barcelona Centre de Disseny</a></strong> proposa, per segon any consecutiu, una iniciativa emmarcada en el <strong><a href="http://www.bcd.es/es/mid.asp?method=page&node=403">MID Mercat d'Idees Disseny</a></strong>, que et permetrà desenvolupar <strong>noves habilitats per endinsar-te al nou món laboral</strong>. Darrere d'aquest projecte emprenedor no podia faltar el <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong>, centre d'innovació i tecnologia per al desenvolupament de prototips i projectes des de fa 10 anys. <br><br>
 
-Si tens menys de 30 anys, has acabat o estàs a punt de finalitzar els estudis i no estàs treballant, aquesta és una oportunitat única!
+Si tens menys de 30 anys, has acabat o estàs a punt de finalitzar els estudis i no estàs treballant, aquesta és una oportunitat única!<br><br>
 
 <strong><a href="http://www.bcd.es/es/mid.asp?method=page&node=403">MID TALENT</a></strong> oferirà una experiència completa d'una setmana de durada en què s'inclourà la <strong>convivència</strong> entre els participants i l'accés a la <strong>formació específica</strong> sobre eines i recursos creatius enfocats a la <strong>co-creació de solucions i desenvolupament de noves oportunitats</strong>, atrevint-se a fer les coses de forma diferent.<br><br>
 
