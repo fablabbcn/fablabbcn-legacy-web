@@ -1,16 +1,31 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/romi/romismall2.jpg
-teaserlist: blog_loop_latest/romi/romismall2.jpg
-title: Project ROMI, RObotics for MIcrofarms
-meta: "The Fab City Reseach Lab at IAAC, together with its Pan-European Consortium, have won the Horizon 2020 funding for the project ROMI – RObotics for MIcrofarms."
+teaserlatest: blog_loop_latest/midtalent/midtalentmall.jpg
+teaserlist: blog_loop_latest/midtalent/midtalentmall.jpg
+title: Acelérate con MID Talent
+meta: "MID TALENT, iniciativa enmarcada en el MID Mercado de Ideas Diseño, es un programa de pre-aceleración en emprendeduría creativa dirigido a jóvenes."
 author: Marco Sanalitro
-date: 31/08/2017 
+date: 06/10/2017 
 category: news
 ---
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/romi/romi1.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/midtalent/midtalent1.jpg" align="middle"> 
+<br>
+
+A veces la creatividad y la voluntad por si solas no te permiten alcanzar tus metas. <strong><a href="http://fab.city/">BCD Barcelona Centre de Disseny</a></strong> propone, Por segundo año consecutivo, una iniciativa, enmarcada en el <strong><a href="http://fab.city/">MID Mercat d'Idees Disseny</a></strong>, que te permitirá desarrollar nuevas habilidades para enfrentarte al nuevo mundo laboral. En este proceso no podía faltar el <strong><a href="http://fab.city/">Fab Lab Barcelona</a></strong>, polo de innovacion y tecnologia para el desarrollo de prototipos y proyectos desde hace 10 años.<br><br>
+
+Si eres menor de 30 años, has terminado o estás a punto de terminar los estudios y no estás trabajando, esta es una oportunidad única.<br><br>
+
+<strong><a href="http://fab.city/">MID TALENT ofrecerá una experiencia completa de una semana de duración en la que incluirá la convivencia entre los participantes y el acceso a formación específica sobre herramientas y recursos creativos enfocados a la co-creación de soluciones y desarrollo de nuevas oportunidades, atreviéndose a hacer las cosas de otro modo.<br><br>
+
+Los participantes tendrán acceso a una combinación de conocimientos que integran la innovación, la sostenibilidad y la colaboración, y tendrán a su disposición un coach que hará seguimiento de su proyecto.<br><br>
+
+Más información e inscripción: <strong><a href="http://www.bcd.es/ca/mid.asp?method=page&node=403">MID Talent</a></strong><br><br>
+
+¡ACELÉRATE CON MID TALENT!<br>
+
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/midtalent/midtalent1.jpg" align="middle"> 
 <br>
 
 The <strong><a href="http://fab.city/">Fab City Reseach Lab</a></strong> at <strong><a href="https://iaac.net/">IAAC</a></strong>, together with its <strong>Pan-European Consortium</strong>, have won the <strong><a href="https://ec.europa.eu/programmes/horizon2020/">Horizon 2020</a></strong> funding for the project <strong>ROMI – RObotics for MIcrofarms</strong>.<br> <br>
