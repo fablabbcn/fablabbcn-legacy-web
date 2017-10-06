@@ -13,40 +13,15 @@ category: news
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/midtalent/midtalent1.jpg" align="middle"> 
 <br>
 
-A veces la creatividad y la voluntad por si solas no te permiten alcanzar tus metas. <strong><a href="http://fab.city/">BCD Barcelona Centre de Disseny</a></strong> propone, Por segundo año consecutivo, una iniciativa, enmarcada en el <strong><a href="http://fab.city/">MID Mercat d'Idees Disseny</a></strong>, que te permitirá desarrollar nuevas habilidades para enfrentarte al nuevo mundo laboral. En este proceso no podía faltar el <strong><a href="http://fab.city/">Fab Lab Barcelona</a></strong>, polo de innovacion y tecnologia para el desarrollo de prototipos y proyectos desde hace 10 años.<br><br>
+A veces la creatividad y la voluntad por si solas no te permiten alcanzar tus metas. <strong><a href="http://www.bcd.es/es/page.asp?id=438&selected=11&ui=8037">BCD Barcelona Centre de Disseny</a></strong> propone, por segundo año consecutivo, una iniciativa, enmarcada en el <strong><a href="http://www.bcd.es/es/mid.asp?method=page&node=403">MID Mercat d'Idees Disseny</a></strong>, que te permitirá desarrollar nuevas habilidades para enfrentarte al nuevo mundo laboral. En este proceso no podía faltar el <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong>, polo de innovacion y tecnologia para el desarrollo de prototipos y proyectos desde hace 10 años.<br><br>
 
 Si eres menor de 30 años, has terminado o estás a punto de terminar los estudios y no estás trabajando, esta es una oportunidad única.<br><br>
 
-<strong><a href="http://fab.city/">MID TALENT ofrecerá una experiencia completa de una semana de duración en la que incluirá la convivencia entre los participantes y el acceso a formación específica sobre herramientas y recursos creativos enfocados a la co-creación de soluciones y desarrollo de nuevas oportunidades, atreviéndose a hacer las cosas de otro modo.<br><br>
+<strong><a href="http://www.bcd.es/es/mid.asp?method=page&node=403">MID TALENT</a></strong> ofrecerá una experiencia completa de una semana de duración en la que incluirá la convivencia entre los participantes y el acceso a formación específica sobre herramientas y recursos creativos enfocados a la co-creación de soluciones y desarrollo de nuevas oportunidades, atreviéndose a hacer las cosas de otro modo.<br><br>
 
 Los participantes tendrán acceso a una combinación de conocimientos que integran la innovación, la sostenibilidad y la colaboración, y tendrán a su disposición un coach que hará seguimiento de su proyecto.<br><br>
 
-Más información e inscripción: <strong><a href="http://www.bcd.es/ca/mid.asp?method=page&node=403">MID Talent</a></strong><br><br>
+Más información e inscripción: <strong><a href="http://www.bcd.es/es/mid.asp?method=page&node=403">MID Talent</a></strong><br><br>
 
 ¡ACELÉRATE CON MID TALENT!<br>
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/midtalent/midtalent1.jpg" align="middle"> 
-<br>
-
-The <strong><a href="http://fab.city/">Fab City Reseach Lab</a></strong> at <strong><a href="https://iaac.net/">IAAC</a></strong>, together with its <strong>Pan-European Consortium</strong>, have won the <strong><a href="https://ec.europa.eu/programmes/horizon2020/">Horizon 2020</a></strong> funding for the project <strong>ROMI – RObotics for MIcrofarms</strong>.<br> <br>
-
-The main goal of the project, which will be carried on at <strong><a href="http://valldaura.net/">Valldaura Labs</a></strong> under the direction of <strong><a href="https://fablabbcn.org/about_us.html">Jonantan Minchin</a></strong>, is to develop an open and lightweight <strong>robotics platform for micro-farms</strong>, to assist farmers in weed reduction and crop monitoring. <strong>ROMI</strong>’s weeding robot will <strong>reduce manual labour and increase the productivity</strong> through advanced planning tools, allowing farmers to save 25% of their time.<br> <br>
-
-This land robot will also acquire detailed information on sample plants and will be coupled with a drone that acquires more global information at crop level. Together, they will produce an integrated, <strong>multi-scale picture of the crop development</strong> that will help the farmer monitor the crops to increase efficient harvesting.<br> <br>
-
-The winning team, coordinated by the <strong><a href="http://fab.city/">Fab City Reseach Lab</a></strong> at <strong><a href="https://iaac.net/">IAAC</a></strong>, brings decades of experience at the forefront of the intersection between <strong>agronomy</strong>, <strong>robotics</strong> and <strong>data science</strong>, and are recognised as world leading in our application of new approaches to subjects such as <strong>plant modelling</strong>, <strong>adaptive learning</strong> and <strong>high-performance computing</strong>.<br><br>
-
-The <strong><a href="http://fab.city/">Fab City Reseach Lab</a></strong> at <strong><a href="https://iaac.net/">IAAC</a></strong> is the operational body of the <strong><a href="http://fab.city/">Fab City project</a></strong>, which aims to develop locally productive and globally connected cities. It is one of the four departments underpinning the entire <strong><a href="https://iaac.net/">IAAC</a></strong> structure together with other areas such as the <strong>Advanced Architecture Group</strong>, the <strong>Project for the Self-Sufficient City</strong> and the <strong>Barcelona Urban Sciences Lab</strong>.
-
-Our Partners:<br><br>
-
-<strong><a href="https://www.csl.sony.fr/">- Sony Computer Science Laboratory Paris, Sony, UK</a></strong><br>
-<strong><a href="http://www.france-europe-innovation.fr/">- France Europe Innovation, FEI, FR</a></strong><br>
-<strong><a href="https://www.inria.fr/en/">- Institut national de recherche en informatique et en automatique, Inria, FR</a></strong><br>
-<strong><a href="http://www.cnrs.fr/index.php">- Centre national de la recherche scientifique, CNRS, FR</a></strong><br>
-<strong><a href="https://tramooc.eu/partners/humboldt-universit%C3%A4t-zu-berlin-uber">- Humboldt-Universität zu Berlin, UBER, DE</a></strong><br>
-<strong><a href="http://www.pepinieres-chatelain.com/">- Pépinières Chatelain, Chatelain, FR</a></strong><br><br>
-
-<strong><a href="https://ec.europa.eu/programmes/horizon2020/">Horizon 2020</a></strong> is the <strong>biggest EU Research and Innovation programme</strong> ever with nearly €80 billion of funding available over 7 years, which promises <strong>breakthroughs</strong>, <strong>discoveries</strong> and <strong>world-firsts by taking great ideas from the lab to the market</strong>.<br><br>
-
-By coupling research and innovation, <strong><a href="https://ec.europa.eu/programmes/horizon2020/">Horizon 2020</a></strong> is helping to achieve this with its emphasis on excellent science, industrial leadership and tackling societal challenges. <strong>The goal is to ensure Europe produces world-class science, removes barriers to innovation and makes it easier for the public and private sectors to work together in delivering innovation</strong>.<br><br>
