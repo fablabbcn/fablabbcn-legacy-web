@@ -24,7 +24,7 @@ Els participants tindran accés a una <strong>combinació de coneixements</stron
 Més informació i inscripció: <strong><a href="http://www.bcd.es/es/mid.asp?method=page&node=403">MID Talent</a></strong><br><br>
 
 <strong>ACCELERA'T AMB MID TALENT!</strong><br>
-_____________________________________________________________
+_____________________________________________________________<br><br>
 
 A veces la creatividad y la voluntad por si solas no te permiten alcanzar tus metas. <strong><a href="http://www.bcd.es/es/page.asp?id=438&selected=11&ui=8037">BCD Barcelona Centre de Disseny</a></strong> propone, por segundo año consecutivo, una iniciativa, enmarcada en el <strong><a href="http://www.bcd.es/es/mid.asp?method=page&node=403">MID Mercat d'Idees Disseny</a></strong>, que te permitirá desarrollar <strong>nuevas habilidades para enfrentarte al nuevo mundo laboral</strong>. Tras este proyecto emprendedor no podía faltar el <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong>, centro de innovación y tecnología para el desarrollo de prototipos y proyectos desde hace 10 años.<br><br>
 
