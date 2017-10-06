@@ -3,7 +3,7 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/midtalent/midtalentmall.jpg
 teaserlist: blog_loop_latest/midtalent/midtalentmall.jpg
-title: Acelérate con MID Talent
+title: ¡Acelérate con MID Talent!
 meta: "MID TALENT, iniciativa enmarcada en el MID Mercado de Ideas Diseño, es un programa de pre-aceleración en emprendeduría creativa dirigido a jóvenes con la colaboración de Fab Lab BCN"
 author: Marco Sanalitro
 date: 06/10/2017 
