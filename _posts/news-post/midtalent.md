@@ -13,15 +13,15 @@ category: news
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/midtalent/midtalent1.jpg" align="middle"> 
 <br>
 
-A veces la creatividad y la voluntad por si solas no te permiten alcanzar tus metas. <strong><a href="http://www.bcd.es/es/page.asp?id=438&selected=11&ui=8037">BCD Barcelona Centre de Disseny</a></strong> propone, por segundo año consecutivo, una iniciativa, enmarcada en el <strong><a href="http://www.bcd.es/es/mid.asp?method=page&node=403">MID Mercat d'Idees Disseny</a></strong>, que te permitirá desarrollar nuevas habilidades para enfrentarte al nuevo mundo laboral. En este proceso no podía faltar el <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong>, polo de innovacion y tecnologia para el desarrollo de prototipos y proyectos desde hace 10 años.<br><br>
+A veces la creatividad y la voluntad por si solas no te permiten alcanzar tus metas. <strong><a href="http://www.bcd.es/es/page.asp?id=438&selected=11&ui=8037">BCD Barcelona Centre de Disseny</a></strong> propone, por segundo año consecutivo, una iniciativa, enmarcada en el <strong><a href="http://www.bcd.es/es/mid.asp?method=page&node=403">MID Mercat d'Idees Disseny</a></strong>, que te permitirá desarrollar <strong>nuevas habilidades para enfrentarte al nuevo mundo laboral</strong>. En este proceso no podía faltar el <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong>, polo de innovacion y tecnologia para el desarrollo de prototipos y proyectos desde hace 10 años.<br><br>
 
 Si eres menor de 30 años, has terminado o estás a punto de terminar los estudios y no estás trabajando, esta es una oportunidad única.<br><br>
 
-<strong><a href="http://www.bcd.es/es/mid.asp?method=page&node=403">MID TALENT</a></strong> ofrecerá una experiencia completa de una semana de duración en la que incluirá la convivencia entre los participantes y el acceso a formación específica sobre herramientas y recursos creativos enfocados a la co-creación de soluciones y desarrollo de nuevas oportunidades, atreviéndose a hacer las cosas de otro modo.<br><br>
+<strong><a href="http://www.bcd.es/es/mid.asp?method=page&node=403">MID TALENT</a></strong> ofrecerá una experiencia completa de una semana de duración en la que incluirá la <strong>convivencia</strong> entre los participantes y el acceso a <strong>formación específica</strong> sobre herramientas y recursos creativos enfocados a la <strong>co-creación de soluciones y desarrollo</strong> de nuevas oportunidades, atreviéndose a hacer las cosas de otro modo.<br><br>
 
-Los participantes tendrán acceso a una combinación de conocimientos que integran la innovación, la sostenibilidad y la colaboración, y tendrán a su disposición un coach que hará seguimiento de su proyecto.<br><br>
+Los participantes tendrán acceso a una <strong>combinación de conocimientos</strong> que integran la innovación, la sostenibilidad y la colaboración, y tendrán a su disposición un <strong>coach que hará seguimiento de su proyecto</strong>.<br><br>
 
 Más información e inscripción: <strong><a href="http://www.bcd.es/es/mid.asp?method=page&node=403">MID Talent</a></strong><br><br>
 
-¡ACELÉRATE CON MID TALENT!<br>
+<strong>¡ACELÉRATE CON MID TALENT!</strong><br>
 
