@@ -19,8 +19,7 @@ The <strong><a href="">Fab Lab Barcelona</a></strong>, together with its <strong
 
 <strong>Children and youngster from 6 to 16 years</strong> are addressed within the project, that will deliver a <strong>European platform</strong> with a huge collection of <strong>templates and materials for young entrepreneurs</strong>, a collection of success stories, materials for educators and teachers.<br><br>
 
-<strong>The DOIT approach builds on innovative open educational approaches that favour concrete making, application and experiences</strong>.
-The program is piloted and evaluated across <strong>10 European countries</strong>, in schools, innovation labs, maker spaces and social enterprises. It offers intergenerational workshops and training events targeted at different learner needs and learning settings. <strong>DO IT</strong>’s online <strong>Idea Competition</strong>, open to all children in Europe, will inspire them to pursue an entrepreneurial career path.<br><br>
+<strong>The DOIT approach builds on innovative open educational approaches that favour concrete making, application and experiences</strong>. The program is piloted and evaluated across <strong>10 European countries</strong>, in schools, innovation labs, maker spaces and social enterprises. It offers intergenerational workshops and training events targeted at different learner needs and learning settings. <strong>DO IT</strong>’s online <strong>Idea Competition</strong>, open to all children in Europe, will inspire them to pursue an entrepreneurial career path.<br><br>
 
 Our Partners:<br><br>
 
