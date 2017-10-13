@@ -1,17 +1,32 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/midtalent/midtalentsmall.jpg
-teaserlist: blog_loop_latest/midtalent/midtalentsmall.jpg
-title: ¡Acelérate con MID Talent!
-meta: "MID TALENT, iniciativa enmarcada en el MID Mercado de Ideas Diseño, es un programa de pre-aceleración en emprendeduría creativa dirigido a jóvenes con la colaboración de Fab Lab BCN"
+teaserlatest: blog_loop_latest/doit/doitsmall.jpg
+teaserlist: blog_loop_latest/doit/doitsmall.jpg
+title: DO IT
+meta: "DOIT is the European Initiative to empower Europe’s young innovators in an open digital world with the skills and tools they need from early on in life."
 author: Marco Sanalitro
-date: 06/10/2017 
+date: 13/10/2017 
 category: news
 ---
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/midtalent/midtalent1.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/doit/doit1.jpg" align="middle"> 
 <br>
+
+Our Partners:<br><br>
+
+Salzburg Research Forschungsgesellschaft (AT)<br>
+Lappeenranta University of Technology (FI), <br>
+Zentrum für Soziale Innovation (AT), <br>
+Mediale Pfade - Verein für Medienbildung (DE), <br>
+eduCentrum (FYXXI, BE), <br>
+ZAVOD Kersnikova (SI), <br>
+Polyhedra (RS), <br>
+Capital of Children (LEGO Foundation, DK), <br>
+University of Zagreb (HR), <br>
+Waag Society (NL), <br>
+European Social Entrepreneurship and Innovative Studies Institute (LT), <br>
+YouthProAktiv (BE).<br><br>
 
 A vegades la creativitat i la voluntat per sí mateixes no ens permeten assolir les nostres metes. <strong><a href="http://www.bcd.es/es/page.asp?id=438&selected=11&ui=8037">BCD Barcelona Centre de Disseny</a></strong> proposa, per segon any consecutiu, una iniciativa emmarcada en el <strong><a href="http://www.bcd.es/es/mid.asp?method=page&node=403">MID Mercat d'Idees Disseny</a></strong>, que et permetrà desenvolupar <strong>noves habilitats per endinsar-te al nou món laboral</strong>. Darrere d'aquest projecte emprenedor no podia faltar el <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong>, centre d'innovació i tecnologia per al desenvolupament de prototips i projectes des de fa 10 anys. <br><br>
 
