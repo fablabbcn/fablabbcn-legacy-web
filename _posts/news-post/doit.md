@@ -17,9 +17,9 @@ The <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></st
 
 <strong>DOIT is the European Initiative to empower Europe’s young innovators in an open digital world with the skills and tools they need from early on in life</strong>. Making Europe a better place and to build a more inclusive society needs initiative and knowledge – from youngest age on. Social entrepreneurship is the addressed competence that helps to support such challenges.<br><br>
 
-<strong>Children and youngster from 6 to 16 years</strong> are addressed within the project, that will deliver a <strong>European platform</strong> with a huge collection of <strong>templates and materials for young entrepreneurs</strong>, a collection of success stories, materials for educators and teachers.<br><br>
+<strong>Children and youngster from 6 to 16 years old</strong> are involved within the project, that will deliver a <strong>European platform</strong> with a huge collection of <strong>templates and materials for young entrepreneurs</strong>, a collection of success stories, materials for educators and teachers.<br><br>
 
-<strong>The DOIT approach builds on innovative open educational approaches that favour concrete making, application and experiences</strong>. The program is piloted and evaluated across <strong>10 European countries</strong>, in schools, innovation labs, maker spaces and social enterprises. It offers intergenerational workshops and training events targeted at different learner needs and learning settings. <strong>DO IT</strong>’s online <strong>Idea Competition</strong>, open to all children in Europe, will inspire them to pursue an entrepreneurial career path.<br><br>
+<strong>The DOIT initiative builds on innovative open educational approaches that favour concrete making, application and experiences</strong>. The programme is piloted and evaluated across <strong>10 European countries</strong>, in schools, innovation labs, maker spaces and social enterprises. It offers intergenerational workshops and training events targeted at different learning needs and settings. <strong>DO IT</strong>’s online <strong>Idea Competition</strong>, open to all children in Europe, will inspire them to pursue an entrepreneurial career path.<br><br>
 
 Our Partners:<br><br>
 
