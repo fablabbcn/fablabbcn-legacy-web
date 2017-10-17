@@ -1,17 +1,31 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/doit/doitsmall.jpg
-teaserlist: blog_loop_latest/doit/doitsmall.jpg
-title: DO IT
-meta: "The Fab Lab Barcelona, together with its International Consortium, will work to develop the new Horizon 2020 project DO IT, the new European Initiative to empower Europe’s young innovators in an open digital world with the skills and tools they need from early on in life."
+teaserlatest: blog_loop_latest/wds/wdssmall.jpg
+teaserlist: blog_loop_latest/wds/wdssmall.jpg
+title: Fab City Research Lab at Montreal World Design Summit 2017
+meta: "Tomás Diez, Fab City Research Lab Director at IAAC and co-founder of Fab Lab Barcelona, has been invited as a keynote speaker at the Montreal World Design Summit with Alejandro Aravena, Jan Gehl and many other experts coming from all over the world."
 author: Marco Sanalitro
-date: 13/10/2017 
+date: 16/10/2017 
 category: news
 ---
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/doit/doit1.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/wds/wds1.jpg" align="middle"> 
 <br>
+
+The Fab City Research Lab at Montreal World Design Summit 2017. Tomás Diez, Fab City Research Lab Director and co-founder of Fab Lab Barcelona, has been invited as a keynote speaker at the Montreal World Design Summit with Alejandro Aravena, Jan Gehl and many other experts coming from all over the world.<br><br>
+
+“Joining the Fab City network isn’t going to make instantly us a Fab City. It’s a commitment to build, in a collaborative manner, cities that will be sustainable, resilient and productive, and provide technologies enabling citizen empowerment,”  highlights Tomás Diez.<br><br> 
+
+His conference and the workshop “Fab City, where citizens become design actors” will contribute to strengthen this knowledge in a global network and share the tools for best practices for building new production models for sustainable urban living.<br><br>
+
+Also, on the occasion, Tomás Diez will participate to the preparation meeting for the Fab City World Summit to coordinate and plan the next 3 years, prior to the FAB16, which will take place in Montréal in summer 2020. He leads the Fab City Global Initiative in collaboration with an international team of thinkers and makers, and the European project manager for the Fab Foundation. The Fab City Global Initiative acts as a global infrastructure and knowledge source for the radical transformation in our way of working, living and evolving in urban areas.<br><br>
+
+<strong>About the Montréal World Design Summit</strong><br><br>
+
+Montréal World Design programme includes a congress which will be held from October 16 until 19 and it will explore 6 major interdisciplinary themes, subdivided into 108 provoking questions calling for design-driven, solution-oriented answers. This congress will host more than 4,500 industry professionals and 600 expert speakers. As part of the whole programme, there will be a Summit of international organizations from October 23 and for a couple of days to create a 10-year international action plan for solving global issues through design.<br><br>
+
+
 
 The <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong>, together with its <strong>International Consortium</strong>, will work to develop the new <strong><a href="https://ec.europa.eu/programmes/horizon2020/">Horizon 2020</a></strong> project <strong>"DO IT"</strong>.
 
