@@ -35,8 +35,8 @@ We decided it would be great to highlight some of the projects from Fab Academy 
   <li><a href="#sohail">Sohail</a></li>
 </ul>
 
-    <div id="ionna">
-      <h3>Ionna</h3>
+<div id="ionna">
+<h3>IONNA</h3>
 <img src="imgs/Ionna.jpg" style="height: auto;
     width: auto;
     max-width: 300px;
@@ -53,7 +53,7 @@ Another benefit was that we were able to see other students' work very often. In
 <p>Visit my project webpage <a href="http://archive.fabacademy.org/archives/2017/fablabbcn/students/91/finalProject.html" target="_blank">here</a></p>
 </div>
 <div id="wim">
-<h3>Wim</h3>
+<h3>WIM</h3>
 
 <img src="imgs/wim.jpg" style="height: auto;
 width: auto;
@@ -70,7 +70,7 @@ max-height: 300px;">
 </div>
 
 <div id="esteban">
-<h3>Esteban</h3>
+<h3>ESTEBAN</h3>
 
 <img src="imgs/esteban.png" style="height: auto;
 width: auto;
@@ -85,7 +85,7 @@ max-height: 300px;">
 </div>
 
 <div id="sohail">
-<h3>Sohail</h3>
+<h3>SOHAIL</h3>
 
 <img src="imgs/sohail2.jpg" style="height: auto;
           width: auto;
