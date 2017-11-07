@@ -34,10 +34,6 @@ We decided it would be great to highlight some of the projects from Fab Academy 
 
 <div id="ionna">
 <h4>IONNA</h4>
-<img src="imgs/Ionna.jpg" style="height: auto;
-    width: auto;
-    max-width: 300px;
-    max-height: 300px;">
     
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabacademybcnstories/ionna.jpg" align="left" style="height: auto;
 width: auto;
@@ -60,11 +56,6 @@ Another benefit was that we were able to see other students' work very often. In
 <div id="wim">
 <h4>WIM</h4>
 
-<img src="imgs/wim.jpg" style="height: auto;
-width: auto;
-max-width: 300px;
-max-height: 300px;">
-
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabacademybcnstories/wim.jpg" align="left" style="height: auto;
 width: auto;
 max-width: 300px;
@@ -84,11 +75,6 @@ max-height: 300px;">
 <div id="esteban">
 <h4>ESTEBAN</h4>
 
-<img src="imgs/esteban.png" style="height: auto;
-width: auto;
-max-width: 300px;
-max-height: 300px;">
-
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabacademybcnstories/esteban.jpg" align="left" style="height: auto;
 width: auto;
 max-width: 300px;
@@ -106,11 +92,6 @@ max-height: 300px;">
 
 <div id="sohail">
 <h4>SOHAIL</h4>
-
-<img src="imgs/sohail2.jpg" style="height: auto;
-          width: auto;
-          max-width: 300px;
-          max-height: 300px;">
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabacademybcnstories/sohail.jpg" align="left" style="height: auto;
 width: auto;
