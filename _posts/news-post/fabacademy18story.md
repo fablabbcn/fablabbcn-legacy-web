@@ -20,7 +20,7 @@ It's hard not to be inspired by many of the projects that we saw materialise in 
 
 We decided it would be great to highlight some of the projects from <strong><a href="https://fablabbcn.org/fab_academy_18.html">Fab Academy Barcelona</a></strong> and the creative minds behind them.</p>
 
-<h2>Makers of the World Unite!</h2>
+<h5>Makers of the World Unite!</h5>
 
 <ul>
   <li><a href="#ionna">Ionna</a></li>
@@ -30,7 +30,7 @@ We decided it would be great to highlight some of the projects from <strong><a h
 </ul>
 
 <div id="ionna">
-<h4>IONNA</h4>
+<h5>IONNA</h5>
     
 <!---------------<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabacademybcnstories/ionna.jpg" align="left" style="height: auto;
 width: auto;
@@ -51,7 +51,7 @@ Another benefit was that we were able to see other students' work very often. In
 <p>Visit my project webpage <a href="http://archive.fabacademy.org/archives/2017/fablabbcn/students/91/finalProject.html" target="_blank">here</a></p>
 </div>
 <div id="wim">
-<h4>WIM</h4>
+<h5>WIM</h5>
 
 <!---------------<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabacademybcnstories/wim.jpg" align="left" style="height: auto;
 width: auto;
@@ -70,7 +70,7 @@ max-height: 300px;">
 </div>
 
 <div id="esteban">
-<h4>ESTEBAN</h4>
+<h5>ESTEBAN</h5>
 
 <!---------------<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabacademybcnstories/esteban.jpg" align="left" style="height: auto;
 width: auto;
@@ -88,7 +88,7 @@ max-height: 300px;">
 </div>
 
 <div id="sohail">
-<h4>SOHAIL</h4>
+<h5>SOHAIL</h5>
 
 <!---------------<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabacademybcnstories/sohail.jpg" align="left" style="height: auto;
 width: auto;
