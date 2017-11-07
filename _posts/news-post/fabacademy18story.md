@@ -89,7 +89,7 @@ max-height: 300px;">
           max-width: 300px;
           max-height: 300px;">
 
-<p>I’m a faculty member at Sukkur IBA University in Pakistan and have specialised in industrial automation and control. I did Fab Academy because I want to learn how to make (almost) anything. My final project is a smart touch-screen device that can replace manual paper work for university entrance exams and recruitment tests. Fab Lab Barcelona was a great space to be able to do the Fab Academy and provided me with lost of new ideas and support to develop this project.</p>
+<p><i>I’m a faculty member at Sukkur IBA University in Pakistan and have specialised in industrial automation and control. I did Fab Academy because I want to learn how to make (almost) anything. My final project is a smart touch-screen device that can replace manual paper work for university entrance exams and recruitment tests. Fab Lab Barcelona was a great space to be able to do the Fab Academy and provided me with lost of new ideas and support to develop this project.</i></p>
 
 <video width="720" height="315" controls><source src="http://archive.fabacademy.org/archives/2017/fablabbcn/students/342/presentation.mp4" type="video/mp4"></video>
 
