@@ -13,15 +13,15 @@ category: news
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/smartcity17/smartcity171.jpg" align="middle"> 
 <br>
 
-<p>Anyone who has done the Fab Academy program will know immediately how intense and rewarding the experience can be. Hundreds of students enter the program each year from a myriad of backgrounds and professions. All share a common curiosity to harness the power of digital fabrication in exciting and creative ways.
+<p>Anyone who has done the <strong><a href="https://fablabbcn.org/fab_academy_18.html">Fab Academy</a></strong> program will know immediately how intense and rewarding the experience can be. Hundreds of students enter the program each year from a myriad of backgrounds and professions. All share a common curiosity to harness the power of digital fabrication in exciting and creative ways.
 <br/>
 <br/>
 
-It's hard not to be inspired by many of the projects that we saw materialise in such a short time. Fab Lab Barcelona continues to be an exciting hub to do the academy (as it is one of the first Fab Labs in Europe) and it is always exciting to see which projects continue to flourish outside of the Academy.
+It's hard not to be inspired by many of the projects that we saw materialise in such a short time. <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> continues to be an exciting hub to do the academy (as it is one of the first Fab Labs in Europe) and it is always exciting to see which projects continue to flourish outside of the Academy.
 <br/>
 <br/>
 
-We decided it would be great to highlight some of the projects from Fab Academy Barcelona and the creative minds behind them.</p>
+We decided it would be great to highlight some of the projects from <strong><a href="https://fablabbcn.org/fab_academy_18.html">Fab Academy Barcelona</a></strong> and the creative minds behind them.</p>
 
 <h2>Makers of the World Unite!</h2>
 
