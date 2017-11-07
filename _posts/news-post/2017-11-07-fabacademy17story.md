@@ -39,7 +39,7 @@ max-width: 300px;
 max-height: 300px;">
 <br><br/>--------------->
 
-<video width="950" height="315" controls><source src="http://archive.fabacademy.org/archives/2017/fablabbcn/students/91/presentation.mp4" type="video/mp4"></video><br><br/>
+<video width="720" height="450" controls><source src="http://archive.fabacademy.org/archives/2017/fablabbcn/students/91/presentation.mp4" type="video/mp4"></video><br><br/>
 
 <p><i>"I am from greece and my background is in architecture. I joined Fab Academy because of I am adventurous by nature and have an interest in computational design. What I really liked about this course was the freedom it gives to chose your project, to customise the process, the schedule, and the final goals according to your needs.
 
