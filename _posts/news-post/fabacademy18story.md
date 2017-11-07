@@ -45,7 +45,7 @@ We decided it would be great to highlight some of the projects from Fab Academy 
 
 Another benefit was that we were able to see other students' work very often. In our class we had projects ranging from very basic to really advanced and complex. For me, being in the middle, it was very beneficial to be able to see other student’s work because I really learnt a lot from that. Also, it was a good motivation for me to work harder.</p>
 
-<video width="640" height="360" controls><source src="http://archive.fabacademy.org/archives/2017/fablabbcn/students/91/presentation.mp4" type="video/mp4"></video>
+<video width="720" height="315" controls><source src="http://archive.fabacademy.org/archives/2017/fablabbcn/students/91/presentation.mp4" type="video/mp4"></video>
 
 <p>Visit my project webpage <a href="http://archive.fabacademy.org/archives/2017/fablabbcn/students/91/finalProject.html" target="_blank">here</a></p>
 </div>
@@ -59,7 +59,7 @@ max-height: 300px;">
 
 <p>I'm an Art Director based in Switzerland where I create advertising campaigns on both classic and digital platforms. Fab Academy has provided me with the tools and knowledge to start building more complex projects using 3D printers, laser cutters and electronics. Creating Cloudio - a light emitting and levitating weather station - was challenging but I finally managed to finish the project in time and was able to display my final project at the Barcelona 2017 Maker Faire where it got a lot of positive feedback.</p>
 
-<iframe src="https://player.vimeo.com/video/222731527" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/222731527" width="720" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/222731527">Cloudio</a> from <a href="https://vimeo.com/user56572042">Wim Lanz</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 <p>Visit my project webpage <a href="http://archive.fabacademy.org/archives/2017/fablabbcn/students/4/finalproject.html" target="_blank">here</a></p>
@@ -76,7 +76,7 @@ max-height: 300px;">
 
 <p>I'm a software engineer and systems designer from Buenos Aires and currently pursuing a master's degree in systems and robotics. Since moving to Spain I got interested in Biohacking and helped start the first<a href="http://www.diybcn.org/" target="_blank">DiyBiospace</a> in Barcelona. During the Fab Academy I developed OpenGrow: an open source modular bioreactor to cultivate yeast, fungi, or even algae such as spirulina. I found the Fab Lab Barcelona a great space to develop my final project together with the amazing support and feedback of the Fab Academy.</p>
 
-<video width="640" height="360" controls><source src="http://archive.fabacademy.org/archives/2017/fablabbcn/students/271/presentation.mp4" type="video/mp4"></video>
+<video width="720" height="315" controls><source src="http://archive.fabacademy.org/archives/2017/fablabbcn/students/271/presentation.mp4" type="video/mp4"></video>
 <p>Visit my project webpage <a href="http://archive.fabacademy.org/archives/2017/fablabbcn/students/271/project/" target="_blank">here</a></p>
 
 </div>
@@ -91,7 +91,7 @@ max-height: 300px;">
 
 <p>I’m a faculty member at Sukkur IBA University in Pakistan and have specialised in industrial automation and control. I did Fab Academy because I want to learn how to make (almost) anything. My final project is a smart touch-screen device that can replace manual paper work for university entrance exams and recruitment tests. Fab Lab Barcelona was a great space to be able to do the Fab Academy and provided me with lost of new ideas and support to develop this project.</p>
 
-<video width="640" height="360" controls><source src="http://archive.fabacademy.org/archives/2017/fablabbcn/students/342/presentation.mp4" type="video/mp4"></video>
+<video width="720" height="315" controls><source src="http://archive.fabacademy.org/archives/2017/fablabbcn/students/342/presentation.mp4" type="video/mp4"></video>
 
 <p>Visit my project webpage <a href="http://archive.fabacademy.org/archives/2017/fablabbcn/students/342/final_project.html" target="_blank">here</a></p>
 
