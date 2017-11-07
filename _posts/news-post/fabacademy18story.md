@@ -70,7 +70,6 @@ max-height: 300px;">
 <p>by Wim (Graduated Fab Academy 2017)</p>
 
 <iframe src="https://player.vimeo.com/video/222731527" width="720" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/222731527">Cloudio</a> from <a href="https://vimeo.com/user56572042">Wim Lanz</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 <p>Visit my project webpage <a href="http://archive.fabacademy.org/archives/2017/fablabbcn/students/4/finalproject.html" target="_blank">here</a></p>
 
