@@ -3,7 +3,7 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/smartcity17/smartcity17small.jpg
 teaserlist: blog_loop_latest/smartcity17/smartcity17small.jpg
-title: Fab City Research Lab at Montreal World Design Summit 2017
+title: Fab Academy BCN 2017 Story
 meta: "Tomás Diez, Fab City Research Lab Director at IAAC and co-founder of Fab Lab Barcelona, has been invited as a keynote speaker at the Montreal World Design Summit with Alejandro Aravena, Jan Gehl and many other experts coming from all over the world."
 author: Marco Sanalitro
 date: 07/11/2017 
@@ -12,9 +12,6 @@ category: news
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/smartcity17/smartcity171.jpg" align="middle"> 
 <br>
-
-
-<h1>Fab Academy Barcelona 2017</h1>
 
 <p>Anyone who has done the Fab Academy program will know immediately how intense and rewarding the experience can be. Hundreds of students enter the program each year from a myriad of backgrounds and professions. All share a common curiosity to harness the power of digital fabrication in exciting and creative ways.
 <br/>
