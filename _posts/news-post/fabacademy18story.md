@@ -32,8 +32,12 @@ We decided it would be great to highlight some of the projects from <strong><a h
 <div id="ionna">
 <h5>IONNA</h5>
     
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabacademybcnstories/ionna.jpg" align="left">
-<br><br/>
+<!---------------<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabacademybcnstories/ionna.jpg" align="left" style="height: auto;
+width: auto;
+max-width: 300px;
+max-height: 300px;">
+<br><br/>--------------->
+
 
 <p><i>"I am from greece and my background is in architecture. I joined Fab Academy because of I am adventurous by nature and have an interest in computational design. What I really liked about this course was the freedom it gives to chose your project, to customise the process, the schedule, and the final goals according to your needs.
 
@@ -50,8 +54,12 @@ Another benefit was that we were able to see other students' work very often. In
 <div id="wim">
 <h5>WIM</h5>
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabacademybcnstories/wim.jpg" align="left">
-<br><br/>
+<!---------------<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabacademybcnstories/wim.jpg" align="left" style="height: auto;
+width: auto;
+max-width: 300px;
+max-height: 300px;">
+<br><br/>--------------->
+
 
 <p><i>"I'm an Art Director based in Switzerland where I create advertising campaigns on both classic and digital platforms. Fab Academy has provided me with the tools and knowledge to start building more complex projects using 3D printers, laser cutters and electronics.Creating Cloudio - a light emitting and levitating weather station - was challenging but I finally managed to finish the project in time and was able to display my final project at the Barcelona 2017 Maker Faire where it got a lot of positive feedback."</i></p>
 
