@@ -39,7 +39,7 @@ max-width: 300px;
 max-height: 300px;">
 <br><br/>--------------->
 
-<video width="680" height="450" controls><source src="http://archive.fabacademy.org/archives/2017/fablabbcn/students/91/presentation.mp4" type="video/mp4"></video><br><br/>
+<video width="680" height="350" controls><source src="http://archive.fabacademy.org/archives/2017/fablabbcn/students/91/presentation.mp4" type="video/mp4"></video><br><br/>
 
 <p><i>"I am from greece and my background is in architecture. I joined Fab Academy because of I am adventurous by nature and have an interest in computational design. What I really liked about this course was the freedom it gives to chose your project, to customise the process, the schedule, and the final goals according to your needs.
 
@@ -84,7 +84,7 @@ max-width: 300px;
 max-height: 300px;">
 <br><br/>--------------->
 
-<video width="680" height="400" controls><source src="http://archive.fabacademy.org/archives/2017/fablabbcn/students/271/presentation.mp4" type="video/mp4"></video><br><br/>
+<video width="680" height="350" controls><source src="http://archive.fabacademy.org/archives/2017/fablabbcn/students/271/presentation.mp4" type="video/mp4"></video><br><br/>
 
 <p><i>"I'm a software engineer and systems designer from Buenos Aires and currently pursuing a master's degree in systems and robotics. Since moving to Spain I got interested in Biohacking and helped start the first <a href="http://www.diybcn.org/" target="_blank">Diy Biospace</a> in Barcelona. During the Fab Academy I developed OpenGrow: an open source modular bioreactor to cultivate yeast, fungi, or even algae such as spirulina. I found the <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> a great space to develop my final project together with the amazing support and feedback of the Fab Academy."</i></p><br><br/>
 
@@ -105,7 +105,7 @@ max-width: 300px;
 max-height: 300px;"> 
 <br><br/>--------------->
 
-<video width="680" height="400" controls><source src="http://archive.fabacademy.org/archives/2017/fablabbcn/students/342/presentation.mp4" type="video/mp4"></video><br><br/>
+<video width="680" height="350" controls><source src="http://archive.fabacademy.org/archives/2017/fablabbcn/students/342/presentation.mp4" type="video/mp4"></video><br><br/>
 
 <p><i>"I’m a faculty member at Sukkur IBA University in Pakistan and have specialised in industrial automation and control. I did Fab Academy because I want to learn how to make (almost) anything. My final project is a smart touch-screen device that can replace manual paper work for university entrance exams and recruitment tests. <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> was a great space to be able to do the Fab Academy and provided me with lost of new ideas and support to develop this project."</i></p><br><br/>
 
