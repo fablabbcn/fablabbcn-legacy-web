@@ -6,7 +6,7 @@ teaserlist: blog_loop_latest/smartcity17/smartcity17small.jpg
 title: Fab City Research Lab at Montreal World Design Summit 2017
 meta: "Tomás Diez, Fab City Research Lab Director at IAAC and co-founder of Fab Lab Barcelona, has been invited as a keynote speaker at the Montreal World Design Summit with Alejandro Aravena, Jan Gehl and many other experts coming from all over the world."
 author: Marco Sanalitro
-date: 16/10/2017 
+date: 07/11/2017 
 category: news
 ---
 
