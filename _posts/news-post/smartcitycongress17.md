@@ -1,8 +1,8 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/wds/wdssmall.jpg
-teaserlist: blog_loop_latest/wds/wdssmall.jpg
+teaserlatest: blog_loop_latest/smartcity17/smartcity17small.jpg
+teaserlist: blog_loop_latest/smartcity17/smartcity17small.jpg
 title: Fab City Research Lab at Montreal World Design Summit 2017
 meta: "Tomás Diez, Fab City Research Lab Director at IAAC and co-founder of Fab Lab Barcelona, has been invited as a keynote speaker at the Montreal World Design Summit with Alejandro Aravena, Jan Gehl and many other experts coming from all over the world."
 author: Marco Sanalitro
@@ -10,7 +10,7 @@ date: 16/10/2017
 category: news
 ---
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/wds/wds1.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/smartcity17/smartcity171.jpg" align="middle"> 
 <br>
 
 The <strong><a href="http://fab.city/">Fab City Research Lab</a></strong> participates at the <strong><a href="https://worlddesignsummit.com/congress/keynotes-speakers/">Montreal World Design Summit 2017</a></strong>. <strong><a href="https://worlddesignsummit.com/?keynote=keynotetomas-diez">Tomás Diez</a></strong>, <strong><a href="http://fab.city/">Fab City Research Lab</a></strong> Director and co-founder of <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong>, has been invited as a keynote speaker at the <strong><a href="https://worlddesignsummit.com/congress/keynotes-speakers/">Montreal World Design Summit</a></strong> with <strong><a href="https://worlddesignsummit.com/?keynote=alejandro-aravena">Alejandro Aravena</a></strong>, <strong><a href="https://https://worlddesignsummit.com/?keynote=jan-gehls">Jan Gehl</a></strong> and many other experts coming from all over the world.<br><br>
