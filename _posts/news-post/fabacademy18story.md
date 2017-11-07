@@ -74,7 +74,7 @@ width: auto;
 max-width: 300px;
 max-height: 300px;">
 
-<p><i>"I'm a software engineer and systems designer from Buenos Aires and currently pursuing a master's degree in systems and robotics. Since moving to Spain I got interested in Biohacking and helped start the first <a href="http://www.diybcn.org/" target="_blank">Diy Biospace</a> in Barcelona. During the Fab Academy I developed OpenGrow: an open source modular bioreactor to cultivate yeast, fungi, or even algae such as spirulina. I found the Fab Lab Barcelona a great space to develop my final project together with the amazing support and feedback of the Fab Academy."</i></p>
+<p><i>"I'm a software engineer and systems designer from Buenos Aires and currently pursuing a master's degree in systems and robotics. Since moving to Spain I got interested in Biohacking and helped start the first <a href="http://www.diybcn.org/" target="_blank">Diy Biospace</a> in Barcelona. During the Fab Academy I developed OpenGrow: an open source modular bioreactor to cultivate yeast, fungi, or even algae such as spirulina. I found the <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> a great space to develop my final project together with the amazing support and feedback of the Fab Academy."</i></p>
 
 <video width="720" height="315" controls><source src="http://archive.fabacademy.org/archives/2017/fablabbcn/students/271/presentation.mp4" type="video/mp4"></video>
 <p>Visit my project webpage <a href="http://archive.fabacademy.org/archives/2017/fablabbcn/students/271/project/" target="_blank">here</a></p>
