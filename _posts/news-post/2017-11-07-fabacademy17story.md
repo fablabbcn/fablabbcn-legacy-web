@@ -28,6 +28,7 @@ We decided it would be great to highlight some of the projects from <strong><a h
   <li><a href="#esteban">Esteban</a></li>
   <li><a href="#sohail">Sohail</a></li>
 </ul>
+___________________________________________________
 
 <div id="ionna">
 <h5>IONNA</h5>
@@ -50,6 +51,9 @@ Another benefit was that we were able to see other students' work very often. In
 
 <p>Visit her project webpage <a href="http://archive.fabacademy.org/archives/2017/fablabbcn/students/91/finalProject.html" target="_blank">here</a></p>
 </div>
+
+___________________________________________________
+
 <div id="wim">
 <h5>WIM</h5>
 
@@ -69,6 +73,8 @@ max-height: 300px;">
 
 </div>
 
+___________________________________________________
+
 <div id="esteban">
 <h5>ESTEBAN</h5>
 
@@ -87,6 +93,8 @@ max-height: 300px;">
 <p>Visit his project webpage <a href="http://archive.fabacademy.org/archives/2017/fablabbcn/students/271/project/" target="_blank">here</a></p>
 
 </div>
+
+___________________________________________________
 
 <div id="sohail">
 <h5>SOHAIL</h5>
