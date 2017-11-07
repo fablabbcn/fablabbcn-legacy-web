@@ -18,3 +18,5 @@ category: news
 <strong><a href="https://fablabbcn.org/about_us.html">Tomás Diez</a></strong>, <strong><a href="http://fab.city/">Fab City Research Lab Director</a></strong>, and <strong><a href="https://fablabbcn.org/about_us.html">Mara Balestrini</a></strong>, <strong><a href="http://making-sense.eu/">Making Sense Project Leader</a></strong> will participate in the <strong><a href="http://www.smartcityexpo.com/en/topic-data">"Data & Tech" debate - "How disruptive technologies are re-shaping cities".</a></strong>
 
 For more information: <strong><a href="http://www.smartcityexpo.com/it/">Smart City Expo World Congress 2017</a></strong>
+
+Global agenda: <strong><a href="http://www.smartcityexpo.com/it/agenda-2017">Program</a></strong>
