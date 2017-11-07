@@ -9,6 +9,8 @@ author: Marco Sanalitro
 date: 07/11/2017 
 category: news
 ---
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabacademybcnstories/fabacademybcn171.jpg" align="left">
+<br/>
 
 <p>Anyone who has done the <strong><a href="https://fablabbcn.org/fab_academy_18.html">Fab Academy</a></strong> program will know immediately how intense and rewarding the experience can be. Hundreds of students enter the program each year from a myriad of backgrounds and professions. All share a common curiosity to harness the power of digital fabrication in exciting and creative ways.
 <br/>
