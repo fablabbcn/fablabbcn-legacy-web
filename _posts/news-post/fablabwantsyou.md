@@ -1,8 +1,8 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/smartcity17/smartcity17small.jpg
-teaserlist: blog_loop_latest/smartcity17/smartcity17small.jpg
+teaserlatest: blog_loop_latest/weneedyoufablab/weneedyoufablabsmall.jpg
+teaserlist: blog_loop_latest/weneedyoufablab/weneedyoufablabsmall.jpg
 title: We need you @ Fab Lab BCN
 meta: "We're hiring designers, makers, developers, creatives, producers and more to join our team in Barcelona!Want to design + develop things on the cutting edge of tech, culture & activism?"
 author: Marco Sanalitro
@@ -10,7 +10,7 @@ date: 08/11/2017
 category: news
 ---
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/smartcity17/smartcity171.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/weneedyoufablab/weneedyoufablab1.jpg" align="middle"> 
 <br>
 
 Fab Lab Barcelona is a place where you can make almost anything. 
