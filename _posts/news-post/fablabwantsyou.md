@@ -23,6 +23,8 @@ We're hiring designers, makers, developers, creatives, producers and more to joi
 Want to design + develop things on the cutting edge of tech, culture & activism?
 Join us : https://fablabbarcelona.typeform.com/to/BWTPVj
 
+</i></p><br>
+
 
 
 14-16 of November the <strong><a href="http://www.smartcityexpo.com/it/">Smart City Expo World Congress 2017</a></strong> will bring together over <strong>400 global influencers and innovators</strong> to share knowledge, debate the challenges faced by our cities, encourage out of the box thinking and inspire a worldwide call for action in order to develop smarter and more sustainable cities.
