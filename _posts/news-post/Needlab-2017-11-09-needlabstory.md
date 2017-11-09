@@ -5,7 +5,7 @@ teaserlatest: blog_loop_latest/fabacademybcnstories/fabacademybcnstoriessmall.jp
 teaserlist: blog_loop_latest/fabacademybcnstories/fabacademybcnstoriessmall.jpg
 title: Fab Academy BCN 2017 Stories
 meta: "Sameera at Needlab explores the interaction between nature and technology, between traditional craftsmanship and digital fabrication and how to improve people’s lives."
-author: Niko Moja
+author: Niko
 date: 07/11/2017 
 category: news
 ---
