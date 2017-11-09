@@ -6,7 +6,7 @@ teaserlist: blog_loop_latest/smartcity17/smartcity17small.jpg
 title: Fab Lab BCN @ Smart City Expo World Congress 2017
 meta: "Tomás Díez, Fab City Research Lab Director, and Mara Balestrini, Making Sense Project Leader will participate in the “Data & Tech” debate – “How disruptive technologies are re-shaping cities“."
 author: Marco Sanalitro
-date: 07/11/2017 
+date: 09/11/2017 
 category: news
 ---
 
