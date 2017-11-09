@@ -3,7 +3,7 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/fabacademybcnstories/fabacademybcnstoriessmall.jpg
 teaserlist: blog_loop_latest/fabacademybcnstories/fabacademybcnstoriessmall.jpg
-title: Needlab brings technology for the poeople
+title: Needlab rethinks technology for the poeople
 meta: "Sameera at Needlab explores the interaction between nature and technology, between traditional craftsmanship and digital fabrication and how to improve people’s lives."
 author: Niko
 date: 07/11/2017 
