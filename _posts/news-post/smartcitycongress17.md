@@ -3,8 +3,8 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/smartcity17/smartcity17small.jpg
 teaserlist: blog_loop_latest/smartcity17/smartcity17small.jpg
-title: Fab City Research Lab at Montreal World Design Summit 2017
-meta: "Tomás Diez, Fab City Research Lab Director at IAAC and co-founder of Fab Lab Barcelona, has been invited as a keynote speaker at the Montreal World Design Summit with Alejandro Aravena, Jan Gehl and many other experts coming from all over the world."
+title: Fab Lab BCN @ Smart City Expo World Congress 2017
+meta: "Tomás Díez, Fab City Research Lab Director, and Mara Balestrini, Making Sense Project Leader will participate in the “Data & Tech” debate – “How disruptive technologies are re-shaping cities“."
 author: Marco Sanalitro
 date: 07/11/2017 
 category: news
@@ -18,7 +18,7 @@ From 14 to 16 of November the <strong><a href="http://www.smartcityexpo.com/it/"
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/smartcity17/smartcity172.jpg" align="middle"> 
 <br>
 
-The leading international event on Smart Cities was born in 2011 in Barcelona, the Smart City Expo World Congress (SCEWC), foresees the largest edition to date, with the participation of 700 cities from more than 120 countries  and more than 400 speakers. From 14 to 16 November, the Gran Vía de Fira de Barcelona exhibition centre expects to attract more than 17,000 visitors. With this year’s main theme, <strong>Empower Cities, Empower Citizens</strong>, the event will focus on strategies to empower metropolies and their citizens through <strong>active participation, critical reflection, awareness and access to and control over important decisions and resources</strong>.
+The leading international event on Smart Cities was born in 2011 in Barcelona, the Smart City Expo World Congress (SCEWC), foresees the largest edition to date, with the participation of 700 cities from more than 120 countries  and more than 400 speakers. From 14 to 16 November, the Gran Vía de Fira de Barcelona exhibition centre expects to attract more than 17,000 visitors. With this year’s main theme, <strong>Empower Cities, Empower Citizens</strong>, the event will focus on strategies to empower metropolies and their citizens through <strong>active participation, critical reflection, awareness and access to and control over important decisions and resources</strong>.<br><br>
 
 For more information: <strong><a href="http://www.smartcityexpo.com/it/">Smart City Expo World Congress 2017</a></strong><br><br>
 
