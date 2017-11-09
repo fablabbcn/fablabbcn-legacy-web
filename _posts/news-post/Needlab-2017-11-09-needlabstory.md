@@ -4,13 +4,15 @@ type: blog
 teaserlatest: blog_loop_latest/fabacademybcnstories/fabacademybcnstoriessmall.jpg
 teaserlist: blog_loop_latest/fabacademybcnstories/fabacademybcnstoriessmall.jpg
 title: Fab Academy BCN 2017 Stories
-meta: "Fab Academy Barcelona 2018, it's time to learn How To Make almost Anything! Learn more about the Fab Academy Adventure directly from the Students Fab Academy BCN 2017!"
-author: Marco Sanalitro
+meta: "Sameera at Needlab explores the interaction between nature and technology, between traditional craftsmanship and digital fabrication and how to improve people’s lives."
+author: Niko Moja
 date: 07/11/2017 
 category: news
 ---
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabacademybcnstories/fabacademybcn171.jpg" align="left">
-<br/>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hFul3QGqmDk?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<p><strong><a href="http://www.needlab.org/" target="blank">Needlab</a></strong> is a non-profit architectural research organization who has been partnering with <strong><a href="http://fablabbcn.org/projects.html" target="blank">Fab Lab Barcelona</a></strong> to exploring how digital fabrication can have a positive social impact. For Sameera this begins with honouring our connections to places and people. This helps us develop a sense of responsibility in how we use local materials, respond to social needs, and respect cultural heritage and the environment.</p>
 
 <p>Anyone who has done the <strong><a href="https://fablabbcn.org/fab_academy_18.html">Fab Academy</a></strong> program will know immediately how intense and rewarding the experience can be. Hundreds of students enter the program each year from a myriad of backgrounds and professions. All share a common curiosity to harness the power of digital fabrication in exciting and creative ways.
 <br/>
