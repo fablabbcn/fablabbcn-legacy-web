@@ -13,7 +13,7 @@ category: news
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hFul3QGqmDk?rel=0" frameborder="0" allowfullscreen></iframe>
 <br><br>
 
-<p><strong><a href="http://www.needlab.org/" target="blank">Needlab</a></strong> is a non-profit architectural research organization started by Sameera Chukkapalli who has been collaborating with the <strong><a href="http://fab.city/about/" target="blank">Fab City</a></strong> project to explore how architecture can have a positive social impact on communities. For Sameera this begins with honouring and creating connections to places and people:</p>
+<p><strong><a href="http://www.needlab.org/" target="blank">Needlab</a></strong> is a non-profit architectural research organization started by Sameera Chukkapalli who has been collaborating with the <strong><a href="http://fab.city/about/" target="blank">FAB City</a></strong> project to explore how architecture can have a positive social impact on communities. For Sameera this begins with honouring and creating connections to places and people:</p>
 
 <br>
 
@@ -68,7 +68,7 @@ category: news
 
 <br>
 
-<p>Today over half of the world’s populations live in urban areas and this is only set to increase. It is here where Needlab and FAB City are innovating solutions with communities that encourage self-sufficiency, local production, and the sharing of knowledge, practices and skills to create the urban economies of the the future.</p><br><br>
+<p>Today over half of the world’s populations live in urban areas and this is only set to increase. It is here where <strong><a href="http://www.needlab.org/" target="blank">Needlab</a></strong> and <strong><a href="http://fab.city/about/" target="blank">FAB City</a></strong> are innovating solutions with communities that encourage self-sufficiency, local production, and the sharing of knowledge, practices and skills to create the urban economies of the the future.</p><br><br>
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/needlab/needlabs1.jpg" align="middle"> 
 <br>
