@@ -43,4 +43,7 @@ category: news
 
 <p>Today over half of the world’s populations live in urban areas and this is only set to increase. It is here where Needlab and FAB City are innovating solutions with communities that encourage self-sufficiency, local production, and the sharing of knowledge, practices and skills to create the urban economies of the the future.</p>
 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/needlab/needlabs1.jpg" align="middle"> 
+<br>
+
 
