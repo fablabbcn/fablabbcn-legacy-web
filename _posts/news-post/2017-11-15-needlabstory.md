@@ -68,6 +68,8 @@ category: news
 <p><em>“In Kuwait people often import expensive materials that are cumbersome to replace and carry a huge carbon footprint. We wanted to show that there is aesthetic, economic and cultural value in sourcing locally.” </em></p>
 
 <br>
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/needlab/kuwait1.jpg" align="middle"> 
+<br>
 
 <p>Today over half of the world’s populations live in urban areas and this is only set to increase. It is here where <strong><a href="http://www.needlab.org/" target="blank">Needlab</a></strong> and <strong><a href="http://fab.city/about/" target="blank">FAB City</a></strong> are innovating solutions with communities that encourage self-sufficiency, local production, and the sharing of knowledge, practices and skills to create the urban economies of the the future.</p><br><br>
 
