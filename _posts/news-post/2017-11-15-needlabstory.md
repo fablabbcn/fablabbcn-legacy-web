@@ -41,7 +41,7 @@ category: news
 
 <br>
 
-<p>FAB city inspires projects that are creating viable alternatives to the take, make, model of production. This is encouraged by the growing availability of digital fabrication, urban permaculture, distributed energy networks, intelligent infrastructure, among other solutions that can be shared globally using open-source design and technology.</p>
+<p><strong><a href="http://fab.city/about/" target="blank">FAB City</a></strong> inspires projects that are creating viable alternatives to the take, make, model of production. This is encouraged by the growing availability of digital fabrication, urban permaculture, distributed energy networks, intelligent infrastructure, among other solutions that can be shared globally using open-source design and technology.</p>
 
 <br>
 
