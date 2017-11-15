@@ -6,7 +6,7 @@ teaserlist: blog_loop_latest/needlab/needlab1.jpg
 title: Needlab and FabCity rethink technology for the people
 meta: "Sameera at Needlab explores the interaction between nature and technology, between traditional craftsmanship and digital fabrication in empowering communities."
 author: Niko
-date: 09/11/2017 
+date: 15/11/2017 
 category: news
 ---
 
