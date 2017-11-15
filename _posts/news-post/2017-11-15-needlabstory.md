@@ -41,6 +41,8 @@ category: news
 <p><em>“In Vietnam the funding for the project was sourced from Vietnam and was invested back into the project: buying local material, training local workers and helping urban communities to grow their own food,”</em> says Sameera.</p>
 
 <br>
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/needlab/needlab1.jpg" align="middle"> 
+<br>
 
 <p><strong><a href="http://fab.city/about/" target="blank">FAB City</a></strong> inspires projects that are creating viable alternatives to the take, make, model of production. This is encouraged by the growing availability of digital fabrication, urban permaculture, distributed energy networks, intelligent infrastructure, among other solutions that can be shared globally using open-source design and technology.</p>
 
@@ -71,8 +73,9 @@ category: news
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/needlab/kuwait1.jpg" align="middle"> 
 <br>
 
-<p>Today over half of the world’s populations live in urban areas and this is only set to increase. It is here where <strong><a href="http://www.needlab.org/" target="blank">Needlab</a></strong> and <strong><a href="http://fab.city/about/" target="blank">FAB City</a></strong> are innovating solutions with communities that encourage self-sufficiency, local production, and the sharing of knowledge, practices and skills to create the urban economies of the the future.</p><br><br>
+<p>Today over half of the world’s populations live in urban areas and this is only set to increase. It is here where <strong><a href="http://www.needlab.org/" target="blank">Needlab</a></strong> and <strong><a href="http://fab.city/about/" target="blank">FAB City</a></strong> are innovating solutions with communities that encourage self-sufficiency, local production, and the sharing of knowledge, practices and skills to create the urban economies of the the future.</p>
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/needlab/needlab1.jpg" align="middle"> 
+<br>
+
 
 
