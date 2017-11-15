@@ -62,9 +62,9 @@ category: news
 
 <br>
 
-<p><em>“There’s a misconception between materials being inexpensive and cheap,” </em>explains Sameera.</p> <br><br>
+<p><em>“There’s a misconception between materials being inexpensive and cheap,” </em>explains Sameera.</p>
 
-<p><em>“In Kuwait people often import expensive materials that are cumbersome to replace and carry a huge carbon footprint. We wanted to show that there is aesthetic, economic and cultural value in sourcing locally,” </em></p>
+<p><em>“In Kuwait people often import expensive materials that are cumbersome to replace and carry a huge carbon footprint. We wanted to show that there is aesthetic, economic and cultural value in sourcing locally.” </em></p>
 
 <br>
 
