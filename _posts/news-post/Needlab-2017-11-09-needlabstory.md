@@ -1,9 +1,9 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/fabacademybcnstories/fabacademybcnstoriessmall.jpg
-teaserlist: blog_loop_latest/fabacademybcnstories/fabacademybcnstoriessmall.jpg
-title: Needlab rethinks technology for the poeople
+teaserlatest: blog_loop_latest/needlab/needlabsmall.jpg
+teaserlist: blog_loop_latest/needlab/needlab1.jpg
+title: Needlab rethinks technology for the people
 meta: "Sameera at Needlab explores the interaction between nature and technology, between traditional craftsmanship and digital fabrication in empowering communities."
 author: Niko
 date: 09/11/2017 
