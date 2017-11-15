@@ -37,11 +37,11 @@ category: news
 <p>The project also trained young people with the vocational skills to give them independence, help them find employment and build future urban gardens.</p>
 
 <br>
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/needlab/needlab1.jpg" align="middle"> 
+<br>
 
 <p><em>“In Vietnam the funding for the project was sourced from Vietnam and was invested back into the project: buying local material, training local workers and helping urban communities to grow their own food,”</em> says Sameera.</p>
 
-<br>
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/needlab/needlab1.jpg" align="middle"> 
 <br>
 
 <p><strong><a href="http://fab.city/about/" target="blank">FAB City</a></strong> inspires projects that are creating viable alternatives to the take, make, model of production. This is encouraged by the growing availability of digital fabrication, urban permaculture, distributed energy networks, intelligent infrastructure, among other solutions that can be shared globally using open-source design and technology.</p>
