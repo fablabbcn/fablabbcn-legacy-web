@@ -30,7 +30,7 @@ category: news
 
 <p><strong><a href="http://fablabbcn.org/news/2017/08/28/B_project.html" target="blank">B_Project</a></strong> is a case example. The project inspired farmers in India’s Aaraku valley create alternative livelihood options using <strong><a href="https://www.osbeehives.com/" target="blank">Open Source Beehives</a></strong>. This also involved learning from these communities and understanding their needs, customs, and relationship with the surrounding communities and ecosystem.
 
-<p>The project encouraged communities to pool their resources in cooperatives, share information about what worked for them, what didn’t work, and help each other to grow.</p>
+<p>The project encouraged small scale famers to pool their resources in cooperatives, share information about what worked for them, what didn’t work, and help each other to grow.</p>
 
 <p><em>“Open source is not just about sharing files, it is also about sharing processes, practices and new ways of thinking that can involve local communities in a global conversation. It is about empowering them to improve their own lives”</em></p>
 
