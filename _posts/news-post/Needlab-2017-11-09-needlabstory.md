@@ -32,7 +32,7 @@ category: news
 
 <p>The project encouraged small scale famers to pool their resources in cooperatives, share information about what worked for them, what didn’t work, and help each other to grow.</p>
 
-<p><em>“Open source is not just about sharing files, it is also about sharing processes, practices and new ways of thinking that can involve local communities in a global conversation. It is about empowering them to improve their own lives”</em></p>
+<p style="font-size:18px;text-align:center;">“Open source is not just about sharing files, it is also about sharing processes, practices and new ways of thinking that can involve local communities in a global conversation. It is about empowering them to improve their own lives”</p>
 
 <p>Another project was in Kuwait City, where <strong><a href="http://www.needlab.org/needlab_kuwait-matters" target="blank">Needlab built a brick pavilion</a></strong> using sand-lime bricks that were locally manufactured and designed in a way that could be both aesthetically pleasing and help deflect the scorching heat using traditional techniques. Much of the production was done in the local Fab Lab. This shows an alternative to the energy intensive and expensive practice of outsourcing foreign materials.
 </p>
