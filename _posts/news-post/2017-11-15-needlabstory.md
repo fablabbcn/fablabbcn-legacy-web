@@ -13,11 +13,11 @@ category: news
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hFul3QGqmDk?rel=0" frameborder="0" allowfullscreen></iframe>
 <br><br>
 
-<p><strong><a href="http://www.needlab.org/" target="blank">Needlab</a></strong> is a non-profit architectural research organization started by Sameera Chukkapalli who has been collaborating with the <strong><a href="http://fab.city/about/" target="blank">Fab City</a></strong> project to explore how architecture can have a positive social impact on communities. For Sameera this begins with honouring and creating connections to places and people.</p>
+<p><strong><a href="http://www.needlab.org/" target="blank">Needlab</a></strong> is a non-profit architectural research organization started by Sameera Chukkapalli who has been collaborating with the <strong><a href="http://fab.city/about/" target="blank">Fab City</a></strong> project to explore how architecture can have a positive social impact on communities. For Sameera this begins with honouring and creating connections to places and people:</p>
 
 <br>
 
-<p><em>"This helps us develop a sense of responsibility in how we use local materials, respond to social needs, and respect cultural heritage and the environment."</em></p>
+<p style="font-size:18px;text-align:center;"><em>"This helps us develop a sense of responsibility in how we use local materials, respond to social needs, and respect cultural heritage and the environment."</em></p>
 
 <br>
 
