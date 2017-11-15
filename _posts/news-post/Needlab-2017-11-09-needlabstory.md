@@ -37,10 +37,9 @@ category: news
 <p>Another project was in Kuwait City, where <strong><a href="http://www.needlab.org/needlab_kuwait-matters" target="blank">Needlab built a brick pavilion</a></strong> using sand-lime bricks that were locally manufactured and designed in a way that could be both aesthetically pleasing and help deflect the scorching heat using traditional techniques. Much of the production was done in the local Fab Lab. This shows an alternative to the energy intensive and expensive practice of outsourcing foreign materials.
 </p>
 
-<p><em>“There’s a misconception between materials being inexpensive and cheap,” </em></p> 
+<p><em>“There’s a misconception between materials being inexpensive and cheap,” </em>explains Sameera.</p> 
 
-<p><em>“In Kuwait people often import expensive materials that are cumbersome to replace and carry a huge carbon footprint. We wanted to show that there is aesthetic, economic and cultural value in sourcing locally,” </em>explains Sameera.
-</p>
+<p><em>“In Kuwait people often import expensive materials that are cumbersome to replace and carry a huge carbon footprint. We wanted to show that there is aesthetic, economic and cultural value in sourcing locally,” </em></p>
 
 <p>Today over half of the world’s populations live in urban areas and this is only set to increase. It is here where Needlab and FAB City are innovating solutions with communities that encourage self-sufficiency, local production, and the sharing of knowledge, practices and skills to create the urban economies of the the future.</p>
 
