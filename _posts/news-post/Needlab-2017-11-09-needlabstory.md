@@ -16,34 +16,28 @@ category: news
 
 <p><em>"This helps us develop a sense of responsibility in how we use local materials, respond to social needs, and respect cultural heritage and the environment."</em></p>
 
-<p>Needlab is always demanding more from architecture, questioning how it functions and who it serves. They believe in collectively fostering ideas in communities to solve their own problems.</p>
+<p>Needlab is always demanding more from architecture, questioning how it functions and who it serves. They believe in collectively fostering ideas for communities to solve their own problems.</p>
 
-<p>Since 2011 <strong><a href="http://fablabbcn.org/" target="blank">Fab Lab Barcelona</a></strong> has been pioneering the <strong><a href="http://fab.city/" target="blank">FAB City</a></strong> project which aims to develop self-sufficient cities that both locally productive and globally connected. Part of this involves encouraging urban communities to adopt circular economic model that reduces the reliance on imported goods, food and resources while increasing the use of local and recycled raw materials.</p>
+<p>Since 2011 <strong><a href="http://fablabbcn.org/" target="blank">Fab Lab Barcelona</a></strong> has been pioneering the <strong><a href="http://fab.city/" target="blank">FAB City</a></strong> project which aims to develop self-sufficient cities that both locally productive and globally connected. Part of this involves encouraging urban communities to adopt a circular economic model that reduces the reliance on imported goods, food and resources; while increasing the use of local and recycled materials.</p>
 
 <p>One of Needlab’s projects was building <strong><a href="https://tuoitre.vn/nha-rau-bang-tre-va-co-tranh-giua-sai-gon-cua-co-gai-an-20170917153840948.htm" target="blank">vertical urban gardens</a></strong> using bamboo in Ho Chi Minh City for the typical Vietnamese tube houses. The problem was how to make use of extremely limited urban spaces for people to grow their own food. From the start, the project involved the community in creating a solution that used readily available, natural materials and which will be easy to replicate.</p>
 
-<br/>
-
 <p>The project also trained young people with the vocational skills to give them independence, help them find employment and build future urban gardens.</p>
 
-
-<p><em>“In Vietnam the funding for the project was sourced from Vietnam and was invested back into the project: buying local material, training local workers and helping urban communities to grow their own food,”</em>says Sameera.</p>
+<p><em>“In Vietnam the funding for the project was sourced from Vietnam and was invested back into the project: buying local material, training local workers and helping urban communities to grow their own food,”</em> says Sameera.</p>
 
 <p>FAB city inspires projects that are creating viable alternatives to the take, make, model of production. This is encouraged by the growing availability of digital fabrication, urban permaculture, distributed energy networks, intelligent infrastructure, among other solutions that can be shared globally using open-source design and technology.</p>
 
 <p><strong><a href="http://fablabbcn.org/news/2017/08/28/B_project.html" target="blank">B_Project</a></strong> is a case example. The project inspired farmers in India’s Aaraku valley create alternative livelihood options using <strong><a href="https://www.osbeehives.com/" target="blank">Open Source Beehives</a></strong>. This also involved learning from these communities and understanding their needs, customs, and relationship with the surrounding communities and ecosystem.
 
-
-<p><em>“We wanted these communities to be connected among themselves and help each other out, create their own cooperatives, share information about what worked for them, what didn’t work and for them to grow,”</em>says Sameera.</p>
+<p><em>“We wanted these communities to be connected among themselves and help each other out, create their own cooperatives, share information about what worked for them, what didn’t work and for them to grow,”</em> says Sameera.</p>
 
 <p><em>“Open source is not just about sharing files, it is also about sharing processes, practices and new ways of thinking that can involve local communities in a global conversation. It is about empowering them to improve their own lives”</em></p>
 
 <p>Another project was in Kuwait City, where <strong><a href="http://www.needlab.org/needlab_kuwait-matters" target="blank">Needlab built a brick pavilion</a></strong> using sand-lime bricks that were locally manufactured and designed in a way that could be both aesthetically pleasing and help deflect the scorching heat using traditional techniques. Much of the production was done in the local Fab Lab. This shows an alternative to the energy intensive and expensive practice of outsourcing foreign materials.
 </p>
 
-<p><em>“There’s a misconception between materials being inexpensive and cheap,”</em> argues Sameera.</p> 
-
-<br/>
+<p><em>“There’s a misconception between materials being inexpensive and cheap,” </em>argues Sameera.</p> 
 
 <p><em>“In Kuwait people often import expensive materials that are cumbersome to replace and carry a huge carbon footprint. We wanted to show that there is aesthetic, economic and cultural value in sourcing locally,” </em>she adds.
 </p>
