@@ -1,8 +1,8 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/smartcity17/smartcity17small.jpg
-teaserlist: blog_loop_latest/smartcity17/smartcity17small.jpg
+teaserlatest: blog_loop_latest/10small.jpg
+teaserlist: blog_loop_latest/10small.jpg
 title: Fab Academy scholarships open! APPLY NOW
 meta: "Every year Fab Lab Barcelona strives to inspire new talent by offering 4 contest-based partial scholarships for the Fab Academy 2018."
 author: Niko
