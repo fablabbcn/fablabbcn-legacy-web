@@ -10,6 +10,8 @@ date: 22/11/2017
 category: news
 ---
 
+<img src="http://www.fablabbcn.org/img/news_banner/banner_fabacademy18competition.jpg">
+
 <p>Every year Fab Lab Barcelona strives to inspire new talent by offering 4 contest-based partial scholarships for the <strong><a href="https://fablabbcn.org/fab_academy_18.html">Fab Academy 2018</a></strong>. Got a revolutionary idea waiting to happen? This could be you.</p>
 
 <p>Makers on your marks. To clinch one of our fabulous scholarships, applicants must propose a final project that links with <strong><a href="http://fab.city/about/">Fab City</a></strong>; an initiative that aims to transform cities to become both economically and ecologically sustainable. The contest focuses on <strong>Energy</strong>, <strong>Food</strong>, <strong>Education</strong> and <strong>Community</strong> as the main sectors where Fab City is innovating radical solutions for our future cities.
