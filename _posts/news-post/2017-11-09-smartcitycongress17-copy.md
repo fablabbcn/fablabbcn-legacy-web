@@ -23,8 +23,6 @@ category: news
 
 <p><strong><a href="http://aquapioneers.io/">Aquapioneers</a></strong> is another great example. Since doing the Fab Academy in 2016, they are developing an open-source aquaponics project for homes and offices to grow food locally. The project is not so much about re-inventing the wheel, as aquaponics have been around for some time. It’s more about creating an easy-to-produce system that can fit in every home, apartment or restaurant. Again the project is focused on how to apply this system as a service, rather than selling a physical product.</p>
 
-
-
 <p>Some other worthwhile examples are: <strong><a href="https://www.mamotok.org/">Mamotok</a></strong>, <strong><a href="https://www.mamotok.org/">Mamotok</a></strong>, <strong><a href="http://escornabot.com/web/en/content/how">Escornabot</a></strong>, <strong><a href="http://fabacademy.org/archives/2015/eu/students/postma.ronald/02_progress/week_19.html">Mykonos</a></strong>, <strong><a href="https://preciousplastic.com/">Precious Plastic</a></strong>, <strong><a href="https://www.osbeehives.com/">Open Source Beehives</a></strong>.</p> 
 
 <p>Many of these projects were prototyped in our Fab Lab and share a common goal: to rethink how we can apply technology to improve our lives and communities for the better. More than the physical product as its application that interests us. This is not so much about inventing the next iPod (which you can by the way!) as much as applying technology in radical new ways, servicing the needs of citizens, communities and the environment.</p>
