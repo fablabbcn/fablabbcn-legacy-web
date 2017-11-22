@@ -12,7 +12,7 @@ category: news
 
 <img src="http://www.fablabbcn.org/img/news_banner/banner_fabacademy18competition.jpg">
 
-<p>Every year <strong><a href="http://fablabbcn.org/">Fab Lab Barcelona</a></strong> strives to inspire new talent by offering 4 contest-based partial scholarships for the <strong><a href="https://fablabbcn.org/fab_academy_18.html">Fab Academy 2018</a></strong>. Got a revolutionary idea waiting to happen? This could be you.</p>
+<p>Every year <strong><a href="http://fablabbcn.org/" target="blank">Fab Lab Barcelona</a></strong> strives to inspire new talent by offering 4 contest-based partial scholarships for the <strong><a href="https://fablabbcn.org/fab_academy_18.html">Fab Academy 2018</a></strong>. Got a revolutionary idea waiting to happen? This could be you.</p>
 
 <br/>
 
