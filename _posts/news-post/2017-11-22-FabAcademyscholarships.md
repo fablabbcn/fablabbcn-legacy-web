@@ -56,5 +56,3 @@ category: news
 
 <p>We look forward to hearing from you.</p>
 
-
-
