@@ -25,11 +25,11 @@ category: news
 
 <br/>
 
-<p>We see this with <strong><a href="https://smartcitizen.me/" target="blank">Smart Citizen</a></strong>. This is an IoT platform that connects citizens with their environment and their city, empowering them to participate in their communities and improve public services. <br/> Smart Citizen is a piece of hardware that uses sensors to  monitor pollution, air quality, temperature, humidity and streams this data on a shared platform. But its also a community network that encourages citizens to become more engaged in their urban environment, use data to improve public services and better quality of life.</p>
+<p>We see this with <strong><a href="https://smartcitizen.me/" target="blank">Smart Citizen</a></strong>. This is an IoT platform that connects citizens with their environment and their city, empowering them to participate in their communities and improve public services. <br/><br/> Smart Citizen is a piece of hardware that uses sensors to  monitor pollution, air quality, temperature, humidity and streams this data on a shared platform. But its also a community network that encourages citizens to become more engaged in their urban environment, use data to improve public services and better quality of life.</p>
 
 <img src="http://www.fablabbcn.org/img/projects/projects_loop/smart_citizen.jpg">
 
-<p><strong><a href="http://aquapioneers.io/" target="blank">Aquapioneers</a></strong> is another great example. Since doing the Fab Academy in 2016, they are developing an open-source aquaponics project for homes and offices to grow food locally. <br/> The project is not so much about re-inventing the wheel, as aquaponics have been around for some time. It’s more about creating an easy-to-produce system that can fit in every home, apartment or restaurant. Again the project is focused on how to apply this system as a service, rather than selling a physical product.</p>
+<p><strong><a href="http://aquapioneers.io/" target="blank">Aquapioneers</a></strong> is another great example. Since doing the Fab Academy in 2016, they are developing an open-source aquaponics project for homes and offices to grow food locally. <br/><br/> The project is not so much about re-inventing the wheel, as aquaponics have been around for some time. It’s more about creating an easy-to-produce system that can fit in every home, apartment or restaurant. Again the project is focused on how to apply this system as a service, rather than selling a physical product.</p>
 
 <img src="http://www.fablabbcn.org/img/blog/blog_loop_latest/aqua2.jpg">
 
