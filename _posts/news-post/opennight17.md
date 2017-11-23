@@ -14,7 +14,7 @@ category: event
 
 <strong>(CAT)</strong> <br><br>
 
-<strong><a href="https://iaac.net/">IAAC</a> | <a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> participen al <strong><a href="https://goo.gl/ofPKKz">Poblenou Open Night 2017</a></strong>, organitzat pel <strong><a href="https://goo.gl/ofPKKz">Poblenou Urban District</a></strong>.<br><br>
+<p><strong><a href="https://iaac.net/">IAAC</a> | <a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> participen al <strong><a href="https://goo.gl/ofPKKz">Poblenou Open Night 2017</a></strong>, organitzat pel <strong><a href="https://goo.gl/ofPKKz">Poblenou Urban District</a></strong>.</p><br><br>
 
 El 24 de novembre, entre les 19h i les 21h,<strong><a href="https://iaac.net/">IAAC</a> | <a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> estarà obert per a tothom que ens vulgui conèixer més a fons. Qui vingui podrà assistir a demostracions de:<br><br>
 
