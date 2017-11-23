@@ -31,7 +31,7 @@ category: event
 <p>A més, cada mitja hora oferirem una visita guiada per l'IAAC i pel Fab Lab Barcelona, on podreu conèixer-nos i aprendre més sobre nosaltres.</p><br><br>
 
 <p>DESCARREGA'T EL PROGRAMA: <strong><a href="https://goo.gl/ofPKKz">https://goo.gl/ofPKKz</a></strong></p><br><br>
-____________________________________________________
+____________________________________________________<br><br>
 
 <strong>(ENG)</strong> <br><br>
 
