@@ -31,15 +31,15 @@ category: news
 
 <br/><br/>
 
-<p>For over 10 years now Fab Academy has been offering students from all over the world a new way to approach knowledge and technological tools. This is not just about a nice diploma for the CV. I would say that Fab Academy is about a whole new approach to learning, one that involves learning by doing, collaborating, and sharing. At it’s core the academy is about the open sharing of bits as much as it is about the open fabrication of atoms.</p>
+<p>For over 10 years now Fab Academy has been offering students from all over the world a new way to approach knowledge and technological tools. This is not just about a nice diploma for the CV. I would say that Fab Academy is about a whole new approach to learning, one that involves learning by doing, collaborating, and sharing. At it’s core the Fab Academy is about the open sharing of bits as much as it is about teaching how to fabricate of atoms.</p>
 
 <br/><br/>
 
-<p>Any maker, builder, creator, artist worth his/her salt will admit that the learning journey never really ends. For many Fab Academy is just the first step into a universe with unlimited potential. </p>
+<p>Any maker, builder, creator, artist worth his/her salt will admit that the learning journey never really ends. For many Fab Academy is just the first step into a universe with unlimited potential. And every journey begins with a single step.</p>
 
 <br/><br/>
 
-<p>And if all this still sounds a little too daunting, I have compiled a list of final projects by students with little to no prior technical background. If they did it so can you. Even Luke Skywalker was once layman with no Jedi skills, but he had the force, and so do you.</p>
+<p>If all this still sounds a little too daunting, I have compiled a list of final projects by students with little to no prior technical background. If they did it so can you. Even Luke Skywalker was once layman with no Jedi skills, but he had the force, and so do you.</p>
 
 
 
