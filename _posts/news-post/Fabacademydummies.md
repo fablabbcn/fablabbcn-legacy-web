@@ -18,7 +18,8 @@ category: news
 
 <br/><br/>
 
-<p>I won’t lie to you. Having a basic grasp of 3D design, electronics, or programming will give you a significant advantage in this multidisciplinary rollercoaster of a course. I did the Fab Academy in 2017 and prior to starting if someone had asked me what was digital fabrication I would have given one of those looks.. But I stuck it out, approached each week’s assignment with an open mind (and realistic time management) and  found the experience immensely rewarding.</p>
+<p>I won’t lie to you. Having a basic grasp of 3D design, electronics, or programming will give you a significant advantage in this multidisciplinary rollercoaster of a course. I did the Fab Academy in 2017 and prior to starting if someone had asked me what was digital fabrication I would have given one of those looks.. 
+<img src="http://www.theshiznit.co.uk/media/Features/2011/Feb/Happening.jpg" title="Digital Whaaaa?"> But I stuck it out, approached each week’s assignment with an open mind (and realistic time management) and  found the experience immensely rewarding.</p>
 
 <br/><br/>
 
