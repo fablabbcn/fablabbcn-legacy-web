@@ -24,12 +24,20 @@ category: news
 
 <br/>
 
+<p style="font-size:18px;text-align:center;">Today there is an artificial distinction between the arts and the sciences, just as there is between computation and science</p>
+
+<br/>
+
 <p>I won’t lie to you. Having a basic grasp of 3D design, electronics, or programming will give you a significant advantage in this multidisciplinary rollercoaster of a course. I did the Fab Academy in 2017 and prior to starting if someone had asked me what was digital fabrication I would have given one of those looks: 
 <center><img src="http://www.fablabbcn.org/img/blog/blog_loop_latest/fabacademyfordummies/digitalwhat.jpg" align="center"></center> But I stuck it out, approached each week’s assignment with an open mind (and some realistic time management) and found the experience immensely rewarding. Today I would say I'm quite confident in many of the topics, methods and technologies covered in the course, but the journey only gets more interesting.</p>
 
 <br/>
 
-<p>None of these skills covered in the Fab Academy are beyond the reach of anyone with a bit of time and dedication to learn them. We live in a time of unprecedented diffusion of knowledge and learning resources thanks to the World Wide Web. Educational and Open Source projects such as <a href="https://www.arduino.cc/" target="blank">Arduino</a> and <a href="https://www.raspberrypi.org/" target="blank">RasberryPi</a>, make it relatively easy to get a beginners grasp of electronics and programming. <a href="http://www.instructables.com/" target="blank">Instructables</a>, <a href="https://www.youtube.com/channel/UCZDA1kA3y3EIg25BpcHSpwQ" target="blank">YouTube</a>, <a href="https://www.freecodecamp.org" target="blank">FreeCodeCamp</a>, <a href="https://www.edx.org/" target="blank">EdX</a>, and numerous other online resources are available to get a beginners grasp of numerous crafts, technologies and skills. <a href="https://www.fablabs.io/labs" target="blank">Fab Labs</a> and Maker Spaces all over the world are making the tools of digital fabrication available to the public, so you don’t need a moustache and a hardhat to learn how to use a CNC machine or a laser cutter. The rest is experience, practice and, as I mentioned before, an unquenchable thirst to learn.</p>
+<p style="font-size:18px;text-align:center;">None of the skills covered in the Fab Academy are beyond the reach of anyone with a bit of time and dedication to learn.</p>
+
+<br/>
+
+<p> We live in a time of unprecedented diffusion of knowledge and learning resources thanks to the World Wide Web. Educational and Open Source projects such as <a href="https://www.arduino.cc/" target="blank">Arduino</a> and <a href="https://www.raspberrypi.org/" target="blank">RasberryPi</a>, make it relatively easy to get a beginners grasp of electronics and programming. <a href="http://www.instructables.com/" target="blank">Instructables</a>, <a href="https://www.youtube.com/channel/UCZDA1kA3y3EIg25BpcHSpwQ" target="blank">YouTube</a>, <a href="https://www.freecodecamp.org" target="blank">FreeCodeCamp</a>, <a href="https://www.edx.org/" target="blank">EdX</a>, and numerous other online resources are available to get a beginners grasp of numerous crafts, technologies and skills. <a href="https://www.fablabs.io/labs" target="blank">Fab Labs</a> and Maker Spaces all over the world are making the tools of digital fabrication available to the public, so you don’t need a moustache and a hardhat to learn how to use a CNC machine or a laser cutter. The rest is experience, practice and, as I mentioned before, an unquenchable thirst to learn.</p>
 
 <br/>
 
