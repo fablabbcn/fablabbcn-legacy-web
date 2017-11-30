@@ -10,17 +10,17 @@ date: 29/11/2017
 category: news
 ---
 
-<div>
-<img src="http://www.fablabbcn.org/img/blog/blog/blog_loop_latest/fabacademyfordummies/neillarge.jpg">
-</div>
+
+<img src="{{site.baseurl}}{{ site.url }}/img/blog/blog/blog_loop_latest/fabacademyfordummies/neillarge.jpg">
+
 
 <p>Anyone who has done the <a href="https://fablabbcn.org/fab_academy_18.html" target="blank">Fab Academy</a> will agree the course which famously promises to teach <em>How to Make (Almost) Anything</em> is not for the faint minded. That said, one does not need to be an engineer, architect or have a PHD in astro physics to make the most of this fabulous 5 month-journey. Sometimes all that is required is the willingness to learn and the freedom to play.</p>
 
-<br/><br/>
+<br/>
 
 <p>In fact, I would argue, some of the most interesting projects come from students who come with a totally non-technical background and skill-set. Unlike the electronic whizz kids and algorithm boffins, they often have the uncanny ability to approach digital design and fabrication in a whole new light. <a href="https://vimeo.com/208666503" target="blank">Why not How, they ask, Make (almost) Anything?</a> It is often the artists, the poets, the musicians - yes those with the “fluffy skills” - who question the very relationship we forge with technology; and come up with projects that go beyond the purely utilitarian, seeking a new aesthetics, interactions and values.</p>
 
-<br/><br/>
+<br/>
 
 <p>For example, artists like <a href="http://www.olafureliasson.net/" target="blank">Olafur Eliasson</a> have contributed significantly to the Fab Academy program, sharing how they use digital fabrication in creative new ways and sharing insights and challenges that go beyond the technical. <a href="https://www.ted.com/talks/neil_gershenfeld_on_fab_labs?utm_campaign=tedspread--b&utm_medium=referral&utm_source=tedcomshare" target="blank">Neil Gershenfeld</a>  recognises that there is an artificial distinction between the arts and the sciences, just as there is between computation and science. And often those with more artistic approaches have something that those with niche technical specialisations lack or have forgotten. That is an openness to play, explore, and make stuff for the sake of discovery. At times this means pursuing aesthetic as well as social objectives and sometimes allowing the outcome to present itself as a surprise rather than an expected outcome.</p>
 
