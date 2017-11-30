@@ -10,7 +10,7 @@ date: 29/11/2017
 category: news
 ---
 
-
+<img src="https://fablabbcn.org/img/blog/blog_loop_latest/fabacademyfordummies/neillarge.jpg">
 
 <p>Anyone who has done the <a href="https://fablabbcn.org/fab_academy_18.html" target="blank">Fab Academy</a> will agree the course which famously promises to teach <em>How to Make (Almost) Anything</em> is not for the faint minded. That said, one does not need to be an engineer, architect or have a PHD in astro physics to make the most of this fabulous 5 month-journey. Sometimes all that is required is the willingness to learn and the freedom to play.</p>
 
