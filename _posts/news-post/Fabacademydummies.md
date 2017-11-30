@@ -42,11 +42,10 @@ category: news
 
 <br/><br/>
 
-<p>Any maker, builder, creator, artist worth his/her salt will admit that the learning journey never really ends. For many Fab Academy is just the first step into a universe with unlimited potential. And every journey begins with a single step.</p>
+<p>Any maker, builder, creator, artist worth his/her salt will admit that the learning journey never really ends. For many Fab Academy is just the first step into a universe with unlimited potential. Every journey must begin with a single step. Remember even Luke Skywalker was once layman with no Jedi skills, but he had the force, and so do you.</p>
 
 <br/><br/>
 
-<p>If all this still sounds a little too daunting, I have compiled a list of final projects by students with little to no prior technical background. If they did it so can you. Even Luke Skywalker was once layman with no Jedi skills, but he had the force, and so do you.</p>
 
 
 
