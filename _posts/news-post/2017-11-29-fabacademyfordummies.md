@@ -20,6 +20,10 @@ category: news
 
 <br/>
 
+<p style="font-size:18px;text-align:center;">It is often the artists, the poets, the musicians - yes those with the “fluffy skills” - who question the very relationship we forge with technology</p>
+
+<br/>
+
 <p>For example, artists like <a href="http://www.olafureliasson.net/" target="blank">Olafur Eliasson</a> have contributed significantly to the Fab Academy program, sharing how they use digital fabrication in creative new ways and sharing insights and challenges that go beyond the technical. <a href="https://www.ted.com/talks/neil_gershenfeld_on_fab_labs?utm_campaign=tedspread--b&utm_medium=referral&utm_source=tedcomshare" target="blank">Neil Gershenfeld</a>  recognises that there is an artificial distinction between the arts and the sciences, just as there is between computation and science. And often those with more artistic approaches have something that those with niche technical specialisations lack or have forgotten. That is an openness to play, explore, and make stuff for the sake of discovery. At times this means pursuing aesthetic as well as social objectives and sometimes allowing the outcome to present itself as a surprise rather than an expected outcome.</p>
 
 <br/>
