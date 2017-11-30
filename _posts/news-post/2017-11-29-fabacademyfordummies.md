@@ -11,8 +11,6 @@ category: news
 ---
 
 
-<img src="{{site.baseurl}}{{ site.url }}/img/blog/blog/blog_loop_latest/fabacademyfordummies/neillarge.jpg">
-
 
 <p>Anyone who has done the <a href="https://fablabbcn.org/fab_academy_18.html" target="blank">Fab Academy</a> will agree the course which famously promises to teach <em>How to Make (Almost) Anything</em> is not for the faint minded. That said, one does not need to be an engineer, architect or have a PHD in astro physics to make the most of this fabulous 5 month-journey. Sometimes all that is required is the willingness to learn and the freedom to play.</p>
 
@@ -45,7 +43,7 @@ category: news
 
 <p>Any maker, builder, creator, artist worth his/her salt will admit that the learning journey never really ends. For many Fab Academy is just the first step into a universe with unlimited potential. Every journey must begin with a single step. Remember even Luke Skywalker was once layman with no Jedi skills, but he had the force, and so do you.</p>
 
-<br/><br/>
+<br/>
 
 
 
