@@ -20,15 +20,11 @@ category: news
 
 <br/>
 
-<p style="font-size:18px;text-align:center;">It is often the artists, the poets, the musicians - yes those with the “fluffy skills” - who question the very relationship we forge with technology</p>
+<p style="font-size:18px;text-align:center;">It is often the artists, the poets, the musicians who question the very relationship we forge with technology</p>
 
 <br/>
 
 <p>For example, artists like <a href="http://www.olafureliasson.net/" target="blank">Olafur Eliasson</a> have contributed significantly to the Fab Academy program, sharing how they use digital fabrication in creative new ways and sharing insights and challenges that go beyond the technical. <a href="https://www.ted.com/talks/neil_gershenfeld_on_fab_labs?utm_campaign=tedspread--b&utm_medium=referral&utm_source=tedcomshare" target="blank">Neil Gershenfeld</a>  recognises that there is an artificial distinction between the arts and the sciences, just as there is between computation and science. And often those with more artistic approaches have something that those with niche technical specialisations lack or have forgotten. That is an openness to play, explore, and make stuff for the sake of discovery. At times this means pursuing aesthetic as well as social objectives and sometimes allowing the outcome to present itself as a surprise rather than an expected outcome.</p>
-
-<br/>
-
-<p style="font-size:18px;text-align:center;">Today there is an artificial distinction between the arts and the sciences, just as there is between computation and science</p>
 
 <br/>
 
@@ -46,6 +42,10 @@ category: news
 <br/>
 
 <p>What is more, the Fab Academy is designed to be customised to the objectives, skills and background of each individual student. Not everyone is expected to invent the Star Trek replicator (though if you did Neil would most certainly sing your praises for ever after) or innovate some ground-braking, disruptive, market-shaking new technology to change the world and make a million bucks. To graduate, you do have to demonstrate applied knowledge in all of the <a href="http://academy.cba.mit.edu/classes/" target="blank">technologies and methods covered in the course</a>. This involves documented your experiments and learning process, which I would argue is one of the most important parts of the course. Here documenting failure is as (or more!) rewarding in the long term than documenting a fault-less process. If you can demonstrate not only what happened when you used machine x or method y, but understand where you went wrong and how you could improve in future. This is true learning.</p>
+
+<br/>
+
+<p style="font-size:18px;text-align:center;">Even Luke Skywalker was once layman with no Jedi skills, but he had the force, and so do you.</p>
 
 <br/>
 
