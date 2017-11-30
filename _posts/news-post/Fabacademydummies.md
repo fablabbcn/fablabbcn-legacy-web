@@ -10,7 +10,8 @@ date: 27/11/2017
 category: news
 ---
 
-<img src="./blog/blog_loop_latest/fabacademyfordummies/neillarge.jpg">
+<img src="http://www.fablabbcn.org/img/blog/blog/blog_loop_latest/fabacademyfordummies/neillarge.jpg">
+
 
 <p>Anyone who has done the <a href="https://fablabbcn.org/fab_academy_18.html" target="blank">Fab Academy</a>Fab Academy will agree the course which famously promises to teach <em>How to Make (almost) Anything</em> is not for the faint minded. That said, one does not need to be an engineer, architect or have a PHD in astro physics to make the most of this fabulous 5 month-journey. Sometimes all that is required is the willingness to learn and the freedom to play.</p>
 
@@ -24,8 +25,8 @@ category: news
 
 <br/><br/>
 
-<p>I won’t lie to you. Having a basic grasp of 3D design, electronics, or programming will give you a significant advantage in this multidisciplinary rollercoaster of a course. I did the Fab Academy in 2017 and prior to starting if someone had asked me what was digital fabrication I would have given one of those looks.. 
-<img src="./blog_loop_latest/fabacademyfordummies/digitalwhat.jpg" title="Digital Whaaaa?"> But I stuck it out, approached each week’s assignment with an open mind (and a punch of realistic time management) and found the experience immensely rewarding. Today I would say I'm quite confident in many of the topics, methods and technologies covered in the course, but the journey only gets more interesting.</p>
+<p>I won’t lie to you. Having a basic grasp of 3D design, electronics, or programming will give you a significant advantage in this multidisciplinary rollercoaster of a course. I did the Fab Academy in 2017 and prior to starting if someone had asked me what was digital fabrication I would have given one of those looks: 
+<img src="http://www.fablabbcn.org/img/blog/blog_loop_latest/fabacademyfordummies/digitalwhat.jpg" title="Digital Whaaaa?"> But I stuck it out, approached each week’s assignment with an open mind (and a punch of realistic time management) and found the experience immensely rewarding. Today I would say I'm quite confident in many of the topics, methods and technologies covered in the course, but the journey only gets more interesting.</p>
 
 <br/><br/>
 
