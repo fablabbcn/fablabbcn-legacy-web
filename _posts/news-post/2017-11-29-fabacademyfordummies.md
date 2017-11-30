@@ -25,7 +25,7 @@ category: news
 <br/>
 
 <p>I won’t lie to you. Having a basic grasp of 3D design, electronics, or programming will give you a significant advantage in this multidisciplinary rollercoaster of a course. I did the Fab Academy in 2017 and prior to starting if someone had asked me what was digital fabrication I would have given one of those looks: 
-<img src="http://www.fablabbcn.org/img/blog/blog_loop_latest/fabacademyfordummies/digitalwhat.jpg" align="center"> <br/> But I stuck it out, approached each week’s assignment with an open mind (and a punch of realistic time management) and found the experience immensely rewarding. Today I would say I'm quite confident in many of the topics, methods and technologies covered in the course, but the journey only gets more interesting.</p>
+<center><img src="http://www.fablabbcn.org/img/blog/blog_loop_latest/fabacademyfordummies/digitalwhat.jpg" align="center"></center> <br/> But I stuck it out, approached each week’s assignment with an open mind (and a punch of realistic time management) and found the experience immensely rewarding. Today I would say I'm quite confident in many of the topics, methods and technologies covered in the course, but the journey only gets more interesting.</p>
 
 <br/>
 
@@ -33,7 +33,7 @@ category: news
 
 <br/>
 
-<p>What is more, the Fab Academy is designed to be customised to the objectives, skills and background of each individual student. Not everyone is expected to invent the Star Trek replicator (though if you did Neil would most certainly sing your praises) or innovate some ground-braking, disruptive, market-shaking new technology to change the world and make a million bucks. To graduate, you do have to demonstrate applied knowledge in all of the <a href="http://academy.cba.mit.edu/classes/" target="blank">technologies and methods covered in the course</a>. This involves documented your experiments and learning process, which I would argue is one of the most important parts of the course. Here documenting failure is as (or more!) rewarding in the long term than documenting a fault-less process. If you can demonstrate not only what happened when you used machine x or method y, but understand where you went wrong and how you could improve in future. This is true learning.</p>
+<p>What is more, the Fab Academy is designed to be customised to the objectives, skills and background of each individual student. Not everyone is expected to invent the Star Trek replicator (though if you did Neil would most certainly sing your praises for ever after) or innovate some ground-braking, disruptive, market-shaking new technology to change the world and make a million bucks. To graduate, you do have to demonstrate applied knowledge in all of the <a href="http://academy.cba.mit.edu/classes/" target="blank">technologies and methods covered in the course</a>. This involves documented your experiments and learning process, which I would argue is one of the most important parts of the course. Here documenting failure is as (or more!) rewarding in the long term than documenting a fault-less process. If you can demonstrate not only what happened when you used machine x or method y, but understand where you went wrong and how you could improve in future. This is true learning.</p>
 
 <br/>
 
