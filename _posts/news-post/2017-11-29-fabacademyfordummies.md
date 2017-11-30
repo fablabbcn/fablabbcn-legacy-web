@@ -4,14 +4,15 @@ type: blog
 teaserlatest: blog_loop_latest/fabacademyfordummies/fablabbcn.jpg
 teaserlist: blog_loop_latest/fabacademyfordummies/fablabbcn.jpg
 title: Fab Academy for dummies? Fear not, the force is with you.
-meta: "Anyone who has done the Fab Academy will agree the course which famously promises to teach How to Make (almost) Anything is not for the faint minded. That said, one does not need to be an engineer, architect or have a PHD in astro physics to make the most of this fabulous 5 month-journey. Sometimes all that is required is the willingness to learn and the freedom to play."
+meta: "Anyone who has done the Fab Academy will agree the course which famously promises to teach How to Make (almost) Anything is not for the faint minded. But sometimes all that is required is the willingness to learn and the freedom to play."
 author: Niko
 date: 29/11/2017 
 category: news
 ---
 
+<div>
 <img src="http://www.fablabbcn.org/img/blog/blog/blog_loop_latest/fabacademyfordummies/neillarge.jpg">
-
+</div>
 
 <p>Anyone who has done the <a href="https://fablabbcn.org/fab_academy_18.html" target="blank">Fab Academy</a> will agree the course which famously promises to teach <em>How to Make (Almost) Anything</em> is not for the faint minded. That said, one does not need to be an engineer, architect or have a PHD in astro physics to make the most of this fabulous 5 month-journey. Sometimes all that is required is the willingness to learn and the freedom to play.</p>
 
