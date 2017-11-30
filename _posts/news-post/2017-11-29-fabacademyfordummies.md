@@ -4,7 +4,7 @@ type: blog
 teaserlatest: blog_loop_latest/fabacademyfordummies/fablabbcn.jpg
 teaserlist: blog_loop_latest/fabacademyfordummies/fablabbcn.jpg
 title: Fab Academy for dummies? Fear not, the force is with you
-meta: "Anyone who has done the Fab Academy will agree the course which famously promises to teach How to Make (almost) Anything is not for the faint minded. But sometimes all that is required is the willingness to learn and the freedom to play."
+meta: "Anyone who has done the Fab Academy will agree the course which famously promises to teach <em>How to Make (Almost) Anything</em> is not for the faint minded. But sometimes all that is required is the willingness to learn and the freedom to play."
 author: Niko
 date: 29/11/2017 
 category: news
