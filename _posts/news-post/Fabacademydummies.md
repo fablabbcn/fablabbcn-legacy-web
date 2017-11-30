@@ -38,7 +38,7 @@ category: news
 
 <br/><br/>
 
-<p>For over 10 years now Fab Academy has been offering students from all over the world a new way to approach knowledge and technological tools. This is not just about a nice diploma for the CV. Fab Academy is about a whole new approach to learning, one that involves learning by doing, collaborating, and sharing. At it’s core the Fab Academy is about the open sharing of bits as much as it is about learning how to fabricate atoms.</p>
+<p>For over 10 years now Fab Academy has been offering students from all over the world a new way to approach knowledge and technological tools. This is not just about a nice diploma for the CV, or learning how to weild cool new tools. Fab Academy is about a whole new approach to learning, one that involves learning by doing, collaborating, and sharing.</p>
 
 <br/><br/>
 
