@@ -1,8 +1,8 @@
 ---
 layout: blog_post
 type: event
-teaserlatest: blog_loop_latest/opennight/smallopennight17.jpg
-teaserlist: blog_loop_latest/opennight/smallopennight17.jpg
+teaserlatest: blog_loop_latest/fabkids/fabkidsmusicsmall.jpg
+teaserlist: blog_loop_latest/fabkids/fabkidsmusicsmall.jpg
 title: Nous Tallers per a nens @ Fab Lab BCN
 meta: "Fabkids BCN, en col·laboració de Minimúsica, proposen dos nous Tallers de música i tecnologia per a minis: 'Guitarra i Amply - Crea la teva guitarra de cartró, experimenta amb sensors i construeix el teu amplificador!' i 'Programació creativa amb Sonic PI + Raspberry PI - Programa una cançó' "
 author: Marco Sanalitro
@@ -13,7 +13,7 @@ category: event
 <strong><a href="http://kids.fablabbcn.org/">Fabkids BCN</a></strong>, en col·laboració de <strong><a href="http://minimusica.tv/">Minimúsica</a></strong>, proposen dos nous Tallers de música i tecnologia per a minis:
 
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/opennight/opennight17.jpg" align="left"> </ul><br><br>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids/fabkidsmusic1.jpg" align="left"> </ul><br><br>
 
 Guitarra i Amply - Crea la teva guitarra de cartró, experimenta amb sensors i construeix el teu amplificador!<br><br>
 
@@ -47,7 +47,7 @@ Per el formulari d'inscripció feu clic <strong><a href="http://apply.fablabbcn.
 
 ..............................................<br><br>
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/opennight/opennight17.jpg" align="left"> </ul><br><br>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids/fabkidsmusic2.jpg" align="left"> </ul><br><br>
 
 Programació creativa amb Sonic PI + Raspberry PI<br><br>
 
