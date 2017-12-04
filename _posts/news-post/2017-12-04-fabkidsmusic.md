@@ -10,7 +10,7 @@ date: 04/12/2017
 category: event
 ---
 
-<strong><a href="http://kids.fablabbcn.org/">Fabkids BCN</a></strong>, en col·laboració amb <strong><a href="http://minimusica.tv/">Minimúsica</a></strong>, proposen dos nous Tallers de música i tecnologia per a nenes i nens:
+<strong><a href="http://kids.fablabbcn.org/">Fabkids BCN</a></strong>, en col·laboració amb <strong><a href="http://minimusica.tv/">minimúsica</a></strong>, proposen dos nous Tallers de música i tecnologia per a nenes i nens:
 
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids/fabkidsmusic1.png" align="right"> </ul><br><br>
