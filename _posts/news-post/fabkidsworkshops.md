@@ -12,6 +12,64 @@ category: event
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/opennight/opennight17.jpg" align="left"> </ul>
 
+Guitarra i Amply - Crea la teva guitarra de cartró, experimenta amb sensors i construeix el teu amplificador!
+
+1 Fabrica la teva guitarra:
+
+Guitarres per esquerrans i per a dretans, amb els potenciòmetres que un decideixi, i amb l'aparen a final marca de la casa. El resultat: arribar a casa amb una guitarra única
+
+Els infants aprenen el procés de fabricació d'una guitarra, de manera que aprenen d'una forma pràctica a entendre i valorar aquest instument.
+
+2 Experimenta i Sona:
+
+Gaudeix d'una sessió d'experimentació amb sensors (inputs). Aprèn electrònica bàsica i conceptes de propagació.
+
+3 Construeix i personalitza el teu amplificador:
+
+Fabrica el teu altaveu per poder connectar qualseol aparell electrònic que tingui un jack, com una guitarra.
+
+Info
+
+Lloc: Fab Lab BCN
+Dies: 2,3 i 4 de Gener
+Horari: 9:00-12:00
+N Participants: 10-15
+Edad: 8-10 anys
+
+Preu: 90 €
+
+Per obtenir més informació:info@fablabbcn.org - tel.(+34)93 320 95 20
+El formulari d'inscripció:goo.gl/c8hDVC
+______________________________________
+
+Programació creativa amb Sonic PI + Raspberry PI
+
+1 Programa una cançó:
+
+Has pensat mai en composar una cançó? En aquest taller començaràs a crear un ritme de bateria i coneixeràs el "live_loop". A continuació, afegireu un baix i finalitzeu la cançó afegint una melodia.
+
+2 Desde una cançó a una preformance:
+
+Ara que ja sabem fer can ons ens prepararem per fer un espectacle de música en viu i aprendràs com editar i afegir notes, acords, samples i sintentitzadors a la teva composició sense haver de parar la música!
+
+3 Jam Session:<br>
+
+és el moment de la Jam Session. Dissenyarem per grups la sessió de música improvitzada i prepararem l'espai per la festa final!<br><br>
+
+Info<br><br>
+
+Lloc: Fab Lab BCN<br>
+Dies: 2,3 i 4 de Gener<br>
+Horari: 9:00-12:00<br>
+N Participants: 10-15<br>
+Edad: 10-12 anys<br><br>
+
+Preu: 90 €<br><br>
+
+Per obtenir més informació:info@fablabbcn.org - tel.(+34)93 320 95 20<br>
+El formulari d'inscripció:goo.gl/a52o8j<br>
+
+
 <strong>(CAT)</strong> <br><br>
 
 <p><strong><a href="https://iaac.net/">IAAC</a> | <a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> participen al <strong><a href="https://goo.gl/ofPKKz">Poblenou Open Night 2017</a></strong>, organitzat pel <strong><a href="https://goo.gl/ofPKKz">Poblenou Urban District</a></strong>.</p><br><br>
