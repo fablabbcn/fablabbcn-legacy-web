@@ -15,23 +15,23 @@ category: event
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids/fabkidsmusic1.jpg" align="left"> </ul><br><br>
 
-Guitarra i Amply - Crea la teva guitarra de cartró, experimenta amb sensors i construeix el teu amplificador!<br><br>
+<strong>Guitarra i Amply - Crea la teva guitarra de cartró, experimenta amb sensors i construeix el teu amplificador!</strong><br><br>
 
-1 Fabrica la teva guitarra:<br>
+<strong>1 Fabrica la teva guitarra:</strong><br>
 
 Guitarres per esquerrans i per a dretans, amb els potenciòmetres que un decideixi, i amb l'aparença final marca de la casa. El resultat: arribar a casa amb una guitarra única.<br>
 
 Els infants aprenen el procés de fabricació d'una guitarra, de manera que aprenen d'una forma pràctica a entendre i valorar aquest instument.<br><br>
 
-2 Experimenta i Sona:<br>
+<strong>2 Experimenta i Sona:</strong><br>
 
 Gaudeix d'una sessió d'experimentació amb sensors (inputs). Aprèn electrònica bàsica i conceptes de propagació.<br><br>
 
-3 Construeix i personalitza el teu amplificador:<br>
+<strong>3 Construeix i personalitza el teu amplificador:</strong><br>
 
 Fabrica el teu altaveu per poder connectar qualseol aparell electrònic que tingui un jack, com una guitarra.<br><br>
 
-Info<br><br>
+<strong>Info:</strong><br><br>
 
 Lloc: <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong><br>
 Dies: 2,3 i 4 de Gener<br>
@@ -42,28 +42,28 @@ Edad: 8-10 anys<br><br>
 Preu: 90 €<br><br>
 
 Per obtenir més informació: info@fablabbcn.org - tel.(+34)93 320 95 20<br>
-Per el formulari d'inscripció feu clic <strong><a href="http://apply.fablabbcn.org/view.php?id=15216">aquí
+Per el formulari d'inscripció feu clic <strong><a href="http://apply.fablabbcn.org/view.php?id=15216">aquí</a></strong>
 <br><br>
 
-..............................................<br><br>
+.....................................................................................................<br><br>
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids/fabkidsmusic2.jpg" align="left"> </ul><br><br>
 
-Programació creativa amb Sonic PI + Raspberry PI<br><br>
+<strong>Programació creativa amb Sonic PI + Raspberry PI</strong><br><br>
 
-1 Programa una cançó:<br>
+<strong>1 Programa una cançó:</strong><br>
 
 Has pensat mai en composar una cançó? En aquest taller començaràs a crear un ritme de bateria i coneixeràs el "live_loop". A continuació, afegireu un baix i finalitzeu la cançó afegint una melodia.<br><br>
 
-2 Desde una cançó a una preformance:<br>
+<strong>2 Desde una cançó a una preformance:</strong><br>
 
 Ara que ja sabem fer cançons ens prepararem per fer un espectacle de música en viu i aprendràs com editar i afegir notes, acords, samples i sintentitzadors a la teva composició sense haver de parar la música!<br><br>
 
-3 Jam Session:<br>
+<strong>3 Jam Session:</strong><br>
 
 és el moment de la Jam Session. Dissenyarem per grups la sessió de música improvitzada i prepararem l'espai per la festa final!<br><br>
 
-Info<br><br>
+<strong>Info:</strong><br><br>
 
 Lloc: <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong><br>
 Dies: 2,3 i 4 de Gener<br>
@@ -74,6 +74,6 @@ Edad: 10-12 anys<br><br>
 Preu: 90 €<br><br>
 
 Per obtenir més informació: info@fablabbcn.org - tel.(+34)93 320 95 20<br>
-Per el formulari d'inscripció feu clic <strong><a href="http://apply.fablabbcn.org/view.php?id=16045">aquí
+Per el formulari d'inscripció feu clic <strong><a href="http://apply.fablabbcn.org/view.php?id=16045">aquí</a></strong>
 <br><br>
 
