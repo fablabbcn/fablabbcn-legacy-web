@@ -42,7 +42,7 @@ Edad: 8-10 anys<br><br>
 Preu: 90 €<br><br>
 
 Per obtenir més informació: info@fablabbcn.org - tel.(+34)93 320 95 20<br>
-Per el formulari d'inscripció feu clic <strong><a href="http://apply.fablabbcn.org/view.php?id=15216">feu clic aquí
+Per el formulari d'inscripció feu clic <strong><a href="http://apply.fablabbcn.org/view.php?id=15216">aquí
 <br><br>
 
 ..............................................<br><br>
@@ -74,6 +74,6 @@ Edad: 10-12 anys<br><br>
 Preu: 90 €<br><br>
 
 Per obtenir més informació: info@fablabbcn.org - tel.(+34)93 320 95 20<br>
-Per el formulari d'inscripció feu clic <strong><a href="http://apply.fablabbcn.org/view.php?id=16045">feu clic aquí
+Per el formulari d'inscripció feu clic <strong><a href="http://apply.fablabbcn.org/view.php?id=16045">aquí
 <br><br>
 
