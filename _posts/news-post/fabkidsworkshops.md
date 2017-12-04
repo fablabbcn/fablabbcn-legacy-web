@@ -12,45 +12,45 @@ category: event
 
 <ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/opennight/opennight17.jpg" align="left"> </ul>
 
-Guitarra i Amply - Crea la teva guitarra de cartró, experimenta amb sensors i construeix el teu amplificador!
+Guitarra i Amply - Crea la teva guitarra de cartró, experimenta amb sensors i construeix el teu amplificador!<br><br>
 
-1 Fabrica la teva guitarra:
+1 Fabrica la teva guitarra:<br>
 
-Guitarres per esquerrans i per a dretans, amb els potenciòmetres que un decideixi, i amb l'aparen a final marca de la casa. El resultat: arribar a casa amb una guitarra única
+Guitarres per esquerrans i per a dretans, amb els potenciòmetres que un decideixi, i amb l'aparen a final marca de la casa. El resultat: arribar a casa amb una guitarra única.<br>
 
-Els infants aprenen el procés de fabricació d'una guitarra, de manera que aprenen d'una forma pràctica a entendre i valorar aquest instument.
+Els infants aprenen el procés de fabricació d'una guitarra, de manera que aprenen d'una forma pràctica a entendre i valorar aquest instument.<br><br>
 
-2 Experimenta i Sona:
+2 Experimenta i Sona:<br>
 
-Gaudeix d'una sessió d'experimentació amb sensors (inputs). Aprèn electrònica bàsica i conceptes de propagació.
+Gaudeix d'una sessió d'experimentació amb sensors (inputs). Aprèn electrònica bàsica i conceptes de propagació.<br><br>
 
-3 Construeix i personalitza el teu amplificador:
+3 Construeix i personalitza el teu amplificador:<br>
 
-Fabrica el teu altaveu per poder connectar qualseol aparell electrònic que tingui un jack, com una guitarra.
+Fabrica el teu altaveu per poder connectar qualseol aparell electrònic que tingui un jack, com una guitarra.<br><br>
 
-Info
+Info<br><br>
 
-Lloc: Fab Lab BCN
-Dies: 2,3 i 4 de Gener
-Horari: 9:00-12:00
-N Participants: 10-15
-Edad: 8-10 anys
+Lloc: Fab Lab BCN<br>
+Dies: 2,3 i 4 de Gener<br>
+Horari: 9:00-12:00<br>
+N Participants: 10-15<br>
+Edad: 8-10 anys<br><br>
 
-Preu: 90 €
+Preu: 90 €<br><br>
 
-Per obtenir més informació:info@fablabbcn.org - tel.(+34)93 320 95 20
-El formulari d'inscripció:goo.gl/c8hDVC
+Per obtenir més informació:info@fablabbcn.org - tel.(+34)93 320 95 20<br>
+El formulari d'inscripció:goo.gl/c8hDVC<br><br>
 ______________________________________
 
-Programació creativa amb Sonic PI + Raspberry PI
+Programació creativa amb Sonic PI + Raspberry PI<br><br>
 
-1 Programa una cançó:
+1 Programa una cançó:<br>
 
-Has pensat mai en composar una cançó? En aquest taller començaràs a crear un ritme de bateria i coneixeràs el "live_loop". A continuació, afegireu un baix i finalitzeu la cançó afegint una melodia.
+Has pensat mai en composar una cançó? En aquest taller començaràs a crear un ritme de bateria i coneixeràs el "live_loop". A continuació, afegireu un baix i finalitzeu la cançó afegint una melodia.<br><br>
 
-2 Desde una cançó a una preformance:
+2 Desde una cançó a una preformance:<br>
 
-Ara que ja sabem fer can ons ens prepararem per fer un espectacle de música en viu i aprendràs com editar i afegir notes, acords, samples i sintentitzadors a la teva composició sense haver de parar la música!
+Ara que ja sabem fer can ons ens prepararem per fer un espectacle de música en viu i aprendràs com editar i afegir notes, acords, samples i sintentitzadors a la teva composició sense haver de parar la música!<br><br>
 
 3 Jam Session:<br>
 
