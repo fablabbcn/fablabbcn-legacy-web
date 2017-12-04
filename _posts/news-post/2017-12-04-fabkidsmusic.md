@@ -13,7 +13,7 @@ category: event
 <strong><a href="http://kids.fablabbcn.org/">Fabkids BCN</a></strong>, en col·laboració amb <strong><a href="http://minimusica.tv/">Minimúsica</a></strong>, proposen dos nous Tallers de música i tecnologia per a nenes i nens:
 
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids/fabkidsmusic1.png" align="left"> </ul><br><br>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids/fabkidsmusic1.png" align="right"> </ul><br><br>
 
 <strong>Guitarra i Ampli - Crea la teva guitarra de cartró, experimenta amb sensors i construeix el teu amplificador!</strong><br><br>
 
@@ -47,7 +47,7 @@ Per el formulari d'inscripció feu clic <strong><a href="http://apply.fablabbcn.
 
 .....................................................................................................<br><br>
 
-<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids/fabkidsmusic2.png" align="left"> </ul><br><br>
+<ul><img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabkids/fabkidsmusic2.png" align="right"> </ul><br><br>
 
 <strong>Programació creativa amb Sonic PI + Raspberry PI</strong><br><br>
 
