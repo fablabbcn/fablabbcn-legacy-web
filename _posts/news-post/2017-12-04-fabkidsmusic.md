@@ -4,7 +4,7 @@ type: event
 teaserlatest: blog_loop_latest/fabkids/fabkidsmusicsmall.jpg
 teaserlist: blog_loop_latest/fabkids/fabkidsmusicsmall.jpg
 title: Nous Tallers per a nenes i nens @ Fab Lab BCN
-meta: "Fabkids BCN, en col·laboració amb Minimúsica, proposen dos nous Tallers de música i tecnologia per a nenes i nens: 'Guitarra i Ampli - Crea la teva guitarra de cartró, experimenta amb sensors i construeix el teu amplificador!' i 'Programació creativa amb Sonic PI + Raspberry PI - Programa una cançó' "
+meta: "Fabkids BCN, en col·laboració amb minimúsica, proposen dos nous Tallers de música i tecnologia per a nenes i nens: 'Guitarra i Ampli - Crea la teva guitarra de cartró, experimenta amb sensors i construeix el teu amplificador!' i 'Programació creativa amb Sonic PI + Raspberry PI - Programa una cançó' "
 author: Marco Sanalitro
 date: 04/12/2017
 category: event
