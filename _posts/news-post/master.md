@@ -26,7 +26,7 @@ The first edition of the master, co-directed by <strong><a href="https://iaac.ne
 
 The programme focuses on the <strong>design of interventions in the form of products, platforms and deployments that aim to produce new emergent futures</strong>, by previously analysing the current challenges in society and industry. Students will be encouraged to <strong>work on multiple scales</strong> in order to design and test interventions in the real world.
 
-The <strong><a href="https://iaac.net/educational-programs/master-design-emergent-futures/?mc_cid=058c110b7a&mc_eid=[UNIQID]">MDEF</strong> programme is recommended for <strong>designers, sociologists, computer scientists, economists, anthropologists, technology entrepreneurs and changemakers</strong> who are looking to develop an <strong>interdisciplinary and hybrid career</strong> path to conceive and produce impactful ideas to transform the established order. 
+The <strong><a href="https://iaac.net/educational-programs/master-design-emergent-futures/?mc_cid=058c110b7a&mc_eid=[UNIQID]">MDEF</a></strong> programme is recommended for <strong>designers, sociologists, computer scientists, economists, anthropologists, technology entrepreneurs and changemakers</strong> who are looking to develop an <strong>interdisciplinary and hybrid career</strong> path to conceive and produce impactful ideas to transform the established order. 
 
-For more information click <strong><a href="https://iaac.net/educational-programs/master-design-emergent-futures/?mc_cid=058c110b7a&mc_eid=[UNIQID]">HERE</strong>
+For more information click <strong><a href="https://iaac.net/educational-programs/master-design-emergent-futures/?mc_cid=058c110b7a&mc_eid=[UNIQID]">HERE</a></strong>
 
