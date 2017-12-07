@@ -96,6 +96,11 @@ category: news
 
 <p>MID Talent has been a huge success inspiring young people with new ideas and approaches to innovation and entrepreneurship.  </p>
 
+<br/><br/>
+
+<p>For more information and to participate in the next sessions click <a href="http://www.bcd.es/es/page.asp?id=403" target="blank">HERE</a> </p>
+
+
 
 
 
