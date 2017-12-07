@@ -1,12 +1,12 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/opennight17/opennight17small2.jpg
-teaserlist: blog_loop_latest/opennight17/opennight17small2.jpg
+teaserlatest: blog_loop_latest/midtalent/midtalentsmall.jpg
+teaserlist: blog_loop_latest/midtalent/midtalentsmall.jpg
 title: Young innovators to the rescue with MID Talent
 meta: "Combine 20 bright young minds together in the Fab Lab for a week of intensive team building, innovation, design and prototyping and what do you get? The answer is MID Talent."
 author: Niko
-date: 27/11/2017 
+date: 08/12/2017 
 category: news
 ---
 
@@ -25,44 +25,33 @@ category: news
   <div class="carousel-inner" role="listbox">
    
     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/1.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/midtalent/01.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/2.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/midtalent/02.jpg" />
     </div>
 
   <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/3.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/midtalent/03.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/4.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/midtalent/04.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/5.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/midtalent/05.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/6.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/midtalent/06.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/7.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/midtalent/07.jpg" />
     </div>
     
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/8.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/9.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/10.jpg" />
-    </div>
 </div>
 
 <!-------------------- Controls --------------------->
