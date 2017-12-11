@@ -55,7 +55,7 @@ Per el formulari d'inscripció feu clic <strong><a href="http://apply.fablabbcn.
 
 Has pensat mai en composar una cançó? En aquest taller començaràs a crear un ritme de bateria i coneixeràs el "live_loop". A continuació, afegireu un baix i finalitzeu la cançó afegint una melodia.<br><br>
 
-<strong>2 Desde una cançó a una preformance:</strong><br>
+<strong>2 Des d'una cançó a una performance:</strong><br>
 
 Ara que ja sabem fer cançons ens prepararem per fer un espectacle de música en viu i aprendràs com editar i afegir notes, acords, samples i sintentitzadors a la teva composició sense haver de parar la música!<br><br>
 
