@@ -3,10 +3,10 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/midtalent/midtalentsmall.jpg
 teaserlist: blog_loop_latest/midtalent/midtalentsmall.jpg
-title: Young innovators to the rescue with MID Talent
+title: Romi, robotics platform for micro-farms!
 meta: "Combine 20 bright young minds together in the Fab Lab for a week of intensive team building, innovation, design and prototyping and what do you get? The answer is MID Talent."
-author: Niko
-date: 08/12/2017 
+author: Marco
+date: 18/12/2017 
 category: news
 ---
 
@@ -25,33 +25,44 @@ category: news
   <div class="carousel-inner" role="listbox">
    
     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/midtalent/01.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/romi/01.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/midtalent/02.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/v/02.jpg" />
     </div>
 
   <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/midtalent/03.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/romi/03.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/midtalent/04.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/romi/04.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/midtalent/05.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/romi/05.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/midtalent/06.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/romi/06.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/midtalent/07.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/romi/07.jpg" />
     </div>
     
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/romi/08.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/romi/09.jpg" />
+    </div>
+    
+    <div class="item">
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/romi/10.jpg" />
+    </div>
 </div>
 
 <!-------------------- Controls --------------------->
@@ -65,6 +76,17 @@ category: news
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+
+<p>IAAC | Fab Lab BCN hosted our partner Sony Computer Science Laboratory Paris to build and test the first Rover for the ROMI EU project.</p>
+
+<p>The main goal of the project, which will be carried on at Valldaura Labs under the direction of Jonantan Minchin, is to develop an open and lightweight robotics platform for micro-farms, to assist farmers in weed reduction and crop monitoring.</p>
+
+<p>After a week of work and sharing, the team analyzed and collected data to plan the next steps of the project and the next meetings: 
+
+<p>Together, developing robotics platform for micro-farms!</p>
+
+
 
 <p>Combine 20 bright young minds together in the Fab Lab for a week of intensive team building, innovation, design and prototyping and what do you get? The answer is <a href="http://www.bcd.es/es/mid.asp?method=page&node=403" target="blank">MID Talent</a>.</p>
 
