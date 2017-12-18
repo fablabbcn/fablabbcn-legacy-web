@@ -78,17 +78,17 @@ category: news
 </div>
 
 
-<p><strong><a href="http://www.bcd.es/es/page.asp?id=1" target="blank">IAAC</a></strong> | Fab Lab BCN hosted our partner Sony Computer Science Laboratory Paris to build and test the first Rover for the ROMI EU project.</p>
+<p><strong><a href="https://iaac.net/" target="blank">IAAC</a></strong> | <strong><a href="https://fablabbcn.org/index.html" target="blank">Fab Lab BCN</a></strong> hosted our partner <strong><a href="https://www.csl.sony.fr/" target="blank"> Sony Computer Science Laboratory Paris</a></strong> to build and test the first Rover for the <strong>ROMI EU project</strong>.</p>
 
-<p>The main goal of the project, which will be carried on at Valldaura Labs under the direction of Jonantan Minchin, is to develop an open and lightweight robotics platform for micro-farms, to assist farmers in weed reduction and crop monitoring.</p>
+<p>The main goal of the project, which will be carried on at <strong><a href="https://iaac.net/" target="blank">Valldaura Labs under the direction of <strong><a href="https://iaac.net/" target="blank">Jonantan Minchin, is to develop an open and lightweight robotics platform for micro-farms, to assist farmers in weed reduction and crop monitoring.</p>
 
-<p>After a week of work and sharing, the team composed by Fab City research lab and Fab Lab BCN experts, Sony Computer Science Laboratory Paris, Pépinières Chatelain and Noumena team, analyzed and collected data to plan the next steps of the project and the next meetings. 
+<p>After a week of work and sharing, the team composed by <a href="https://fablabbcn.org/index.html" target="blank">Fab City research lab</a></strong> and <a href="https://fablabbcn.org/index.html" target="blank">Fab Lab BCN</a></strong> experts,<strong><a href="https://www.csl.sony.fr/" target="blank"> Sony Computer Science Laboratory Paris</a></strong>, <strong><a href="http://www.pepinieres-chatelain.com/" target="blank">Pépinières Chatelain</a></strong> and <strong><a href="https://noumena.io/" target="blank">Noumena team</a></strong>, analyzed and collected data to plan the next steps of the project and the next meetings. 
 
 <p>Stay tuned for new updates soon!</p>
 
 <p>Together, developing robotics platform for micro-farms!</p>
 
-<p>For more information about the ROMI project click <a href="http://www.bcd.es/es/page.asp?id=403" target="blank">HERE</a> </p>
+<p>For more information about the <strong>ROMI project</strong> click <a href="http://www.bcd.es/es/page.asp?id=403" target="blank">HERE</a> </p>
 
 
 
