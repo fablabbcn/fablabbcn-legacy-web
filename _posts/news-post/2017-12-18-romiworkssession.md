@@ -86,7 +86,7 @@ category: news
 
 <p>The project is coordinated by the <strong><a href="https://iaac.net/research-departments/fab-city-research-laboratory/" target="blank">Fab City research lab</a></strong> and brings together subjects such as plant modelling, adaptive learning, and high-performance computing. This research is funded by <strong><a href="https://ec.europa.eu/programmes/horizon2020/" target="blank">Horizon 2020</a></strong> is the biggest EU Research and Innovation programme ever with nearly €80 billion of funding available over 7 years, which promises breakthroughs, discoveries and world-firsts by taking great ideas from the lab to the market.</p><br><br>
 
-<p>For more information about the <strong>ROMI project</strong> click <a href="https://fablabbcn.org/news/2017/08/31/romi.html" target="blank">HERE</a> </p><br><br>
+<p>For more information about <strong>ROMI project</strong> click <a href="https://fablabbcn.org/news/2017/08/31/romi.html" target="blank">HERE</a> </p><br><br>
 
 
  
