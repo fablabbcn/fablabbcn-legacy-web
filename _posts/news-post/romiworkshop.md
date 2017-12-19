@@ -29,7 +29,7 @@ category: news
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/v/02.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/romi/02.jpg" />
     </div>
 
   <div class="item">
