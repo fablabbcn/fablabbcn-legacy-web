@@ -1,8 +1,8 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/midtalent/midtalentsmall.jpg
-teaserlist: blog_loop_latest/midtalent/midtalentsmall.jpg
+teaserlatest: blog_loop_latest/romi/romiworksmall.jpg
+teaserlist: blog_loop_latest/romi/romiworksmall.jpg
 title: Romi, robotics platform for micro-farms!
 meta: "IAAC | Fab Lab BCN hosted our partner Sony Computer Science Laboratory Paris for the ROMI EU project work session."
 author: Marco
