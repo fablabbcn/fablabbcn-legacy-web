@@ -11,7 +11,7 @@ category: news
 ---
 
 <iframe src="https://player.vimeo.com/video/248142413" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/248142413">10 Years of Fab Lab Bcn</a> from <a href="https://vimeo.com/fablabbcn">Fab Lab Barcelona</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 
 <p><h4>Gràcies a tots per venir al <strong><a href="http://www.poblenouurbandistrict.com">Poblenou Urban District Open Night</a></strong> 2017!</h4><br><br>
 
