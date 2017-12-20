@@ -1,81 +1,17 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/opennight17/opennight17small2.jpg
-teaserlist: blog_loop_latest/opennight17/opennight17small2.jpg
-title: Thanks for coming to the Poblenou Urban District Open Night 2017!
+teaserlatest: blog_loop_latest/10small.jpg
+teaserlist: blog_loop_latest/10small.jpg
+title: 10 Years of Fab Lab BCN!
 meta: "Iaac | Fab Lab Barcelona opened its doors. More than 1000 people visited our Digital Fabrication Laboratory and learned about our projects."
 author: Marco Sanalitro
-date: 27/11/2017 
+date: 20/12/2017 
 category: news
 ---
 
-<!--<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/openday17/openday171.jpg" align="middle"> 
-<br>
-
-
-
-<!----- Image Slider ----------------------------- Image Slider -------------->
-
-
-<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-
-<!--------------- Wrapper for slides --------------->
-
-  <div class="carousel-inner" role="listbox">
-   
-    <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/1.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/2.jpg" />
-    </div>
-
-  <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/3.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/4.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/5.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/6.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/7.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/8.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/9.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/10.jpg" />
-    </div>
-</div>
-
-<!-------------------- Controls --------------------->
-
-  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
+<iframe src="https://player.vimeo.com/video/248142413" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/248142413">10 Years of Fab Lab Bcn</a> from <a href="https://vimeo.com/fablabbcn">Fab Lab Barcelona</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 <p><h4>Gràcies a tots per venir al <strong><a href="http://www.poblenouurbandistrict.com">Poblenou Urban District Open Night</a></strong> 2017!</h4><br><br>
 
