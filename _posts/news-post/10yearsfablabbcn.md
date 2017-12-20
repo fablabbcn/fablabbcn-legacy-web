@@ -12,6 +12,13 @@ category: news
 
 <iframe src="https://player.vimeo.com/video/248142413" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+In March 2017 we celebrated the 10th anniversary of <strong><a href="http://fablabbcn.org/">Fab Lab Barcelona</a></strong>, but we certainly did not stop and we continued our world-changing project step by step!!
+Thanks to our friends and collaborators to helped us become what we are now, without you it would not have been possible to reach our goals.
+And now "We want to scale up in the next ten years to produce impact in our neighbourhood through the fab city prototype in the maker district and also share what we learned with a global network of FabLabs and fab cities."
+
+The adventure continues ...
+
+
 
 <p><h4>Gràcies a tots per venir al <strong><a href="http://www.poblenouurbandistrict.com">Poblenou Urban District Open Night</a></strong> 2017!</h4><br><br>
 
