@@ -10,7 +10,7 @@ date: 15/01/2018
 category: news
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nA63gsNWKBw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br><br>
+<iframe width="640" height="315" src="https://www.youtube.com/embed/nA63gsNWKBw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br><br>
 
 <strong><a href="https://iaac.net/educational-programs/master-design-emergent-futures/">Master in Design for Emergent Futures (MDEF) Director</a></strong>, <strong><a href="https://fablabbcn.org/about_us.html">Tomás Diez</a></strong>, is interviewed by <strong><a href="https://urbannext.net/talk/">UrbanNext</a></strong> during the <strong><a href="http://www.smartcityexpo.com">Smart City Expo World Congress 201</a></strong>7 on digital fabrication, circular systems and the future of production in cities.<br><br>
 
