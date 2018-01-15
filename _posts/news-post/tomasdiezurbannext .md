@@ -6,9 +6,11 @@ teaserlist: blog_loop_latest/10small.jpg
 title: 10 Years of Fab Lab BCN!
 meta: "10 Years of Fab Lab BCN: we have done a lot, but we will do more in the next 10 years. Learn more about our projects and our programmes."
 author: Marco Sanalitro
-date: 20/12/2017 
+date: 15/01/2018 
 category: news
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nA63gsNWKBw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe src="https://player.vimeo.com/video/248142413" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
