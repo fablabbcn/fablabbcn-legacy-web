@@ -1,8 +1,8 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/fassmall2.jpg
-teaserlist: blog_loop_latest/fassmall2.jpg
+teaserlatest: blog_loop_latest/fabacademy2018/startsmall.jpg
+teaserlist: blog_loop_latest/fabacademy2018/startsmall.jpg
 title: Fab Academy 2018
 meta: "It's time to make (almost) anything. We welcome you to Fab Academy 2018 that starts today and end in Fab Academy Graduation in July during Toulouse FAB14"
 author: Marco Sanalitro
