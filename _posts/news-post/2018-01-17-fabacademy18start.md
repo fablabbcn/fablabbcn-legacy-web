@@ -74,7 +74,7 @@ We hope our students will increase their skills and change the world step by ste
 
 Stay tuned!<br><br>
 
-Read more about fab academy:<br><br>
+Read more about Fab Academy:<br><br>
 
 [Fab Academy BCN 2018](https://fablabbcn.org/fab_academy_18.html)<br><br>
 
