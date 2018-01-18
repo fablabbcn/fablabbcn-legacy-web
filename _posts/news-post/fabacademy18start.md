@@ -72,11 +72,7 @@ Even the **[FabLab Barcelona](http://fablabbcn.org)** and **[Green Fab Lab](http
 
 We hope our students will increase their skills and change the world step by step as their predecessors have done before.
 
-![](http://www.fablabbcn.org/img/blog/blog_loop_latest/mod1.jpg)
-
-**[Fab Academy](http://fabacademy.org/)** is a **Digital Fabrication program** directed by **[Neil Gershenfeld](http://ng.cba.mit.edu/)** of **[MIT’s Center For Bits and Atoms](http://cba.mit.edu/)** and based on MIT’s rapid prototyping course, MAS 863: **How to Make (Almost) Anything.**
-
-![](http://www.fablabbcn.org/img/blog/blog_loop_latest/mod2.jpg)
+Stay tuned!
 
 Read more about fab academy:
 
