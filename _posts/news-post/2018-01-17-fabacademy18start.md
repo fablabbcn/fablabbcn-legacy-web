@@ -62,7 +62,7 @@ category: news
 
 #### We are ready to start!
 
-We welcome you to this incredible journey that starts today and end in Fab Academy Graduation in July during **FAB14 Toulouse #FAB14**.<br><br>
+We welcome you to this incredible journey that starts today and end in Fab Academy Graduation in July during **FAB14 in Toulouse**.<br><br>
 
 More than **230 students from 65 different sites** are ready to attend the first lesson of professor **Neil Gershenfeld** of **[MIT’s Center For Bits and Atoms](http://cba.mit.edu/)** from Boston.<br><br>
 
