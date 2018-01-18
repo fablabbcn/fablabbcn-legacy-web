@@ -19,44 +19,33 @@ category: news
   <div class="carousel-inner" role="listbox">
    
     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/romi/01.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademy2018/01.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/romi/02.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademy2018/02.jpg" />
     </div>
 
   <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/romi/03.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademy2018/03.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/romi/04.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademy2018/04.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/romi/05.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademy2018/05.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/romi/06.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademy2018/06.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/romi/07.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/fabacademy2018/07.jpg" />
     </div>
     
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/romi/08.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/romi/09.jpg" />
-    </div>
-    
-    <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/romi/10.jpg" />
-    </div>
 </div>
 
 <!-------------------- Controls --------------------->
@@ -75,9 +64,13 @@ category: news
 
 We welcome you to this incredible journey that starts today and end in Fab Academy Graduation in July during **FAB14 Toulouse #FAB14**.
 
-More than **230 students from 65 different sites** are ready to attend the first lesson of professor **Neil Gershenfeld** from Boston.
+More than **230 students from 65 different sites** are ready to attend the first lesson of professor **Neil Gershenfeld** of **[MIT’s Center For Bits and Atoms](http://cba.mit.edu/)** from Boston.
 
-Even the **[FabLab Barcelona](http://fablabbcn.org)** and **[Green Fab Lab](http://greenfablab.org/)** group is ready to begin this long and intensive adventure!  **[Luciana Asinari](https://iaac.net/iaac/people/luciana-asinari/)**, Coordinator of FabLab Barcelona, and FabAcademy Guru **[Santiago Fuentemilla](https://iaac.net/iaac/people/santi-fuentemilla/)**&nbsp; introduce the first lecture **[Fab Academy 2018](http://fabacademy.org/)**. We hope our students will increase their skills and change the world step by step as their predecessors have done before.
+Even the **[FabLab Barcelona](http://fablabbcn.org)** and **[Green Fab Lab](http://greenfablab.org/)** group is ready to begin this long and intensive adventure!  
+
+**[Luciana Asinari](https://iaac.net/iaac/people/luciana-asinari/)**, Coordinator of FabLab Barcelona, and FabAcademy Guru **[Santiago Fuentemilla](https://iaac.net/iaac/people/santi-fuentemilla/)**&nbsp; will introduce the first lecture **[Fab Academy 2018](http://fabacademy.org/)**. 
+
+We hope our students will increase their skills and change the world step by step as their predecessors have done before.
 
 ![](http://www.fablabbcn.org/img/blog/blog_loop_latest/mod1.jpg)
 
