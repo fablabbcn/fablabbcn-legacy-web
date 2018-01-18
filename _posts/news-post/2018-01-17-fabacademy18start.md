@@ -62,20 +62,20 @@ category: news
 
 #### We are ready to start!
 
-We welcome you to this incredible journey that starts today and end in Fab Academy Graduation in July during **FAB14 Toulouse #FAB14**.
+We welcome you to this incredible journey that starts today and end in Fab Academy Graduation in July during **FAB14 Toulouse #FAB14**.<br><br>
 
-More than **230 students from 65 different sites** are ready to attend the first lesson of professor **Neil Gershenfeld** of **[MIT’s Center For Bits and Atoms](http://cba.mit.edu/)** from Boston.
+More than **230 students from 65 different sites** are ready to attend the first lesson of professor **Neil Gershenfeld** of **[MIT’s Center For Bits and Atoms](http://cba.mit.edu/)** from Boston.<br><br>
 
-Even the **[FabLab Barcelona](http://fablabbcn.org)** and **[Green Fab Lab](http://greenfablab.org/)** group is ready to begin this long and intensive adventure!  
+Even the **[FabLab Barcelona](http://fablabbcn.org)** and **[Green Fab Lab](http://greenfablab.org/)** group is ready to begin this long and intensive adventure!  <br><br>
 
-**[Luciana Asinari](https://iaac.net/iaac/people/luciana-asinari/)**, Coordinator of FabLab Barcelona, and FabAcademy Guru **[Santiago Fuentemilla](https://iaac.net/iaac/people/santi-fuentemilla/)**&nbsp; will introduce the first lecture **[Fab Academy 2018](http://fabacademy.org/)**. 
+**[Luciana Asinari](https://iaac.net/iaac/people/luciana-asinari/)**, Coordinator of FabLab Barcelona, and FabAcademy Guru **[Santiago Fuentemilla](https://iaac.net/iaac/people/santi-fuentemilla/)**&nbsp; will introduce the first lecture **[Fab Academy 2018](http://fabacademy.org/)**. <br><br>
 
-We hope our students will increase their skills and change the world step by step as their predecessors have done before.
+We hope our students will increase their skills and change the world step by step as their predecessors have done before.<br><br>
 
-Stay tuned!
+Stay tuned!<br><br>
 
-Read more about fab academy:
+Read more about fab academy:<br><br>
 
-[Fab Academy BCN 2018](https://fablabbcn.org/fab_academy_18.html)
+[Fab Academy BCN 2018](https://fablabbcn.org/fab_academy_18.html)<br><br>
 
-[Fab Academy](http://fabacademy.org/)
+[Fab Academy](http://fabacademy.org/)<br><br>
