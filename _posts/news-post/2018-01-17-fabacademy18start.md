@@ -66,7 +66,7 @@ We welcome you to this incredible journey that starts today and end in Fab Acade
 
 More than **230 students from 65 different sites** are ready to attend the first lesson of professor **Neil Gershenfeld** of **[MIT’s Center For Bits and Atoms](http://cba.mit.edu/)** from Boston.<br><br>
 
-Even the **[FabLab Barcelona](http://fablabbcn.org)** and **[Green Fab Lab](http://greenfablab.org/)** group is ready to begin this long and intensive adventure!  <br><br>
+**[Fab Academy Barcelona](http://fablabbcn.org)** students are ready for this long and intensive adventure that will end with the **Fab Academy Graduation** in July during the **[FAB14 in Toulouse](http://www.fab14.org/)**: 6 months of learning, experimentation and fabrication. <br><br>
 
 **[Luciana Asinari](https://iaac.net/iaac/people/luciana-asinari/)**, Coordinator of FabLab Barcelona, and FabAcademy Guru **[Santiago Fuentemilla](https://iaac.net/iaac/people/santi-fuentemilla/)**&nbsp; will introduce the first lecture **[Fab Academy 2018](http://fabacademy.org/)**. <br><br>
 
