@@ -62,8 +62,6 @@ category: news
 
 #### We are ready to start!
 
-We welcome you to this incredible journey that starts today and end in Fab Academy Graduation in July during **FAB14 in Toulouse**.<br><br>
-
 More than **230 students from 65 different sites** are ready to attend the first lesson of professor **Neil Gershenfeld** of **[MIT’s Center For Bits and Atoms](http://cba.mit.edu/)** from Boston.<br><br>
 
 **[Fab Academy Barcelona](http://fablabbcn.org)** students are ready for this long and intensive adventure that will end with the **Fab Academy Graduation** in July during the **[FAB14 in Toulouse](http://www.fab14.org/)**: 6 months of learning, experimentation and fabrication. <br><br>
