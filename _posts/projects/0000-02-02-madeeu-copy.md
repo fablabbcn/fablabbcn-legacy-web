@@ -2,29 +2,38 @@
 layout: project_post
 type: project
 subtype: eu
-projectimg: eu_projects/made-img-4.png
-squareimg: eu_projects/made-thumbnail.jpg
-url: http://madeat.eu
-niceurl: madeat.eu
-title: Made @ EU
-meta: Made@EU is a collaboration between Europe's top research and education centers on the field of digital fabrication and its ever-growing relationship with the arts, design and traditional craftsmanship. 
+projectimg: blog_loop_latest/romi/romismall2.jpg
+squareimg: blog_loop_latest/romi/romismall2.jpg
+url: http:
+niceurl: 
+title: ROMI
+meta: The Fab City Reseach Lab at IAAC, together with its Pan-European Consortium, have won the Horizon 2020 funding for the project ROMI – RObotics for MIcrofarms. 
 ribbon: Eu Culture
 date: 0000-02-05
 ---
 
-<iframe width="770" height="433" src="https://www.youtube.com/embed/xGk-996ia9o?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/romi/romi1.jpg" align="middle"> 
+<br>
 
-Technologies such as 3D printing and 3D scanning have recently opened new development and innovation opportunities for creative sectors. This phenomenon has been described as the third industrial revolution in as much as it is expected to radically change the production and distribution status quo, and strongly influence society as a whole, from a cultural, social and economic platform.
+The <strong><a href="http://fab.city/">Fab City Reseach Lab</a></strong> at <strong><a href="https://iaac.net/">IAAC</a></strong>, together with its <strong>Pan-European Consortium</strong>, have won the <strong><a href="https://ec.europa.eu/programmes/horizon2020/">Horizon 2020</a></strong> funding for the project <strong>ROMI – RObotics for MIcrofarms</strong>.<br> <br>
 
-<img src="{{site.baseurl}}{{ site.url }}/img/projects/eu_projects/made-img-1.jpg">
+The main goal of the project, which will be carried on at <strong><a href="http://valldaura.net/">Valldaura Labs</a></strong> under the direction of <strong><a href="https://fablabbcn.org/about_us.html">Jonantan Minchin</a></strong>, is to develop an open and lightweight <strong>robotics platform for micro-farms</strong>, to assist farmers in weed reduction and crop monitoring. <strong>ROMI</strong>’s weeding robot will <strong>reduce manual labour and increase the productivity</strong> through advanced planning tools, allowing farmers to save 25% of their time.<br> <br>
 
-With the support of the Creative Europe Programme of the European Union, this strong international network of leaders in the Fab Lab network come together to join forces on diverse programmes creating opportunities for artists, designers and craftspeople to explore and exchange ideas across borders.
+This land robot will also acquire detailed information on sample plants and will be coupled with a drone that acquires more global information at crop level. Together, they will produce an integrated, <strong>multi-scale picture of the crop development</strong> that will help the farmer monitor the crops to increase efficient harvesting.<br> <br>
 
-<img src="{{site.baseurl}}{{ site.url }}/img/projects/eu_projects/made-img-2.jpg">
+The winning team, coordinated by the <strong><a href="http://fab.city/">Fab City Reseach Lab</a></strong> at <strong><a href="https://iaac.net/">IAAC</a></strong>, brings decades of experience at the forefront of the intersection between <strong>agronomy</strong>, <strong>robotics</strong> and <strong>data science</strong>, and are recognised as world leading in our application of new approaches to subjects such as <strong>plant modelling</strong>, <strong>adaptive learning</strong> and <strong>high-performance computing</strong>.<br><br>
 
-To learn more about this project visit [madeat.eu](https://madeat.eu/) and check the project [images](https://www.flickr.com/photos/madeateu) and [videos](https://www.youtube.com/channel/UCCs0fOFV2rmjRX18rd4U0jw).
+The <strong><a href="http://fab.city/">Fab City Reseach Lab</a></strong> at <strong><a href="https://iaac.net/">IAAC</a></strong> is the operational body of the <strong><a href="http://fab.city/">Fab City project</a></strong>, which aims to develop locally productive and globally connected cities. It is one of the four departments underpinning the entire <strong><a href="https://iaac.net/">IAAC</a></strong> structure together with other areas such as the <strong>Advanced Architecture Group</strong>, the <strong>Project for the Self-Sufficient City</strong> and the <strong>Barcelona Urban Sciences Lab</strong>.
 
-## Partners
+Our Partners:<br><br>
 
-* Plymouth College of Art, UK
-* ENSCI École nationale supérieure de création industrielle, FR
+<strong><a href="https://www.csl.sony.fr/">- Sony Computer Science Laboratory Paris, Sony, UK</a></strong><br>
+<strong><a href="http://www.france-europe-innovation.fr/">- France Europe Innovation, FEI, FR</a></strong><br>
+<strong><a href="https://www.inria.fr/en/">- Institut national de recherche en informatique et en automatique, Inria, FR</a></strong><br>
+<strong><a href="http://www.cnrs.fr/index.php">- Centre national de la recherche scientifique, CNRS, FR</a></strong><br>
+<strong><a href="https://tramooc.eu/partners/humboldt-universit%C3%A4t-zu-berlin-uber">- Humboldt-Universität zu Berlin, UBER, DE</a></strong><br>
+<strong><a href="http://www.pepinieres-chatelain.com/">- Pépinières Chatelain, Chatelain, FR</a></strong><br><br>
+
+<strong><a href="https://ec.europa.eu/programmes/horizon2020/">Horizon 2020</a></strong> is the <strong>biggest EU Research and Innovation programme</strong> ever with nearly €80 billion of funding available over 7 years, which promises <strong>breakthroughs</strong>, <strong>discoveries</strong> and <strong>world-firsts by taking great ideas from the lab to the market</strong>.<br><br>
+
+By coupling research and innovation, <strong><a href="https://ec.europa.eu/programmes/horizon2020/">Horizon 2020</a></strong> is helping to achieve this with its emphasis on excellent science, industrial leadership and tackling societal challenges. <strong>The goal is to ensure Europe produces world-class science, removes barriers to innovation and makes it easier for the public and private sectors to work together in delivering innovation</strong>.<br><br>
