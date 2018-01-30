@@ -1,8 +1,8 @@
 ---
 layout: blog_post
 type: event
-teaserlatest: blog_loop_latest/Master-MDEF/mdefsmall.jpg
-teaserlist: blog_loop_latest/Master-MDEF/mdefsmall.jpg
+teaserlatest: blog_loop_latest/wsfabtextiles/wstsmall.jpg
+teaserlist: blog_loop_latest/wsfabtetiles/wstmall.jpg
 title: Open Source Fashion: Digital pattern making & laser cutting
 meta: "Learn how to use Seamly2D / Valentina: fashion drawing, measurement file and printing tools, repository of patterns, laser cutting and much more during this intensive course."
 author: Marco Sanalitro
