@@ -1,13 +1,13 @@
 ---
 layout: blog_post
-type: blog
+type: event
 teaserlatest: blog_loop_latest/Master-MDEF/mdefsmall.jpg
 teaserlist: blog_loop_latest/Master-MDEF/mdefsmall.jpg
-title: IAAC | Fab Lab Bcn launches a new Master In Design For Emergent Futures
+title: Master In Design For Emergent Futures MDEF
 meta: "IAAC and ELISAVA, in collaboration with the Fab Academy and Ideas for Change, are creating the next generation design education program: the Master in Design for Emergent Futures (MDEF)."
 author: Marco Sanalitro
 date: 30/01/2018 
-category: news
+category: event
 ---
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/Master-MDEF/mdef1.jpg" align="middle"> 
