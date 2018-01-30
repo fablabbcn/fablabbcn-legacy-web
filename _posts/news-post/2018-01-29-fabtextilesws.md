@@ -36,7 +36,7 @@ Once finished, you can print the pattern in different ways, in plotter, by folio
  
 <p>The workshop will take place only if there is a minimum of 10 participants.</p><br>
 
-<strong><a href="http://fabtextiles.org/workshop-open-source-fashion/">READ MORE</a></strong>  <br><br>
+<strong><a href="http://fabtextiles.org/workshop-open-source-fashion/">READ MORE</a></strong>  <br>
 <strong><a href="http://fablab.fikket.com/event/moda-de-codigo-abierto-open-source-fashion">APPLY HERE</a></strong> 
  
 contact : info@fabtextiles.org <br><br>
