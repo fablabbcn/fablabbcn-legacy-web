@@ -39,6 +39,6 @@ Once finished, you can print the pattern in different ways, in plotter, by folio
 <strong><a href="http://fabtextiles.org/workshop-open-source-fashion/">READ MORE</a></strong>  <br>
 <strong><a href="http://fablab.fikket.com/event/moda-de-codigo-abierto-open-source-fashion">APPLY HERE</a></strong> <br>
  
-contact : info@fabtextiles.org <br><br>
+contact : info@fabtextiles.org <br>
 anastasia@fablabbcn.org <br><br>
 
