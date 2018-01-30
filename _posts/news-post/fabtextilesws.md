@@ -3,7 +3,7 @@ layout: blog_post
 type: event
 teaserlatest: blog_loop_latest/wsfabtextiles/wstsmall.jpg
 teaserlist: blog_loop_latest/wsfabtetiles/wstmall.jpg
-title: Open Source Fashion: Digital pattern making & laser cutting
+title: Open Source Fashion, Digital pattern making & laser cutting
 meta: "Learn how to use Seamly2D: fashion drawing, measurement file and printing tools, repository of patterns, laser cutting and much more during this intensive course."
 author: Marco Sanalitro
 date: 30/01/2018 
