@@ -10,7 +10,7 @@ date: 30/01/2018
 category: event
 ---
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/Master-MDEF/mdef1.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/wsfabtetiles/wst1.jpg" align="middle"> 
 <br>
 
 <strong><a href="http://fablab.fikket.com/event/moda-de-codigo-abierto-open-source-fashion">Open Source Fashion: Digital pattern making & laser cutting</a></strong>
