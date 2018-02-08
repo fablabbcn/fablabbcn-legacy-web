@@ -35,17 +35,12 @@ layout: default
                 {% for post in site.posts limit: 50 %}
                 {% if post.type == 'event' %}                            
                             
-			            <div class="col-md-6">
-				            
-			                <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/workshops/{{post.workshopteaser}}" alt="workshop"></a>
-			                
-			                
-			            </div>  <!-- col-->
+			          
 			            
 			            <div class="col-md-6" id="workshops-description">
 				            
 				            <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/blog/{{post.teaserlatest}}" id="latest-news-picture"/></a>
-		        <br>
+		                    <br>
 			                <h3><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>
 			                <br>
 			                <p>{{post.meta}}</p> 
@@ -55,6 +50,12 @@ layout: default
 			            </div>  <!-- col-->	 
 			            
 			            
+			            
+			            <div class="col-md-3 col-sm-3">	
+			    
+			    			       		
+                    
+		           
 		        
 <!-- =============================================================================================================-->
     
