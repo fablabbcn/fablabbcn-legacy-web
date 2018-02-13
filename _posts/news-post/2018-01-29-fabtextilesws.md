@@ -1,8 +1,8 @@
 ---
 layout: blog_post
 type: event
-teaserlatest: blog_loop_latest/wsfabtextiles/wstsmall.jpg
-teaserlist: blog_loop_latest/wsfabtetiles/wstmall.jpg
+teaserlatest: blog_loop_latest/wsfabtextiles/wstsmall2.jpg
+teaserlist: blog_loop_latest/wsfabtetiles/wstmall2.jpg
 title: Open Source Fashion, Digital pattern making & laser cutting
 meta: "Learn how to use Seamly2D: fashion drawing, measurement file and printing tools, repository of patterns, laser cutting and much more during this intensive course."
 author: Marco Sanalitro
@@ -10,7 +10,7 @@ date: 30/01/2018
 category: event
 ---
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/wsfabtextiles/wst1.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/wsfabtextiles/wst2.jpg" align="middle"> 
 <br>
 
 <strong><a href="http://fablab.fikket.com/event/moda-de-codigo-abierto-open-source-fashion">Open Source Fashion: Digital pattern making & laser cutting</a></strong>
