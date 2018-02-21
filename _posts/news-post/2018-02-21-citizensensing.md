@@ -4,7 +4,7 @@ type: blog
 teaserlatest: blog_loop_latest/citizensensing/cssmall.jpg
 teaserlist: blog_loop_latest/citizensensing/cssmall.jpg
 title: Making Sense presents Citizen Sensing a toolkit
-meta: "Over the past two years, hundreds of local citizens have been actively engaged in citizen science all over Europe. Making Sense presents the 'Citizen Sensing, a toolkit', which describes all methods, lessons and best practices."
+meta: "Over the past two years, hundreds of local citizens have been actively engaged in citizen science all over Europe. Making Sense presents the Citizen Sensing, a toolkit, which describes all methods, lessons and best practices."
 author: Marco Sanalitro
 date: 21/02/2017 
 category: news
