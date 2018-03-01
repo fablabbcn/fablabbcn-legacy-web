@@ -4,7 +4,7 @@ type: blog
 teaserlatest: blog_loop_latest/citizensensing/cssmall.jpg
 teaserlist: blog_loop_latest/citizensensing/cssmall.jpg
 title: Making Sense presents Citizen Sensing a toolkit
-meta: "The Making Sense team is pride to presents the Citizen Sensing, a toolkit, which describes all methods, lessons and best practices."
+meta: "The Making Sense team is pride to presents the Citizen Sensing, a toolkit, which describes all methods, lessons and best practices, used and analyzed during the last 2 years of work."
 author: Marco Sanalitro
 date: 28/02/2017 
 category: news
