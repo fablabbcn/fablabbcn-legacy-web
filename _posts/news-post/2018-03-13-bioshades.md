@@ -4,7 +4,7 @@ type: event
 teaserlatest: blog_loop_latest/fabricademy/bootcampft18small.jpg
 teaserlist: blog_loop_latest/fabricademy/bootcampft18small.jpg
 title: BioShades Whorkshop and talks
-meta: "TCBL lasbs are looking forward to the BioShades event: across Europe, they will connect through a video conferencing system to learn more about the dyeing of fibers using bacteria."
+meta: "TCBL lasbs are looking forward to the BioShades event: across Europe, they will connect through a video conferencing system to learn how to dye fabrics with bacteria."
 author: Marco Sanalitro
 date: 13/03/2018 
 category: event
