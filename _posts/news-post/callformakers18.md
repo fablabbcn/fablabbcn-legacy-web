@@ -3,8 +3,8 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/makerfaire17/makerfaire17ssmall.jpg
 teaserlist: blog_loop_latest/makerfaire17/makerfaire17ssmall.jpg
-title: Fab Lab BCN @ Maker Faire BCN 2017
-meta: "Last 17th and 18th of June Barcelona welcomed the first edition of the Maker Faire BCN 2017, one of the most innovative and famous events about the maker movement."
+title: Call for Makers, Maker Faire BCN 2018
+meta: "Call for Makers is now Open! Be a part of Maker Faire BCN 2018, it's your opportunity to exhibit and share your project and passion."
 author: Marco Sanalitro
 date: 20/07/2017 
 category: news
