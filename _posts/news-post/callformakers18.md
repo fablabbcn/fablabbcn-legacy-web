@@ -1,12 +1,12 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/makerfaire17/makerfaire17ssmall.jpg
-teaserlist: blog_loop_latest/makerfaire17/makerfaire17ssmall.jpg
+teaserlatest: blog_loop_latest/makerfaire17/mf18small.jpg
+teaserlist: blog_loop_latest/makerfaire17/mf18small.jpg
 title: Call for Makers, Maker Faire BCN 2018
 meta: "Call for Makers is now Open! Be a part of Maker Faire BCN 2018, it's your opportunity to exhibit and share your project and passion."
 author: Marco Sanalitro
-date: 20/07/2017 
+date: 26/03/2018 
 category: news
 ---
 
