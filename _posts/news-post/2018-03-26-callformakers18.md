@@ -13,6 +13,10 @@ category: news
 <iframe width="720" height="315" src="https://www.youtube.com/embed/kfUr7YGyc1w" frameborder="0" allowfullscreen></iframe>
 <br><br>
 
+CALL FOR MAKERS is now OPEN! Be a part of <strong><a href="http://barcelona.makerfaire.com/">Maker Faire Barcelona 2018</a></strong>, It's your opportunity to exhibit and share your project and passion.
+
+<strong><a href="https://goo.gl/4SzG7w">APPLY NOW</a></strong>
+
 On June 2017 Barcelona welcomed the first edition of the <strong><a href="http://barcelona.makerfaire.com/">Maker Faire BCN</a></strong>, one of the most innovative and famous events about the maker movement. More than 12.000 people visited the Pavelló Itàlia in Montjuic, the expo area where the faire took place, demonstrating the roaring success of this event aiming to bring together passionate creators, visionary inventors, local and international makers, families, children, friends and curios people visiting Barcelona. <br><br>
 
 <strong><a href="http://barcelona.makerfaire.com/">Barcelona Marker Faire</a></strong>, one of the most important Technological and Innovative events in Europe, is a gathering of fascinating, curious people who enjoy learning and who love sharing what they can do. It’s a venue for makers to show examples of their work and interact with others about it.
