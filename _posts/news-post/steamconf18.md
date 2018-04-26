@@ -1,8 +1,8 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/citizensensing/cssmall.jpg
-teaserlist: blog_loop_latest/citizensensing/cssmall.jpg
+teaserlatest: blog_loop_latest/Steamconf18/steamconfsmall.jpg
+teaserlist: blog_loop_latest/Steamconf18/steamconfsmall.jpg
 title:  Future Learning Unit @ STEAMCONF BCN 2018
 meta: "Future Learning Unit of Fab Lab BCN and MDEF Faculty, Santiago Fuentemilla and Xavi Domínguez, enchanted the STEAMCONF BARCELONA 2018' audience."
 author: Marco Sanalitro
@@ -10,24 +10,26 @@ date: 26/04/2018
 category: news
 ---
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/citizensensing/cs1.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/Steamconf18/steamconf1.jpg" align="middle"> 
 <br>
 
-It was a success! <strong><a href="http://making-sense.eu/">Future Learning Unit</a></strong> of <strong><a href="http://making-sense.eu/">Fab Lab BCN</a></strong> and <strong><a href="http://making-sense.eu/">MDEF Faculty</a></strong>, <strong><a href="http://making-sense.eu/">Santiago Fuentemilla</a></strong> and <strong><a href="http://making-sense.eu/">Xavi Domínguez</a></strong>, enchanted the <strong><a href="http://making-sense.eu/">STEAMCONF BARCELONA 2018</a></strong> audience. <br><br>
+It was a success! <strong><a href="https://twitter.com/FutureLearningU?lang=en">Future Learning Unit</a></strong> of <strong><a href="https://fablabbcn.org/index.html">Fab Lab BCN</a></strong> and <strong><a href="https://iaac.net/educational-programmes/master-design-emergent-futures/"> Master in Design for Emergent Futures MDEF Faculty</a></strong>, <strong><a href="https://fablabbcn.org/about_us.html">Santiago Fuentemilla</a></strong> and <strong><a href="https://fablabbcn.org/about_us.html">Xavi Domínguez</a></strong>, enchanted the <strong><a href="https://2018.steamconf.com/">STEAMCONF BARCELONA 2018</a></strong> audience. <br><br>
 
-<strong><a href="http://making-sense.eu/">STEAMConf Barcelona 2018</a></strong> is an International Education Conference, in its fourth edition, it aimed to demonstrate the vital importance of implementing programmes and resources that help minimise the digital gap and gender imbalances, and promote equal opportunities. <br><br>
+<strong><a href="https://2018.steamconf.com/">STEAMConf Barcelona 2018</a></strong> is an International Education Conference, in its fourth edition, it aimed to demonstrate the vital importance of implementing programmes and resources that help minimise the digital gap and gender imbalances, and promote equal opportunities. <br><br>
 
-<strong><a href="http://making-sense.eu/">STEAMCONF BARCELONA 2018 - Future Learning Unit Workshop "Active learning phases: design learning experiences"/a></strong><br><br>
+<strong><a href="https://2018.steamconf.com/en/workshops/">STEAMCONF BARCELONA 2018 - Future Learning Unit Workshop "Active learning phases: design learning experiences"/a></strong><br><br>
 
 This workshop aimed to provide an experience that inspiring and motivating participants to use digital manufacturing and makers technologies in any area of the curriculum and also to implement methodologies in the classroom, oriented towards project based learning (PBL).<br><br>
 
 Our learning methodology is based on short exercises, designed to encourage creativity and imagination among participants, as well as stimulating the search for tools and solutions for a correct definition. The workshop was focused on the design and creation of active learning experiences using digital manufacturing tools for all ages.<br><br>
 
-<strong><a href="http://making-sense.eu/">STEAMCONF BARCELONA 2018 - Santiago Fuentemilla Conference/a></strong><br><br>
+<strong><a href="https://2018.steamconf.com/en/speakers/">STEAMCONF BARCELONA 2018 - Santiago Fuentemilla Conference/a></strong><br><br>
 
-Santiago Fuentemilla told his experience in the world of education: 
+Santiago Fuentemilla enchanted the <strong><a href="https://2018.steamconf.com/">STEAMCONF BARCELONA 2018</a></strong> audience! He told his education experience in the <strong><a href="https://fablabbcn.org/index.html">Fab Lab BCN</a></strong>, the evolution and the constant search for better education. He explained that some projects, such as <strong><a href="https://https://smartcitizen.me/">Smart Citizen Kit</a></strong> or <strong><a href="http://aquapioneers.io/es/">Aquapioneers</a></strong>,and programmes, such as <strong><a href="http://fabacademy.org/">Fab Academy</a></strong> or <strong><a href="http://kids.fablabbcn.org/">Fabkids BCN</a></strong>, are inspiring and motivating every day for a lot of people.
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/citizensensing/cs2.jpg" align="middle"> 
+Special thanks to <strong><a href="https://2018.steamconf.com/">STEAMConf Barcelona 2018</a></strong> for inviting us and workshop and conference participants for their actively participating and passion.
+
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/Steamconf18/steamconf2.jpg" align="middle"> 
 <br>
 
 
