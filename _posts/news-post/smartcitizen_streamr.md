@@ -15,7 +15,7 @@ category: news
 
 <i>“We believe that Streamr and Smart Citizen are a perfect match to enable a more inclusive and accessible Smart City, in which citizens can generate wealth by using open source sensors and have access to data markets that are secure and distributed around the world. We are definitely reinventing what the Smart City means, we are enabling the growth of Smart Citizens that are masters of their own destiny.”</i> by Smart Citizen founder, <strong><a href="https://fablabbcn.org/about_us.html">Tomas Diez</a></strong>.<br><br>
 
-<strong><a href="https://iaac.net/">IAAC</a></strong> | <strong><a href="https://fablabbcn.org/index.html">Fab Lab BCN</a></strong> present you the new partnership between <strong><a href="https://www.streamr.com/">Streamr</a></strong> and <strong><a href="https://smartcitizen.me/">Smart Citizen</a></strong> to create decentralised pollution monitoring networks, on a not-for-profit platform, where families and researchers can subscribe to the data.<br><br>
+<p><strong><a href="https://iaac.net/">IAAC</a></strong> | <strong><a href="https://fablabbcn.org/index.html">Fab Lab BCN</a></strong> present you the new partnership between <strong><a href="https://www.streamr.com/">Streamr</a></strong> and <strong><a href="https://smartcitizen.me/">Smart Citizen</a></strong> to create decentralised pollution monitoring networks, on a not-for-profit platform, where families and researchers can subscribe to the data.</p><br><br>
 
 Where are the economic benefits for citizens who invest in hosting sensors for the good of the community?<br><br>
 
