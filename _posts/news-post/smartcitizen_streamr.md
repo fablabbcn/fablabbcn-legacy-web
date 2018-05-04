@@ -3,7 +3,7 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/Smartcitizen_Streamr/part1.jpg
 teaserlist: blog_loop_latest/Smartcitizen_Streamr/part1.jpg
-title:  Smart Citizen + Streamr
+title:  Streamr + Smart Citizen
 meta: "Streamr and Smart Citizen partner to create decentralised pollution monitoring networks, on a not-for-profit platform, where families and researchers can subscribe to the data."
 author: Marco Sanalitro
 date: 04/05/2018 
