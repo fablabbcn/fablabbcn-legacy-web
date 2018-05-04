@@ -1,16 +1,16 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/Steamconf18/steamconfsmall.jpg
-teaserlist: blog_loop_latest/Steamconf18/steamconfsmall.jpg
-title:  Future Learning Unit @ STEAMCONF BCN 2018
-meta: "Future Learning Unit of Fab Lab BCN and MDEF Faculty, Santiago Fuentemilla and Xavi Domínguez, delighted the STEAMCONF BARCELONA 2018' audience."
+teaserlatest: blog_loop_latest/Smartcitizen_Streamr/part1.jpg
+teaserlist: blog_loop_latest/Smartcitizen_Streamr/part1.jpg
+title:  Smart Citizen + Streamr
+meta: "Streamr and Smart Citizen partner to create decentralised pollution monitoring networks, on a not-for-profit platform, where families and researchers can subscribe to the data."
 author: Marco Sanalitro
-date: 26/04/2018 
+date: 04/05/2018 
 category: news
 ---
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/Steamconf18/steamconf1.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/Smartcitizen_Streamr/part2.jpg" align="middle"> 
 <br>
 
 SteamConf Barcelona was a roaring success! <strong><a href="https://twitter.com/FutureLearningU?lang=en">Future Learning Unit</a></strong> of <strong><a href="https://fablabbcn.org/index.html">Fab Lab BCN</a></strong> and <strong><a href="https://iaac.net/educational-programmes/master-design-emergent-futures/"> Master in Design for Emergent Futures MDEF Faculty</a></strong>, <strong><a href="https://fablabbcn.org/about_us.html">Santiago Fuentemilla</a></strong> and <strong><a href="https://fablabbcn.org/about_us.html">Xavi Domínguez</a></strong>, delighted the <strong><a href="https://2018.steamconf.com/">STEAMCONF BARCELONA 2018</a></strong> audience. <br><br>
