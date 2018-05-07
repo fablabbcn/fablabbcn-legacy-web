@@ -27,7 +27,7 @@ Download <strong><a href="http://www.poblenouurbandistrict.com/en/map/">HERE the
 
 <strong>IAAC | Fab Lab BCN Programme:</strong><br><br>
 
-. Live Music<br><br>
+. Live Music & Beer<br><br>
 . Project Showroom<br><br>
 . Workshop Fab Kids: Come build a floating data visualization (for all ages).<br><br>
 . Workshop The Things Network Catalunya: Basic IOT (internet of things), we will realize a thermostat and we will learn more abuot the different platforms of data visualization.<br><br>
