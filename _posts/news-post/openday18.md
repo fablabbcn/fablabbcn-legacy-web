@@ -17,7 +17,7 @@ category: event
 
 Our creative community will open its doors to offer a wide variety of cultural and leisure activities.<br><br> 
 
-At <strong><a href="https://iaac.net/">IAAC</a></strong> | <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> from 16:00 to 21:00, Visits, Demos of Digital Fabrication, Music and much more, just for you.<br><br> 
+<p>At <strong><a href="https://iaac.net/">IAAC</a></strong> | <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> from 16:00 to 21:00, Visits, Demos of Digital Fabrication, Music and much more, just for you.</p><br><br> 
 
 If you are curious about technology and you want to learn more about us, don't miss this opportunity!<br><br>
 
@@ -25,7 +25,7 @@ Read more <strong><a href="http://www.poblenouurbandistrict.com/en/poblenou-open
 
 Download <strong><a href="http://www.poblenouurbandistrict.com/en/map/">HERE the MAP of Poblenou Urban District Open Day</a></strong><br><br>
 
-<strong>IAAC | Fab Lab BCN Programme:</a></strong><br><br>
+<strong>IAAC | Fab Lab BCN Programme:</strong><br><br>
 
 . Live Music<br><br>
 . Project Showroom<br><br>
