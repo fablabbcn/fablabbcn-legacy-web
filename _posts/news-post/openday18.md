@@ -21,11 +21,17 @@ At <strong><a href="https://iaac.net/">IAAC</a></strong> | <strong><a href="http
 
 If you are curious about technology and you want to learn more about us, don't miss this opportunity!<br><br>
 
-Read more <strong><a href="http://www.poblenouurbandistrict.com/en/poblenou-open-day-2018/">HERE</a></strong>!
+Read more <strong><a href="http://www.poblenouurbandistrict.com/en/poblenou-open-day-2018/">HERE</a></strong>!<br><br>
 
-Download <strong><a href="http://www.poblenouurbandistrict.com/en/map/">HERE the MAP of Poblenou Urban District Open Day</a></strong>
+Download <strong><a href="http://www.poblenouurbandistrict.com/en/map/">HERE the MAP of Poblenou Urban District Open Day</a></strong><br><br>
 
-IAAC | Fab Lab BCN Programme:
+<strong>IAAC | Fab Lab BCN Programme:</a></strong><br><br>
 
-Coming really soon!!!
-
+. Live Music<br><br>
+. Project Showroom<br><br>
+. Workshop Fab Kids: Come build a floating data visualization (for all ages).<br><br>
+. Workshop The Things Network Catalunya: Basic IOT (internet of things), we will realize a thermostat and we will learn more abuot the different platforms of data visualization.<br><br>
+. Interactive installation: visual effects, light and sound. <br><br>
+. Bouncey Box : retro suitcases and bags become speakers. DJ Set.<br><br>
+. Fabtextile Workshop: Creating Jewelry using bioplastic.<br><br>
+. Demos laser cut & 3D printing<br><br>
