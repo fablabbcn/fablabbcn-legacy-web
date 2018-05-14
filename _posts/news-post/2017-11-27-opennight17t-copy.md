@@ -83,7 +83,7 @@ El passat 12 de Maig vam obrir les portes del <strong><a href="https://iaac.net/
 
 Més de 600 persones van poder visitar el nostre espai de fabricació digital i descobrir alguns dels nostres projectes: 
 
-<strong><a href="https://smartcitizen.me/">Smart Citizen</a></strong>, <strong>Future Learning Unit</strong>, <strong><a href="http://fabtextiles.org/">Fab Textiles</a></strong>,<strong><a href="https://www.youtube.com/watch?v=YV2OQjNbP9E">Robotic Cassolada</a></strong>,<strong><a href="http://aquapioneers.io/">Aquapioneers</a></strong>, <strong><a href="https://opensourcebeehives.com/">apicultura de codi obert</a></strong>, fabricació robòtica i impressió en 3D, <strong><a href="http://market.fablabs.io/">Fab Market</a></strong> i <strong><a href="https://www.facebook.com/bounceybox/">BounceyBox</a></strong>. Gràcies als nostres amics i col·laboradors per fer d'aquella nit una trobada molt especial.<br><br>
+<strong><a href="http://www.popupart.es/2018/05/08/popup-art-presenta-modo-subjuntivo-en-el-open-day-de-poblenou/">PopUp Art & Romina d’Angelo</a></strong>, <strong><a href="https://www.thethingsnetwork.org/community/barcelona/">The Things Network Catalunya</a></strong>, <strong><a href="http://kids.fablabbcn.org/">Fab Kids</a></strong>, <strong>Future Learning Unit</strong>, <strong><a href="http://fabtextiles.org/">Fab Textiles</a></strong>, impressió en 3D, <strong><a href="http://market.fablabs.io/">Fab Market</a></strong> i <strong><a href="https://www.facebook.com/bounceybox/">BounceyBox</a></strong>. Gràcies als nostres amics i col·laboradors per fer d'aquella nit una trobada molt especial.<br><br>
 
 Per aquells que us ho vau perdre, no us preocupeu! Aviat tornarem a repetir aquesta meravellosa experiència.<br></p>
 
