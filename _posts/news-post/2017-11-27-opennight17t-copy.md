@@ -1,8 +1,8 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/opennight17/opennight17small2.jpg
-teaserlist: blog_loop_latest/opennight17/opennight17small2.jpg
+teaserlatest: blog_loop_latest/openday18/OPENDAY18small.jpg
+teaserlist: blog_loop_latest/openday18/OPENDAY18small.jpg
 title: Thanks for coming to the Poblenou Urban District Open Day 2018!
 meta: "Iaac | Fab Lab Barcelona opened its doors. More than 600 people visited our Digital Fabrication Laboratory and learned about our projects."
 author: Marco Sanalitro
@@ -25,43 +25,43 @@ category: news
   <div class="carousel-inner" role="listbox">
    
     <div class="item active">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/1.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday18/1.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/2.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday18/2.jpg" />
     </div>
 
   <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/3.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday18/3.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/4.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday18/4.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/5.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday18/5.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/6.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday18/6.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/7.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday18/7.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/8.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday18/8.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/9.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday18/9.jpg" />
     </div>
     
     <div class="item">
-      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/opennight17/10.jpg" />
+      <img src="{{site.baseurl}}{{ site.url }}/img/blog/blog_loop_latest/openday18/10.jpg" />
     </div>
 </div>
 
