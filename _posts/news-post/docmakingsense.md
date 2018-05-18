@@ -10,7 +10,7 @@ date: 18/05/2018
 category: news
 ---
 
-<iframe width="720" height="315" src="https://youtu.be/lpRKx7i9kwc" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="315" src="https://www.youtube.com/embed/lpRKx7i9kwc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br><br>
 
 
