@@ -1,10 +1,10 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/makerfaire17/mf18small.jpg
-teaserlist: blog_loop_latest/makerfaire17/mf18small.jpg
+teaserlatest: blog_loop_latest/docsmartcitizen/docsmall.jpg
+teaserlist: blog_loop_latest/docsmartcitizen/docsmall.jpg
 title: Citizen Science Revolution
-meta: "Call for Makers is now Open! Be a part of Maker Faire BCN 2018, it's your opportunity to exhibit and share your project and passion."
+meta: "Can a low cost sensor change the reality of a city? Different groups of citizens have begun to collect data with the Smart Citizen Kit to measure the scope of their problems and try to find solutions."
 author: Marco Sanalitro
 date: 18/05/2018 
 category: news
@@ -14,7 +14,7 @@ category: news
 <br><br>
 
 
-https://screen.ly/evento/525/citizen-science-revolution-cinemes-girona/
+Register <strong><a href="https://screen.ly/evento/525/citizen-science-revolution-cinemes-girona/">HERE</a></strong> 
 
 
 
