@@ -15,7 +15,7 @@ category: news
 
 Can a low cost sensor change the reality of a city? And dozens of them? In the spring of 2016, different groups of citizens in Barcelona, Pristina and Amsterdam concerned about noise pollution, air quality and gamma radiation in their neighborhoods begin to collect data with the <strong><a href="https://smartcitizen.me/">Smart Citizen Kit</a></strong> to measure the scope of their problems and try to find solutions. At first, governments do not recognize the data as valid because they do not come from official sensors. But the revolution of citizen science is unstoppable. Discover these experiences in the documentary <strong>"Citizen Science Revolution"</strong>, produced by the <strong><a href="http://making-sense.eu/">Making Sense</a></strong> team, in collaboration, among others, with <strong><a href="https://fablabbcn.org/index.html">Fab Lab BCN</a></strong>, <strong><a href="https://iaac.net/">IAAC</a></strong> and the <strong>European Commission (H2020)</strong>.<br><br>
 
-Do not miss this opportunity, <strong><a href="https://screen.ly/evento/525/citizen-science-revolution-cinemes-girona/">buy now your ticket!</a></strong> <br><br>
+Do not miss this opportunity, <strong><a href="https://screen.ly/evento/525/citizen-science-revolution-cinemes-girona/">buy now your TICKET!</a></strong> <br><br>
 
 <strong>More about Smart Citizen</strong><br><br>
 
