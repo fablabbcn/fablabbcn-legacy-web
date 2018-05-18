@@ -4,7 +4,7 @@ type: blog
 teaserlatest: blog_loop_latest/docsmartcitizen/docsmall.jpg
 teaserlist: blog_loop_latest/docsmartcitizen/docsmall.jpg
 title: Citizen Science Revolution
-meta: "Can a low cost sensor change the reality of a city? And dozens of them? Making Sense team is proud to present you the documentary Citizen Science Revolution, empowering citizens."
+meta: "Can a low cost sensor change the reality of a city? And dozens of them? Making Sense team is proud to present you the documentary Citizen Science Revolution, nobody can stop the Citizen Science Revolution."
 author: Marco Sanalitro
 date: 18/05/2018 
 category: news
