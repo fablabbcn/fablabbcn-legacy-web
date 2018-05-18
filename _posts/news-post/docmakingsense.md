@@ -3,15 +3,21 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/makerfaire17/mf18small.jpg
 teaserlist: blog_loop_latest/makerfaire17/mf18small.jpg
-title: Call for Makers, Maker Faire BCN 2018
+title: Citizen Science Revolution
 meta: "Call for Makers is now Open! Be a part of Maker Faire BCN 2018, it's your opportunity to exhibit and share your project and passion."
 author: Marco Sanalitro
-date: 26/03/2018 
+date: 18/05/2018 
 category: news
 ---
 
-<iframe width="720" height="315" src="https://www.youtube.com/embed/kfUr7YGyc1w" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="315" src="https://youtu.be/lpRKx7i9kwc" frameborder="0" allowfullscreen></iframe>
 <br><br>
+
+
+https://screen.ly/evento/525/citizen-science-revolution-cinemes-girona/
+
+
+
 
 CALL FOR MAKERS is now OPEN! Be a part of <strong><a href="http://barcelona.makerfaire.com/">Maker Faire Barcelona 2018</a></strong>, It's your opportunity to exhibit and share your project and passion.
 
