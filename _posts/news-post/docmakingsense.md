@@ -13,6 +13,8 @@ category: news
 <iframe width="720" height="315" src="https://youtu.be/lpRKx7i9kwc" frameborder="0" allowfullscreen></iframe>
 <br><br>
 
+https://youtu.be/lpRKx7i9kwc
+
 Can a low cost sensor change the reality of a city? And dozens of them? In the spring of 2016, different groups of citizens in Barcelona, Pristina and Amsterdam concerned about noise pollution, air quality and gamma radiation in their neighborhoods begin to collect data with low-cost DIY sensors to measure the scope of their problems and try to find solutions. At first, governments do not recognize the data as valid because they do not come from official sensors. But the revolution of citizen science is unstoppable. Discover these experiences in the documentary "Citizen Science Revolution".
 
 Register <strong><a href="https://screen.ly/evento/525/citizen-science-revolution-cinemes-girona/">HERE</a></strong> 
