@@ -1,17 +1,82 @@
 ---
 layout: blog_post
 type: event
-teaserlatest: blog_loop_latest/openday18/OPENDAY18small.jpg
-teaserlist: blog_loop_latest/openday18/OPENDAY18small.jpg
-title: Poblenou Urban District Open Day 2018
-meta: " May 12th, Poblenou Urban District Open Day comes back! IAAC | Fab Lab BCN will open its doors from 16:00 to 21:00, offering demos of 3D printing, guided tours and much more."
+teaserlatest: blog_loop_latest/makerfaire18/makerfaire18small.jpg
+teaserlist: blog_loop_latest/makerfaire18/makerfaire18small.jpg
+title: Maker Faire BCN 2018
+meta: "June 16th & 17th, Maker Faire back in Barcelona! IAAC | Fab Lab BCN will open its doors from 16:00 to 21:00, offering demos of 3D printing, guided tours and much more."
 author: Marco Sanalitro
-date: 07/05/2018 
+date: 23/05/2018 
 category: event
 ---
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/openday18/OPENDAY181.jpg" align="middle"> 
 <br>
+
+📣 June 16th & 17th, Maker Faire back in Barcelona! <strong><a href="https://www.eventbrite.com/e/maker-faire-barcelona-2018-registration-45904205715?aff=eac2">FREE TICKETs HERE</a></strong>
+
+Maker Faire is a gathering of fascinating, curious people who enjoy learning and who love sharing what they make. From engineers, to artists, to scientists, to crafters, Maker Faire is a meeting place for these “makers” to show experiments, projects and innovations.
+
+Maker Faire BCN is a partnership between Sónar+D, SokoTech, Fab Lab Barcelona & IN(3D)USTRY with the support of the Barcelona City Hall. Over 200 local and international maker display their creations in the Italian Pavilion at Fira Barcelona and CaixaForum.
+
+Maker Faire is a hands-on visual feast of invention and creativity and a celebration of technology, arts, craftsmanship, science, and the Do-It-Yourself (DIY) culture. It’s for innovative, creative people who like to tinker and love to create, and also for those curious minds who want to see what new and innovative things are just around the corner… and get hands-on!
+______________________
+
+<strong>Maker Faire BCN / Expo -  June 16th & 17th, Italian Pavilion at Fira Barcelona - <a href="https://www.eventbrite.com/e/maker-faire-barcelona-2018-registration-45904205715?aff=eac2">FREE TICKETs HERE</a></strong>
+
+Thematic Areas
+
+Food: Feeding the growing urban population in a sustainable and healthy environment is undoubtedly one of the most important challenges of the 21st century. Can urban agriculture and local food production be part of the solution?
+
+Energy & Mobility: 67% of the global primary energy demand and 75% of the total CO2 emissions originate in cities. How can we promote a decisive transition towards renewable energies and a circular economy?
+
+Urban mobility represents almost two thirds of all the kilometers traveled by people. In response to these trends, the urban distance traveled could triple by 2050. How can mobility challenges be addressed to achieve more ecologically friendly urban spaces with respect to pedestrians?
+
+Advanced Manufacturing & Industry 4.0: Advanced manufacturing technologies provide an unprecedented opportunity to support local production. How can advanced manufacture & industry 4.0 reformulate the way cities produce and consume?
+
+Health & Environment: The collaboration between the sectors of planning, transport, environment and health, is essential to address the problems posed by the urbanization focusing to health and for the benefit of citizens. What are the strategies and tools to promote a healthy and sustainable urban development?
+
+Education & Longlife Learning: Scientific and technological progress is rapidly changing the skills and competencies needed to address the kind of situations and challenges that women and men, children and young people will encounter in the life and work of the 21st century. What does it take to awaken passions and tune learning to the real world? A space of discovery, transversal and participatory for all.
+
+Space Exploration (Sónar 2018 25Y): In 1972, Apollo 17 left for the Moon and since then, we have not returned. With the advanced today, is it time to return? For our return to the Moon to be truly sustainable, we should make use of lunar resources and convert autochthonous lunar material into oxygen and water. Would it be a good idea to build a lunar village? Or a link station?
+______________________
+
+<strong>Maker Faire BCN / Conversations - June 16th, Caixa Forum - <a href="https://www.eventbrite.com/e/maker-faire-barcelona-2018-registration-45904205715?aff=eac2">FREE TICKETs HERE</a></strong>
+
+Program
+
+This year we want to offer to the Maker Faire Barcelona community a dynamic format of interaction from the work of remarkable people that are reinventing how we learn or make tools, who are making space exploration accessible for everyone, who are reinventing time, or who are making us think about and protect our digital civil rights.
+
+The Maker Faire conversations will connect a global leader in the field of knowledge of time, space, robots and more, with a local expert that is making it happen in Barcelona. This is a format for the public to engage in the conversation, where everyone will be able to talk to them, and to interact in an open discussion about the state of the art of making, and the future of technology in society, cities, our planet, and outer space…
+
+12:00 Welcome
+
+Tomás Díez (Fab Lab Barcelona), Mariona A. Ciller (SokoTech), Ventura Barba (Sónar)
+
+Institutional welcome conversation: Gerardo Pisarello (Ajuntament de Barcelona) + Jean Louis Missika (Mairie de Paris) (TBC)
+
+12:30h TIME
+Alexander Rose (The Long Now Foundation) + Tomas Diez (IaaC | Fab Lab Barcelona)
+
+13:15h SPACE
+Ariel Ekblaw (MIT Space Initiative) + Milena Orlandini (Fab Lab Tinkerers – ESA)
+
+(14:00h-15.30h Lunch Break)
+
+15:30h ROBOTS
+Gael Langevin (inMoov Robot) – Carme Torras (IRI CSIC-UPC)
+
+16:15h TOOLS
+David Cuartielles (Arduino) – Guillem Camprodon (IaaC | Fab Lab Barcelona)
+
+17:00h POLICY
+Richard Stallman (Free Software Fdn) + Francesca Bria (Ajuntament de Barcelona)
+
+17:45h End: Announcements
+
+
+
+
 
 📣 Are you all ready? May 12th, <strong><a href="http://www.poblenouurbandistrict.com/en/poblenou-open-day-2018/">Poblenou Urban District Open Day</a></strong> comes back! <br><br>
 
