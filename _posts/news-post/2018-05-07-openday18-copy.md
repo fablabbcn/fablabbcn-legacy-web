@@ -1,0 +1,45 @@
+---
+layout: blog_post
+type: event
+teaserlatest: blog_loop_latest/openday18/OPENDAY18small.jpg
+teaserlist: blog_loop_latest/openday18/OPENDAY18small.jpg
+title: Poblenou Urban District Open Day 2018
+meta: " May 12th, Poblenou Urban District Open Day comes back! IAAC | Fab Lab BCN will open its doors from 16:00 to 21:00, offering demos of 3D printing, guided tours and much more."
+author: Marco Sanalitro
+date: 07/05/2018 
+category: event
+---
+
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/openday18/OPENDAY181.jpg" align="middle"> 
+<br>
+
+📣 Are you all ready? May 12th, <strong><a href="http://www.poblenouurbandistrict.com/en/poblenou-open-day-2018/">Poblenou Urban District Open Day</a></strong> comes back! <br><br>
+
+Our creative community will open its doors to offer a wide variety of cultural and leisure activities.<br><br> 
+
+<p>At <strong><a href="https://iaac.net/">IAAC</a></strong> | <strong><a href="https://fablabbcn.org/index.html">Fab Lab Barcelona</a></strong> from 16:00 to 21:00, Visits, Demos of Digital Fabrication, Music and much more, just for you.</p><br> 
+
+If you are curious about technology and you want to learn more about us, don't miss this opportunity!<br><br>
+
+Read more <strong><a href="http://www.poblenouurbandistrict.com/en/poblenou-open-day-2018/">HERE</a></strong>!<br><br>
+
+Download <strong><a href="http://www.poblenouurbandistrict.com/en/map/">HERE the MAP of Poblenou Urban District Open Day</a></strong><br><br>
+
+<strong>IAAC | Fab Lab BCN Programme:</strong><br><br>
+[eng]<br><br>
+17:00 h // FabTextiles Workshop Exhibition: Join us and learn how to create your own jewelry using bioplastic and learn more about FabTextiles Barcelona and its projects.<br><br>
+17:00 h // 3D Printing Workshop: Learn the basics to 3D print objects.<br><br>
+18:00 h // Workshop The Things Network Catalunya: Basic IOT (internet of things), we will develop a thermostat and we will learn more about the different platforms of data visualization.<br><br>
+19:00 & 20:00 h // Live Show: PopUp Art presents Romina d’Angelo in the scenic performance Modo Subjuntivo, that combines movement, sound and image and explores the impact of new technologies in our private lives.<br><br>
+Ongoing // Workshop Fab Kids: Join us and build a floating data visualization (for all ages).<br><br>
+Ongoing // Interactive installation that allows visitors to play with sounds while they activate visual effects through waves and vibrations.<br><br>
+Ongoing // Bouncey Box: retro suitcases and bags turn into music speakers. DJ Set.<br><br>
+
+[es]<br><br>
+17:00 hrs // FabTextiles Workshop Exhibition: Ven y aprende a crear tus propias joyas de Bioplastico y conoce los diferentes proyectos del FabTextiles Barcelona.<br><br>
+17:00 hrs // 3D Printing Workshop: Aprende los conceptos basicos para imprimir objetos en 3D.<br><br>
+18:00 hrs // Workshop The Things Network Catalunya: Iniciacion al internet de la cosas, realizaremos un termostato y conoceremos diferentes plataformas de visualización de datos.<br><br>
+19:00 & 20:00 hrs // Live Show: PopUp Art presenta Romina d' Angelo en la propuesta escenica Modo Subjuntivo, que fusiona movimiento, sonido e imagen y explora el impacto de las nuevas tecnologias en la vida privada.<br><br>
+Ongoing // Workshop Fab Kids: Ven a construir una visualización de datos flotante para todas las edades.<br><br>
+Ongoing // Instalación interactiva que permite a los visitantes jugar con sonidos mientras que activan efectos visuales a través de ondas y vibraciones.<br><br>
+Ongoing // Bouncey Box: Maleta retro con música. DJ Set.<br><br> 
