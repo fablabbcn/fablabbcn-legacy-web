@@ -1,16 +1,16 @@
 ---
 layout: blog_post
 type: event
-teaserlatest: blog_loop_latest/makerfaire18/makerfaire18small.jpg
-teaserlist: blog_loop_latest/makerfaire18/makerfaire18small.jpg
+teaserlatest: blog_loop_latest/MFBCN18/makerfairesmall.jpg
+teaserlist: blog_loop_latest/MFBCN18/makerfairesmall.jpg
 title: Maker Faire BCN 2018
-meta: "June 16th & 17th, Maker Faire back in Barcelona!."
+meta: "June 16th & 17th, Maker Faire back in Barcelona! Register for free now, save the date and come with your family and your friends!"
 author: Marco Sanalitro
 date: 23/05/2018 
 category: event
 ---
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/openday18/OPENDAY181.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/MFBCN18/makerfaire181.jpg" align="middle"> 
 <br>
 
 📣 <strong>June 16th & 17th, Maker Faire back in Barcelona!</strong> BCN will host Experts and makers from all over the world, they will gather together to tell us how to improve our present and future, to show us their projects and passion for technology! Everyone is welcome: makers, curious people, families & children.<br><br> 
@@ -21,8 +21,8 @@ Register for free now, save the date and come with your family and your friends!
 
 <strong>Maker Faire</strong> is a hands-on visual feast of invention and creativity and a celebration of technology, arts, craftsmanship, science, and the Do-It-Yourself (DIY) culture. It’s for innovative, creative people who like to tinker and love to create, and also for those curious minds who want to see what new and innovative things are just around the corner… and get hands-on!<br><br> 
 
-<strong>Maker Faire BCN</strong> is a partnership between <strong><a href="https://sonarplusd.com/es/">Sónar+D</a></strong>, <strong><a href="https://soko.tech/">SokoTech</a></strong>,<strong><a href="https://fablabbcn.org/index.html">Fab Lab BCN</a></strong> & <strong><a href="http://www.in3dustry.com/en/home">IN(3D)USTRY</a></strong> with the support of the Barcelona City Hall. Over 200 local and international maker display their creations in the Italian Pavilion at Fira Barcelona and CaixaForum.<br><br> 
-______________________
+<strong>Maker Faire BCN</strong> is a partnership between <strong><a href="https://sonarplusd.com/es/">Sónar+D</a></strong>, <strong><a href="https://soko.tech/">SokoTech</a></strong>,<strong><a href="https://fablabbcn.org/index.html">Fab Lab BCN</a></strong> & <strong><a href="http://www.in3dustry.com/en/home">IN(3D)USTRY</a></strong> with the support of the Barcelona City Hall. Over 200 local and international maker display their creations in the <strong>Italian Pavilion at Fira Barcelona and CaixaForum</strong>.<br><br> 
+____________________
 
 <strong><a href="http://barcelona.makerfaire.com/makers-exhibits/">Maker Faire BCN / Expo</a> -  June 16th & 17th, Italian Pavilion at Fira Barcelona - <a href="https://www.eventbrite.com/e/maker-faire-barcelona-2018-registration-45904205715?aff=eac2">FREE TICKETs HERE</a></strong><br><br> 
 
@@ -41,7 +41,7 @@ HEALTH & ENVIRONMENT: The collaboration between the sectors of planning, transpo
 EDUCATION & LONGLIFE LEARNING: Scientific and technological progress is rapidly changing the skills and competencies needed to address the kind of situations and challenges that women and men, children and young people will encounter in the life and work of the 21st century. What does it take to awaken passions and tune learning to the real world? A space of discovery, transversal and participatory for all.<br><br> 
 
 SPACE EXPLORATION (Sónar 2018 25Y): In 1972, Apollo 17 left for the Moon and since then, we have not returned. With the advanced today, is it time to return? For our return to the Moon to be truly sustainable, we should make use of lunar resources and convert autochthonous lunar material into oxygen and water. Would it be a good idea to build a lunar village? Or a link station?<br><br> 
-______________________
+____________________
 
 <strong><a href="http://barcelona.makerfaire.com/conversations/">Maker Faire BCN / Conversations</a> - June 16th, Caixa Forum - <a href="https://www.eventbrite.com/e/maker-faire-barcelona-2018-registration-45904205715?aff=eac2">FREE TICKETs HERE</a></strong><br><br> 
 
