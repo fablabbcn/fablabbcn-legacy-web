@@ -13,7 +13,7 @@ category: event
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/MASS/massi1.jpg" align="middle"> 
 <br>
 
-<strong><a href="https://fablabbcn.org/index.html">Fab Lab BCN</a></strong> is proud to present you the "Mass Distribution of (almost) everything", a trans-media exhibition about the power of human-centred technology to transform urban environments and our socioeconomic systems. The exhibition is downloadable and customisable making it able to be replicated anywhere in the world, as it uses the principles of open source design and distributed manufacturing and is enabled by the <strong><a href="http://distributeddesign.eu/">Distributed Design Market Platform - DDMP</a></strong>
+<strong><a href="https://fablabbcn.org/index.html">Fab Lab BCN</a></strong> is proud to present the "Mass Distribution of (almost) everything", a trans-media exhibition about the power of human-centred technology to transform urban environments and our socioeconomic systems. The exhibition is downloadable and customisable making it able to be replicated anywhere in the world, as it uses the principles of open source design and distributed manufacturing and is enabled by the <strong><a href="http://distributeddesign.eu/">Distributed Design Market Platform - DDMP</a></strong>
 
 Mass Distribution of (almost) Anything is a trans-media exhibition which explores the return of manufacturing to cities, enabled by global data networks. Is distributed design and manufacture a possible solution to our current planetary crisis? <br><br> 
 
