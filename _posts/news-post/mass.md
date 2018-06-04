@@ -4,7 +4,7 @@ type: event
 teaserlatest: blog_loop_latest/MASS/massismall.jpg
 teaserlist: blog_loop_latest/MASS/massismall.jpg
 title: The Mass Distribution of (almost) Everything
-meta: "June 16th & 17th, Maker Faire back in Barcelona! Register for free now, save the date and come with your family and your friends!"
+meta: "Mass Distribution of (almost) Anything is a trans-media exhibition which explores the return of manufacturing to cities, enabled by global data networks."
 author: Marco Sanalitro
 date: 04/06/2018 
 category: event
