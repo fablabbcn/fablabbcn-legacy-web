@@ -3,14 +3,14 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/docsmartcitizen/docsmall.jpg
 teaserlist: blog_loop_latest/docsmartcitizen/docsmall.jpg
-title: Citizen Science Revolution
+title: Fab City Summit 2018
 meta: "Can a low cost sensor change the reality of a city? And dozens of them? Making Sense team is proud to present you the documentary Citizen Science Revolution, nobody can stop the Citizen Science Revolution."
 author: Marco Sanalitro
-date: 18/05/2018 
+date: 06/06/2018 
 category: news
 ---
 
-<iframe width="720" height="315" src="https://www.youtube.com/embed/lpRKx7i9kwc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="720" height="315" src="https://www.youtube.com/embed/RvpHm3oaJkk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br><br>
 
 Can a low cost sensor change the reality of a city? And dozens of them? In the spring of 2016, different groups of citizens in Barcelona, Pristina and Amsterdam concerned about noise pollution, air quality and gamma radiation in their neighborhoods begin to collect data with the <strong><a href="https://smartcitizen.me/">Smart Citizen Kit</a></strong> to measure the scope of their problems and try to find solutions. At first, governments do not recognize the data as valid because they do not come from official sensors. But the revolution of citizen science is unstoppable. Discover these experiences in the documentary <strong>"Citizen Science Revolution"</strong>, produced by the <strong><a href="http://making-sense.eu/">Making Sense</a></strong> team, in collaboration, among others, with <strong><a href="https://fablabbcn.org/index.html">Fab Lab BCN</a></strong>, <strong><a href="https://iaac.net/">IAAC</a></strong> and the <strong>European Commission (H2020)</strong>.<br><br>
