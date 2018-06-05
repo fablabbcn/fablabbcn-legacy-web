@@ -13,7 +13,7 @@ category: news
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/startsprize/startsprize1.jpg" align="middle"> 
 <br>
 
-📢 We're happy to announce that <strong><a href="http://making-sense.eu/publication_categories/toolkit/">Making Sense EU "Citizen Sensing Toolkit"</a></strong> has been awarded an <strong><a href="https://starts-prize.aec.at/en/making-sense-citizen-sensing-toolkit/">ARS Electronica Starts</a> Honorary Mention</strong> 🥇! 
+📢 We're happy to announce that <strong><a href="http://making-sense.eu/publication_categories/toolkit/">Making Sense EU "Citizen Sensing Toolkit"</a></strong> has been awarded an <strong><a href="https://starts-prize.aec.at/en/making-sense-citizen-sensing-toolkit/">ARS Electronica Starts</a> Honorary Mention</strong> 🥇! <br><br> 
 A great recognition for an outstanding H2020 initiative!<br><br> 
 
 Thanks to all team contributors & partners!<br><br> 
