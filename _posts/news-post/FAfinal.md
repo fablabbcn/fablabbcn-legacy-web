@@ -109,6 +109,6 @@ category: news
 <p><strong><a href="http://fabacademy.org/2018/labs/barcelona/students/andreluis-pulcinodefreitas/">Andre Pulcino</a></strong> <strong><a href="http://fabacademy.org//2018/labs/barcelona/students/andreluis-pulcinodefreitas/presentation.png">Slide</a></strong>|<strong><a href="http://fabacademy.org//2018/labs/barcelona/students/andreluis-pulcinodefreitas/presentation.mp4">Video</a></strong></p>
 <br>
 
-<p>Congratulation guys. Now, last effort and see you in <strong><a href="http://www.fab14.org/">Fab14 in France</a></strong>, where <strong>Neil</strong> will give you your diploma.</p>
+<p>Congratulation guys. Now, last effort and see you in <strong><a href="http://www.fab14.org/">Fab14</a></strong> where <strong>Neil</strong> will give you your diploma.</p>
 
 
