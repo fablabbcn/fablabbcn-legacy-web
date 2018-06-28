@@ -3,8 +3,8 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/MFBCN18/MF18Fsmall.jpg
 teaserlist: blog_loop_latest/MFBCN18/MF18Fsmall.jpg
-title: Thanks for coming to the Poblenou Urban District Open Day 2018!
-meta: "Fab Lab Barcelona at IAAC opened its doors. More than 600 people visited our Digital Fabrication Laboratory and learned about our projects."
+title: Maker Faire BCN 2018
+meta: "Maker Faire BCN 2018 left its mark on the city! More than 10.000 people visited Maker Faire BCN: we brought together Experts, Makers, curious, families, groups of friends and people from all over the world to enjoy a great variety of exhibitions, demos, workshops & conversations!"
 author: Marco Sanalitro
 date: 28/06/2018 
 category: news
