@@ -78,7 +78,7 @@ category: news
 </div>
 
 
-<p>Effort, constancy, work & learning during the last 6 months. Our amazing Fab Academy BCN Students presented their Final Projects to the Fab Academy Community and Neil Gershenfeld at Fab Lab Barcelona.</p> 
+<p>Effort, constancy, work & learning during the last 6 months. Our amazing <strong><a href="http://fabacademy.org/2018/labs/barcelona/students/javier-alboguijarro/">Fab Academy BCN</a></strong> Students presented their Final Projects to the <strong>Fab Academy Community</strong> and <strong>Neil Gershenfeld</strong> at <strong>Fab Lab Barcelona</strong>.</p> 
 
 <p>Discover their amazing projects:</p>
 <br>
