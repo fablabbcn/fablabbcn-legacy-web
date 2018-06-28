@@ -1,8 +1,8 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/openday18/OPENDAY18small.jpg
-teaserlist: blog_loop_latest/openday18/OPENDAY18small.jpg
+teaserlatest: blog_loop_latest/FAfinal/FAsmall.jpg
+teaserlist: blog_loop_latest/FAfinal/FAsmall.jpg
 title: Fab Academy Final Presentation 2018
 meta: "Effort, constancy, work & learning during the last 6 months. Our Students presented their Final Projects to the Fab Academy Community and Neil Gershenfeld at Fab Lab Barcelona."
 author: Marco Sanalitro
