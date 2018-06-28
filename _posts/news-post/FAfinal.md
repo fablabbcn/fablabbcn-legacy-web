@@ -3,10 +3,10 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/openday18/OPENDAY18small.jpg
 teaserlist: blog_loop_latest/openday18/OPENDAY18small.jpg
-title: Thanks for coming to the Poblenou Urban District Open Day 2018!
-meta: "Fab Lab Barcelona at IAAC opened its doors. More than 600 people visited our Digital Fabrication Laboratory and learned about our projects."
+title: Fab Academy Final Presentation 2018
+meta: "Effort, constancy, work & learning during the last 6 months. Our Students presented their Final Projects to the Fab Academy Community and Neil Gershenfeld at Fab Lab Barcelona."
 author: Marco Sanalitro
-date: 14/05/2018 
+date: 27/06/2018 
 category: news
 ---
 
@@ -76,6 +76,41 @@ category: news
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+
+<p>Effort, constancy, work & learning during the last 6 months. Our amazing Fab Academy BCN Students presented their Final Projects to the Fab Academy Community and Neil Gershenfeld at Fab Lab Barcelona.</p> 
+
+<p>Discover their amazing projects:</p>
+<br>
+<p><strong><a href="http://fabacademy.org/2018/labs/barcelona/students/javier-alboguijarro/">Javier Albo Guijarro</a></strong> <strong><a href="http://fabacademy.org//2018/labs/barcelona/students/javier-alboguijarro/presentation.png">Slide</a></strong>|<strong><a href="http://fabacademy.org//2018/labs/barcelona/students/javier-alboguijarro/presentation.mp4">Video</a></strong></p>
+<br>
+<p><strong><a href="http://fabacademy.org/2018/labs/barcelona/students/carolina-alvesportugal/">Carolina Alves Portugal</a></strong> <strong><a href="http://fabacademy.org//2018/labs/barcelona/students/carolina-alvesportugal/presentation.png">Slide</a></strong>|<strong><a href="http://fabacademy.org//2018/labs/barcelona/students/carolina-alvesportugal/presentation.mp4">Video</a></strong></p>
+<br>
+<p><strong><a href="http://fabacademy.org/2018/labs/barcelona/students/ilias-bartolini/">Ilias Bartolini</a></strong> <strong><a href="http://fabacademy.org//2018/labs/barcelona/students/ilias-bartolini/presentation.png">Slide</a></strong>|<strong><a href="http://fabacademy.org//2018/labs/barcelona/students/ilias-bartolini/presentation.mp4">Video</a></strong></p>
+<br>
+<p><strong><a href="http://fabacademy.org/2018/labs/barcelona/students/marta-bocos/">Marta Bocos</a></strong> <strong><a href="http://fabacademy.org//2018/labs/barcelona/students/marta-bocos/presentation.png">Slide</a></strong>|<strong><a href="http://fabacademy.org//2018/labs/barcelona/students/marta-bocos/presentation.mp4">Video</a></strong></p>
+<br>
+<p><strong><a href="http://fabacademy.org/2018/labs/barcelona/students/nicolo-gnecchi/">Nicolò Gnecchi</a></strong> <strong><a href="http://fabacademy.org//2018/labs/barcelona/students/nicolo-gnecchi/presentation.png">Slide</a></strong>|<strong><a href="http://fabacademy.org//2018/labs/barcelona/students/nicolo-gnecchi/presentation.mp4">Video</a></strong></p>
+<br>
+<p><strong><a href="http://fabacademy.org/2018/labs/barcelona/students/oscar-gonzalezfernandez/">Óscar González Fernández</a></strong> <strong><a href="http://fabacademy.org//2018/labs/barcelona/students/oscar-gonzalezfernandez/presentation.png">Slide</a></strong>|<strong><a href="http://fabacademy.org//2018/labs/barcelona/students/oscar-gonzalezfernandez/presentation.mp4">Video</a></strong></p>
+<br>
+<p><strong><a href="http://fabacademy.org/2018/labs/barcelona/students/jeanbaptiste-natali/">Jean-Baptiste Natali</a></strong> <strong><a href="http://fabacademy.org//2018/labs/barcelona/students/jeanbaptiste-natali/presentation.png">Slide</a></strong>|<strong><a href="http://fabacademy.org//2018/labs/barcelona/students/jeanbaptiste-natali/presentation.mp4">Video</a></strong></p>
+<br>
+<p><strong><a href="http://fabacademy.org/2018/labs/barcelona/students/joris-navarro/">Joris Navarro</a></strong> <strong><a href="http://fabacademy.org//2018/labs/barcelona/students/joris-navarro/presentation.png">Slide</a></strong>|<strong><a href="http://fabacademy.org//2018/labs/barcelona/students/joris-navarro/presentation.mp4">Video</a></strong></p>
+<br>
+<p><strong><a href="http://fabacademy.org/2018/labs/barcelona/students/dorota-orlof/">Dorota Orlof</a></strong> <strong><a href="http://fabacademy.org//2018/labs/barcelona/students/dorota-orlof/presentation.png">Slide</a></strong>|<strong><a href="http://fabacademy.org//2018/labs/barcelona/students/dorota-orlof/presentation.mp4">Video</a></strong></p>
+<br>
+<p><strong><a href="http://fabacademy.org/2018/labs/barcelona/students/coral-peredaserras/">Coral Pereda Serras</a></strong> <strong><a href="http://fabacademy.org//2018/labs/barcelona/students/coral-peredaserras/presentation.png">Slide</a></strong>|<strong><a href="http://fabacademy.org//2018/labs/barcelona/students/coral-peredaserras/presentation.mp4">Video</a></strong></p>
+<br>
+<p><strong><a href="http://fabacademy.org/2018/labs/barcelona/students/krisjanis-rijnieks/">Krisjanis Rijnieks</a></strong> <strong><a href="http://fabacademy.org//2018/labs/barcelona/students/krisjanis-rijnieks/presentation.png">Slide</a></strong>|<strong><a href="http://fabacademy.org//2018/labs/barcelona/students/krisjanis-rijnieks/presentation.mp4">Video</a></strong></p>
+<br>
+<p><strong><a href="http://fabacademy.org/2018/labs/barcelona/students/thais-rugeles/">Thais Rugeles</a></strong> <strong><a href="http://fabacademy.org//2018/labs/barcelona/students/thais-rugeles/presentation.png">Slide</a></strong>|<strong><a href="http://fabacademy.org//2018/labs/falabdeusto/students/javier-vicente/presentation.mp4">Video</a></strong></p>
+<br>
+<p><strong><a href="http://fabacademy.org/2018/labs/barcelona/students/andreluis-pulcinodefreitas/">Andre Pulcino</a></strong> <strong><a href="http://fabacademy.org//2018/labs/barcelona/students/andreluis-pulcinodefreitas/presentation.png">Slide</a></strong>|<strong><a href="http://fabacademy.org//2018/labs/barcelona/students/andreluis-pulcinodefreitas/presentation.mp4">Video</a></strong></p>
+<br>
+
+
+
 
 <p><h4>Gràcies a tots per venir al <strong><a href="http://www.poblenouurbandistrict.com">Poblenou Urban District Open Day</a></strong> 2018!</h4><br><br>
 
