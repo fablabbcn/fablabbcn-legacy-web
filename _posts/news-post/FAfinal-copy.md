@@ -12,7 +12,7 @@ category: news
 
 
 <iframe width="720" height="315" src="https://www.youtube.com/embed/Haog8Zh4tto" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+Video - Barcelona.cat
 
 Last 16th and 17th of June Barcelona welcomed the second edition of the <strong><a href="http://barcelona.makerfaire.com/">Maker Faire BCN 2018</a></strong>, one of the most innovative and famous events about the maker movement. More than 10.000 people visited the Pavelló Itàlia in Montjuic, the expo area where the faire took place, demonstrating the roaring success of this event aiming to bring together passionate creators, visionary inventors, local and international makers, families, children, friends and curios people visiting Barcelona. <br><br>
 
