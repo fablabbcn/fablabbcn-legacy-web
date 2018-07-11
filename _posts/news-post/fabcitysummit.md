@@ -1,8 +1,8 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/docsmartcitizen/docsmall.jpg
-teaserlist: blog_loop_latest/docsmartcitizen/docsmall.jpg
+teaserlatest: blog_loop_latest/fabcity/fabcitysummitsmall.jpg
+teaserlist: blog_loop_latest/fabcity/fabcitysummitsmall.jpg
 title: Fab City Summit Paris
 meta: "Can a low cost sensor change the reality of a city? And dozens of them? Making Sense team is proud to present you the documentary Citizen Science Revolution, nobody can stop the Citizen Science Revolution."
 author: Marco Sanalitro
@@ -21,22 +21,42 @@ The 3rd edition of Fab City Summit is going to be organised in Grand Paris. It w
 
 Neil Gershenfeld (MIT), Danielle Wood (MIT), Indy Johar (project00.cc), Sherry Lassiter (Fab Foundation), Dave Hakkens (Precious Plastic), Saskia Sassen (Columbia University), Ron Eglash (Rensselaer Polytechnic Institute) are just part of the amazing programme of speakers that you will meet in Paris - Check all the speakers.
 
+
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcity/fabcitysummit1.jpg" align="middle"> 
+<br>
+
+
 FAB CITY LAB / JULY 11th
-
+<br><br>
 An international event organized by the City of Paris and the European Commission, in collaboration with the Fab City Grand Paris Association and the Fab City Global Initiative.
-
+<br><br>
 The Fab City Lab will gather local political leaders, experts in innovation ecosystems and companies. Together we will share experiences and best practice around concrete projects to demonstrate our collective commitment to the Fab City movement.
-
+<br><br>
 
 FAB CITY CONFERENCE / 12th - 13th, Paris
+<br><br>
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcity/fabcitysummit2.jpg" align="middle"> 
+<br>
 
 Cities, Industry and Society gather for two days of inspirations and networking to shape a common vision of the Fab City Movement. Keynotes, Conferences, Meetups, Masterclasses and Workshops and much more.
+<br><br>
 
+
+<br><br>
+Read more and check the Program & all the Speakers
+<br><br>
 CAMPUS / JULY 14th - 22nd, Paris
+<br><br>
+
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcity/fabcitysummit3.jpg" align="middle"> 
+<br>
 
 Fab City Campus is a free event for families, exploring productive cities in a hands-on, fun environment. Experts from successful projects will gather to present innovative ideas across key aspects of a Fab City future. A unique opportunity for the general public to experience life in a Fab City.
-
+<br><br>
 The Fab City Campus free event at the La Villette park will attract more than 10,000 visitors, 500 participants and showcase over 40 international projects. In addition, a distributed event will take place in over 40 locations across the Paris region in partnership with the Tourist Office of Paris and collaboration with ‘Reinventing Places’ initiative in July and August.
+
+
+
 
 
 
