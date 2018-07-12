@@ -17,12 +17,12 @@ The <strong><a href="https://summit.fabcity.paris/">Fab City Summit 2018</a></st
 <br><br>
 <strong><a href="http://fab.city/">Fab City</a></strong> is a movement that aims to transform the way we consume and produce almost anything in cities, making them more sustainable and resilient, by enabling local production and global collaboration using traditional knowledge and advanced technologies.
 <br><br>
-The <strong>3rd edition of Fab City Summit is going to be organised in <strong>Grand Paris</strong>. It will be hosted by the <strong>Fab City Grand Paris Association</strong>, the <strong>Paris City Council</strong> and the <strong>Fab City Foundation </strong>.
+The <strong>3rd edition of Fab City Summit</strong> is going to be organised in <strong>Grand Paris</strong>. It will be hosted by the <strong>Fab City Grand Paris Association</strong>, the <strong>Paris City Council</strong> and the <strong>Fab City Foundation </strong>.
 <br><br>
 <strong>Neil Gershenfeld (MIT), Danielle Wood (MIT), Indy Johar (project00.cc), Sherry Lassiter (Fab Foundation), Dave Hakkens (Precious Plastic), Saskia Sassen (Columbia University), Ron Eglash (Rensselaer Polytechnic Institute)</strong> are just part of the amazing programme of speakers that you will meet in Paris - <strong><a href="https://summit.fabcity.paris/speakers/">Check all the speakers</a></strong>.
 
 <br><br>
-<strong><h3><a href="https://summit.fabcity.paris/">Read more & Get your ticket</a></h3></strong>
+<strong><a href="https://summit.fabcity.paris/">Read more & Get your ticket</a></strong>
 
 <br><br>
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcity/fabcitysummit1.jpg" align="middle"> 
