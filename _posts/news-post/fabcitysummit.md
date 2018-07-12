@@ -13,11 +13,11 @@ category: news
 <iframe width="720" height="315" src="https://www.youtube.com/embed/RvpHm3oaJkk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br><br>
 
-The <strong>Fab City Summit 2018 is an invitation to take part of the transformation towards a more sustainable and accessible future for the cities that become locally productive and globally connected through collaboration and disruptive technologies.
+The <strong><a href="https://summit.fabcity.paris/">Fab City Summit 2018</a></strong> is an invitation to take part of the transformation towards a more sustainable and accessible future for the cities that become locally productive and globally connected through collaboration and disruptive technologies.
 <br><br>
-<strong>Fab City is a movement that aims to transform the way we consume and produce almost anything in cities, making them more sustainable and resilient, by enabling local production and global collaboration using traditional knowledge and advanced technologies.
+<strong><a href="http://fab.city/">Fab City</a></strong> is a movement that aims to transform the way we consume and produce almost anything in cities, making them more sustainable and resilient, by enabling local production and global collaboration using traditional knowledge and advanced technologies.
 <br><br>
-The <strong>3rd edition of Fab City Summit is going to be organised in <strong>Grand Paris. It will be hosted by the <strong>Fab City Grand Paris Association, the <strong>Paris City Council and the <strong>Fab City Foundation 
+The <strong>3rd edition of Fab City Summit is going to be organised in <strong>Grand Paris</strong>. It will be hosted by the <strong>Fab City Grand Paris Association</strong>, the <strong>Paris City Council</strong> and the <strong>Fab City Foundation </strong>.
 <br><br>
 <strong>Neil Gershenfeld (MIT), Danielle Wood (MIT), Indy Johar (project00.cc), Sherry Lassiter (Fab Foundation), Dave Hakkens (Precious Plastic), Saskia Sassen (Columbia University), Ron Eglash (Rensselaer Polytechnic Institute)</strong> are just part of the amazing programme of speakers that you will meet in Paris - <strong><a href="https://summit.fabcity.paris/speakers/">Check all the speakers</a></strong>.
 
