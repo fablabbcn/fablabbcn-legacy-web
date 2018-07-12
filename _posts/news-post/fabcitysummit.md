@@ -46,7 +46,7 @@ Cities, Industry and Society gather for two days of inspirations and networking 
 
 
 <br><br>
-<strong><a href="https://summit.fabcity.paris/program/">Read more and check the Program & all the Speakers</a></strong>
+<strong><a href="https://summit.fabcity.paris/program/">Check the Program & all the Speakers</a></strong>
 <br><br>
 <strong><a href="https://summit.fabcity.paris/campus/">CAMPUS / JULY 14th - 22nd, Paris</a></strong>
 <br><br>
