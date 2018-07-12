@@ -4,9 +4,9 @@ type: blog
 teaserlatest: blog_loop_latest/fabcity/fabcitysummitsmall.jpg
 teaserlist: blog_loop_latest/fabcity/fabcitysummitsmall.jpg
 title: Fab City Summit Paris
-meta: "Fab City Summit is an invitation to take part of the transformation towards a more sustainable and accessible future for the cities that become locally productive and globally connected through collaboration and disruptive technologies. "
+meta: "Fab City Summit is an invitation to take part of the transformation towards a more sustainable and accessible future for the cities that become locally productive and globally connected through collaboration and disruptive technologies."
 author: Marco Sanalitro
-date: 11/07/2018 
+date: 12/07/2018 
 category: news
 ---
 
