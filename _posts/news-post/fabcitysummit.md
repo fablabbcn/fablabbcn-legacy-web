@@ -4,7 +4,7 @@ type: blog
 teaserlatest: blog_loop_latest/fabcity/fabcitysummitsmall.jpg
 teaserlist: blog_loop_latest/fabcity/fabcitysummitsmall.jpg
 title: Fab City Summit Paris
-meta: "Can a low cost sensor change the reality of a city? And dozens of them? Making Sense team is proud to present you the documentary Citizen Science Revolution, nobody can stop the Citizen Science Revolution."
+meta: "Fab City Summit is an invitation to take part of the transformation towards a more sustainable and accessible future for the cities that become locally productive and globally connected through collaboration and disruptive technologies. "
 author: Marco Sanalitro
 date: 11/07/2018 
 category: news
