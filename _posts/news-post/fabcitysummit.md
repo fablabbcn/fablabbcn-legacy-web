@@ -19,21 +19,21 @@ Fab City is a movement that aims to transform the way we consume and produce alm
 
 The 3rd edition of Fab City Summit is going to be organised in Grand Paris. It will be hosted by the Fab City Grand Paris Association, the Paris City Council and the Fab City Foundation 
 
-Neil Gershenfeld (MIT), Danielle Wood (MIT), Indy Johar (project00.cc), Sherry Lassiter (Fab Foundation), Dave Hakkens (Precious Plastic), Saskia Sassen (Columbia University), Ron Eglash (Rensselaer Polytechnic Institute) are just part of the amazing programme of speakers that you will meet in Paris - Check all the speakers.
+Neil Gershenfeld (MIT), Danielle Wood (MIT), Indy Johar (project00.cc), Sherry Lassiter (Fab Foundation), Dave Hakkens (Precious Plastic), Saskia Sassen (Columbia University), Ron Eglash (Rensselaer Polytechnic Institute) are just part of the amazing programme of speakers that you will meet in Paris - <strong><a href="http://making-sense.eu/">Check all the speakers</a></strong>.
 
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcity/fabcitysummit1.jpg" align="middle"> 
 <br>
 
 
-FAB CITY LAB / JULY 11th
+<strong><a href="https://summit.fabcity.paris/fabcitylab/">FAB CITY LAB / JULY 11th</a></strong>
 <br><br>
 An international event organized by the City of Paris and the European Commission, in collaboration with the Fab City Grand Paris Association and the Fab City Global Initiative.
 <br><br>
 The Fab City Lab will gather local political leaders, experts in innovation ecosystems and companies. Together we will share experiences and best practice around concrete projects to demonstrate our collective commitment to the Fab City movement.
 <br><br>
 
-FAB CITY CONFERENCE / 12th - 13th, Paris
+<strong><a href="https://summit.fabcity.paris/conference/">FAB CITY CONFERENCE / 12th - 13th, Paris</a></strong>
 <br><br>
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcity/fabcitysummit2.jpg" align="middle"> 
 <br>
@@ -43,9 +43,9 @@ Cities, Industry and Society gather for two days of inspirations and networking 
 
 
 <br><br>
-Read more and check the Program & all the Speakers
+<strong><a href="https://summit.fabcity.paris/program/">Read more and check the Program & all the Speakers</a></strong>
 <br><br>
-CAMPUS / JULY 14th - 22nd, Paris
+<strong><a href="https://summit.fabcity.paris/campus/">CAMPUS / JULY 14th - 22nd, Paris</a></strong>
 <br><br>
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcity/fabcitysummit3.jpg" align="middle"> 
