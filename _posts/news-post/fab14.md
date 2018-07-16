@@ -4,13 +4,16 @@ type: blog
 teaserlatest: blog_loop_latest/fabcity/fabcitysummitsmall.jpg
 teaserlist: blog_loop_latest/fabcity/fabcitysummitsmall.jpg
 title: Fab Lab BCN @ Fab 14
-meta: "Fab City Summit is an invitation to take part of the transformation towards a more sustainable and accessible future for the cities that become locally productive and globally connected through collaboration and disruptive technologies."
+meta: "Fab Lab Barcelona is Ready! FAB14 - Fabricating Resilience. Members of the more than 1,200 worldwide Fab Labs gather, for the next 5 days, to share, discuss, collaborate and create communities around the different local and global interests regarding digital manufacturing, innovation, and technology."
 author: Marco Sanalitro
 date: 16/07/2018 
 category: news
 ---
 
 <iframe width="720" height="315" src="https://www.youtube.com/embed/RvpHm3oaJkk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br>
+
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcity/fabcitysummit1.jpg" align="middle"> 
 <br>
 
 Fab Lab Barcelona is Ready! Today FAB14 - Fabricating Resilience, in Toulouse, France<br><br>
@@ -28,6 +31,9 @@ In these 5 days, we will give our all! Fab Lab Barcelona's Experts scheduled ama
 
 <strong>17:00 - Future Learning Unit presents >> Workshop: Designing active learning experiences</strong> / The workshop aims to show and share tools, methodologies and resources for the design of active learning experiences for an education STEAM. The workshop aims to show and share tools, methodologies and resources for the design of active learning experiences for an education STEAM, seeking to inspire and motivate the participants to use the possibilities of digital fabrication, coding and makers philosophy to treat any aspect of the curriculum , but also be able to implement methodologies in the classroom oriented towards research and project work. [<strong>Santi Fuentemilla & Xavi Dominguez</strong>]<br><br>
 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcity/fabcitysummit1.jpg" align="middle"> 
+<br>
+
 <strong>July 18th</strong><br><br>
 
 <strong>9:00 - Fab Academy Workig Group</strong> / Annual meeting of Instructors to discuss the state of the art and design the next steps for the coming cycle. [<strong>Luciana Asinari, Santi Fuentemilla & Xavi Dominguez</strong>]<br><br>
@@ -42,11 +48,17 @@ In these 5 days, we will give our all! Fab Lab Barcelona's Experts scheduled ama
 
 <strong>19:00 - Fab Academy Graduation 2018</strong><br><br>
 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcity/fabcitysummit1.jpg" align="middle"> 
+<br>
+
 <strong>July 19th</strong><br><br>
 
 <strong>14:30 - Fabricademy & Fabtextiles present >> Workshop: Learn how to make your own bioplastics</strong> / Fabricating bioplastic recipes. Circular processes involve prime matter in the loop of design and production. How can we DIY craft our own material in order to design the performance we wish to acquire? How can we use sustainable biodegradable matter and involve the maker culture into making their own materials? In this workshop we will work with bioplastic recipes, kombucha bacterial skin and other DIY recipes to craft our prime materials. [<strong>Anastasia Pistofidou & Clara Davis</strong>]<br><br>
 
 <strong>17:00 - Fab City presents >> Fab City Network</strong> / How to join the Fab City Network, and how to make it happen in your city. FAB City takes the ideals of the Fab Lab - the connectivity, culture and creativity - and scales it to the City. It is a new urban model of transforming and shaping cities that shifts how they source and use materials from ‘Products In Trash Out’ (PITO) to ‘Data In Data Out’ (DIDO). This means that more production occurs inside the city, along with recycling materials and meeting local needs through local inventiveness. A city’s imports and exports would mostly be found in the form of data (information, knowledge, design, code). [<strong>Tomas Diez</strong>]<br><br>
+
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcity/fabcitysummit1.jpg" align="middle"> 
+<br>
 
 <strong>July 20th<br><br>
 
