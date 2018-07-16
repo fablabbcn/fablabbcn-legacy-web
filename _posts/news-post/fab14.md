@@ -3,15 +3,28 @@ layout: blog_post
 type: blog
 teaserlatest: blog_loop_latest/fabcity/fabcitysummitsmall.jpg
 teaserlist: blog_loop_latest/fabcity/fabcitysummitsmall.jpg
-title: Fab City Summit Paris
+title: Fab Lab BCN @ Fab 14
 meta: "Fab City Summit is an invitation to take part of the transformation towards a more sustainable and accessible future for the cities that become locally productive and globally connected through collaboration and disruptive technologies."
 author: Marco Sanalitro
-date: 12/07/2018 
+date: 16/07/2018 
 category: news
 ---
 
 <iframe width="720" height="315" src="https://www.youtube.com/embed/RvpHm3oaJkk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
+
+
+
+Fab Lab BCN Program @ FAB14:
+
+July 17th
+
+14:30 - Fabricademy present >> Workshop: Bioshades, Textile Bacteria Dyeing / During this workshop you will learn about the potential of dyeing with bacteria, you will dye with bacteria yourself and get to know the other TCBL labs and workshop participants that are following the workshop in different locations across Europe. From sterilize to inoculate, you will learn how to collaborate with bacteria and dye textiles with these tiny friends.
+
+17:00 - Future Learning Unit Present >> Workshop: Designing active learning experiences / The workshop aims to show and share tools, methodologies and resources for the design of active learning experiences for an education STEAM. The workshop aims to show and share tools, methodologies and resources for the design of active learning experiences for an education STEAM, seeking to inspire and motivate the participants to use the possibilities of digital fabrication, coding and makers philosophy to treat any aspect of the curriculum , but also be able to implement methodologies in the classroom oriented towards research and project work. Santi Fuentemilla & Xavi Dominguez
+
+July 18th
+
 
 The <strong><a href="https://summit.fabcity.paris/">Fab City Summit 2018</a></strong> is an invitation to take part of the transformation towards a more sustainable and accessible future for the cities that become locally productive and globally connected through collaboration and disruptive technologies.
 <br>
