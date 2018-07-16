@@ -13,9 +13,14 @@ category: news
 <iframe width="720" height="315" src="https://www.youtube.com/embed/RvpHm3oaJkk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
 
+Fab Lab Barcelona is Ready! Today FAB14 - Fabricating Resilience, in Toulouse, France<br><br>
+
+Members of the more than 1,200 worldwide Fab Labs gather, for the next 5 days, to share, discuss, collaborate and create communities around the different local and global interests regarding digital manufacturing, innovation, and technology.<br><br>
+
+Read More <strong><a href="http://www.fab14.org/">HERE</a></strong><br><br>
 
 
-<strong>Fab Lab Barcelona @ FAB14 - Program:</strong><br><br>
+In these 5 days, we will give our all! Fab Lab Barcelona's Experts scheduled amazing Workshops for you (Education, Fashion, Community, Fabrication, Economy, Networking and much more). <strong>Fab Lab Barcelona @ FAB14 - Program:</strong><br><br>
 
 <strong>July 17th</strong><br><br>
 
