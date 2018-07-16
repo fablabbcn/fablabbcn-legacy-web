@@ -15,15 +15,23 @@ category: news
 
 
 
-Fab Lab BCN Program @ FAB14:
+Fab Lab Barcelona @ FAB14 - Program:
 
 July 17th
 
-14:30 - Fabricademy present >> Workshop: Bioshades, Textile Bacteria Dyeing / During this workshop you will learn about the potential of dyeing with bacteria, you will dye with bacteria yourself and get to know the other TCBL labs and workshop participants that are following the workshop in different locations across Europe. From sterilize to inoculate, you will learn how to collaborate with bacteria and dye textiles with these tiny friends.
+14:30 - Fabricademy presents >> Workshop: Bioshades, Textile Bacteria Dyeing / During this workshop you will learn about the potential of dyeing with bacteria, you will dye with bacteria yourself and get to know the other TCBL labs and workshop participants that are following the workshop in different locations across Europe. From sterilize to inoculate, you will learn how to collaborate with bacteria and dye textiles with these tiny friends.
 
-17:00 - Future Learning Unit Present >> Workshop: Designing active learning experiences / The workshop aims to show and share tools, methodologies and resources for the design of active learning experiences for an education STEAM. The workshop aims to show and share tools, methodologies and resources for the design of active learning experiences for an education STEAM, seeking to inspire and motivate the participants to use the possibilities of digital fabrication, coding and makers philosophy to treat any aspect of the curriculum , but also be able to implement methodologies in the classroom oriented towards research and project work. Santi Fuentemilla & Xavi Dominguez
+17:00 - Future Learning Unit presents >> Workshop: Designing active learning experiences / The workshop aims to show and share tools, methodologies and resources for the design of active learning experiences for an education STEAM. The workshop aims to show and share tools, methodologies and resources for the design of active learning experiences for an education STEAM, seeking to inspire and motivate the participants to use the possibilities of digital fabrication, coding and makers philosophy to treat any aspect of the curriculum , but also be able to implement methodologies in the classroom oriented towards research and project work. [Santi Fuentemilla & Xavi Dominguez]
 
 July 18th
+
+9:00 - Fab Academy Workig Group / Annual meeting of Instructors to discuss the state of the art and design the next steps for the coming cycle. [Luciana Asinari, Santi Fuentemilla & Xavi Dominguez]
+
+14:30 - Fabricademy & Fabtextiles present >> Workshop: DIY Soft Sensors / Low cost DIY sensors for wearable applications - Learn how to make your own low cost soft sensors. ( bend, stretch, push, stroke, tilt).	[Anastasia Pistofidou]
+
+17:00 - Fabricademy & Fabtextiles present >> Workshop: Open Source Circular Fashion / Imagine thingiverse for fashion, we made a platform for everybody to share digital patterns for clothes and laser cut them easily in their local fab labs. in this workshop we will design modular reconfigurable laser cut patterns and upload them on the platform	[Anastasia Pistofidou]
+
+
 
 
 The <strong><a href="https://summit.fabcity.paris/">Fab City Summit 2018</a></strong> is an invitation to take part of the transformation towards a more sustainable and accessible future for the cities that become locally productive and globally connected through collaboration and disruptive technologies.
