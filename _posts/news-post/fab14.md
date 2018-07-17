@@ -33,7 +33,7 @@ In these 5 days, we will give our all! <strong><a href="https://fablabbcn.org/in
 
 <strong>July 18th</strong><br><br>
 
-<strong>9:00 - <a href="http://fabacademy.org/">Fab Academy</a> Workig Group</strong> / Annual meeting of Instructors to discuss the state of the art and design the next steps for the coming cycle. [<strong><a href="https://fablabbcn.org/about_us.html">Luciana Asinari, Santi Fuentemilla & Xavi Dominguez</a></strong>]<br><br>
+<strong>9:00 - <a href="http://fabacademy.org/">Fab Academy</a> meeting</strong> / Annual meeting of Instructors to discuss the state of the art and design the next steps for the coming cycle. [<strong><a href="https://fablabbcn.org/about_us.html">Luciana Asinari, Santi Fuentemilla & Xavi Dominguez</a></strong>]<br><br>
 
 <strong>14:30 - <a href="http://fab.city/">Fab City</a> + Blockchain present >> Workshop: Fab Chain - The blockchain project for Fab Labs and Fab Cities</strong> / FabChain - Building an open source distributed ledger for the Fab Lab Network. FabChain purports to explore the use of blockchain technology to promote collaboration between multiple fablabs at the local and global level. The goal is to facilitate the transfer of skills and knowledge between multiple centers, and test circular economy models for tangible outcomes and local material flows, and enable better and more transparent supply chains in order to support the transition from PITO (Product in - Trash Out) to DIDO (Data in - Data Out). [<strong><a href="https://fablabbcn.org/about_us.html">Tomas Diez</a></strong>]<br><br>
 
