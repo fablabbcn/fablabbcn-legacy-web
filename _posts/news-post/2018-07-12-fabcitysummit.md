@@ -33,7 +33,7 @@ The <strong>3rd edition of Fab City Summit</strong> is going to be organised in 
 <br>
 An international event organized by the City of Paris and the European Commission, in collaboration with the Fab City Grand Paris Association and the Fab City Global Initiative.
 <br>
-The Fab City Lab will gather local political leaders, experts in innovation ecosystems and companies. Together we will share experiences and best practice around concrete projects to demonstrate our collective commitment to the Fab City movement.
+The Fab City Lab will gather local political leaders, experts in innovation ecosystems and companies. Together we will share experiences and best practice around concrete projects to demonstrate our collective commitment to the Fab City movement. During the events, 28 Cities, all over the world, will sign the Fab City Manifesto: 10 principles to enable the urban transition towards locally productive and globally connected cities.
 <br>
 
 <strong><a href="https://summit.fabcity.paris/conference/">FAB CITY CONFERENCE / 12th - 13th, Paris</a></strong>
@@ -42,6 +42,7 @@ The Fab City Lab will gather local political leaders, experts in innovation ecos
 <br>
 
 Cities, Industry and Society gather for two days of inspirations and networking to shape a common vision of the Fab City Movement. Keynotes, Conferences, Meetups, Masterclasses and Workshops and much more.
+Will be the best opportunity to present the "Fab City - The Mass distribution of (Almost) Everything" book powered by Fab Lab BCN, Fab City, Barcelona City Hall, Creative Europe, DDMP, IAAC and UNIDO - Stay tuned, the book will be soon downloadable.
 <br>
 
 
@@ -57,6 +58,20 @@ Cities, Industry and Society gather for two days of inspirations and networking 
 Fab City Campus is a free event for families, exploring productive cities in a hands-on, fun environment. Experts from successful projects will gather to present innovative ideas across key aspects of a Fab City future. A unique opportunity for the general public to experience life in a Fab City.
 <br><br>
 The Fab City Campus free event at the La Villette park will attract more than 10,000 visitors, 500 participants and showcase over 40 international projects. In addition, a distributed event will take place in over 40 locations across the Paris region in partnership with the Tourist Office of Paris and collaboration with ‘Reinventing Places’ initiative in July and August.
+
+
+
+How to describe the Fab City Summit events in 3 words? "A great success!"
+
+- FAB CITY LAB / JULY 11th
+The Fab City Lab gathered political leaders, experts in innovation ecosystems and companies. Together they shared experiences and best practice to demonstrate the collective commitment to the Fab City movement. During the events, 28 Cities, all over the world, signed the Fab City Manifesto: 10 principles to enable the urban transition towards locally productive and globally connected cities - Read more
+
+- FAB CITY CONFERENCE / JULY 12th - 13th
+Cities, Industry and Society gathered for two days of inspirations and networking to shape a common vision of the Fab City movement. Was the best opportunity to presented the "Fab City - The Mass distribution of (Almost) Everything" book powered by Fab Lab BCN, Fab City, Barcelona City Hall, Creative Europe, DDMP, IAAC and UNIDO - Stay tuned, the book will be soon downloadable.
+
+- CAMPUS / JULY 14th - 22nd
+Fab City Campus was an amazing and free event for families, exploring productive cities in a hands-on, fun environment. The Fab Lab Barcelona's experts from successful projects (DDMP, RO.MI, Fabtextiles, OSB - Open Source Beehives and many more) presented innovative ideas across key aspects of a Fab City future - Read More
+
 
 
 
