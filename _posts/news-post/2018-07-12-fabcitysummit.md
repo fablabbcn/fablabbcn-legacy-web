@@ -33,7 +33,9 @@ The <strong>3rd edition of Fab City Summit</strong> is going to be organised in 
 <br>
 An international event organized by the City of Paris and the European Commission, in collaboration with the Fab City Grand Paris Association and the Fab City Global Initiative.
 <br>
-The Fab City Lab will gather local political leaders, experts in innovation ecosystems and companies. Together we will share experiences and best practice around concrete projects to demonstrate our collective commitment to the Fab City movement. During the events, 28 Cities, all over the world, will sign the Fab City Manifesto: 10 principles to enable the urban transition towards locally productive and globally connected cities.
+The Fab City Lab will gather local political leaders, experts in innovation ecosystems and companies. Together we will share experiences and best practice around concrete projects to demonstrate our collective commitment to the Fab City movement. 
+<br>
+During the events, 28 Cities, all over the world, will sign the Fab City Manifesto: 10 principles to enable the urban transition towards locally productive and globally connected cities.
 <br>
 
 <strong><a href="https://summit.fabcity.paris/conference/">FAB CITY CONFERENCE / 12th - 13th, Paris</a></strong>
@@ -42,7 +44,8 @@ The Fab City Lab will gather local political leaders, experts in innovation ecos
 <br>
 
 Cities, Industry and Society gather for two days of inspirations and networking to shape a common vision of the Fab City Movement. Keynotes, Conferences, Meetups, Masterclasses and Workshops and much more.
-Will be the best opportunity to present the "Fab City - The Mass distribution of (Almost) Everything" book powered by Fab Lab BCN, Fab City, Barcelona City Hall, Creative Europe, DDMP, IAAC and UNIDO - Stay tuned, the book will be soon downloadable.
+<br>
+It will be the best opportunity to present the "Fab City - The Mass distribution of (Almost) Everything" book powered by Fab Lab BCN, Fab City, Barcelona City Hall, Creative Europe, DDMP, IAAC and UNIDO - Stay tuned, the book will be soon downloadable.
 <br>
 
 
