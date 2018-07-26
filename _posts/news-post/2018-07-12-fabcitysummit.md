@@ -31,7 +31,7 @@ The <strong>3rd edition of Fab City Summit</strong> is going to be organised in 
 
 <strong><a href="https://summit.fabcity.paris/fabcitylab/">FAB CITY LAB / JULY 11th</a></strong>
 
-<br>
+
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcity/fabcitysummit4.jpg" align="middle"> 
 <br>
 
@@ -44,7 +44,7 @@ During the events, 28 Cities, all over the world, will sign the Fab City Manifes
 <br>
 
 <strong><a href="https://summit.fabcity.paris/conference/">FAB CITY CONFERENCE / 12th - 13th, Paris</a></strong>
-<br>
+
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcity/fabcitysummit2.jpg" align="middle"> 
 <br>
 
@@ -58,7 +58,7 @@ It will be the best opportunity to present the "Fab City - The Mass distribution
 <strong><a href="https://summit.fabcity.paris/program/">Check the Program & all the Speakers</a></strong>
 <br>
 <strong><a href="https://summit.fabcity.paris/campus/">CAMPUS / JULY 14th - 22nd, Paris</a></strong>
-<br>
+
 
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcity/fabcitysummit3.jpg" align="middle"> 
 <br>
