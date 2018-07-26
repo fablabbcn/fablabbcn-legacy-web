@@ -30,7 +30,12 @@ The <strong>3rd edition of Fab City Summit</strong> is going to be organised in 
 
 
 <strong><a href="https://summit.fabcity.paris/fabcitylab/">FAB CITY LAB / JULY 11th</a></strong>
+
 <br>
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcity/fabcitysummit4.jpg" align="middle"> 
+<br>
+
+
 An international event organized by the City of Paris and the European Commission, in collaboration with the Fab City Grand Paris Association and the Fab City Global Initiative.
 <br>
 The Fab City Lab will gather local political leaders, experts in innovation ecosystems and companies. Together we will share experiences and best practice around concrete projects to demonstrate our collective commitment to the Fab City movement. 
@@ -63,7 +68,9 @@ Fab City Campus is a free event for families, exploring productive cities in a h
 The Fab City Campus free event at the La Villette park will attract more than 10,000 visitors, 500 participants and showcase over 40 international projects. In addition, a distributed event will take place in over 40 locations across the Paris region in partnership with the Tourist Office of Paris and collaboration with ‘Reinventing Places’ initiative in July and August.
 
 
-
+<br>
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcity/fabcitysummit5.jpg" align="middle"> 
+<br>
 
 
 
