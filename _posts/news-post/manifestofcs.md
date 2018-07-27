@@ -14,9 +14,32 @@ category: news
 <br>
 
 
-In July 2018, as part of the Fab City Summit in Paris, the Fab City Global Initiative launched the Fab City Manifesto, in collaboration with the Mairie de Paris and the Fab City Collective. This set of guiding principals are key to the development of the Fab City roadmap and act as values by which the Fab City network engage with their cities.
+In July 2018, as part of the Fab City Summit in Paris, the <strong><a href="http://fab.city/">Fab City Global Initiative</a></strong> launched the <strong><a href="https://fab.city/documents/Manifesto.pdf">Fab City Manifesto</a></strong>, in collaboration with the <strong><a href="https://www.paris.fr/">Mairie de Paris</a></strong> and the <strong><a href="http://fab.city/">Fab City Collective</a></strong>. This set of guiding principals are key to the development of the <strong><a href="http://fab.city/">Fab City</a></strong> roadmap and act as values by which the <strong><a href="http://fab.city/">Fab City</a></strong> network engage with their cities.
+<br>
+<h4>Read and Download the Manifesto</h4>
+<br>
+<strong>28 Cities</strong>, all over the world, signed the Fab City Manifesto: 10 principles to enable the urban transition towards locally productive and globally connected cities.
 
-<h3>Read and Download the Manifesto</h3>
+<h4>1 / ECOLOGICAL</h4> - We take an integrated approach to environmental stewardship, working towards a zero-emission future while also preserving biodiversity,rebalancing the nutrient cycle, and sustaining natural resources
+<br>
+<h4>2 / INCLUSIVE</h4> - We promote equitable and inclusive policy co-design, through the development of a Commons Approach,regardless of age, gender, income-levels and capabilities.
+<br>
+<h4>3 / GLOCALISM</h4> - We support the efficient and shared use of all local available resources in a circular economy approach, to build a productive and vibrant city.
+<br>
+<h4>4 / PARTICIPATORY</h4> - We engage with all stakeholders in decision-making processes and empower citizens to take ownership of innovation and change-making.
+<br>
+<h4>5 / ECONOMIC GROWTH & EMPLOYMENT</h4> - We support sustainable urban economic growth by investing in building the skills, infrastructure and policy frameworks needed for the 21st century, thanks to a thorough consideration of social and environmental externalities and the implementation of the polluter pays principle.
+<br>
+<h4>6 / LOCALLY PRODUCTIVE</h4> - We support the efficient and shared use of all local available resources in a circular economy approach, to build a productive and vibrant city.
+<br>
+<h4>7 / PEOPLE-CENTRED</h4> - We give priority to people and culture over technology, so that the city can become a living and resilient ecosystem. Autonomous vehicles, digital tools, artificial intelligence and robotic machines must be placed at the service of the people’s well-being and expectations.
+<br>
+<h4>8 / HOLISTIC</h4> - We address urban issues in all their dimension and interdependencies to build sustainable, resilient and inclusive cities for everyone.
+<br>
+<h4>9 / OPEN SOURCE PHILOSOPHY</h4> - We foster a Digital Commons Approach that adheres to open source principles and values open data, in order to stimulate innovation and develop shared solutions between cities and territories.
+<br>
+<h4>10 / EXPERIMENTAL</h4> - In order to meet the principles just outlined, we actively support the research, experimentation and deployment of innovation which includes but is not limited to: low impact supply chains; distributed production; renewable energy and smart grids; sustainable food and urban agriculture; recycling and reuse of materials, sustainable resource management for energy, food and materials.
+<br>
 
 The <strong><a href="https://summit.fabcity.paris/">Fab City Summit 2018</a></strong> is an invitation to take part of the transformation towards a more sustainable and accessible future for the cities that become locally productive and globally connected through collaboration and disruptive technologies.
 <br>
