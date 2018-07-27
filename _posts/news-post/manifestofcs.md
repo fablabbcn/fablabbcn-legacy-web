@@ -10,16 +10,15 @@ date: 12/07/2018
 category: news
 ---
 
-<iframe width="720" height="315" src="https://www.youtube.com/embed/RvpHm3oaJkk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fab14/fab141.jpg" align="middle"> 
 <br>
-
 
 In July 2018, as part of the Fab City Summit in Paris, the <strong><a href="http://fab.city/">Fab City Global Initiative</a></strong> launched the <strong><a href="https://fab.city/documents/Manifesto.pdf">Fab City Manifesto</a></strong>, in collaboration with the <strong><a href="https://www.paris.fr/">Mairie de Paris</a></strong> and the <strong><a href="http://fab.city/">Fab City Collective</a></strong>. This set of guiding principals are key to the development of the <strong><a href="http://fab.city/">Fab City</a></strong> roadmap and act as values by which the <strong><a href="http://fab.city/">Fab City</a></strong> network engage with their cities.
 <br>
 <h4><strong><a href="https://fab.city/documents/Manifesto.pdf">DOWNLOAD AND SHARE THE FAB CITY MANIFESTO</a></strong></h4>
 <br>
 
-<iframe width="720" height="315" src="https://www.youtube.com/embed/RvpHm3oaJkk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fab14/fab141.jpg" align="middle"> 
 <br>
 
 <strong>28 Cities</strong>, all over the world, signed the Fab City Manifesto: 10 principles to enable the urban transition towards locally productive and globally connected cities.
@@ -45,7 +44,7 @@ In July 2018, as part of the Fab City Summit in Paris, the <strong><a href="http
 <h5>10 / EXPERIMENTAL</h5> - <i>In order to meet the principles just outlined, we actively support the research, experimentation and deployment of innovation which includes but is not limited to: low impact supply chains; distributed production; renewable energy and smart grids; sustainable food and urban agriculture; recycling and reuse of materials, sustainable resource management for energy, food and materials.</i>
 <br>
 
-<iframe width="720" height="315" src="https://www.youtube.com/embed/RvpHm3oaJkk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fab14/fab141.jpg" align="middle"> 
 <br>
 
 <h4>CALL TO ACTION — WHAT’S NEXT?</h4>
