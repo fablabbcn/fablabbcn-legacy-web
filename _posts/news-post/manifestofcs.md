@@ -47,39 +47,12 @@ In July 2018, as part of the Fab City Summit in Paris, the <strong><a href="http
 <img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fab14/fab141.jpg" align="middle"> 
 <br>
 
-<h4>CALL TO ACTION — WHAT’S NEXT?</h4>
-<h4>ACTION 1: <strong><a href="https://fab.city/documents/Manifesto.pdf">DOWNLOAD AND SHARE THE FAB CITY MANIFESTO</a></strong></h4>
-<h4>ACTION 2: <strong><a href="https://fab.city/documents/Fab_City_Commitment_2018.pdf">JOIN YOUR CITY TO THE FAB CITY NETWORK</a></strong></h4>
-<h4>ACTION 3: <strong><a href="https://www.fablabs.io/signin">JOIN THE FAB LAB NETWORK</a></strong></h4>        
+<h4>WHAT’S NEXT?</h4><br>
+<h4><strong><a href="https://fab.city/documents/Manifesto.pdf">DOWNLOAD AND SHARE THE FAB CITY MANIFESTO</a></strong></h4>
+<h4><strong><a href="https://fab.city/documents/Fab_City_Commitment_2018.pdf">JOIN YOUR CITY TO THE FAB CITY NETWORK</a></strong></h4>
+<h4><strong><a href="https://www.fablabs.io/signin">JOIN THE FAB LAB NETWORK</a></strong></h4>
+<br>
+Stay tuned!
+<br>
 
 
-PARTNER CITIES/STATES
-
-BARCELONA
-EKURHULENI
-AMSTERDAM
-BHUTAN
-BREST
-CAMBRIDGE
-SHENZHEN
-BOSTON
-KERALA
-GEORGIA
-TOULOUSE
-SACRAMENTO
-CURITIBA
-PARIS
-SOMERVILLE
-OCCITANIE REGION
-SANTIAGO DE CHILE
-DETROIT
-KAMAKURA
-PUEBLA
-VELSEN
-SOROCABA
-MEXICO CITY
-SEOUL
-ZAGREB
-OAKLAND
-AUVERGNE-RHÔNE-ALPES
-BELO-HORIZONTE
