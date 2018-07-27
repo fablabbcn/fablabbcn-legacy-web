@@ -44,7 +44,7 @@ In July 2018, as part of the Fab City Summit in Paris, the <strong><a href="http
 <h5>10 / EXPERIMENTAL</h5> - <i>In order to meet the principles just outlined, we actively support the research, experimentation and deployment of innovation which includes but is not limited to: low impact supply chains; distributed production; renewable energy and smart grids; sustainable food and urban agriculture; recycling and reuse of materials, sustainable resource management for energy, food and materials.</i>
 <br>
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcity/fab141.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcity/manifesto3.jpg" align="middle"> 
 <br>
 
 <h4>WHAT’S NEXT?</h4><br>
@@ -53,7 +53,7 @@ In July 2018, as part of the Fab City Summit in Paris, the <strong><a href="http
 <h4><strong><a href="https://www.fablabs.io/signin">JOIN THE FAB LAB NETWORK</a></strong></h4>
 
 <br>
-Stay tuned!
+Read More <strong><a href="http://fab.city/">HERE</a></strong> and stay tuned!
 <br>
 
 
