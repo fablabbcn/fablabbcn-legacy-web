@@ -1,8 +1,8 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/fabcity/manifestosmall.jpg
-teaserlist: blog_loop_latest/fabcity/manifestosmall.jpg
+teaserlatest: blog_loop_latest/fabcity/MANIFESTOsmall.jpg
+teaserlist: blog_loop_latest/fabcity/MANIFESTOsmall.jpg
 title: The Fab City Manifesto
 meta: "28 Cities, all over the world, signed the Fab City Manifesto, 10 principles to enable the urban transition towards locally productive and globally connected cities."
 author: Marco Sanalitro
