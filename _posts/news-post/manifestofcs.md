@@ -1,10 +1,10 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/fabcity/fabcitysummitsmall.jpg
-teaserlist: blog_loop_latest/fabcity/fabcitysummitsmall.jpg
-title: Fab City Summit Paris
-meta: "Fab City Summit is an invitation to take part of the transformation towards a more sustainable and accessible future for the cities that become locally productive and globally connected through collaboration and disruptive technologies."
+teaserlatest: blog_loop_latest/fabcity/MANIFESTOsmall.jpg
+teaserlist: blog_loop_latest/fabcity/MANIFESTOsmall.jpg
+title: The Fab City Manifesto
+meta: "28 Cities, all over the world, signed the Fab City Manifesto: 10 principles to enable the urban transition towards locally productive and globally connected cities."
 author: Marco Sanalitro
 date: 12/07/2018 
 category: news
@@ -12,6 +12,11 @@ category: news
 
 <iframe width="720" height="315" src="https://www.youtube.com/embed/RvpHm3oaJkk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
+
+
+In July 2018, as part of the Fab City Summit in Paris, the Fab City Global Initiative launched the Fab City Manifesto, in collaboration with the Mairie de Paris and the Fab City Collective. This set of guiding principals are key to the development of the Fab City roadmap and act as values by which the Fab City network engage with their cities.
+
+<h3>Read and Download the Manifesto</h3>
 
 The <strong><a href="https://summit.fabcity.paris/">Fab City Summit 2018</a></strong> is an invitation to take part of the transformation towards a more sustainable and accessible future for the cities that become locally productive and globally connected through collaboration and disruptive technologies.
 <br>
