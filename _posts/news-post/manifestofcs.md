@@ -52,11 +52,6 @@ In July 2018, as part of the Fab City Summit in Paris, the <strong><a href="http
 <h4><strong><a href="https://fab.city/documents/Fab_City_Commitment_2018.pdf">JOIN YOUR CITY TO THE FAB CITY NETWORK</a></strong></h4>
 <h4><strong><a href="https://www.fablabs.io/signin">JOIN THE FAB LAB NETWORK</a></strong></h4>
 
-<div class="countdown-box">
-			<div id="countdown" class="col-xs-12 col-sm-12 col-md-12">
-				<div class="countdown styled"></div>
-			</div>
-
 <br>
 Stay tuned!
 <br>
