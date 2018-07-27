@@ -20,25 +20,25 @@ In July 2018, as part of the Fab City Summit in Paris, the <strong><a href="http
 <br>
 <strong>28 Cities</strong>, all over the world, signed the Fab City Manifesto: 10 principles to enable the urban transition towards locally productive and globally connected cities.
 
-<h4>1 / ECOLOGICAL</h4> - <i>We take an integrated approach to environmental stewardship, working towards a zero-emission future while also preserving biodiversity,rebalancing the nutrient cycle, and sustaining natural resources.</i>
+<h5>1 / ECOLOGICAL</h5> - <i>We take an integrated approach to environmental stewardship, working towards a zero-emission future while also preserving biodiversity,rebalancing the nutrient cycle, and sustaining natural resources.</i>
 <br>
-<h4>2 / INCLUSIVE</h4> - We promote equitable and inclusive policy co-design, through the development of a Commons Approach,regardless of age, gender, income-levels and capabilities.
+<h4>2 / INCLUSIVE</h4> - <i>We promote equitable and inclusive policy co-design, through the development of a Commons Approach,regardless of age, gender, income-levels and capabilities.</i>
 <br>
-<h4>3 / GLOCALISM</h4> - We support the efficient and shared use of all local available resources in a circular economy approach, to build a productive and vibrant city.
+<h4>3 / GLOCALISM</h4> - <i>We support the efficient and shared use of all local available resources in a circular economy approach, to build a productive and vibrant city.</i>
 <br>
-<h4>4 / PARTICIPATORY</h4> - We engage with all stakeholders in decision-making processes and empower citizens to take ownership of innovation and change-making.
+<h4>4 / PARTICIPATORY</h4> - <i>We engage with all stakeholders in decision-making processes and empower citizens to take ownership of innovation and change-making.</i>
 <br>
-<h4>5 / ECONOMIC GROWTH & EMPLOYMENT</h4> - We support sustainable urban economic growth by investing in building the skills, infrastructure and policy frameworks needed for the 21st century, thanks to a thorough consideration of social and environmental externalities and the implementation of the polluter pays principle.
+<h4>5 / ECONOMIC GROWTH & EMPLOYMENT</h4> - <i>We support sustainable urban economic growth by investing in building the skills, infrastructure and policy frameworks needed for the 21st century, thanks to a thorough consideration of social and environmental externalities and the implementation of the polluter pays principle.</i>
 <br>
-<h4>6 / LOCALLY PRODUCTIVE</h4> - We support the efficient and shared use of all local available resources in a circular economy approach, to build a productive and vibrant city.
+<h4>6 / LOCALLY PRODUCTIVE</h4> - <i>We support the efficient and shared use of all local available resources in a circular economy approach, to build a productive and vibrant city.</i>
 <br>
-<h4>7 / PEOPLE-CENTRED</h4> - We give priority to people and culture over technology, so that the city can become a living and resilient ecosystem. Autonomous vehicles, digital tools, artificial intelligence and robotic machines must be placed at the service of the people’s well-being and expectations.
+<h4>7 / PEOPLE-CENTRED</h4> - <i>We give priority to people and culture over technology, so that the city can become a living and resilient ecosystem. Autonomous vehicles, digital tools, artificial intelligence and robotic machines must be placed at the service of the people’s well-being and expectations.</i>
 <br>
-<h4>8 / HOLISTIC</h4> - We address urban issues in all their dimension and interdependencies to build sustainable, resilient and inclusive cities for everyone.
+<h4>8 / HOLISTIC</h4> - <i>We address urban issues in all their dimension and interdependencies to build sustainable, resilient and inclusive cities for everyone.</i>
 <br>
-<h4>9 / OPEN SOURCE PHILOSOPHY</h4> - We foster a Digital Commons Approach that adheres to open source principles and values open data, in order to stimulate innovation and develop shared solutions between cities and territories.
+<h4>9 / OPEN SOURCE PHILOSOPHY</h4> - <i>We foster a Digital Commons Approach that adheres to open source principles and values open data, in order to stimulate innovation and develop shared solutions between cities and territories.</i>
 <br>
-<h4>10 / EXPERIMENTAL</h4> - In order to meet the principles just outlined, we actively support the research, experimentation and deployment of innovation which includes but is not limited to: low impact supply chains; distributed production; renewable energy and smart grids; sustainable food and urban agriculture; recycling and reuse of materials, sustainable resource management for energy, food and materials.
+<h4>10 / EXPERIMENTAL</h4> - <i>In order to meet the principles just outlined, we actively support the research, experimentation and deployment of innovation which includes but is not limited to: low impact supply chains; distributed production; renewable energy and smart grids; sustainable food and urban agriculture; recycling and reuse of materials, sustainable resource management for energy, food and materials.</i>
 <br>
 
 The <strong><a href="https://summit.fabcity.paris/">Fab City Summit 2018</a></strong> is an invitation to take part of the transformation towards a more sustainable and accessible future for the cities that become locally productive and globally connected through collaboration and disruptive technologies.
