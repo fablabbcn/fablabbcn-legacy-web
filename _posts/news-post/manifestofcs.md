@@ -20,7 +20,7 @@ In July 2018, as part of the Fab City Summit in Paris, the <strong><a href="http
 <br>
 <strong>28 Cities</strong>, all over the world, signed the Fab City Manifesto: 10 principles to enable the urban transition towards locally productive and globally connected cities.
 
-<h4>1 / ECOLOGICAL</h4> - We take an integrated approach to environmental stewardship, working towards a zero-emission future while also preserving biodiversity,rebalancing the nutrient cycle, and sustaining natural resources
+<h4>1 / ECOLOGICAL</h4> - <i>We take an integrated approach to environmental stewardship, working towards a zero-emission future while also preserving biodiversity,rebalancing the nutrient cycle, and sustaining natural resources.</i>
 <br>
 <h4>2 / INCLUSIVE</h4> - We promote equitable and inclusive policy co-design, through the development of a Commons Approach,regardless of age, gender, income-levels and capabilities.
 <br>
