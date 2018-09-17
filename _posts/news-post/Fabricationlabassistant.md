@@ -1,17 +1,66 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest: blog_loop_latest/fabcity/MANIFESTOsmall.jpg
-teaserlist: blog_loop_latest/fabcity/MANIFESTOsmall.jpg
-title: The Fab City Manifesto
-meta: "28 Cities, all over the world, signed the Fab City Manifesto, 10 principles to enable the urban transition towards locally productive and globally connected cities."
+teaserlatest: blog_loop_latest/job/job1small.jpg
+teaserlist: blog_loop_latest/job/job1small.jpg
+title: Fabrication Laboratory Assistant at Fab Lab Barcelona
+meta: "We are looking for a enthusiastic, self sufficient, organized and creative person to assist our FabLab, sharing our values and beliefs."
 author: Marco Sanalitro
 date: 27/07/2018 
 category: news
 ---
 
-<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/fabcity/fabcitysummit4.jpg" align="middle"> 
+<img src= "http://www.fablabbcn.org/img/blog/blog_loop_latest/job/job1.jpg" align="middle"> 
 <br>
+
+POSITION: Fabrication Laboratory Assistant at Fab Lab Barcelona<br><br>
+ 
+ORGANIZATION<br>
+Fab Lab Barcelona, part of the Institute for Advanced Architecture of Catalonia (IAAC), is one of the leading laboratories of the worldwide network of Fab Labs, a small-scale production and innovation laboratory, equipped with digital fabrication tools.<br>
+Fab Lab Barcelona develops several educational and research programs related to the applications and implications of digital fabrication. It develops projects in different scales, from smart devices for data collection by individuals (Smart Citizen), the new generation of Fab Labs (Green Fab Lab), to new production models for cities (Fab City Project).<br>
+We’re looking for a Lab Assistant that will be supporting digital fabrication tasks in Fab Lab Barcelona, supervising the daily operations of students and faculty, organizing the space and collaborating in external projects. We are looking for a enthusiastic, self sufficient, organized and creative person to assist our FabLab, sharing our values and beliefs.<br><br>
+ 
+ABOUT THE JOB<br>
+The candidate will be responsible for assisting the Fab Manager and offering support to students and users in daily activities.<br>
+Main tasks:<br><br>
+.Helping students and staff to use tools and machine.<br>
+.Technical support on students & research projects.<br>
+.Monitoring safety and appropriate machine use.<br>
+.Teaching assistant in Digital Fabrication.<br>
+.Management of booking system for students organisation.<br>
+.Basic setup, maintenance & upgrade of the lab and its machines.<br>
+.Participation in projects development of applied research, Industrial applications, product design and knowledge transfer.<br><br>
+Areas of work:<br><br>
+.Digital Fabrication for Architecture and Design<br>
+.FabLab management & accessibility<br>
+.Robotic Fabrication<br>
+.Electronics<br>
+.Welding<br>
+.Material research and performance<br><br>
+ 
+Minimum required Skills:<br><br>
+.Expertise in Parametric Design and Digital Fabrication tools ( Rhinoceros 3D, Grasshopper 3D, Solidworks, Coding, Electronics, Arduino, Laser Cutter, Milling Machine, 3D printers, etc.);<br>
+.Previous experience in managing students & interacting with a team;<br>
+.Craftsmanship knowledge;<br>
+.Autonomous, able to take on responsibilities and coordinate a team efficiently;<br>
+.Strong interpersonal relationship skills;<br>
+.Willing to learn, motivated, enthusiastic.<br><br>
+ 
+Language: English (+ Spanish appreciated).<br>
+Working Hours: 40h per week, Monday to Friday<br>
+Contract type: Full time <br>
+Position Commencement: October 1º, 2018<br>
+Salary: 18.000€ a year<br>
+Spanish working permit is mandatory<br><br>
+ 
+SUBMISSION OF THE APPLICATION<br><br>
+If you are in Barcelona, or you are interested in moving to Barcelona, and working with us, please send us your CV and Portfolio by the 15th of August 2018 to careers@iaac.net.<br>
+Email subject should be: Fabrication Laboratory Assistant Fablabbcn – Job Application <br><br>
+
+
+
+
+
 
 In July 2018, as part of the Fab City Summit in Paris, the <strong><a href="http://fab.city/">Fab City Global Initiative</a></strong> launched the <strong><a href="https://fab.city/documents/Manifesto.pdf">Fab City Manifesto</a></strong>, in collaboration with the <strong><a href="https://www.paris.fr/">Mairie de Paris</a></strong> and the <strong><a href="http://fab.city/">Fab City Collective</a></strong>. This set of guiding principals are key to the development of the <strong><a href="http://fab.city/">Fab City</a></strong> roadmap and act as values by which the <strong><a href="http://fab.city/">Fab City</a></strong> network engage with their cities.
 <br>
