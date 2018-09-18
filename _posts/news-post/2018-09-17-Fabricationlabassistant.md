@@ -54,6 +54,6 @@ The candidate will be responsible for assisting the Fab Manager and offering sup
 <strong>Spanish working permit is mandatory</strong><br><br>
  
 <strong>SUBMISSION OF THE APPLICATION</strong><br><br>
-If you are in Barcelona, or you are interested in moving to Barcelona, and working with us, please send us your <strong>CV and Portfolio by the 15th of August 2018 to careers@iaac.net</strong>.<br>
+If you are in Barcelona, or you are interested in moving to Barcelona, and working with us, please send us your <strong>CV and Portfolio until October 1st 2018 to careers@iaac.net</strong>.<br>
 Email subject should be: <strong>Fabrication Laboratory Assistant Fablabbcn – Job Application</strong> <br><br>
 
