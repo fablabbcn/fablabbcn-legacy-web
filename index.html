@@ -124,13 +124,15 @@ window.cookieconsent.initialise({
 
 <!-- ======== Banner Fab Academy ================================================================= Banner ====================-->
     
-    <section id="latest-news-banner">
+<!--    <section id="latest-news-banner">
 	    <div class="container">
 		    
 		    <a target="_blank" href="fabricademy_18.html"><img src="{{site.baseurl}}/img/news_banner/banner_fabBRICADEMY18_.jpg" class="img-responsive"/>  </a>
 		    
 		</div> <!-- container --> 
-    </section>--> <!-- section 
+    </section><!-- section 
+    
+    -->
 
 <!-- =============================================================================================================-->
 
@@ -269,7 +271,7 @@ window.cookieconsent.initialise({
 		
 	    <div class="container" id="latest-news">		      		          
 
-            {% for post in site.posts limit: 10 %}
+            {% for post in site.posts limit: 12 %}
                 {% if post.type == 'event' %}
                 
 		    <div class="col-md-3 col-sm-3">	
