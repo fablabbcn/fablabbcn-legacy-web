@@ -7,7 +7,7 @@ title: Check out the amazing results of last Fab Textiles Workshop!
 meta: The Fab Textiles project focuses in the intersection between the world of fashion and new technologies focusing on new processes, materials and production techniques.
 author: Luciana Asinari
 date: 2016/03/04
-category: workshops
+category: workshop
 ---
 
 <h4><a href="#spanish"> Aquí puedes leer la notícia en castellano. </a></h4>
