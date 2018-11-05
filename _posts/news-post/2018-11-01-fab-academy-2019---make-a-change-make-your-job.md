@@ -7,7 +7,7 @@ title: 'Fab Academy 2019 - make a change, make your job!'
 meta: Fab Academy 2019 student applications are now open.
 author: Kate Armstrong
 date: 2018-11-01 00:00:00
-category: blog
+category: news
 ---
 
 #### ![](/uploads/download.png)<br>&nbsp;
@@ -33,7 +33,7 @@ Meet two Fab Academy Barcelona Alumni who have made their job.
 
 #### Class of 2014
 
-![](blob:https://app.cloudcannon.com/1a4ed913-b76d-4463-8adc-289af4b70915)<br>Alejandra graduated from Fab Academy Barcelona, in 2014. Her graduation project led to the creation of [Fab Lat Kids](http://fablatkids.org/), an initiative that designs multicultural learning experiences through digital fabrication for kids in Latin America. Today, Fab Lat Kids has 80 collaborators from 19 countries, having an impact on over 5 thousand kids worldwide.&nbsp;<br><br>She also manages the Makerspace of Tec de Monterrey in Mexico, teaching a Prototyping Course, a class based on Fab Academy. On top of that, she has a company called DAFD that focuses on computational design training and advanced design. Alejandra definitely succeeded in making her own Job… or three!&nbsp;
+![](/uploads/44719565-1922463977835843-4608234178981396480-n-1.jpg)<br>Alejandra graduated from Fab Academy Barcelona, in 2014. Her graduation project led to the creation of [Fab Lat Kids](http://fablatkids.org/), an initiative that designs multicultural learning experiences through digital fabrication for kids in Latin America. Today, Fab Lat Kids has 80 collaborators from 19 countries, having an impact on over 5 thousand kids worldwide.&nbsp;<br><br>She also manages the Makerspace of Tec de Monterrey in Mexico, teaching a Prototyping Course, a class based on Fab Academy. On top of that, she has a company called DAFD that focuses on computational design training and advanced design. Alejandra definitely succeeded in making her own Job… or three!&nbsp;
 
 #### Class of 2015
 {: .present-before-paste}
