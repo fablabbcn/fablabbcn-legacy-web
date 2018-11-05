@@ -17,7 +17,7 @@ category: news
 
 ### What is Fab Academy?
 
-The Fab Academy is a multi-disciplinary and hands-on learning experience that can be taken in any number of participating Fab Labs around the world. At its core, Fab Academy empowers students to learn by doing, inspires them to make stuff locally, and to become active participants in sustainable cities and communities. The distributed program teaches students how to make almost anything under the guidance of Neil Gershenfeld (the Father of Fab Labs) who streams live into Fab Lab classrooms across the globe from [MIT's Centre for Bits and Atoms](http://cba.mit.edu/about/index.html){: target="_blank"}&nbsp;on a weekly basis to give lectures, feedback and assessments.
+The Fab Academy is a multi-disciplinary and hands-on learning experience that can be taken in any number of participating Fab Labs around the world. At its core, Fab Academy empowers students to learn by doing, inspires them to make stuff locally, and to become active participants in sustainable cities and communities. The distributed program teaches students how to make almost anything under the guidance of Neil Gershenfeld (the Father of Fab Labs) who streams live into Fab Lab classrooms across the globe from [MIT's Centre for Bits and Atoms](http://cba.mit.edu/about/index.html){: target="_blank"}&nbsp;on a weekly basis to give lectures, feedback and assessments.<br>&nbsp;
 
 > “Digital fabrication consists of much more than 3-d printing. It is an evolving suite of capabilities to turn data into things and things into data. Many years of research remain to complete this vision, but the revolution is already well under way.”<br>Neil Gershenfeld
 
@@ -31,14 +31,12 @@ Over this time, we have incubated many innovative projects. Some of the many hig
 
 As well as successful recent projects, Fab Lab Barcelona has some very impressive alumni, including our current Director, Tomas Diez. Meet other two Fab Academy Barcelona Alumni from 2014 and 2015 who have made their job.
 
-#### Class of 2014
+#### &nbsp;
 
-![](/uploads/44719565-1922463977835843-4608234178981396480-n-1.jpg)<br>Alejandra graduated from Fab Academy Barcelona, in 2014. Her graduation project led to the creation of [Fab Lat Kids](http://fablatkids.org/), an initiative that designs multicultural learning experiences through digital fabrication for kids in Latin America. Today, Fab Lat Kids has 80 collaborators from 19 countries, having an impact on over 5 thousand kids worldwide.&nbsp;<br><br>She also manages the Makerspace of Tec de Monterrey in Mexico, teaching a Prototyping Course, a class based on Fab Academy. On top of that, she has a company called DAFD that focuses on computational design training and advanced design. Alejandra definitely succeeded in making her own Job… or three!&nbsp;
+Class of 2014![](/uploads/44719565-1922463977835843-4608234178981396480-n-1.jpg)<br>Alejandra graduated from Fab Academy Barcelona, in 2014. Her graduation project led to the creation of [Fab Lat Kids](http://fablatkids.org/), an initiative that designs multicultural learning experiences through digital fabrication for kids in Latin America. Today, Fab Lat Kids has 80 collaborators from 19 countries, having an impact on over 5 thousand kids worldwide.&nbsp;<br><br>She also manages the Makerspace of Tec de Monterrey in Mexico, teaching a Prototyping Course, a class based on Fab Academy. On top of that, she has a company called DAFD that focuses on computational design training and advanced design. Alejandra definitely succeeded in making her own Job… or three!&nbsp;
 
-#### Class of 2015
+Class of 2015![](/uploads/45043767-1930973503651557-3079521143556669440-n.jpg)<br>Ronald is a maker, cultivator and designer. He joined Fab Academy 2015 at the Green Fab Lab in Barcelona, where he got the idea of the [at-home mushroom growing system.]( https://www.mushroomhomefarm.com/) He created a prototype at Fab Academy and one year after graduating, he picked up the project again and turned it into a product concept with a business model.&nbsp;<br><br>Since then he has worked nearly full time on it, together with two other designers and is currently finishing up the development and preparing for manufacturing. The hardware for the mushroom grower will be fabricated in the EU using natural and/or recycled materials. Open source ideology and the Fab Lab way of working are at the heart of the development of the project.
 {: .present-before-paste}
-
-![](/uploads/45043767-1930973503651557-3079521143556669440-n.jpg)<br>Ronald is a maker, cultivator and designer. He joined Fab Academy 2015 at the Green Fab Lab in Barcelona, where he got the idea of the [at-home mushroom growing system.]( https://www.mushroomhomefarm.com/) He created a prototype at Fab Academy and one year after graduating, he picked up the project again and turned it into a product concept with a business model.&nbsp;<br><br>Since then he has worked nearly full time on it, together with two other designers and is currently finishing up the development and preparing for manufacturing. The hardware for the mushroom grower will be fabricated in the EU using natural and/or recycled materials. Open source ideology and the Fab Lab way of working are at the heart of the development of the project.
 
 ### Apply today
 
