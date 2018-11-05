@@ -19,7 +19,9 @@ category: news
 
 ### What is Fab Academy?
 
-The Fab Academy is a multi-disciplinary and hands-on learning experience that can be taken in any number of participating Fab Labs around the world. At its core, Fab Academy empowers students to learn by doing, inspires them to make stuff locally, and to become active participants in sustainable cities and communities. The distributed program teaches students how to make almost anything under the guidance of Neil Gershenfeld (the Father of Fab Labs) who streams live into Fab Lab classrooms across the globe from [MIT's Centre for Bits and Atoms](http://cba.mit.edu/about/index.html){: target="_blank"}&nbsp;on a weekly basis to give lectures, feedback and assessments.<br>&nbsp;
+The Fab Academy is a multi-disciplinary and hands-on learning experience that can be taken in any number of participating Fab Labs around the world. At its core, Fab Academy empowers students to learn by doing, inspires them to make stuff locally, and to become active participants in sustainable cities and communities. The distributed program teaches students how to make almost anything under the guidance of Neil Gershenfeld (the Father of Fab Labs) who streams live into Fab Lab classrooms across the globe from [MIT's Centre for Bits and Atoms](http://cba.mit.edu/about/index.html){: target="_blank"}&nbsp;on a weekly basis to give lectures, feedback and assessments.
+
+<br>&nbsp;
 
 > “Digital fabrication consists of much more than 3-d printing. It is an evolving suite of capabilities to turn data into things and things into data. Many years of research remain to complete this vision, but the revolution is already well under way.”<br>Neil Gershenfeld
 
@@ -31,7 +33,7 @@ Since 2001, Fab Lab Barcelona has been at the cutting edge of the global maker m
 
 Over this time, we have incubated many innovative projects. Some of the many highlights from the class of 2018 include&nbsp;[a smoke signal machine](http://fabacademy.org/2018/labs/barcelona/students/javier-alboguijarro/finalproject.html)&nbsp;by Javi Albo, a [pollution sensor calibration unit](http://fabacademy.org/2018/labs/barcelona/students/oscar-gonzalezfernandez/)&nbsp;by &Oacute;scar Gonz&aacute;lez Fern&aacute;ndez and an [interactive installation](http://fabacademy.org/2018/labs/barcelona/students/dorota-orlof/final_project/){: target="_blank"} powered by a capacitance sensor by Dorota Orlof.&nbsp;
 
-As well as successful recent projects, Fab Lab Barcelona has some very impressive alumni, including our current Director, Tomas Diez. Meet other two Fab Academy Barcelona Alumni from 2014 and 2015 who have made their job.
+As well as successful recent projects, Fab Lab Barcelona has some very impressive alumni, including our current Director, Tomas Diez. Meet other two Fab Academy Barcelona alumni from 2014 and 2015 who have made their job.
 
 ![](/uploads/44719565-1922463977835843-4608234178981396480-n-1.jpg)
 
