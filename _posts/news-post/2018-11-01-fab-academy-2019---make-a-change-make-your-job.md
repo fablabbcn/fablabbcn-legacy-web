@@ -21,15 +21,15 @@ The Fab Academy is a multi-disciplinary and hands-on learning experience that ca
 
 > “Digital fabrication consists of much more than 3-d printing. It is an evolving suite of capabilities to turn data into things and things into data. Many years of research remain to complete this vision, but the revolution is already well under way.”<br>Neil Gershenfeld
 
+### &nbsp;
+
 ### Fab Academy in Barcelona
 
 Since 2001, Fab Lab Barcelona has been at the cutting edge of the global maker movement enabling innovation and democratising the use of digital fabrication technology as the local node for Fab Academy in Barcelona.&nbsp;
 
 Over this time, we have incubated many innovative projects. Some of the many highlights from the class of 2018 include&nbsp;[a smoke signal machine](http://fabacademy.org/2018/labs/barcelona/students/javier-alboguijarro/finalproject.html)&nbsp;by Javi Albo, a [pollution sensor calibration unit](http://fabacademy.org/2018/labs/barcelona/students/oscar-gonzalezfernandez/)&nbsp;by &Oacute;scar Gonz&aacute;lez Fern&aacute;ndez and an [interactive installation](http://fabacademy.org/2018/labs/barcelona/students/dorota-orlof/final_project/){: target="_blank"} powered by a capacitance sensor by Dorota Orlof.&nbsp;
 
-As well as successful recent projects, Fab Lab Barcelona has some very impressive alumni, including our current Director, Tomas Diez.&nbsp;
-
-Meet two Fab Academy Barcelona Alumni who have made their job.
+As well as successful recent projects, Fab Lab Barcelona has some very impressive alumni, including our current Director, Tomas Diez. Meet other two Fab Academy Barcelona Alumni from 2014 and 2015 who have made their job.
 
 #### Class of 2014
 
