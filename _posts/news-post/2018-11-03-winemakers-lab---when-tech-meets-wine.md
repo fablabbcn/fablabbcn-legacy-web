@@ -21,7 +21,9 @@ Fab Lab Barcelona was the first city to sign-on to the [Fab City](https://fab.ci
 Winemakers Lab is a ten-week intensive winemaking course that covers everything from harvest to fermentation and bottling, merging the ancient knowledge of winemaking with maker technologies such as digital fabrication and lo-fi sensors. It engages the expertise of educators from Fab Lab Barcelona with specialist input from head-tutor, Vino Guru and co-founder of Winemakers Lab Miguel Figini.
 {: .present-before-paste}
 
-### ![Miguel makes wine](blob:https://app.cloudcannon.com/5126972b-5fd0-43db-af7e-d9e46749812a "Miguel making wine at his home")A local tradition.
+### ![Miguel makes wine](blob:https://app.cloudcannon.com/5126972b-5fd0-43db-af7e-d9e46749812a "Miguel making wine at his home")
+
+### A local tradition.
 
 Catalonia has an [ancient relationship with winemaking](https://en.wikipedia.org/wiki/Catalan_wine#History){: target="_blank"}. Archaeological evidence suggests a history dating back as early as 1550 BC. The Roman rule had major influence on winemaking in the region with the Roman occupation in Spain headquartered in Tarragona, just south of Barcelona. This history and it's contemporary legacy is well known by Winemakers Lab co-founder, principal tutor and Vino Guru Miguel Figini, who channels the rich history of Catalan wines into the weekly classes. Miguel is an educator, with a background in IT and consultancy for companies in business development. As a passionate local to the Catalan region, he felt a need to connect with other wine and food lovers, and started Espai Del Vi Catal&agrave; in an effort to gather wine producers and lovers from across Catalu&ntilde;a, and to create a community in which the richness of the Catalan wine tradition could be celebrated.
 {: .present-before-paste}
