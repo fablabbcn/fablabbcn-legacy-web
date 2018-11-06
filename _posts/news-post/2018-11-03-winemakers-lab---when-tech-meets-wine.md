@@ -21,7 +21,7 @@ Fab Lab Barcelona was the first city to sign-on to the [Fab City](https://fab.ci
 Winemakers Lab is a ten-week intensive winemaking course that covers everything from harvest to fermentation and bottling, merging the ancient knowledge of winemaking with maker technologies such as digital fabrication and lo-fi sensors. It engages the expertise of educators from Fab Lab Barcelona with specialist input from head-tutor, Vino Guru and co-founder of Winemakers Lab Miguel Figini.
 {: .present-before-paste}
 
-### ![Miguel makes wine](blob:https://app.cloudcannon.com/5126972b-5fd0-43db-af7e-d9e46749812a "Miguel making wine at his home")
+### ![Miguel making wine at his home](blob:https://app.cloudcannon.com/5126972b-5fd0-43db-af7e-d9e46749812a "Miguel making wine at his home")
 
 ### A local tradition.
 
