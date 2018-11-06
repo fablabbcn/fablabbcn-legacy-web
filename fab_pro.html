@@ -82,8 +82,8 @@ layout: default
 			    
 		        <div id="grid" data-columns >		
 			                		         
-			        {% for post in site.posts limit: 600 %}
-	                {% if post.type == 'fabpro' %}    	 	            	            
+			    {% for post in site.posts limit: 600 %}
+	                        {% if post.type == 'fabpro' %}    	 	            	            
 		        		            
 			            <div class="menu-item">
 				            
@@ -97,7 +97,7 @@ layout: default
 
 		           	            	        
 			        {% endif %}
-			        {% endfor %}
+			    {% endfor %}
 		        
 	            </div> <!-- grid --> 
 	            
@@ -115,131 +115,25 @@ layout: default
    
     <div class="container" id="tech-assistance">
 	
-	        <h3>Technical assistance / Asistencia Técnica<br>
-	        <small>(Los precios de máquina incluyen la manipulación de material por nuestro personal y el uso de archivos finales)</small>
+	<h3>Technical assistance / Asistencia Técnica<br>
+	   <small>(Los precios de máquina incluyen la manipulación de material por nuestro personal y el uso de archivos finales)</small>
         </h3>
         
         <br>
         <p>Modelado 3D y preparación de archivos para producción: <strong>35 €/hora</strong></p></br>
         <p>Impresión 3D post proceso de separación de la base y limpiado de superficie: <strong>20 €/Ud</strong></p>
-</br>
-<p>Para pedir presupuesto, porfavor enviar un correo explicando el proyecto a <a href="mailto:pro@fablabbcn.org"><u>pro@fablabbcn.org</u></a>. Adjuntar los ficheros del diseño, si los tiene, o imágenes y dibujos.</p>
-</br>
-<p>Los horarios de atención al público son Martes, Miércoles y Viernes de 16:00 a 19.30hs, <strong>UNICAMENTE CON CITA PREVIA.</strong> Pedir cita a <a href="mailto:pro@fablabbcn.org"><u>pro@fablabbcn.org</u></a>
-</p>
-</br>
-<a target="_blank" href="https://docs.google.com/spreadsheets/d/1QDix_FGf8ncrQtlRYnkU9QCP4PKaF5f84a-cW4SvKu8/edit"><u>Ver lista de proveedores de materiales aqui.</u></a>        
+	</br>
+	<p>Para pedir presupuesto, porfavor enviar un correo explicando el proyecto a <a href="mailto:pro@fablabbcn.org"><u>pro@fablabbcn.org</u></a>. Adjuntar los ficheros del diseño, si los tiene, o imágenes y dibujos.</p>
+	</br>
+	<p>Los horarios de atención al público son Martes, Miércoles y Viernes de 16:00 a 19.30hs, <strong>UNICAMENTE CON CITA PREVIA.</strong> Pedir cita a <a href="mailto:pro@fablabbcn.org"><u>pro@fablabbcn.org</u></a>
+	</p>
+	</br>
+	<a target="_blank" href="https://docs.google.com/spreadsheets/d/1QDix_FGf8ncrQtlRYnkU9QCP4PKaF5f84a-cW4SvKu8/edit"><u>Ver lista de proveedores de materiales aqui.</u></a>        
         
     </div> <!-- container -->
     
+    <div class="container" id="separator"></div>
     
-<!------------------------------------------------->
-<div class="container" id="separator"></div>
-<!------------------------------------------------->   
- 
-   
-    <div class="container" id="fab-pro-machine-list">
-    <div class="container" id="fabpro intro">
-	<br>
-	<p>Si eres un estudiante o un profesional puedes venir a fabricar al Fab Lab Bcn; estas son las máquinas que puedes usar:</p>
-	</div>
-	<br> 	    
-        <div class="row">
-	        	        
-	        <div class="col-md-4">
-		        
-	            <h3>Corte laser / Laser cut</h3>
-	            	          
-	            <hr>
-	            <br>	        
-	            <img src="{{site.baseurl}}/img/machines/machines_6.jpg"/><br> 
-		        <br>
-	            <h4>Epilog Legend 36EXT</h4>
-		        <p>Precio: <strong>40 €/hora +IVA</strong></br>
-		           Área de trabajo: <strong>890x590mm</strong></br>
-                   Mas especificaciones <a href="/machines.html#vinil-cutter"><u>aqui.</u></a></p>
-
-        
-        	    <br><br> 
-        	    
-        	    <img src="{{site.baseurl}}/img/machines/machines_1.jpg"/><br>         
-                <br>
-                <h4>Multicam 2000 (400W)</h4> 
-	            <p>Precio: <strong>60 €/hora +IVA</strong></br>
-		           Área de trabajo: <strong>3000x1500mm</strong></br>
-                   Mas especificaciones <a href="/machines.html#multicam-2000"><u>aqui.</u></a></p>
-                   
-	        </div> <!-- col -->
-	     
-<!------------------------------------------------->	
-<!------------------------------------------------->	        
-	      
-	      <div class="col-md-4">
-		        
-	            <h3>CNC Milling / Fresado CNC</h3>	          
-                
-                <hr>
-<!---------->
-		        <br>		        		        
-                <img src="{{site.baseurl}}/img/machines/machines_3.jpg"/><br>
-                <br>
-                <img src="{{site.baseurl}}/img/machines/machines_2.jpg"/><br> 
-	            <br>
-                <h4>Precix y ShopBot PRS Alpha</h4>
-		        <p>Precio: <strong>70 €/hora +IVA</strong></br>
-		           Área de trabajo: <strong>3000x1500mm aprox.</strong></br>
-                   Mas especificaciones <a href="/machines.html#vinil-cutter"><u>aqui.</u></a></p>
-                   
-	        </div> <!-- col -->   
-	        
-<!------------------------------------------------->	
-<!------------------------------------------------->	        
-	      
-	        <div class="col-md-4">
-		        
-	            <h3>3D Printing / Impresión 3D</h3> 
-	            
-	            <hr>
-	            <br>
-<!---------->
-	            <img src="{{site.baseurl}}/img/machines/machines_10.jpg"/><br>
-	            <br>
-	            <h4>Zcorp 450</h4>
-		        <p>Precio: <strong>1,20 €/cm3 +IVA</strong></br>
-		           Área de trabajo: <strong>203x254x203mm</strong></br>
-                   Mas especificaciones <a href="/machines.html#vinil-cutter"><u>aqui.</u></a></p>
-                   
-                   
-                <br><br>  
-                
-                <img src="{{site.baseurl}}/img/machines/machines_11.jpg"/>
-                <br>       
-                <h4>Makerbot Replicator 2</h4> 
-	            <p>Precio: <strong>0,60 €/cm3 +IVA</strong></br>
-	               Área de trabajo: <strong>285x153x155mm</strong></br>
-                   Mas especificaciones <a href="/machines.html#multicam-2000"><u>aqui.</u></a></p>
-                   
-                   
-               <br><br> 
-               <img src="{{site.baseurl}}/img/machines/machines_9.jpg"/>
-               <br>        
-               <h4>Formlabs</h4> 
-	           <p>Precio: <strong>1,00 €/gramo +IVA</strong></br>
-	              Área de trabajo: <strong>125×125×165mm</strong></br>
-                  Mas especificaciones <a href="/machines.html#multicam-2000"><u>aqui.</u></a></p>
-                   
-	        </div> <!-- col -->   
-	              
-        </row>  <!-- row -->       
-    </div> <!-- container -->
-
-
-<!------------------------------------------------->
-<div class="container" id="separator"></div>
-<!------------------------------------------------->
-
-
-
 </section> <!-- fab pro -->
 
 <!-- =============================================================================================================-->
