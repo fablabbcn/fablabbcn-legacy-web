@@ -51,4 +51,4 @@ Ronald is a maker, cultivator and designer. He joined Fab Academy 2015 at the Gr
 
 At Fab Lab Barcelona, we've seen the last ten years fly past. Instead of letting the world change around us, we encourage everyone to take charge and make their future, by making their job. Fab Academy applications are now open, so make a change and #makeyourjob.&nbsp;
 
-👉 https://fablabbcn.org/fab\_academy\_18.html&nbsp;<br>Or see our 2018 Alumni in action: https://www.youtube.com/watch?v=Lf8l9lxSdJY
+👉 [Apply Today!](https://fablabbcn.org/fab_academy_18.html )<br>Or [see our 2018 Alumni in action](https://www.youtube.com/watch?v=Lf8l9lxSdJY) in our 2018 campaign video on YouTube
