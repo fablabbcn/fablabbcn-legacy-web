@@ -3,8 +3,6 @@ layout: default
 ---
 
 <header>
-
-
   <style>
   .carousel-control.right {
     right: 0px;
@@ -21,17 +19,13 @@ layout: default
   }
   </style>
 
-
   {% include nav.html %}
-
 </header>
 
 
 <section id="header-pages-blog">
   <div class="container" id="header-pages-blog-title">
-
     <h2 class="page-title">News</h2>
-
   </div>
 </section>
 
@@ -51,12 +45,10 @@ layout: default
 
         <p class="lead">by&nbsp;<u>{{page.author}}</u>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Posted on <u>{{ page.date | date:"%B %d, %Y" }}</u></p>
 
-
         {{content}}
 
         <br>
         <hr id="hr-comments">
-
 
         <div id="disqus_thread"></div>
         <script type="text/javascript">
@@ -72,10 +64,7 @@ layout: default
         </script>
         <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-
-
       </div>  <!-- col -->
-
 
       <div class="col-md-4">
         <div class="well">
@@ -94,9 +83,7 @@ layout: default
 
         </div> <!-- well -->
 
-
         <div class="well">
-
           <h4>Categories</h4>
           <div class="row">
             {% for c in site.categories %}
