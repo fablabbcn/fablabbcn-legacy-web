@@ -1,8 +1,8 @@
 ---
 layout: blog_post
 type: blog
-teaserlatest:
-teaserlist:
+teaserlatest: make_your_job.png
+teaserlist: make_your_job.png
 title: 'Fab Academy 2019 - make a change, make your job!'
 meta: >-
   Fab Academy 2019 student applications are now open at Fab Lab Barcelona and
