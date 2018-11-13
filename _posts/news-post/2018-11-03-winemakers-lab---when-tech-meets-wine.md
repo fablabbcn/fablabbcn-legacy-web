@@ -2,7 +2,7 @@
 layout: blog_post
 type: blog
 teaserlatest: dsc06661.jpg
-teaserlist: img/blog/dsc06661.jpg
+teaserlist: ./dsc06661.jpg
 title: Winemakers Lab - When Tech meets Wine
 meta: >-
   Fab Lab Barcelona have launched a Winemaking course to enrich the ancient
