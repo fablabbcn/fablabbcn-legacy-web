@@ -3,179 +3,160 @@ layout: default
 ---
 
 <header>
-	
-	{% include nav.html %} 
-	
-	<style>	
-	    
-		.carousel-control.right {
-		    right: 0px;
-		    left: auto;
-		    background-image: none;
-		    background-repeat: none;
-		}
 
-	    .carousel-control.left {
-		    left: 0px;
-		    right: auto;
-		    background-image: none;
-		    background-repeat: none;
-		}
 
-    </style>
-    			
-	
-</header><!-- site-header -->
+  <style>
+  .carousel-control.right {
+    right: 0px;
+    left: auto;
+    background-image: none;
+    background-repeat: none;
+  }
 
-<!-- ======== Hero ==================================================================== Hero ============-->
+  .carousel-control.left {
+    left: 0px;
+    right: auto;
+    background-image: none;
+    background-repeat: none;
+  }
+  </style>
 
-    <section id="header-pages-blog">
-	    <div class="container" id="header-pages-blog-title">
-            
-            <h2 class="page-title">News</h2>                      
-							
-	    </div> <!-- container -->								        	        	                  	      	                     	            	            		                  			   		   	  		                                                                                          
-    </section> <!-- hero -->
 
-<!-- ======== pages-social-icons ===========-->
+  {% include nav.html %}
 
-    {% include social.html %}
+</header>
 
-<!-- =============================================================================================================-->
-    
+
+<section id="header-pages-blog">
+  <div class="container" id="header-pages-blog-title">
+
+    <h2 class="page-title">News</h2>
+
+  </div>
+</section>
+
+
+{% include social.html %}
+
 <div class="container" id="separator-pages-top"></div> 
 
-<!-- =============================================================================================================-->
+<section id="blog-post">
 
-    <section id="blog-post">
-		
-		<div class="container">
-            <div class="row">
+  <div class="container">
+    <div class="row">
 
-	            <div class="col-lg-8">
-		            
-	                <h1>{{page.title}}</h1>
+      <div class="col-lg-8">
 
-	                <p class="lead">by&nbsp;<u>{{page.author}}</u>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Posted on <u>{{ page.date | date:"%B %d, %Y" }}</u></p>
-                     	
-<!---- Preview Image --------------------->
- 	
-<!---- Post Content ---------------------->
+        <h1>{{page.title}}</h1>
 
-                    {{content}}
-	                	
-<!-- =============================================================================================================-->
-<br>    
-<hr id="hr-comments">  
+        <p class="lead">by&nbsp;<u>{{page.author}}</u>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Posted on <u>{{ page.date | date:"%B %d, %Y" }}</u></p>
 
-<!-- =============================================================================================================-->	                	
-	                	
-<!----- Blog Comments ------------------------------------------------------>
-	                
-	<div id="disqus_thread"></div>
-		<script type="text/javascript">
-		/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-		var disqus_shortname = 'fablabbcn'; // required: replace example with your forum shortname
-		
-		/* * * DON'T EDIT BELOW THIS LINE * * */
-		(function() {
-		var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-		dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-		})();
-		</script>
-		<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-		
-		
-	
-	            </div>  <!-- col --> 
 
-<!--------------------- Blog Sidebar Widgets Column -------------------->
+        {{content}}
 
-	            <div class="col-md-4">
-	
-<!----------------- Blog Search Well -->
-	                <br>
-	                <div class="well">
-	                    
-	                    <h4>Search</h4>
-	                    
-	                    <div class="input-group">
-	                        <input type="text" class="form-control">
-	                        <span class="input-group-btn">
-	                            <button class="btn btn-default" type="button">
-	                                <span class="glyphicon glyphicon-search"></span>
-	                            </button>
-	                        </span>
-	                        </input>
-	                    </div><!-- input-group -->
-	                
-	                </div> <!-- well -->
-	
-<!----------------- Blog Categories Well --> 
-	                
-	                <div class="well">
-	                
-	                    <h4>Categories</h4>
-	                    <div class="row">
-		                    {% for c in site.categories %}
-	                        <div class="col-lg-6">
-	                            <ul class="list-unstyled">
-	                                <li><a href="/tags/{{c | first}}/">{{ c | first }}</a>
-	                                </li>
-	                            </ul>
-	                        </div>
-	                        {% endfor %}
-	                    </div> <!-- row --> 
-	                        
-	                </div> <!-- well -->
-	
-<!----------------- Blog Social Well -->
-	                
-	                <div class="well">
-		                
-	                    <h4>Share this post:</h4>
-	                    <br>
-	                     
-	                    <span class='st_facebook_large' displayText='Facebook'></span>
-	                    
-<span class='st_twitter_large' displayText='Tweet'></span>
+        <br>
+        <hr id="hr-comments">
 
-<span class='st_linkedin_large' displayText='LinkedIn'></span>
 
-<span class='st_googleplus_large' displayText='Google +'></span>
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+          /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+          var disqus_shortname = 'fablabbcn'; // required: replace example with your forum shortname
 
-<span class='st_pinterest_large' displayText='Pinterest'></span>
+          /* * * DON'T EDIT BELOW THIS LINE * * */
+          (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+          })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
-<span class='st_email_large' displayText='Email'></span>
 
-	                </div> <!-- well -->
-	
-	            </div> <!-- col -->
-	        </div> <!-- row -->
-	</div> <!-- container --> 
-</section> 
+
+      </div>  <!-- col -->
+
+
+      <div class="col-md-4">
+        <div class="well">
+
+          <h4>Search</h4>
+
+          <div class="input-group">
+            <input type="text" class="form-control">
+            <span class="input-group-btn">
+              <button class="btn btn-default" type="button">
+                <span class="glyphicon glyphicon-search"></span>
+              </button>
+            </span>
+            </input>
+          </div><!-- input-group -->
+
+        </div> <!-- well -->
+
+
+        <div class="well">
+
+          <h4>Categories</h4>
+          <div class="row">
+            {% for c in site.categories %}
+            <div class="col-lg-6">
+              <ul class="list-unstyled">
+                <li><a href="/tags/{{c | first}}/">{{ c | first }}</a>
+                </li>
+              </ul>
+            </div>
+            {% endfor %}
+          </div> <!-- row -->
+
+        </div> <!-- well -->
+
+        <!-- Blog Social Well -->
+
+        <div class="well">
+
+          <h4>Share this post:</h4>
+          <br>
+
+          <span class='st_facebook_large' displayText='Facebook'></span>
+
+          <span class='st_twitter_large' displayText='Tweet'></span>
+
+          <span class='st_linkedin_large' displayText='LinkedIn'></span>
+
+          <span class='st_googleplus_large' displayText='Google +'></span>
+
+          <span class='st_pinterest_large' displayText='Pinterest'></span>
+
+          <span class='st_email_large' displayText='Email'></span>
+
+        </div> <!-- well -->
+
+      </div> <!-- col -->
+    </div> <!-- row -->
+  </div> <!-- container -->
+</section>
 
 
 <!-- =============================================================================================================-->
-    
-<div class="container" id="separator-pages-top"></div>   
+
+<div class="container" id="separator-pages-top"></div>
 
 <!-- =============================================================================================================-->
 
-<!-- disqus -------------------------------------->
+<!-- disqus -->
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
-/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-var disqus_shortname = 'fablabbcn'; // required: replace example with your forum shortname
+  /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+  var disqus_shortname = 'fablabbcn'; // required: replace example with your forum shortname
 
-/* * * DON'T EDIT BELOW THIS LINE * * */
-(function() {
-var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-})();
+  /* * * DON'T EDIT BELOW THIS LINE * * */
+  (function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
