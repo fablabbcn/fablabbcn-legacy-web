@@ -907,12 +907,11 @@ iframe {
 	padding: 10px 0 10px 0;
 }
 
-.img-circle img-responsive img-center {
-	text-align: center;
+.team-item {
+	min-height: 310px;
 }
-
-#team-item {
-	padding-bottom: 40px;
+.team-social{
+  padding-top:10px;
 }
 
 #team h3{
