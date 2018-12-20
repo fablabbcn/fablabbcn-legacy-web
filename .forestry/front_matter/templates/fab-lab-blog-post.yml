@@ -48,3 +48,5 @@ fields:
   type: file
   hidden: false
   default: ''
+pages:
+- _posts/news-post/fab-lab-barcelona-our-year-in-review.md
