@@ -1,0 +1,52 @@
+---
+label: Fab Lab Blog Post
+hide_body: 
+is_partial: 
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: meta
+  label: Meta
+  type: textarea
+  hidden: false
+  default: ''
+- name: title
+  label: Title
+  type: textarea
+  hidden: false
+  default: ''
+- name: type
+  label: Type
+  type: text
+  hidden: false
+  default: ''
+- name: author
+  label: Author
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: category
+  label: Category
+  type: tag_list
+  hidden: false
+  default: ''
+- name: teaserlatest
+  label: Teaserlatest
+  type: file
+  hidden: false
+  default: ''
+- name: teaserlist
+  label: Teaserlist
+  type: file
+  hidden: false
+  default: ''
+pages:
+- _posts/news-post/fab-lab-barcelona-our-year-in-review.md
