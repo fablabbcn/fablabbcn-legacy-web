@@ -16,7 +16,7 @@ date: 2012-09-18
 
 Dimensions: 190 x 122 x 109 cm, sitting level: 32- 52 cm
 <br>
-#####Design by Michal Kukucka, finalized by help of FabLabBcn.
+##### Design by Michal Kukucka, finalized by help of FabLabBcn.
 
 <br>
 
