@@ -3,22 +3,6 @@ layout: default
 ---
 
 <header>
-  <style>
-  .carousel-control.right {
-    right: 0px;
-    left: auto;
-    background-image: none;
-    background-repeat: none;
-  }
-
-  .carousel-control.left {
-    left: 0px;
-    right: auto;
-    background-image: none;
-    background-repeat: none;
-  }
-  </style>
-
   {% include nav.html %}
 </header>
 
@@ -29,18 +13,16 @@ layout: default
   </div>
 </section>
 
-
 {% include social.html %}
 
-<div class="container" id="separator-pages-top"></div> 
+<div class="container" id="separator-pages-top"></div>
 
 <section id="blog-post">
 
   <div class="container">
     <div class="row">
 
-      <div class="col-lg-8">
-
+      <div class="col-md-8">
         <h1>{{page.title}}</h1>
 
         <p class="lead">by&nbsp;<u>{{page.author}}</u>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Posted on <u>{{ page.date | date:"%B %d, %Y" }}</u></p>
@@ -63,7 +45,6 @@ layout: default
           })();
         </script>
         <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
       </div>  <!-- col -->
 
       <div class="col-md-4">
@@ -110,8 +91,7 @@ layout: default
           <span class='st_pinterest_large' displayText='Pinterest'></span>
           <span class='st_email_large' displayText='Email'></span>
         </div> <!-- well -->
-
-      </div> <!-- col -->
+      </div> <!-- col 4 -->
     </div> <!-- row -->
   </div> <!-- container -->
 </section>
