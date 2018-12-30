@@ -3,7 +3,7 @@ layout: blog_post
 meta: As 2018 comes to an end, we’re getting a little nostalgic thinking about the
   year that was. Filled with achievements, challenges, beginnings and milestones -
   2018 has been another exciting chapter for Fab Lab Barcelona.
-title: Fab Lab Barcelona Our Year in Review
+title: 2018 - Our Year in Review
 type: News
 author: Kate Armstrong
 date: 2018-12-29 23:00:00 +0000
@@ -12,9 +12,7 @@ teaserlatest: "/uploads/Infography(newsletter)corrected-small.png"
 teaserlist: "/uploads/Infography(newsletter)corrected-small.png"
 
 ---
-# 2018: Our Year in Review
-
-As 2018 comes to an end, we’re getting a little nostalgic thinking about the year that was. Filled with achievements, challenges, beginnings and milestones - 2018 has been another exciting chapter for Fab Lab Barcelona.
+##### As 2018 comes to an end, we’re getting a little nostalgic thinking about the year that was. Filled with achievements, challenges, beginnings and milestones - 2018 was another exciting chapter for Fab Lab Barcelona.
 
 ![](/uploads/Infography(newsletter)corrected-small.png)
 
@@ -36,23 +34,21 @@ It’s been an epic year for **10 EU projects** currently open at Fab Lab Barcel
 
 [Fab Academy](https://fablabbcn.org/fab_academy_18.html) had it’s 9th year of making (almost) anything this year, culminating in the students being awarded their certifications at the Fab 14 conference in Toulouse, France. The faculty welcomes you to join & #MakeYourJob in 2019 - the 10th year of Fab Academy Barcelona! [**Applications** ](https://form.jotformeu.com/FabAcademy/2019-students-application)close Dec-25th 2018
 
-    <a data-flickr-embed="true"  href="https://www.flickr.com/photos/fablabbcn/32533649148/" title="MDEF Students"><img src="https://farm5.staticflickr.com/4864/32533649148_c5955b8df3_h.jpg" width="1600" height="1064" alt="MDEF Students"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-2018 was the pioneer year of the [Master in Design for Emergent Futures! ](https://iaac.net/educational-programmes/masters-programmes/master-in-design-for-emergent-futures-mdef/)25 Students from 16 countries joined faculty from Fab Lab Barcelona and acquired the future skills to transform them into future change agents. At the beginning of their second year the students will take a research trip to Shenzhen, China!
-
     <iframe width="560" height="315" src="https://www.youtube.com/embed/nsv7OzujbLE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This past year IAAC also pioneered the [Master in Design for Emergent Futures! ](https://iaac.net/educational-programmes/masters-programmes/master-in-design-for-emergent-futures-mdef/)25 Students from 16 countries joined faculty from Fab Lab Barcelona and acquired the skills to transform them into future change agents. At the beginning of their second year the students will take a research trip to Shenzhen, China!
 
 Do you believe innovation is necessary in our ever changing world? Join the 2019 intake - [applications are NOW open](https://iaac.net/educational-programmes/masters-programmes/master-in-design-for-emergent-futures-mdef/)!
 
 #### **Fab City Milestones**
 
-    <a data-flickr-embed="true"  href="https://www.flickr.com/photos/fabcityglobal/41656212660/in/album-72157698713845564/" title="Fab City Lab 2018"><img src="https://farm2.staticflickr.com/1786/41656212660_aa24f469ee_h.jpg" width="1600" height="1067" alt="Fab City Lab 2018"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![](/uploads/41656212660_a053866874_z.jpg)
 
 **Fab City Global Initiative** had a HUGE year with a [summit](https://summit.fabcity.paris/), [**book launch**](https://www.peecho.com/checkout/154028456915119538/457294/fab-city-the-mass-distributed-of-almost-everything), new [website ](www.fab.city)and the birth of the [**Fab City Foundation**](https://blog.fab.city/fab-foundation-launch-in-e-estonia-4ece89d8ff5a)**!** The 28 Fab Cities together with 1st Fab City Barcelona say YES to becoming self sufficient by 2054.
 
 #### **Growing our team**
 
-FabLab Bcn Team was expanded this year with 9 new FabFamily members joining the team! 
+The Fab Lab Bcn team was expanded this year with nine new Fab Family members! We're always welcoming new faces to the team for [internships](https://fablabbcn.org/work_with_us.html) too.
 
 #### **Growing our community**
 
