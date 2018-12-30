@@ -12,7 +12,7 @@ teaserlatest: "/uploads/Infography(newsletter)corrected-small.png"
 teaserlist: "/uploads/Infography(newsletter)corrected-small.png"
 
 ---
-##### As 2018 comes to an end, we’re getting a little nostalgic thinking about the year that was. Filled with achievements, challenges, beginnings and milestones - 2018 was another exciting chapter for Fab Lab Barcelona.
+##### As 2018 comes to an end, we’re getting a little nostalgic thinking about the year that was. Filled with achievements, challenges, beginnings and milestones - 2018 was another exciting chapter for Fab Lab Barcelona. 
 
 ![](/uploads/Infography(newsletter)corrected-small.png)
 
@@ -34,8 +34,6 @@ It’s been an epic year for **10 EU projects** currently open at Fab Lab Barcel
 
 [Fab Academy](https://fablabbcn.org/fab_academy_18.html) had it’s 9th year of making (almost) anything this year, culminating in the students being awarded their certifications at the Fab 14 conference in Toulouse, France. The faculty welcomes you to join & #MakeYourJob in 2019 - the 10th year of Fab Academy Barcelona! [**Applications** ](https://form.jotformeu.com/FabAcademy/2019-students-application)close Dec-25th 2018
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/nsv7OzujbLE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 This past year IAAC also pioneered the [Master in Design for Emergent Futures! ](https://iaac.net/educational-programmes/masters-programmes/master-in-design-for-emergent-futures-mdef/)25 Students from 16 countries joined faculty from Fab Lab Barcelona and acquired the skills to transform them into future change agents. At the beginning of their second year the students will take a research trip to Shenzhen, China!
 
 Do you believe innovation is necessary in our ever changing world? Join the 2019 intake - [applications are NOW open](https://iaac.net/educational-programmes/masters-programmes/master-in-design-for-emergent-futures-mdef/)!
@@ -48,7 +46,7 @@ Do you believe innovation is necessary in our ever changing world? Join the 2019
 
 #### **Growing our team**
 
-The Fab Lab Bcn team was expanded this year with nine new Fab Family members! We're always welcoming new faces to the team for [internships](https://fablabbcn.org/work_with_us.html) too.
+FabLab Bcn Team was expanded this year with nine new Fab Family members joining the team! We're always welcoming new faces to the team for [internships](https://fablabbcn.org/work_with_us.html) too.
 
 #### **Growing our community**
 
