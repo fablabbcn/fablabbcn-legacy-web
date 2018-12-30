@@ -54,6 +54,6 @@ FabLab Bcn Team was expanded this year with nine new Fab Family members joining 
 
 #### **Growing our community**
 
-This year we welcomed thousands of visitors to Fab Lab BCN; from the Mayor of Seoul to a hugely successful Poblenou Open Night where over 2000 visitors made something instead of buying during Black Friday for [**MakeSmthng Week**](https://medium.com/@makesmthng/lets-makechangenow-9ae6ef461894) in collaboration with Greenpeace Spain | Greenpeace International | Fab City Global Initiative. We co-produced Maker Faire with SokoTech and Sonar Festival for another year, solidifying the maker narrative in the cultural field of Barcelona.
+This year we welcomed thousands of visitors to Fab Lab BCN; from the Mayor of Seoul to a hugely successful Poblenou Open Night where over 2000 visitors made something instead of buying during Black Friday for [**MakeSmthng Week**](https://medium.com/@makesmthng/lets-makechangenow-9ae6ef461894) in collaboration with Greenpeace Spain, Greenpeace International, Fab City Global Initiative. We co-produced Maker Faire with SokoTech and Sonar Festival for another year, solidifying the maker narrative in the cultural field of Barcelona.
 
 ##### A big happy holidays to all our friends, collaborators and Fab followers. Looking forward to 2019 to make more of anything with you all!
