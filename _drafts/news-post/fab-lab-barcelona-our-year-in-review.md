@@ -32,17 +32,17 @@ It’s been another epic year for **10 EU projects** currently open at Fab Lab B
 
 #### **Educating for our future**
 
-[Fab Academy](https://fablabbcn.org/fab_academy_18.html) had it’s 9th year of making (almost) anything this year, culminating in the students being awarded their certifications at the Fab 14 conference in Toulouse, France. The faculty welcomes you to join & #MakeYourJob in 2019 - the 10th year of Fab Academy Barcelona! [**Applications** ](https://form.jotformeu.com/FabAcademy/2019-students-application)close Dec-25th 2018
+[Fab Academy](https://fablabbcn.org/fab_academy_18.html) had it’s 9th year of making (almost) anything this year, culminating in the students being awarded their certifications at the Fab 14 conference in Toulouse, France. The faculty is looking forward to welcoming new students to #MakeYourJob in 2019 - the 10th year of Fab Academy Barcelona!
 
 This past year IAAC also pioneered the [Master in Design for Emergent Futures! ](https://iaac.net/educational-programmes/masters-programmes/master-in-design-for-emergent-futures-mdef/)25 Students from 16 countries joined faculty from Fab Lab Barcelona and acquired the skills to transform them into future change agents. At the beginning of their second year the students will take a research trip to Shenzhen, China!
 
-Do you believe innovation is necessary in our ever changing world? Join the 2019 intake - [applications are NOW open](https://iaac.net/educational-programmes/masters-programmes/master-in-design-for-emergent-futures-mdef/)!
+![MDEF Students learn the basics in Biology Zero class](/uploads/fullsizeoutput_3cc.jpeg "MDEF Biology Zero class")Do you believe innovation is necessary in our ever changing world? See the [video teaser ](https://youtu.be/nsv7OzujbLE)here and join the 2019 intake - [applications are NOW open](https://iaac.net/educational-programmes/masters-programmes/master-in-design-for-emergent-futures-mdef/)!
 
 #### **Fab City Milestones**
 
-![](/uploads/41656212660_a053866874_z.jpg)
-
 **Fab City Global Initiative** had a HUGE year with a [summit](https://summit.fabcity.paris/), [**book launch**](https://www.peecho.com/checkout/154028456915119538/457294/fab-city-the-mass-distributed-of-almost-everything), new [website ](www.fab.city)and the birth of the [**Fab City Foundation**](https://blog.fab.city/fab-foundation-launch-in-e-estonia-4ece89d8ff5a)**!** The 28 Fab Cities together with 1st Fab City Barcelona say YES to becoming self sufficient by 2054.
+
+![](/uploads/41656212660_a053866874_z.jpg)
 
 #### **Growing our team**
 
