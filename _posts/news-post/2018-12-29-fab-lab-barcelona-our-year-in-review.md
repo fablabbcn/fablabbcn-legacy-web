@@ -4,10 +4,11 @@ meta: As 2018 comes to an end, we’re getting a little nostalgic thinking about
   year that was. Filled with achievements, challenges, beginnings and milestones -
   2018 has been another exciting chapter for Fab Lab Barcelona.
 title: 2018 - Our Year in Review
-type: News
+type: blog
 author: Kate Armstrong
 date: 2018-12-29 23:00:00 +0000
-category: []
+category:
+- news
 teaserlatest: "/uploads/Infography(newsletter)corrected-small.png"
 teaserlist: "/uploads/Infography(newsletter)corrected-small.png"
 
