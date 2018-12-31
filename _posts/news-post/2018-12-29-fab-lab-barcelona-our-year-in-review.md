@@ -12,7 +12,7 @@ teaserlatest: "/uploads/Infography(newsletter)corrected-small.png"
 teaserlist: "/uploads/Infography(newsletter)corrected-small.png"
 
 ---
-##### As 2018 comes to an end, we’re getting a little nostalgic thinking about the year that was. Filled with achievements, challenges, beginnings and milestones - 2018 was another exciting chapter for Fab Lab Barcelona.
+##### Happy New Year! As 2019 dawns, we’re getting a little nostalgic thinking about the year that was. Filled with achievements, challenges, beginnings and milestones - 2018 was another exciting chapter for Fab Lab Barcelona.
 
 ![](/uploads/Infography(newsletter)corrected-small.png)
 
