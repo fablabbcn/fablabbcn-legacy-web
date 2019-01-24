@@ -34,7 +34,7 @@ layout: default
       <div class="col-md-12" id="fabpro-our-clients">
         <h3>Some of our clients</h3>
         {% for item in site.data.fab-pro-clients %}
-        <img src="{{item.img}}"/>
+        <img src="{{site.baseurl}}{{item.img}}"/>
         {% endfor %}
       </div>
     </div>  <!-- row -->

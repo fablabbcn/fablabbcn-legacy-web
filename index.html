@@ -41,7 +41,7 @@ meta: One of the leading laboratories of the worldwide network of Fab Labs
     <div id="carousel-fade" class="carousel slide carousel-fade" data-ride="carousel">
 
       <div class="carousel-inner">
-        {% include carousel-slider.html texts=site.data.carousel-slider %}
+        {% include carousel-slider.html %}
       </div> <!-- carousel-inner -->
 
       <div class="carousel-caption">
@@ -79,12 +79,12 @@ meta: One of the leading laboratories of the worldwide network of Fab Labs
   </div> <!-- container -->
 </section> <!-- section -->
 
-{% include content_blocks.html texts=site.data.content_blocks %}
+{% include content_blocks.html %}
 
 <div class="container">
   <div id="separator"></div>
 </div>
 
-{% include collaborators.html texts=site.data.collaborators %}
+{% include collaborators.html %}
 
 {% include footer.html %}
