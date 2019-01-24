@@ -3,7 +3,7 @@
   url: "http://cba.mit.edu/"
   place: above
 - name: "Adjuntament"
-  logo: img/collaborations/collab_adjuntament.png
+  logo: /img/collaborations/collab_adjuntament.png
   url: "http://ajuntament.barcelona.cat"
   place: above
 - name: "Fab Foundation"
