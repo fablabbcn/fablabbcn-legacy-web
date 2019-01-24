@@ -1,0 +1,16 @@
+<section id="content-blocks">
+    <div class="container">
+
+        <div class="row" id="content-blocks-row">
+
+            {% for item in site.data.content_blocks %}
+            <div class="col-md-3 col-sm-4" id="main-menu-button">
+                <div class="content-blocks-button">
+                    <a href={{item.url}}><img src="{{site.baseurl}}{{item.image}}" class="image-fade"/> <h2 class="content-blocks-text"> {{item.headline}}</h2> </a>
+                </div>
+            </div>
+            {% endfor %}
+
+        </div>
+    </div> <!-- container-->
+</section> <!-- section-->

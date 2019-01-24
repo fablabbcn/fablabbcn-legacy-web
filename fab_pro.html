@@ -12,7 +12,6 @@ layout: default
   </div> <!-- container -->
 </section> <!-- hero -->
 
-
 {% include social.html %}
 
 <div class="container" id="separator-pages-top"></div>
@@ -32,18 +31,11 @@ layout: default
         <p>¿Estás interesada o interesado en explorar enfoques innovadores para tu compañía, en el contexto de la economía circular, la fabricación digital, las metodologias de diseño, las políticas de desarrollo o la direccion creativa?<p> 
         <p>El equipo de Fab Lab Barcelona ofrece experiencias personalizadas, capacitación a medida y consultoría estratégica en cualquiera de nuestras sedes: Green Fab Lab en Valldaura, o Fab Lab Barcelona en el distrito maker del Poblenou. Nuestros diez años de experiencia como líderes dentro de la Fab Lab Network y el movimiento de fabricación digital harán de su próximo proyecto un referente en innovación.</p>
       </div>
-
       <div class="col-md-12" id="fabpro-our-clients">
         <h3>Some of our clients</h3>
-        <img src="{{site.baseurl}}/img/fabpro/clients-logo/client-ajuntament.png"/>
-        <img src="{{site.baseurl}}/img/fabpro/clients-logo/client-moritz.png"/>
-        <img src="{{site.baseurl}}/img/fabpro/clients-logo/client-endesa.png"/>
-        <img src="{{site.baseurl}}/img/fabpro/clients-logo/client-damm.png"/>
-        <img src="{{site.baseurl}}/img/fabpro/clients-logo/client-google.png"/>
-        <img src="{{site.baseurl}}/img/fabpro/clients-logo/client-illy.png"/>
-        <img src="{{site.baseurl}}/img/fabpro/clients-logo/client-cccb.png"/>
-        <img src="{{site.baseurl}}/img/fabpro/clients-logo/client-corona.png"/>
-        <img src="{{site.baseurl}}/img/fabpro/clients-logo/client-mit.png"/>
+        {% for item in site.data.fab-pro-clients %}
+        <img src="{{site.baseurl}}{{item.img}}"/>
+        {% endfor %}
       </div>
     </div>  <!-- row -->
   </div>  <!-- container -->

@@ -1,0 +1,167 @@
+- name: "multicam-2000"
+  image: /img/machines/machines_1.jpg
+  title: Multicam 2000
+  machineprops:
+    brand: Multicam
+    power: 400
+    work area: 1500mm x 3000mm
+    materials: wood (30mm), methacrylate or perspex (30mm), cardboard (40mm), paper, fabrics, non-PVC acrylics and other organic materials
+    file type: Autocad, JPG & BMP for rastering
+    applications: real scale project development such as furniture, structures etc.
+  use: FabLab Wiki
+  useurl: "http://wiki.fablabbcn.org/Multicam_Laser_Cutter"
+- name: "precix-11100"
+  image: /img/machines/machines_2.jpg
+  title: Milling machine – 3 axis Precix 11100 Series
+  machineprops:
+    brand: Precix
+    technology: 3 axis CNC milling machine with interchangeable rotary tool
+    power: 3hp
+    work area: 1500mm x 3000mm x 300mm
+    materials: Polyurethane foams, cork, wax, wood, MDF, soft materials that can be milled
+    file type: GC, CAM
+    applications: Milling of 3-D models, full scale furniture parts, molding and casting, architectural elements, etc.
+  use: FabLab Wiki
+  useurl: "http://wiki.fablabbcn.org/Precix_Milling"
+- name: "milling-shopbot"
+  image: /img/machines/machines_3.jpg
+  title: Milling machine –  3 axis ShopBot
+  machineprops:
+    brand: ShopBot
+    technology: Computerized numerical control (CNC) milling, 3 axis, interchangeable rotary tool
+    work area: 4270 x 2310 x 1730 mm
+    materials: Polyurethane foams, cork, wax, wood, MDF, soft materials that can be milled
+    file type: GC, CAM
+    applications: Milling of 3-D models, full scale furniture parts, molding and casting, architectural elements, etc.
+  use: FabLab Wiki
+  useurl: "http://wiki.fablabbcn.org/ShopBot"
+- name: "monofab-srm-20"
+  image: /img/machines/machines_14.jpg
+  title: Milling machine Monofab SRM 20
+  brand: Roland Monofab SRM 20
+  machineprops:
+    work area: 203.2 x 152.4 x 60.5 mm
+    materials: wood, plastics, HD foam, Wax, copper for circuits, etc.
+    applications: Jewellery, milling wax molds, copper circuits printing , scanning three-dimensional objects, etc.
+  use: ""
+  useurl: ""
+- name: "vinil-cutter"
+  image: /img/machines/machines_5.jpg
+  title: Vinyl cutter GX-24 Camm Servo
+  machineprops:
+    brand: Roland GX-24 camm-1 servo
+    technology: Precision blades
+    materials: Vinyl, Flexible Copper Paper, Cloth, plastic sheets and other materials
+    cut length: 25 m (max)
+    cut width: 50-700 mm
+    cut force: 30 to 250gf
+    applications: Signage, cutting flexible electronic circuits, cutting patterns, etc.
+  use: ""
+  useurl: ""
+- name: "epilog-xt-36"
+  image: /img/machines/machines_6.jpg
+  title: Laser cutter Epilog XT Legend 36 75w
+  machineprops:
+    brand: Epilog XT Legend 36
+    power: 100w
+    work area: 450mm x 950mm
+    materials: wood (5mm),  methacrylate or perspex (5mm), cardboard (8mm) , paper, fabrics, non-PVC acrylics and other organic materials
+    file type: Autocad, JPG, and BMP  for raster
+    applications: Signs, cutting pieces of models, raster, cut patterns, etc.
+  use: ""
+  useurl: ""
+- name: "trotec-speedy-100"
+  image: /img/machines/machines_7.jpg
+  title: Laser cutter Trotec Speedy 100
+  machineprops:
+    brand: Trotec Speedy 100
+    power: 12-60 watts
+    work area: 610 x 305 mm
+    materials: wood (5mm),  methacrylate or perspex (5mm), cardboard (8mm) , paper, fabrics, non-PVC acrylics and other organic materials
+    file type: Autocad, JPG, and BMP  for raster
+    applications: Signs, cutting pieces of models, raster, cut patterns, etc.
+  use: ""
+  useurl: ""
+- name: "trotec-speedy-400"
+  image: /img/machines/machines_8.jpg
+  title: Laser cutter Trotec Speedy 400
+  machineprops:
+    brand: Trotec Speedy 400
+    power: 40-120 watts
+    work area: 1000 x 610 mm
+    materials: wood (5mm),  methacrylate or perspex (5mm), cardboard (8mm) , paper, fabrics, non-PVC acrylics and other organic materials
+    file type: Autocad, JPG, and BMP  for raster
+    applications: Signs, cutting pieces of models, raster, cut patterns, etc.
+  use: ""
+  useurl: ""
+- name: "formlabs"
+  image: /img/machines/machines_9.jpg
+  title: 3D printer Formlabs
+  machineprops:
+    brand: Formlabs
+    dimensions: 125×125×165 mm
+    definition: 300 microns
+    materials: liquid photopolymer resin
+    file type: STL, OBJ
+    applications: Printing prototypes directly from 3D modeling, molding small objects, jewelry prototypes, etc.
+  use: ""
+  useurl: ""
+- name: "zcorp-z510"
+  image: /img/machines/machines_10.jpg
+  title: 3D printer Zcorp Z510
+  machineprops:
+    brand: ZCorp
+    technology: Manufacturing system by adding layers
+    volume: 200mm x 250mm x 350mm
+    materials: Special high resolution plaster , with binder
+    file type: STL, WRML, 3DS, ZPR
+    applications: Printing prototypes directly from 3D modeling, molding small objects, jewelry prototypes, etc.
+  use: ""
+  useurl: ""
+- name: "MakerBot"
+  image: /img/machines/machines_11.jpg
+  title: 3D printer MakerBot
+  machineprops:
+    brand: MakerBot Replicator 2
+    technology: Fused Deposition Modeling
+    volume: 285mm x 153mm x 155mm
+    definition: 100 microns
+    materials: PLA filament
+    file type: STL, OBJ, THING
+    applications: Printing prototypes directly from 3D modeling, molding small objects, jewelry prototypes, etc.
+  use: ""
+  useurl: ""
+- name: "Janome"
+  image: /img/machines/machines_12.jpg
+  title: Janome Digital Embroidery Machine
+  machineprops:
+    brand: Janome
+    technology: Digital embroidery system
+    work area: 240mm x 200mm
+    file type: EOF ( Embird), JEF, PTN, SEW
+    applications: Embroidery patterns on fabrics , bags , accessories, etc.
+  use: ""
+  useurl: ""
+- name: "6-axis"
+  image: /img/machines/machines_13.jpg
+  title: 6 Axis Robotic Arm
+  machineprops:
+    brand: Kuka Robots
+    model: KR 150 L110–2
+  use: ""
+  useurl: ""
+- name: "metal-welding"
+  image: /img/machines/machines_15.jpg
+  title: Metal & Welding Area
+  machineprops:
+    applications: Welding and cutting metal equipment
+  use: ""
+  useurl: ""
+- name: "vacuum-press"
+  image: /img/machines/machines_16.jpg
+  title: Vacuum Press
+  machineprops:
+    brand: Global GMP-S
+    model: KR 150 L110–2
+  use: ""
+  useurl: ""

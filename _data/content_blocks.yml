@@ -1,0 +1,36 @@
+- headline: Workshops
+  image: /img/menu/content_squares_workshops.jpg
+  url: "https://fablabbcn.org/events.html"
+- headline: Projects
+  image: /img/menu/content_squares_projects.jpg
+  url: "projects.html"
+- headline: Machines
+  image: /img/menu/content_squares_machines.jpg
+  url: "machines.html"
+- headline: Fab Pro
+  image: /img/menu/content_squares_fabpro.jpg
+  url: "fab_pro.html"
+- headline: Fab Academy
+  image: /img/menu/content_squares_fab_academy.jpg
+  url: "fab_academy_18.html"
+- headline: Fab Kids
+  image: /img/menu/content_squares_fabkids.jpg
+  url: "http://kids.fablabbcn.org/"
+- headline: Pop-Up Fab Lab
+  image: /img/menu/content_squares_popup_fablab.jpg
+  url: "popup_fab_lab.html"
+- headline: Fab Lab Visits
+  image: /img/menu/content_squares_open_days.jpg
+  url: "https://fablabbcn.org/open_days.html"
+- headline: IAAC Student Booking
+  image: /img/menu/content_squares_iaac_students.jpg
+  url: "http://fablabbcn.simplybook.me/index/about"
+- headline: Fab Labs Around The World
+  image: /img/menu/content_squares_fablab_world.jpg
+  url: "https://www.fablabs.io/labs/map"
+- headline: Gallery
+  image: /img/menu/content_squares_gallery.jpg
+  url: "https://www.instagram.com/fablabbcn/?hl=en"
+- headline: Fab City
+  image: /img/menu/content_squares_fab_city.jpg
+  url: "http://fab.city/"
