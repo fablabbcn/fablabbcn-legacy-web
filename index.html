@@ -41,51 +41,20 @@ meta: One of the leading laboratories of the worldwide network of Fab Labs
     <div id="carousel-fade" class="carousel slide carousel-fade" data-ride="carousel">
 
       <div class="carousel-inner">
-        <div class="item active">
-          <img id="slider-img" src="{{site.baseurl}}/img/hero_slider/a_slider_1.jpg" alt="...">
-          <div class="carousel-caption"></div>
-        </div> <!-- item -->
-
-        <div class="item">
-          <img id="slider-img" src="{{site.baseurl}}/img/hero_slider/a_slider_2.jpg" alt="...">
-          <div class="carousel-caption"></div>
-        </div> <!-- item -->
-
-        <div id="slider-img"  class="item">
-          <img src="{{site.baseurl}}/img/hero_slider/a_slider_3.jpg" alt="...">
-          <div class="carousel-caption"></div>
-        </div> <!-- item -->
-
-
-        <div id="slider-img"  class="item">
-          <img src="{{site.baseurl}}/img/hero_slider/a_slider_4.jpg" alt="...">
-          <div class="carousel-caption"></div>
-        </div> <!-- item -->
-
-        <div id="slider-img"  class="item">
-          <img src="{{site.baseurl}}/img/hero_slider/a_slider_5.jpg" alt="...">
-          <div class="carousel-caption"></div>
-        </div> <!-- item -->
+        {% include carousel-slider.html texts=site.data.carousel-slider %}
       </div> <!-- carousel-inner -->
-
 
       <div class="carousel-caption">
         <img id="main-logo" src="{{site.baseurl}}/img/logos/logo_fablab_bcn_medium_color.png"/>
         <br><br>
         <p>One of the leading laboratories of the worldwide network of Fab Labs</p>	
         <br>
-        <li>
-          <a target="_blank" href="https://www.facebook.com/FabLab.BCN"><i class="fa fa-facebook-square fa"></i></a>&nbsp;&nbsp;&nbsp;
-          <a target="_blank" href="https://twitter.com/fablabbcn"><i class="fa fa-twitter fa"></i></a>&nbsp;&nbsp;&nbsp;
-          <a target="_blank" href="https://vimeo.com/fablabbcn"><i class="fa fa-vimeo fa"></i></a>&nbsp;&nbsp;&nbsp;
-          <a target="_blank" href="https://picasaweb.google.com/103318428572698589743"><i class="fa fa-camera fa"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;
-          <a target="_blank" href="https://instagram.com/fablabbcn/"><i class="fa fa-instagram fa"></i></a>&nbsp;&nbsp;&nbsp;
-          <a target="_blank" href="http://wiki.fablabbcn.org/Main_Page"><i class="fa fa-book  fa"></i></a>&nbsp;&nbsp;&nbsp;
-          <a target="_blank" href="https://github.com/fablabbcn"><i class="fa fa-github fa"></i></a>
-        </li>
+        {% include social.html %}
       </div> <!-- carousel-caption -->
 
     </div> <!-- carousel-fade -->
+
+  </div> <!-- carousel-container -->
 
 </section> <!-- hero -->
 
@@ -110,139 +79,12 @@ meta: One of the leading laboratories of the worldwide network of Fab Labs
   </div> <!-- container -->
 </section> <!-- section -->
 
-<section id="content-blocks">
-  <div class="container">
-
-    <div class="row" id="content-blocks-row">
-
-      <div class="col-md-3 col-sm-4" id="main-menu-button">
-        <div class="content-blocks-button">
-          <a href="https://fablabbcn.org/events.html"><img src="{{site.baseurl}}/img/menu/content_squares_workshops.jpg" class="image-fade"/> <h2 class="content-blocks-text"> Workshops</h2> </a>
-        </div>
-      </div>
-
-      <div class="col-md-3 col-sm-4" id="main-menu-button">
-        <div class="content-blocks-button">
-          <a href="projects.html"><img src="{{site.baseurl}}/img/menu/content_squares_projects.jpg" class="image-fade"/> <h2 class="content-blocks-text"> Projects</h2>
-          </a>
-        </div>
-      </div>
-
-      <div class="col-md-3 col-sm-4" id="main-menu-button">
-        <div class="content-blocks-button">
-          <a href="machines.html"><img src="{{site.baseurl}}/img/menu/content_squares_machines.jpg" class="image-fade"/> <h2 class="content-blocks-text"> Machines</h2></a>
-        </div>
-      </div>
-
-      <div class="col-md-3 col-sm-4" id="main-menu-button">
-        <div class="content-blocks-button">
-          <a href="fab_pro.html"><img src="{{site.baseurl}}/img/menu/content_squares_fabpro.jpg" class="image-fade"/> <h2 class="content-blocks-text"> Fab Pro</h2></a>
-        </div>
-      </div>
-
-      <div class="col-md-3 col-sm-4" id="main-menu-button">
-        <div class="content-blocks-button">
-          <a href="fab_academy_18.html"><img src="{{site.baseurl}}/img/menu/content_squares_fab_academy.jpg" class="image-fade"/> <h2 class="content-blocks-text"> Fab Academy </h2></a>
-        </div>
-      </div>
-
-      <div class="col-md-3 col-sm-4" id="main-menu-button">
-        <div class="content-blocks-button">
-          <a href="http://kids.fablabbcn.org/"><img src="{{site.baseurl}}/img/menu/content_squares_fabkids.jpg" class="image-fade"/> <h2 class="content-blocks-text"> Fab Kids </h2></a>
-        </div>
-      </div>
-
-      <div class="col-md-3 col-sm-4" id="main-menu-button">
-        <div class="content-blocks-button">
-          <a href="popup_fab_lab.html"><img src="{{site.baseurl}}/img/menu/content_squares_popup_fablab.jpg" class="image-fade"/> <h2 class="content-blocks-text"> Pop-Up Fab Lab </h2></a>
-        </div>
-      </div>
-
-      <div class="col-md-3 col-sm-4" id="main-menu-button">
-        <div class="content-blocks-button">
-          <a target="_blank" href="https://fablabbcn.org/open_days.html"><img src="{{site.baseurl}}/img/menu/content_squares_open_days.jpg" class="image-fade"/> <h2 class="content-blocks-text"> Fab Lab Visits</h2></a>
-        </div>
-      </div>
-
-      <div class="col-md-3 col-sm-4" id="main-menu-button">
-        <div class="content-blocks-button">
-          <a target="_blank" href="http://fablabbcn.simplybook.me/index/about"><img src="{{site.baseurl}}/img/menu/content_squares_iaac_students.jpg" class="image-fade"/> <h2 class="content-blocks-text"> IAAC Student Booking</h2></a>
-        </div>
-      </div>
-
-
-      <div class="col-md-3 col-sm-4" id="main-menu-button">
-        <div class="content-blocks-button" id="fab-labs-world">
-          <a target="_blank" href="https://www.fablabs.io/labs/map"><img src="{{site.baseurl}}/img/menu/content_squares_fablab_world.jpg" class="image-fade"/> <h2 class="content-blocks-text"> Fab Labs Around The World</h2>
-          </a>
-        </div>
-      </div>
-
-      <div class="col-md-3 col-sm-4" id="main-menu-button"> 
-        <div class="content-blocks-button">
-          <a target="_blank" href="https://www.instagram.com/fablabbcn/?hl=en"><img src="{{site.baseurl}}/img/menu/content_squares_gallery.jpg" class="image-fade"/> <h2 class="content-blocks-text"> Gallery</h2></a>
-        </div>
-      </div>
-
-      <div class="col-md-3 col-sm-4" id="main-menu-button">
-        <div class="content-blocks-button">
-          <a target="_blank" href="http://fab.city/"><img src="{{site.baseurl}}/img/menu/content_squares_fab_city.jpg" class="image-fade"/> <h2 class="content-blocks-text"> Fab City</h2>
-          </a>
-        </div>
-      </div>
-
-    </div>
-  </div> <!-- container-->
-</section> <!-- section-->
+{% include content_blocks.html texts=site.data.content_blocks %}
 
 <div class="container">
   <div id="separator"></div>
 </div>
 
-<section id="collaborations">
-  <div class="container">
-    <div class="row">
-
-      <div class="col-md-3 col-sm-2" id="collaborations-text">
-        <h2>Collaborators</h2>
-        <br>
-      </div> <!-- col -->
-
-      <div class="col-md-1 col-sm-1 col-xs-1"></div>
-
-      <div class="col-md-7 col-sm-9 col-xs-12">
-        <div class="row">
-          <div class="col-md-3 col-sm-3 col-xs-6" >
-            <a target="_blank" href="http://cba.mit.edu/"><img src="{{site.baseurl}}/img/collaborations/collab_cba.png"/></a>
-          </div>
-          <div class="col-md-3 col-sm-3 col-xs-6" >
-            <a target="_blank" href="http://ajuntament.barcelona.cat"><img src="{{site.baseurl}}/img/collaborations/collab_adjuntament.png"/></a>
-          </div>
-          <div class="col-md-3 col-sm-3 col-xs-6" >
-            <a target="_blank" href="www.fabfoundation.org"><img src="{{site.baseurl}}/img/collaborations/collab_fab_foundation.png"/></a>
-          </div>
-          <div class="col-md-3 col-sm-3 col-xs-6" >
-            <a target="_blank" href="http://ec.europa.eu/index_en.htm"><img src="{{site.baseurl}}/img/collaborations/collab_european_com.png"/></a>
-          </div>
-        </div> <!-- row -->
-
-        <hr>
-
-        <div class="row">
-          <div class="col-md-2 col-sm-2 col-xs-6" >
-            <a target="_blank" href="http://organicity.eu/"><img src="{{site.baseurl}}/img/collaborations/collab_organicity.png"/></a>
-          </div>
-          <div class="col-md-2 col-sm-2 col-xs-6" >
-            <a target="_blank" href="http://www.madeat.eu/"><img src="{{site.baseurl}}/img/collaborations/collab_made_eu.png"/></a>
-          </div>
-          <div class="col-md-2 col-sm-2 col-xs-6" >
-            <a target="_blank" href="http://www.eastn.eu/"><img src="{{site.baseurl}}/img/collaborations/collab_eastn.png"/></a>
-          </div>
-        </div>
-      </div> <!-- col -->
-    </div> <!-- row -->
-
-  </div> <!-- container-->
-</section> <!-- section-->
+{% include collaborators.html texts=site.data.collaborators %}
 
 {% include footer.html %}

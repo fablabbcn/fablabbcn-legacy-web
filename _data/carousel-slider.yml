@@ -1,0 +1,10 @@
+- class: "item active"
+  image: /img/hero_slider/a_slider_1.jpg
+- class: "item"
+  image: /img/hero_slider/a_slider_2.jpg
+- class: "item"
+  image: /img/hero_slider/a_slider_3.jpg
+- class: "item"
+  image: /img/hero_slider/a_slider_4.jpg
+- class: "item"
+  image: /img/hero_slider/a_slider_5.jpg

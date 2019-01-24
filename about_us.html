@@ -14,9 +14,13 @@ layout: default
   </div> <!-- container -->
 </section> <!-- hero -->
 
-
-{% include social.html %}
-
+<section id="pages-social">
+    <div class="container" id="pages-social-icons">
+        <li>
+            {% include social.html %}
+        </li>
+    </div>
+</section>
 
 <div class="container" id="separator-pages-top"></div>
 
@@ -52,33 +56,7 @@ layout: default
 
 <div class="container" id="separator"></div>
 
-<section id="about-us-menu">
-  <div class="container">
-    <div class="row" id="about-us-menu-row-1">
-      <div class="col-md-4">
-        <a href="fab_academy.html" class="btn btn-default btn-lg btn-block"><h4>Fab Academy</h4></a>
-      </div>
-      <div class="col-md-4">
-        <a href="fab_pro.html" class="btn btn-default btn-lg btn-block"><h4>Fab Pro</h4></a>
-      </div>
-      <div class="col-md-4">
-        <a href="fab_kids.html" class="btn btn-default btn-lg btn-block"><h4>Fab Kids</h4></a>
-      </div>
-    </div> <!-- row -->
-
-    <div class="row" id="about-us-menu-row-2">
-      <div class="col-md-4">
-        <a href="#" class="btn btn-default btn-lg btn-block"><h4>Pop-up Fab Lab</h4></a>
-      </div>
-      <div class="col-md-4">
-        <a target="blank" href="https://fablabbcn.org/open_days.html" class="btn btn-default btn-lg btn-block"><h4>Fab Lab Visits</h4></a>
-      </div>
-      <div class="col-md-4">
-        <a href="http://fab.city/" class="btn btn-default btn-lg btn-block"><h4>Fab City</h4></a>
-      </div>
-    </div> <!-- row -->
-  </div> <!-- container -->
-</section> <!-- about us menu -->
+{% include about_us_menu.html texts=site.data.about_us_menu %}
 
 <div class="container" id="separator"></div>
 
@@ -108,7 +86,6 @@ layout: default
   </div> <!-- container-->
 </section> <!-- section-->
 
-
 <div class="container" id="separator"></div>
 
 <section id="team">
@@ -119,27 +96,7 @@ layout: default
         <h3>Fab Lab Barcelona team</h3>
       </div>
       <!-- If you need to add or remove an employee, it is done in this repos _data/employees.yml file! -->
-      <div class="text-center all-employees">
-        {% for item in site.data.employees %}
-        <div class="col-sm-6 col-md-4 col-lg-3 team-item">
-          <img style="max-width:150px;" class="img-circle" src="{{ item.image }}" alt="">
-          <h4> {{ item.name }} </h4>
-          <p>{{item.title}}</p>
-
-          <div class="team-social">
-            {% if item.fb %}
-            <a style="color:black; padding:7px;" target="_blank" href="{{item.fb}}"><i class="fa fa-facebook-square fa-lg"></i></a>
-            {% endif %}
-            {% if item.twitter %}
-            <a style="color:black; padding:7px;" target="_blank" href="{{item.twitter}}"><i class="fa fa-twitter fa fa-lg"></i></a>
-            {% endif %}
-            {% if item.linkedin %}
-            <a style="color:black; padding:7px;" target="_blank" href="{{item.linkedin}}"><i class="fa fa-linkedin-square fa-lg"></i></a>
-            {% endif %}
-          </div>
-        </div>
-        {% endfor %}
-      </div>
+      {% include employees.html texts=site.data.employees %}
 
     </div> <!-- row -->
   </div> <!-- container -->

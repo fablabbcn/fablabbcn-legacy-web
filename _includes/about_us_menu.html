@@ -1,0 +1,25 @@
+<section id="about-us-menu">
+    <div class="container">
+        <div class="row" id="about-us-menu-row-1">
+
+            {% for item in site.data.about_us_menu %}
+            {% if item.row == 1 %}
+            <div class="col-md-4">
+                <a href={{item.url}} class="btn btn-default btn-lg btn-block"><h4>{{item.label}}</h4></a>
+            </div>
+            {% endif %}
+            {% endfor %}
+        </div> <!-- row -->
+
+        <div class="row" id="about-us-menu-row-2">
+
+            {% for item in site.data.about_us_menu %}
+            {% if item.row == 2 %}
+            <div class="col-md-4">
+                <a href={{item.url}} class="btn btn-default btn-lg btn-block"><h4>{{item.label}}</h4></a>
+            </div>
+            {% endif %}
+            {% endfor %}
+        </div> <!-- row -->
+    </div> <!-- container -->
+</section> <!-- about us menu -->

@@ -1,0 +1,21 @@
+<div class="text-center all-employees">
+    {% for item in site.data.employees %}
+    <div class="col-sm-6 col-md-4 col-lg-3 team-item">
+        <img style="max-width:150px;" class="img-circle" src="{{ item.image }}" alt="">
+        <h4> {{ item.name }} </h4>
+        <p>{{item.title}}</p>
+
+        <div class="team-social">
+            {% if item.fb %}
+            <a style="color:black; padding:7px;" target="_blank" href="{{item.fb}}"><i class="fa fa-facebook-square fa-lg"></i></a>
+            {% endif %}
+            {% if item.twitter %}
+            <a style="color:black; padding:7px;" target="_blank" href="{{item.twitter}}"><i class="fa fa-twitter fa fa-lg"></i></a>
+            {% endif %}
+            {% if item.linkedin %}
+            <a style="color:black; padding:7px;" target="_blank" href="{{item.linkedin}}"><i class="fa fa-linkedin-square fa-lg"></i></a>
+            {% endif %}
+        </div>
+    </div>
+    {% endfor %}
+</div>
