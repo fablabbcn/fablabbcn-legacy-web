@@ -16,7 +16,7 @@
                     {% for item in site.data.collaborators %}
                     {% if item.place == "above" %}
                     <div class="col-md-3 col-sm-3 col-xs-6" >
-                        <a target="_blank" href={{item.url}}><img src="{{item.logo}}"/></a>
+                        <a target="_blank" href={{item.url}}><img src="{{site.baseurl}}{{item.logo}}"/></a>
                     </div>
                     {% endif %}
                     {% endfor %}
@@ -28,7 +28,7 @@
                     {% for item in site.data.collaborators %}
                     {% if item.place == "below" %}
                     <div class="col-md-2 col-sm-2 col-xs-6" >
-                        <a target="_blank" href={{item.url}}><img src="{{item.logo}}"/></a>
+                        <a target="_blank" href={{item.url}}><img src="{{site.baseurl}}{{item.logo}}"/></a>
                     </div>
                     {% endif %}
                     {% endfor %}

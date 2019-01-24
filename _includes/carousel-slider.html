@@ -1,6 +1,6 @@
 {% for item in site.data.carousel-slider %}
 <div class="{{item.class}}">
-    <img id="slider-img" src="{{item.image}}" alt="...">
+    <img id="slider-img" src="{{site.baseurl}}{{item.image}}" alt="...">
     <div class="carousel-caption"></div>
 </div> <!-- item -->
 {% endfor %}
