@@ -1,5 +1,5 @@
 {% for item in site.data.carousel-slider %}
-<div class="{{item.class}}">
+<div class="carousel-item {% if forloop.first == true %}active{% endif %}">
     <img id="slider-img" src="{{site.baseurl}}{{item.image}}" alt="...">
     <div class="carousel-caption"></div>
 </div> <!-- item -->
