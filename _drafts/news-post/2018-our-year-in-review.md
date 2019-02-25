@@ -1,56 +1,43 @@
 ---
 layout: blog_post
-meta: As 2018 comes to an end, we’re getting a little nostalgic thinking about the
-  year that was. Filled with achievements, challenges, beginnings and milestones -
-  2018 has been another exciting chapter for Fab Lab Barcelona.
-title: 2018 - Our Year in Review
+meta: 'The students of the MDEF [Master of Design for Emergent Futures] have seen
+  the Future. The changemakers undertook an inspiring study-trip in January spending
+  two weeks fully immersed in China. The reputation of China as a cheap manufacturer
+  of unethical clutter isn’t exactly in line with the brief of the Master in Design
+  for Emergent Futures but the students instead went to explore another side to the
+  myth that China is simply an endless stream of plastic. '
+title: The Story of MDEF Made in China
 type: blog
 author: Kate Armstrong
-date: 2018-12-29 23:00:00 +0000
+date: 2019-02-24 23:00:00 +0000
 category:
 - news
-teaserlatest: "/uploads/Infography(newsletter)corrected-small.png"
-teaserlist: "/uploads/Infography(newsletter)corrected-small.png"
+teaserlatest: "/uploads/IMG_20190115_210626.jpg"
+teaserlist: "/uploads/IMG_20190115_210626.jpg"
 
 ---
-##### Happy New Year! As 2019 dawns, we’re getting a little nostalgic thinking about the year that was. Filled with achievements, challenges, beginnings and milestones - 2018 was another exciting chapter for Fab Lab Barcelona.
+![](/uploads/IMG_20190115_210626.jpg)
 
-![](/uploads/Infography(newsletter)corrected-small.png)
+# The Story of MDEF Made in China
 
-#### Digital Champions!
+##### The students of the MDEF \[Master of Design for Emergent Futures\] have seen the Future. The changemakers undertook an inspiring study-trip in January spending two weeks fully immersed in China. The reputation of China as a cheap manufacturer of unethical clutter isn’t exactly in line with the brief of the Master in Design for Emergent Futures but the students instead went to explore another side to the myth that China is simply an endless stream of plastic. 
 
-Fab Lab Barcelona at IAAC was selected amongst top [**100 Digital Champions**](https://www.ft.com/content/6d68a236-e153-11e8-8e70-5e22a430c1ad) by The Financial Times! We are honoured to be included and will continue using #TechForGood together with other digital champions! One of our favourite #TechForGood moments from 2018 came from the #ambmakers program run by our Future Learning Unit in collaboration with Fundació Pere Tarrés, Barcelona Ciutat Digital and Micro:bit Educational Foundation. Young people [made a low-tech device ](https://twitter.com/FutureLearningU/status/1062623312365400065)for their grandparents which alerted family members in the case of a fall!
+They went to see ‘The City of the Future’, Shenzhen, one of the most vibrant cities in terms of digital innovation, smart cities, agile and open source manufacturing, and the 21st century manifestation of fast growth. Shenzhen is a maker-playground and hardware super-haven that oozes China’s open source philosophy as part of the innovation culture and shows a unique capacity to rapidly scale anything. Open, collaborative and fast are definitely in the DNA of this unique Masters programme. During the last 40 years, the city has experienced the accelerated development of economic activity and population. From a population of 30,000 in the early 1970s, the city has grown to over 10 million, with gleaming high-rises, a modern transport system, and world-class retail. Stimulated by national policy Shenzhen has become a prototype city of the future.
 
-#### Research and Innovation
+![](/uploads/IMG_20190109_165605 (1).jpg "Wechat")
 
-It’s been another epic year for **10 EU projects** currently open at Fab Lab Barcelona, with research & development ranging from agricultural robotics to distributed platforms for design! **DSISCALE, DECODE, Do-It, Organicity, SISCODE, Grow Observatory, ROMI, Make-It, TCBL, DDMP** & **IScape!**
+Back in Fab Lab Barcelona, we followed the journey from a distance over social media: fitting given that our devices probably came from Shenzhen - nicknamed the ‘Silicon Valley of Hardware’ because it manufactures 70% of the world’s mobile phones. Co-Directors Tomas Diez (Fab Lab Barcelona) and Oscar Tomico (ELISAVA) WeChatted us pictures of the group meeting with course partners Seeed Studio, learning ‘Future Skills’ at innovation centre SZOIL, taking an Urban Village tour and for additional FOMO, eating Chinese hot-pot dinner and taking famous foot massage for their tired feet. It was clear that the experience had taken the students on a locals-only look inside the complex and vibrant city which is developing its ambitions to be a sustainable manufacturing ecosystem supported by makers.
 
-**Made@EU** which was coordinated by Fab Lab Barcelona at IAAC from 2014 - 2016 has been granted the title of [Creative Europe Success Story!](http://ec.europa.eu/programmes/creative-europe/projects/ce-project-details/#project/552170-CREA-1-2014-1-ES-CULT-COOP1) "Success stories" are finalised projects that have distinguished themselves by their impact, contribution to policy-making, innovative results and/or creative approach and can be a source of inspiration for others.
+![](/uploads/MVIMG_20190114_185004.jpg)
 
-![Making Sense toolkit](/uploads/40841347272_7c303df8fb_z.jpg "Making Sense")
+### A world away, yet close to home.
 
-**The Making Sense** project funded under the H2020 European Union fund from 2015 - 2017, has been [recognised for excellence](https://starts-prize.aec.at/en/making-sense-citizen-sensing-toolkit/) with an honorary mention at the 2018 STARTS prize: the grand prize of the European Commission honoring Innovation in Technology, Industry and Society stimulated by the Arts. The [easy-to-install toolkit ](http://making-sense.eu/publication_categories/toolkit/)developed in collaboration with the Smart Citizen Kit was recognised as part of the honour. The Making Sense documentary [‘Citizen Science Revolution’](https://www.youtube.com/watch?v=hvn5LyACUYw) was also released earlier this year in collaboration with Playground.
+The MDEF program was born out of a need to answer a series of ‘whys’ that most traditional design education does not yet address. What in the world needs to be designed? What is the role of design in shaping the future? How can we apply design principals to better understand the complexity of product life cycles, material provenance and means of production? Program Co-Director Tomas Diez explains; ‘AI, synthetic biology, blockchain and art have the capacity to change the world and reshape the economy in a similar way that the print press did 500 years ago. However in order to unleash this potential, we need to rethink the type of economy we want to live in.’ Is this the role of design? "We believe it is." MDEF encourages students to rethink the type of economy they want to live and emphasises the importance of a critical design approach. “At the end of the MDEF program, students will create a solid proposal of an intervention that they want to put out in the world to make change.” MDEF does not only teach the methods and means of this 21st century approach to design, but also encourages students to critically reflect on their position as a person, as a designer, a member community and as part of our planet.
 
-#### **Educating for our future**
+This criticality is what drives students to be a hybrid profile, that is interdisciplinary and suited to this complex world of ever-changing tech, culture and possibilities. MDEF is interested in providing people with the whole mindset of a designer capable of developing products that shape the future.
 
-[Fab Academy](https://fablabbcn.org/fab_academy_18.html) had it’s 9th year of making (almost) anything this year, culminating in the students being awarded their certifications at the Fab 14 conference in Toulouse, France. The faculty is looking forward to welcoming new students to #MakeYourJob in 2019 - the 10th year of Fab Academy Barcelona!
+![](/uploads/IMG_20190109_165731 (1).jpg)
 
-This past year IAAC also pioneered the [Master in Design for Emergent Futures! ](https://iaac.net/educational-programmes/masters-programmes/master-in-design-for-emergent-futures-mdef/)25 Students from 16 countries joined faculty from Fab Lab Barcelona and acquired the skills to transform them into future change agents. At the beginning of their second year the students will take a research trip to Shenzhen, China!
+If you recognize yourself as a future change agent and want to address some of the biggest challenges of our planet, join us: [https://iaac.net/educational-programmes/masters-programmes/master-in-design-for-emergent-futures-mdef/](https://iaac.net/educational-programmes/masters-programmes/master-in-design-for-emergent-futures-mdef/ "https://iaac.net/educational-programmes/masters-programmes/master-in-design-for-emergent-futures-mdef/")
 
-![MDEF Students learn the basics in Biology Zero class](/uploads/fullsizeoutput_3cc.jpeg "MDEF Biology Zero class")Do you believe innovation is necessary in our ever changing world? See the [video teaser ](https://youtu.be/nsv7OzujbLE)here and join the 2019 intake - [applications are NOW open](https://iaac.net/educational-programmes/masters-programmes/master-in-design-for-emergent-futures-mdef/)!
-
-#### **Fab City Milestones**
-
-**Fab City Global Initiative** had a HUGE year with a [summit](https://summit.fabcity.paris/), [**book launch**](https://www.peecho.com/checkout/154028456915119538/457294/fab-city-the-mass-distributed-of-almost-everything), new [website ](www.fab.city)and the birth of the [**Fab City Foundation**](https://blog.fab.city/fab-foundation-launch-in-e-estonia-4ece89d8ff5a)**!** The 28 Fab Cities together with 1st Fab City Barcelona say YES to becoming self sufficient by 2054.
-
-![](/uploads/41656212660_a053866874_z.jpg)
-
-#### **Growing our team**
-
-FabLab Bcn Team was expanded this year with nine new Fab Family members joining the team! We're always welcoming new faces to the team for [internships](https://fablabbcn.org/work_with_us.html) too.
-
-#### **Growing our community**
-
-This year we welcomed thousands of visitors to Fab Lab BCN; from the Mayor of Seoul to a hugely successful Poblenou Open Night where over 2000 visitors made something instead of buying during Black Friday for [**MakeSmthng Week**](https://medium.com/@makesmthng/lets-makechangenow-9ae6ef461894) in collaboration with Greenpeace Spain, Greenpeace International, Fab City Global Initiative. We co-produced Maker Faire with SokoTech and Sonar Festival for another year, solidifying the maker narrative in the cultural field of Barcelona.
-
-##### A big happy holidays to all our friends, collaborators and Fab followers. Looking forward to 2019 to make more of anything with you all!
+IAAC scholarship opportunities are open until 28 February 2019
