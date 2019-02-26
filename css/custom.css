@@ -185,21 +185,24 @@ iframe {
 /* ==== Navigation =============================================================  Navigation =============== */
 
 .navbar{
-	background-color: rgba(0, 0, 0, 0.87);
+	background-color: black;
 	color: white;
 }
 .navbar a{
 	color: white;
 }
 
-.dropdown-menu {
-    background-color: rgba(0, 0, 0, 0.87);
-    background-clip: padding-box;
-    border: 1px solid rgba(0, 0, 0, 0.15);
-    border-radius: 2px;
-    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.176);
+.navbar a:hover{
+	background-color: black;
 }
 
+.dropdown-menu {
+	background-color: black;
+}
+
+.dropdown-item:hover{
+	color: grey;
+}
 /* ======= collaborations ======== */
 
 

@@ -1,14 +1,11 @@
-<nav class="navbar navbar-expand-lg navbar-inverse fixed-top" role="navigation">
-    <div class="container">
-      <div>
-        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target=".navbar-collapse">
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top" role="navigation">
+        <a class="navbar-brand" href="http://fablabbcn.org/"><img src="{{site.baseurl}}/img/logos/logo_fablab_bcn_small.png" alt="Fab Lab"></a>
+        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
           <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
+          <span class="navbar-toggler-icon"></span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="http://fablabbcn.org/"><img src="{{site.baseurl}}/img/logos/logo_fablab_bcn_small.png" alt="Fab Lab"></a>
-      </div> <!-- navbar-header -->
 
       <div class="navbar-collapse collapse">
 
@@ -18,25 +15,25 @@
 
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">What We Do</a>
-            <ul class="dropdown-menu">
-              <li class="dropdown-item {% if page.url == '/workshops.html' %}active{% endif %}"><a href="{{site.baseurl}}/events.html">Workshops</a></li>
-              <li class="dropdown-item {% if page.url == '/projects.html' %}active{% endif %}"><a href="{{site.baseurl}}/projects.html">Projects</a></li>
-              <li class="dropdown-item {% if page.url == '/machines.html' %}active{% endif %}"><a href="{{site.baseurl}}/machines.html">Machines</a></li>
-              <li class="dropdown-item {% if page.url == '/fab_academy.html' %}active{% endif %}"><a href="{{site.baseurl}}/fab_academy_18.html">Fab Academy</a></li>
-              <li class="dropdown-item {% if page.url == '/fab_academy.html' %}active{% endif %}"><a href="https://iaac.net/educational-programmes/masters-programmes/master-in-design-for-emergent-futures-mdef/">Master in Design for Emergent Futures</a></li>
-              <li class="dropdown-item {% if page.url == '/fab_academy.html' %}active{% endif %}"><a target="_blank" href="http://bio.academany.org/">HTGAA</a></li>
-              <li class="dropdown-item {% if page.url == '/fab_academy.html' %}active{% endif %}"><a target="_blank" href="https://iaac.net/educational-programmes/masters-programmes/master-advanced-architecture/">Master in Advanced Architecture</a></li>
-              <li class="dropdown-item {% if page.url == '/fab_academy.html' %}active{% endif %}"><a target="_blank" href="https://iaac.net/educational-programmes/masters-programmes/master-in-city-technology/">Master in City and Technology</a></li>
-              <li class="dropdown-item {% if page.url == '/fab_academy.html %}active{% endif %}"><a href="{{site.baseurl}}/fabricademy_18.html">Fabricademy</a></li>
-              <li class="dropdown-item {% if page.url == '/fab_pro.html' %}active{% endif %}"><a href="{{site.baseurl}}/fab_pro.html">Fab Pro</a></li>
-              <li class="dropdown-item {% if page.url == '/fab_kids.html' %}active{% endif %}"><a href="http://kids.fablabbcn.org/">Fab Kids</a></li>
-              <li class="dropdown-item {% if page.url == '/popup_fab_lab.html' %}active{% endif %}"><a href="{{site.baseurl}}/popup_fab_lab.html">Pop Up Fab Lab</a></li>
-              <li class="dropdown-item {% if page.url == '/open_days.html' %}active{% endif %}"><a target="_blank" href="{{site.baseurl}}/open_days.html">Visits</a></li>
-              <li role="separator" class="dropdown-divider"></li>
-              <li class="dropdown-item"><a target="_blank" href="https://iaac.simplybook.it/v2/">IAAC Student Booking</a></li>
-              <li role="separator" class="dropdown-divider"></li>
-              <li class="dropdown-item"><a target="_blank" href="https://www.fablabs.io/map">Fab Labs Around the World</a></li>
-            </ul>
+            <div class="dropdown-menu">
+              <a class="dropdown-item {% if page.url == '/workshops.html' %}active{% endif %}" href="{{site.baseurl}}/events.html">Workshops</a>
+              <a class="dropdown-item {% if page.url == '/projects.html' %}active{% endif %}" href="{{site.baseurl}}/projects.html">Projects</a>
+              <a class="dropdown-item {% if page.url == '/machines.html' %}active{% endif %}" href="{{site.baseurl}}/machines.html">Machines</a>
+              <a class="dropdown-item {% if page.url == '/fab_academy.html' %}active{% endif %}" target="_blank" href="{{site.baseurl}}/fab_academy_18.html">Fab Academy</a>
+              <a class="dropdown-item {% if page.url == '/fab_academy.html' %}active{% endif %}" target="_blank" href="https://iaac.net/educational-programmes/masters-programmes/master-in-design-for-emergent-futures-mdef/">Master in Design for Emergent Futures</a>
+              <a class="dropdown-item {% if page.url == '/fab_academy.html' %}active{% endif %}" target="_blank" href="http://bio.academany.org/">HTGAA</a>
+              <a class="dropdown-item {% if page.url == '/fab_academy.html' %}active{% endif %}" target="_blank" href="https://iaac.net/educational-programmes/masters-programmes/master-advanced-architecture/">Master in Advanced Architecture</a>
+              <a class="dropdown-item {% if page.url == '/fab_academy.html' %}active{% endif %}" target="_blank" href="https://iaac.net/educational-programmes/masters-programmes/master-in-city-technology/">Master in City and Technology</a>
+              <a class="dropdown-item {% if page.url == '/fab_academy.html %}active{% endif %}" href="{{site.baseurl}}/fabricademy_18.html">Fabricademy</a>
+              <a class="dropdown-item {% if page.url == '/fab_pro.html' %}active{% endif %}" href="{{site.baseurl}}/fab_pro.html">Fab Pro</a>
+              <a class="dropdown-item {% if page.url == '/fab_kids.html' %}active{% endif %}" href="http://kids.fablabbcn.org/">Fab Kids</a>
+              <a class="dropdown-item {% if page.url == '/open_days.html' %}active{% endif %}" target="_blank" href="{{site.baseurl}}/open_days.html">Visits</a>
+              <a role="separator" class="dropdown-divider">
+              <a class="dropdown-item" target="_blank" href="https://iaac.simplybook.it/v2/">IAAC Student Booking</a>
+              <a role="separator" class="dropdown-divider">
+              <a class="dropdown-item" target="_blank" href="https://www.fablabs.io/map">Fab Labs Around the World</a>
+              <a class="dropdown-item {% if page.url == '/popup_fab_lab.html' %}active{% endif %}" href="{{site.baseurl}}/popup_fab_lab.html">Pop Up Fab Lab</a>
+            </div>
           </li>
 
           <li class="nav-item {% if page.url == '/calendar.html' %}active{% endif %}"><a class="nav-link" href="{{site.baseurl}}/calendar.html">Calendar</a></li>
@@ -45,40 +42,28 @@
 
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Learn</a>
-            <ul class="dropdown-menu">
-              <li class="dropdown-item"><a href="{{site.baseurl}}/fab_academy.html">Fab Academy</a></li>
-              <li class="dropdown-item"><a href="https://iaac.net/educational-programmes/masters-programmes/master-in-design-for-emergent-futures-mdef/">MDEF</a></li>
-              <li class="dropdown-item"><a href="{{site.baseurl}}/fabricademy_18.html">Fabricademy</a></li>
-              <li class="dropdown-item"><a href="#">Bootcamps</a></li>
+            <div class="dropdown-menu">
+              <a class="dropdown-item" href="{{site.baseurl}}/fab_academy.html">Fab Academy</a>
+              <a class="dropdown-item"href="https://iaac.net/educational-programmes/masters-programmes/master-in-design-for-emergent-futures-mdef/">MDEF</a>
+              <a class="dropdown-item" href="{{site.baseurl}}/fabricademy_18.html">Fabricademy</a>
+              <a class="dropdown-item" href="#">Bootcamps</a>
               <!--<li><a tabindex="-1" href="{{site.baseurl}}/workshops.html">Workshops</a></li>-->
-            </ul> <!-- dropdown-menu-->
+            </div> <!-- dropdown-menu-->
           </li>
 
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Join Us</a>
-            <ul class="dropdown-menu">
-
-              <li class="dropdown-item"><a href="{{site.baseurl}}/open_days.html">Visit</a></li>
-
-              <li class="dropdown-item">
-                <a href="{{site.baseurl}}/work_with_us.html">Work with us</a>
-              </li>
-
-              <li class="dropdown-item">
-                <a href="{{site.baseurl}}/popup_fab_lab.html">Pop Up Fab Lab</a>
-                <!--<ul class="dropdown-menu">
-                  <li class="dropdown-item"><a tabindex="-1" href="{{site.baseurl}}/popup_fab_lab.html">Pop Up Fab Lab</a></li>
-                </ul> <!-- dropdown-menu-->
-              </li> <!-- dropdown-submenu -->
-
-            </ul> <!-- dropdown-menu multi-level -->
-          </li> <!-- dropdown -->
+            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Join Us</a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item" href="{{site.baseurl}}/open_days.html">Visit</a>
+              <a class="dropdown-item" href="{{site.baseurl}}/work_with_us.html">Work with us</a>
+              <a class="dropdown-item" href="{{site.baseurl}}/popup_fab_lab.html">Pop Up Fab Lab</a>
+            </div>
+          </li>
 
           <li class="nav-item {% if page.url == '/contact.html' %}active{% endif %}"><a class="nav-link" href="{{site.baseurl}}/contact.html">Contact</a></li>
           <li class="nav-item"><a class="nav-link" href="https://github.com/fablabbcn/fablabbcn-web/blob/master/{{page.path}}">Help us fix this page!</a></li>
         </ul><!-- nav navbar-nav navbar-right -->
       </div><!-- navbar-collapse collapse -->
 
-    </div><!-- container -->
   </nav><!-- navbar navbar-inverse navbar-fixed-top-->
 
