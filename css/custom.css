@@ -795,13 +795,6 @@ iframe {
 }
 
 
-.well {
-	background-color: #f3f3f3;
-	border-radius: 2px;
-    margin-left: 15px;
-    box-shadow: none;
-}
-
 .pager li > a {
 	font-size: 1.3em;
 	border-radius: 2px;
