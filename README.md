@@ -1,7 +1,7 @@
 # fablabbcn-web
 This is the repo for the [FabLabBCN website](https://fablabbcn.org)
 
-## Facts
+## Info
 * This page is hosted on Github Pages 
 * Every git commit to the repository will automatically go to the live page (within a minute)
 * Github Pages uses Jekyll
