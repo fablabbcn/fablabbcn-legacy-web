@@ -8,14 +8,14 @@
                 <br>
             </div> <!-- col -->
 
-            <div class="col-md-1 col-sm-1 col-xs-1"></div>
+            <div class="col-md-1 col-sm-1 col-1"></div>
 
-            <div class="col-md-7 col-sm-9 col-xs-12">
+            <div class="col-md-7 col-sm-9 col-12">
 
                 <div class="row">
                     {% for item in site.data.collaborators %}
                     {% if item.place == "above" %}
-                    <div class="col-md-3 col-sm-3 col-xs-6" >
+                    <div class="col-md-3 col-sm-3 col-6" >
                         <a target="_blank" href={{item.url}}><img src="{{site.baseurl}}{{item.logo}}"/></a>
                     </div>
                     {% endif %}
@@ -27,7 +27,7 @@
                 <div class="row">
                     {% for item in site.data.collaborators %}
                     {% if item.place == "below" %}
-                    <div class="col-md-2 col-sm-2 col-xs-6" >
+                    <div class="col-md-2 col-sm-2 col-6" >
                         <a target="_blank" href={{item.url}}><img src="{{site.baseurl}}{{item.logo}}"/></a>
                     </div>
                     {% endif %}

@@ -3,18 +3,18 @@ layout: section
 title: Projects
 ---
 
-<br> 
+<br>
 
 <!-- ======== Project showcase ========================================================== Project showcase  ================= --> 
 <section id="projects-menu"> 
-	<div class="container">
+	<div class="container ">
 			    
-		        <div id="grid" data-columns="4">		
+		        <div class="row">
 			                		         
 			        {% for post in site.posts limit: 500 %}
 	               		 {% if post.type == 'project' %}    	 	            	            
 		        		            
-				            <div class="menu-item">
+				            <div class="menu-item col-12 col-md-6 col-lg-4">
 					            
 					            <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/projects/{{post.projectimg}}" alt="project"></a>
 			                
