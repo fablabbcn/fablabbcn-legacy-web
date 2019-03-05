@@ -10,4 +10,4 @@ teaserlatest: "/uploads/03_madeagain_challenge.jpg"
 teaserlist: "/uploads/01_smartcitizen.jpg"
 
 ---
-Lorem ipsum dolo sit amet
+![](/uploads/02_3dprint_lab.jpg)Lorem ipsum dolo sit amet
