@@ -2,7 +2,7 @@
 layout: project_post
 type: project
 subtype: eufeatured
-projectimg: eu_projects/oc-img.jpg
+projectimg: eu_projects/organicity-new.jpg
 squareimg: eu_projects/oc-thumnail.jpg
 url: http://organicity.eu/
 niceurl: organicity.eu

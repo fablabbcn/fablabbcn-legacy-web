@@ -2,7 +2,7 @@
 layout: project_post
 type: project
 subtype: eufeatured
-projectimg: eu_projects/ms-img-1.jpg
+projectimg: eu_projects/making-sense-new.png
 squareimg: eu_projects/ms-thumnail.jpg
 url: http://making-sense.eu/
 niceurl: making-sense.eu
