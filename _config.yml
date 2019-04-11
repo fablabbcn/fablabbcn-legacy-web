@@ -5,3 +5,6 @@ kramdown:
 redcarpet:  
     extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "underline", "highlight", "with_toc_data", "quote"]
 exclude: ['README.md']
+
+plugins:
+  - jekyll-redirect-from
