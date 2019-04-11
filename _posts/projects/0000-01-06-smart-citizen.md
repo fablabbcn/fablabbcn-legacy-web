@@ -7,8 +7,7 @@ meta: "Smart Citizen is a platform for the generation of social participatory pr
 url: http://smartcitizen.me
 niceurl: smartcitizen.me
 author: Fab Lab BCN
-date: 0000-01-06
-
+date: 2015-05-17
 ---
 
 
