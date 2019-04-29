@@ -4,7 +4,7 @@ type: project
 subtype: eufeatured
 projectimg: eu_projects/oc-img.jpg
 squareimg: eu_projects/oc-thumnail.jpg
-url: http://organicity.eu/
+externalurl: http://organicity.eu/
 niceurl: organicity.eu
 title: Organicity
 meta: Traditionally, smart city initiatives have promised solutions within individual sectors, such as transport, health and climate. But the emerging truth is that you cannot solve the challenges through initiatives confined to each sector. Organicity develops and tests new tools that support a new generation city technologies focused on citizen engagement and co-­creation. 

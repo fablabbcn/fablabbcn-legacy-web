@@ -4,7 +4,7 @@ type: project
 projectimg: projects_loop/smart_citizen.jpg
 title: Smart Citizen
 meta: "Smart Citizen is a platform for the generation of social participatory processes in urban areas. Connecting data, people and knowledge, the objective of the platform is to serve as a node for building productive and open indicators, and distributed tools, bringing thereafter to the collective construction of the city for and by its own inhabitants."
-url: http://smartcitizen.me
+externalurl: http://smartcitizen.me
 niceurl: smartcitizen.me
 author: Fab Lab BCN
 date: 0000-01-06
