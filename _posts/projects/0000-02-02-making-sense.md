@@ -4,7 +4,7 @@ type: project
 subtype: eufeatured
 projectimg: eu_projects/making-sense-new.png
 squareimg: eu_projects/ms-thumnail.jpg
-url: http://making-sense.eu/
+externalurl: http://making-sense.eu/
 niceurl: making-sense.eu
 title: Making Sense
 meta: Making Sense will show how open source software, open source hardware, digital maker practices and open design can be effectively used by local communities to appropriate their own technological sensing tools, make sense of their environments and address pressing environmental problems in air, water, soil and sound pollution.
