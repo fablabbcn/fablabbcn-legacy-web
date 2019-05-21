@@ -18,7 +18,7 @@ layout: default
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 align-items-flex-start">
-				<div><img src="{{site.baseurl}}/img/fabricademy/fabricademy1.jpg" class="img-responsive"/></div>
+				<div><img src="{{site.baseurl}}/img/fabricademy/01.jpg" class="img-responsive"/></div>
 			</div>
 			<div class="col-md-6 align-items-flex-start">
 				<p>Fabricademy is a transdisciplinary course that focuses on the development of new technologies for the textile industry, including the fashion industry and the upcoming wearable market.</p>
@@ -34,33 +34,23 @@ layout: default
 			</div>
 		</div>
 	</div>
-	<br/>
-	<div class="container">
-		<div class="row">
-			<div class="col-md-6 align-items-flex-start">
-				<div><img src="{{site.baseurl}}/img/fabricademy/fabricademy1.jpg" class="img-responsive"/></div>
-			</div>
-			<div class="col-md-6 align-items-flex-start">
+</section>
+
+<section>
+		<div class="container separator-solid"><h3>WHAT IS FABRICADEMY?</h3></div>
+		<div class="container"><img src="{{site.baseurl}}/img/fabricademy/03.jpg" class="img-responsive"/></div><br/>
+		<div class="container">
 				<p>The textile industry is in need of more humane, ecologically sound and efficient ways of working. Fabricademy at Fab Lab Barcelona equips students with the skills and knowledge to be key players in shaping this emerging future of textiles.</p>
 				<br/>
 				<p>The Fabricademy program asks students to rethink industrial processes in an open and experimental laboratory. Merging tradition and advanced technologies, students learn a range of skills from digital fabrication to synthetic biology, and will work across the creation, production and distribution of textile and fashion elements to help them establish their career as future textile professionals. Learning is supported by experts from the field who help students investigate how the textile and fashion industry can benefit from new technologies, processes and business models.</p>
 				<br/>
-			</div>
 		</div>
-	</div>
 	<br/>
+	<div class="container"><img src="{{site.baseurl}}/img/fabricademy/05.jpg" class="img-responsive"/></div><br/>
 	<div class="container">
-		<div class="row mt-20">
-			<div class="col-md-6 align-items-flex-start">
-				<div><img src="{{site.baseurl}}/img/fabricademy/fabricademy1.jpg" class="img-responsive"/></div>
-			</div>
-			<div class="col-md-6 align-items-flex-start">
-				<p>Working in an open laboratory, students experiment with the human body and culture by recycling, hacking and sensing. Rapid prototyping is used to create real-time feedback loops for project development, in which materials, aesthetics, sustainability and customization play equal and important roles. Students use acquired knowledge to develop a final project which may intersect multiple sectors of the future textile and fashion industry.</p>
-				<br/>
-			</div>
-		</div>
+		<p>Working in an open laboratory, students experiment with the human body and culture by recycling, hacking and sensing. Rapid prototyping is used to create real-time feedback loops for project development, in which materials, aesthetics, sustainability and customization play equal and important roles. Students use acquired knowledge to develop a final project which may intersect multiple sectors of the future textile and fashion industry.</p>
+		<br/>
 	</div>
-	<br/>
 	<div class="container" id="separator"></div>
 	<div class="container">
 		<p><h3><strong>Key Program topics 2019/2020</strong></h3></p>
@@ -85,18 +75,25 @@ layout: default
 			</a>
 		</button>
 		<p><h4>Need more information? Click <strong><a target="_blank" href="http://textile-academy.org/about/">HERE</a></strong></h4></p>
-		<br/>
 	</div>
-	<div class="container" id="separator"></div>
+</section>
+<section>
+	<div class=" container">
+		<div class="separator-solid"><h3>PROGRAM DETAILS</h3></div>
+	</div>
+
 	<div class="container">
 		<p><h3><strong>Program director</strong></h3></p>
 		<br/>
-		<p><h4>Anastasia Pistofidou</h4></p><br/>
+		<div>
+			<div><img style="max-width:150px;" class="rounded-circle" src="{{site.baseurl}}/img/team/anastasia__.jpg" alt=""></div><br/>
+			<h4>Anastasia Pistofidou</h4>
+		</div>
 		<p>Anastasia is co-founder and directorial faculty of the Fabricademy program and director of Fab Textiles at Fab Lab Barcelona, where she is using advanced technologies to influence the way we think and act towards the fashion industry. She is an expert in digital fabrication and has a practice dedicated to developing and advocating for new materials such as bioplastics. Her work has been featured in VICE Spain, served on the Jury of the 3rd annual Reshape competition, Programmable Skin, is a faculty member of IAAC's Master of Design in Emergent Futures and is a regular curatorial contributor to the global Fab Lab network's Textile Academy annual exhibition.
 		</p><br/>
 	</div>
 	<div class="container">
-		<p><h1><strong>Program details</strong></h1></p>
+		<p><h3><strong>Program details</strong></h3></p>
 		<br/>
 		<ul>
 			<li><strong>Duration:</strong> 6 months full time</li>
@@ -117,12 +114,48 @@ layout: default
 	</div>
 </section>
 
+<section>
+	<div class="container">
+		<div class="separator-solid"><h3>CHECK LAST YEARS FABRICADEMY BCN PROJECTS</h3></div>
+	</div>
+
+	<div class="container">
+		<p><h4><strong>2018 - 2019</strong></h4></p>
+	</div>
+
+	<div class="container">
+		<div class="row">
+			<!-- If you need to add or remove a video in class 2018-2019, it is done in this repos _data/fabricademy-slider-2018.yml file! -->
+			{% for item in site.data.fabricademy-slider-2018 %}
+			<div class="col-md-6">
+				<iframe width="640" height="360" frameborder="0" allow="autoplay; fullscreen" src="{{site.baseurl}}{{item.video}}"></iframe>
+			</div>
+			{% endfor %}
+		</div>
+	</div>
+
+	<div class="container">
+		<p><h4><strong>2017 - 2018</strong></h4></p>
+	</div>
+
+	<div class="container">
+		<div class="row">
+			<!-- If you need to add or remove a video in class 2017-2018, it is done in this repos _data/fabricademy-slider-2017.yml file! -->
+			{% for item in site.data.fabricademy-slider-2017 %}
+			<div class="col-md-6">
+				<iframe width="640" height="360" frameborder="0" allow="autoplay; fullscreen" src="{{site.baseurl}}{{item.video}}"></iframe>
+			</div>
+			{% endfor %}
+		</div>
+	</div>
+</section>
+
 <!--<section id="latest-news-banner">
 	<div class="container">
 		<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfDjKOh7ETMgDi0iXgchvjgM1xEhXhEnIk2jqfHJYDXG59J-A/viewform"><img src="{{site.baseurl}}/img/news_banner/banner_fabry3_.jpg" class="img-responsive"/>  </a>
 	</div> <!-- container --><!-- section -->
 
-<div class="container">
+<!--<div class="container">
 	<div class="separator-solid">
 		<h3>FABRICADEMY IN BARCELONA</h3>
 	</div>
@@ -148,50 +181,8 @@ layout: default
 		<br>
 
 		<section>
-			<div class="container">
-				<p><h3><strong>Check last years Fabricademy BCN projects:</strong></h3></p>
-				<br/>
-			</div>
 
-			<div class="container">
-				<p><h4><strong>2018 - 2019</strong></h4></p>
-				<br/>
-			</div>
-
-			<div class="container">
-				<div class="row">
-					<!-- If you need to add or remove a video in class 2018-2019, it is done in this repos _data/fabricademy-slider-2018.yml file! -->
-					{% for item in site.data.fabricademy-slider-2018 %}
-					<div class="col-md-6">
-						<iframe width="640" height="360" frameborder="0" allow="autoplay; fullscreen" src="{{site.baseurl}}{{item.video}}"></iframe>
-					</div>
-					{% endfor %}
-				</div>
-			</div>
-
-			<div class="container">
-				<p><h4><strong>2017 - 2018</strong></h4></p>
-				<br/>
-			</div>
-
-			<div class="container">
-				<div class="row">
-					<!-- If you need to add or remove a video in class 2017-2018, it is done in this repos _data/fabricademy-slider-2017.yml file! -->
-					{% for item in site.data.fabricademy-slider-2017 %}
-					<div class="col-md-6">
-						<iframe width="640" height="360" frameborder="0" allow="autoplay; fullscreen" src="{{site.baseurl}}{{item.video}}"></iframe>
-					</div>
-					{% endfor %}
-				</div>
-			</div>
-
-
-		</section> <!-- section -->
-	</div> <!-- container -->
-</section> <!-- section -->
-
-
-<div class="container">
+<!--<div class="container">
 	<div class="separator-solid">
 		<h3>TUITION FEES</h3>
 	</div>
@@ -214,7 +205,7 @@ layout: default
 		<br>
 		<p><h4>Need more information? click <strong><a target="_blank" href="http://textile-academy.org/about/">HERE</a></strong></h4></p>  <br>
 	</div> <!-- container -->
-</section> <!-- section -->
+<!-- section -->
 
 <section id="latest-news-banner">
 	<div class="container">
