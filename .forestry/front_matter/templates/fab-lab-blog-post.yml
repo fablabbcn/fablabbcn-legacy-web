@@ -17,14 +17,26 @@ fields:
   type: text
   hidden: false
   default: ''
+- name: type
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - event
+    - fabpro
+    - blog
+    - project
+    - workshop
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Type
 - name: meta
   label: Meta
   type: textarea
-  hidden: false
-  default: ''
-- name: type
-  label: Type
-  type: text
   hidden: false
   default: ''
 - name: date
