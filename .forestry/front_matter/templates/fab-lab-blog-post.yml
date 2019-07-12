@@ -41,26 +41,48 @@ fields:
   type: textarea
   hidden: false
   default: ''
+  description: The short description that will be featured at the section page
 - name: date
   label: Date
   type: datetime
   hidden: false
   default: ''
 - name: category
-  label: Category
-  type: tag_list
-  hidden: false
+  type: select
   default: ''
+  config:
+    required: false
+    options:
+    - workshop
+    - fabcity
+    - fab academy
+    - technology
+    - video
+    - jobs
+    - blog
+    - news
+    - program
+    - event
+    - fabtextiles
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Category
+  description: Select category tag of the post
 - name: teaserlatest
   label: Teaserlatest
   type: file
   hidden: false
   default: ''
+  description: 'Featured images at the section page '
 - name: teaserlist
   label: Teaserlist
   type: file
   hidden: false
   default: ''
+  description: Featured images at the section page
 pages:
 - _posts/news-post/2018-12-29-fab-lab-barcelona-our-year-in-review.md
 - _posts/news-post/2018-12-19-fab-lab-barcelona-our-year-in-review.md
