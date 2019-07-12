@@ -34,6 +34,8 @@ fields:
       file: 
       path: 
   label: Type
+  description: Select the type of the post so it will be featured in the corresponding
+    section
 - name: meta
   label: Meta
   type: textarea
