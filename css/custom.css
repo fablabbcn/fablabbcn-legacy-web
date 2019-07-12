@@ -47,6 +47,10 @@ p {
 	margin: 0;
 }
 
+/* Google Search */
+.gsc-control-cse{
+  padding: 0px 20px 0px 0px !important;
+}
 
 .container-all-edges {
 	background: white;
