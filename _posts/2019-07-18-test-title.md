@@ -1,6 +1,6 @@
 ---
 layout: section
-title: Test title
+title: test-viktor-2
 author: Viktor
 meta: ''
 type: ''
