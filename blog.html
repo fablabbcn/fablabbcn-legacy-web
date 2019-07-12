@@ -20,7 +20,12 @@ title: Blog
 
         <p class="lead">by&nbsp;<u>{{post.author}}</u>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Posted on <u>{{post.date | date:"%B %d, %Y" }}</u></p>
         <br>
-        <img class="img-responsive" src="{{site.baseurl}}/img/blog/{{post.teaserlist}}" alt="">
+        <!-- After using Forestry, all images will be stored in uploads/ folder. Previous images were stored in img/blog/ folder -->
+        {% if post.teaserlist contains '/uploads/' %}
+        <img src="{{site.baseurl}}{{post.teaserlist}}"/></a>
+        {% else %}
+        <img src="{{site.baseurl}}/img/blog/{{post.teaserlist}}"/></a>
+        {% endif %}
         <br>
         <p>{{post.meta}}</p>
         <br>
