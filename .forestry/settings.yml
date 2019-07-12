@@ -12,8 +12,8 @@ sections:
   create: all
   templates:
   - fab-lab-blog-post
-upload_dir: uploads
-public_path: "/uploads"
+upload_dir: img/blog
+public_path: "/img/blog"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
@@ -28,3 +28,6 @@ build:
   output_directory: _site
   instant_preview_command: bundle exec jekyll serve --drafts --unpublished --future
     --port 8080 --host 0.0.0.0 -d _site
+  install_dependencies_command: bundle install --path vendor/bundle
+  preview_docker_image: forestryio/build:latest
+  mount_path: "/opt/buildhome/repo"
