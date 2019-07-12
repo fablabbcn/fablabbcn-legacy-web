@@ -62,7 +62,5 @@ fields:
   hidden: false
   default: ''
 pages:
-- _posts/2019-07-18-test-title.md
-- _posts/2019-07-02-test-1.md
 - _posts/news-post/2018-12-29-fab-lab-barcelona-our-year-in-review.md
 - _posts/news-post/2018-12-19-fab-lab-barcelona-our-year-in-review.md
