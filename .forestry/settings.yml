@@ -12,8 +12,8 @@ sections:
   create: all
   templates:
   - fab-lab-blog-post
-upload_dir: uploads
-public_path: "/uploads"
+upload_dir: img/blog
+public_path: "/img/blog"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
