@@ -1,4 +1,18 @@
 ---
 label: Page template
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: Title of the page
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  description: The layout for the page
+  hidden: true
+  default: default
