@@ -2,10 +2,25 @@
 label: EventsTest
 hide_body: false
 fields:
+- name: event_name
+  type: text
+  config:
+    required: false
+  label: Event name
+  description: Name of the event
 - name: start_date
   type: datetime
   label: Start date
   description: Starting date of the event
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: end_date
+  type: datetime
+  label: End date
+  description: When does the event end?
   config:
     required: false
     date_format: 

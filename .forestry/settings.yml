@@ -15,7 +15,7 @@ sections:
 - type: directory
   path: events
   label: Events
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - eventstest
