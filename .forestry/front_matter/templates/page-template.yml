@@ -16,3 +16,5 @@ fields:
   description: The layout for the page
   hidden: true
   default: default
+pages:
+- test-page-viktor.md
