@@ -2,72 +2,21 @@
 layout: default
 ---
 
-	<header>
-		
-		{% include nav.html %} 	
+<section id="project-post">
+  <div class="container" id="post-body">
 
-    <style>	
-	    
-		.carousel-control.right {
-		    right: 0px;
-		    left: auto;
-		    background-image: none;
-		    background-repeat: none;
-		}
+    <h2>{{page.title}}</h2>
 
-	    .carousel-control.left {
-		    left: 0px;
-		    right: auto;
-		    background-image: none;
-		    background-repeat: none;
-		}
+    <p class="lead">by <a href="#">{{page.author}}</a></p>
 
-    </style>
-		
-		
-	</header><!-- site-header -->
-
-<!-- ======== Hero ==================================================================== Hero ============-->
-
-    <section id="header-pages-blog">
-	    <div class="container" id="header-pages-blog-title">
-            
-            <a href="http://fablabbcn.org/workshops.html"> <h2 class="page-title">Workshops</h2> </a>                      
-							
-	    </div> <!-- container -->								        	        	       	   	  	</section> <!-- hero -->
-
-<!-- ======== pages-social-icons ===========-->
-
-{% include social.html %}
-
-<!-- =============================================================================================================-->
-    
-	<div class="container" id="separator-pages-top"></div>
-
-<!-- ======== project post ============================================================== project post  ================= --> 
-
-    <section id="project-post">
-	    <div class="container" id="post-body">
-		    	    
-				    <h2>{{page.title}}</h2>
-
-	                <p class="lead">by <a href="#">{{page.author}}</a></p>
-	                
-				    <p>{{page.meta}}</p>
-				       			    			    
-				    
-				    {{ content }}					     					    			    		     		    		    
-	    </div> <!-- container -->
-	    
-    </section> <!-- project-post -->
-   
-<!-- =============================================================================================================-->
-    
-	<div class="container" id="separator-pages-top"></div>   
-
-<!-- =============================================================================================================-->
+    <p>{{page.meta}}</p>
 
 
-{% include footer.html %}         
+    {{ content }}
 
- 
+  </div> <!-- container -->
+
+</section> <!-- project-post -->
+
+
+{% include footer.html %}
