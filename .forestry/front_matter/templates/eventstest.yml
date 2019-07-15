@@ -1,4 +1,13 @@
 ---
 label: EventsTest
 hide_body: false
-fields: []
+fields:
+- name: start_date
+  type: datetime
+  label: Start date
+  description: Starting date of the event
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
