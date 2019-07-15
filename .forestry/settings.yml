@@ -4,6 +4,13 @@ auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: events
+  label: Events
+  create: all
+  match: "**/*"
+  templates:
+  - eventstest
 - type: jekyll-pages
   label: Pages
   create: all
