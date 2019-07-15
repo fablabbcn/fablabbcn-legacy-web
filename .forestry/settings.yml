@@ -4,6 +4,14 @@ auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
+- type: jekyll-posts
+  label: Posts
+  create: all
+  templates:
+  - fab-lab-blog-post
+- type: jekyll-pages
+  label: Pages
+  create: all
 - type: directory
   path: events
   label: Events
@@ -11,14 +19,6 @@ sections:
   match: "**/*"
   templates:
   - eventstest
-- type: jekyll-pages
-  label: Pages
-  create: all
-- type: jekyll-posts
-  label: Posts
-  create: all
-  templates:
-  - fab-lab-blog-post
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
