@@ -43,8 +43,30 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 
+    <!-- Cookie consent -->
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+    <script>
+      window.addEventListener("load", function(){
+        window.cookieconsent.initialise({
+          "palette": {
+            "popup": {
+              "background": "#ffffff"
+            },
+            "button": {
+              "background": "#000000"
+            }
+          },
+          "content": {
+            "message": "This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.",
+            "dismiss": "Accept",
+            "link": "Read More",
+            "href": "https://fablabbcn.org/cookies-policy.html"
+          }
+        })});
+    </script>
   </head>
-  <body>
+  <body class="pt-5">
 
     {% include nav.html %}
 

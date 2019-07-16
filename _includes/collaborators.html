@@ -1,40 +1,14 @@
 <!-- If you need to add or remove a collaborator, it is done in this repos _data/collaborators.yml file! -->
-<section id="collaborations">
-    <div class="container">
-        <div class="row">
+<section class="row">
 
-            <div class="col-md-3 col-sm-2" id="collaborations-text">
-                <h2>Collaborators</h2>
-                <br>
-            </div> <!-- col -->
+  <div class="col-12 text-center my-4">
+    <h2>Collaborators</h2>
+  </div> <!-- col -->
 
-            <div class="col-md-1 col-sm-1 col-1"></div>
+  {% for item in site.data.collaborators %}
+  <div class="col-6 col-md-4 col-lg-3  border">
+    <a target="_blank" href={{item.url}}><img src="{{site.baseurl}}{{item.logo}}"/></a>
+  </div>
+  {% endfor %}
 
-            <div class="col-md-7 col-sm-9 col-12">
-
-                <div class="row">
-                    {% for item in site.data.collaborators %}
-                    {% if item.place == "above" %}
-                    <div class="col-md-3 col-sm-3 col-6" >
-                        <a target="_blank" href={{item.url}}><img src="{{site.baseurl}}{{item.logo}}"/></a>
-                    </div>
-                    {% endif %}
-                    {% endfor %}
-                </div> <!-- row -->
-
-                <hr>
-
-                <div class="row">
-                    {% for item in site.data.collaborators %}
-                    {% if item.place == "below" %}
-                    <div class="col-md-2 col-sm-2 col-6" >
-                        <a target="_blank" href={{item.url}}><img src="{{site.baseurl}}{{item.logo}}"/></a>
-                    </div>
-                    {% endif %}
-                    {% endfor %}
-                </div>
-            </div> <!-- col -->
-        </div> <!-- row -->
-
-    </div> <!-- container-->
-</section> <!-- section-->
+</section>
