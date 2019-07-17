@@ -1,0 +1,29 @@
+---
+label: New Post Template - 2019
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+- type: text
+  name: title
+  label: title
+- type: text
+  name: type
+  label: type
+- type: text
+  name: author
+  label: author
+- type: text
+  name: meta
+  label: meta
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: category
+  label: category
+- type: file
+  name: teaserlist
+  label: teaserlist
