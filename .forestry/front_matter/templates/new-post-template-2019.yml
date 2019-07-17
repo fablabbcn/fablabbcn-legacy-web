@@ -6,21 +6,43 @@ fields:
   name: layout
   label: Layout
   hidden: true
-- type: text
-  name: title
-  label: title
-- type: textarea
-  name: meta
-  label: meta
+- name: title
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Title
 - type: text
   name: author
-  label: author
+  label: Author
+- name: type
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - event
+    - fabpro
+    - blog
+    - project
+    - workshop
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Type
+  description: Select the type of the post so it will be featured in the corresponding
+    section
+- type: textarea
+  name: meta
+  label: Meta
 - type: datetime
   name: date
-  label: date
-- type: text
-  name: category
-  label: category
+  label: Date
 - type: file
   name: teaserlist
   label: Featured Image
