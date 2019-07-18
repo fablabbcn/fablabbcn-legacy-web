@@ -3,43 +3,25 @@ layout: default
 title: Workshops
 ---
 
-<!-- ======== workshops ================================================================= workshops ================= -->  
+<section class="container">
+  <div class="row">
 
-    <section id="workshops">    	    
-	    <div class="container">	        
-	        <div class="row">
+    {% for post in site.posts limit: 50 %}
+    {% if post.type == 'workshop' %}
 
-                {% for post in site.posts limit: 50 %}
-                {% if post.type == 'workshop' %}                            
-                            
-			            <div class="col-md-6">
-				            
-			                <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/workshops/{{post.workshopteaser}}" alt="workshop"></a>
+    <div class="col-md-6">
+      <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/workshops/{{post.workshopteaser}}" alt="workshop"></a>
+    </div>  <!-- col-->
 
-			            </div>  <!-- col-->
-			            
-			            <div class="col-md-6" id="workshops-description">
-				            
-			                <h3><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>
-			                <br>
-			                <p>{{post.meta}}</p> 
-			                <br>
-			                <a class="btn btn-default" id="workshop-join" href="{{site.baseurl}}{{post.url}}">Read More <span class="glyphicon glyphicon-chevron-right"></span></a>
-			                
-			            </div>  <!-- col-->	 
-			            
-			            
-<!-- =============================================================================================================-->
-    
-<div class="container" id="separator"></div>   
+    <div class="col-md-6" id="workshops-description">
+      <h3><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>
+      <br>
+      <p>{{post.meta}}</p> 
+      <br>
+      <a class="btn btn-default" id="workshop-join" href="{{site.baseurl}}{{post.url}}">Read More <span class="glyphicon glyphicon-chevron-right"></span></a>
+    </div>  <!-- col-->	 
 
-<!-- =============================================================================================================-->       
-	            
-	            {% endif %}
-	            {% endfor %}
-
-	        </div> <!-- row -->
-
-	    </div> <!-- container -->
-    
-    </section> <!-- workshops -->
+    {% endif %}
+    {% endfor %}
+  </div> <!-- row -->
+</section> <!-- workshops -->

@@ -7,14 +7,14 @@ title: Fab Pro
   <div class="container">
     <div class="row">
 
-      <div class="col-md-6" id="fabpro-description-1" >
+      <div class="col-md-6">
         <p>Is your company looking to engage with innovative, future-focused approaches to circular-economy, digital fabrication, design methodology, policy development or creative direction?<p> 
         <p>The Fab Lab Barcelona team offers tailored experiences, on-demand training and strategic consultancy out of our Green Fab Lab at Valldaura or Fab Lab Barcelona in Poblenou maker district. Engage our ten years of experience as leaders in the Fab Lab and digital fabrication movement in your next innovative project. </p> 
       </div>
 
       <div id="fabpro-hr"><hr></div>
 
-      <div class="col-md-6" id="fabpro-description-2" >
+      <div class="col-md-6">
         <p>¿Estás interesada o interesado en explorar enfoques innovadores para tu compañía, en el contexto de la economía circular, la fabricación digital, las metodologias de diseño, las políticas de desarrollo o la direccion creativa?<p> 
         <p>El equipo de Fab Lab Barcelona ofrece experiencias personalizadas, capacitación a medida y consultoría estratégica en cualquiera de nuestras sedes: Green Fab Lab en Valldaura, o Fab Lab Barcelona en el distrito maker del Poblenou. Nuestros diez años de experiencia como líderes dentro de la Fab Lab Network y el movimiento de fabricación digital harán de su próximo proyecto un referente en innovación.</p>
       </div>
@@ -37,7 +37,7 @@ title: Fab Pro
       {% for post in site.posts limit: 400 %}
       {% if post.type == 'fabpro' %}
       <div class="menu-item">
-        <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/fabpro/{{post.fabproteaser}}" alt="fabpro"></a>
+        <a href="{{site.baseurl}}{{post.url}}"><img class="img-fluid" src="{{site.baseurl}}/img/fabpro/{{post.fabproteaser}}" alt="fabpro"></a>
         <br>
         <h3><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h3>
         <p>{{post.meta}}</p>

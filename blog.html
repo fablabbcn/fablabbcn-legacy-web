@@ -3,47 +3,37 @@ layout: default
 title: Blog
 ---
 
-<section id="blog-home">
+<section class="container">
+  <div class="row">
 
-  <div class="container">
+    <div class="col-md-8">
+      {% for post in site.posts limit: 10 %}
+      {% if post.type == 'blog' %}
+      <!-- Blog Post -->
 
-    <div class="row">
+      <h3><a href="{{ post.url }}">{{post.title}}</a></h3>
 
-      <!-- Blog Entries Column -->
+      <p class="lead">by&nbsp;<u>{{post.author}}</u>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Posted on <u>{{post.date | date:"%B %d, %Y" }}</u></p>
 
-      <div class="col-md-8">
-        {% for post in site.posts limit: 10 %}
-        {% if post.type == 'blog' %}
-        <!-- Blog Post -->
+      <!-- After using Forestry, all images will be stored in uploads/ folder. Previous images were stored in img/blog/ folder -->
+      {% if post.teaserlist contains '/uploads/' %}
+        <img class="img-fluid" src="{{site.baseurl}}{{post.teaserlist}}"/></a>
+      {% else %}
+        <img class="img-fluid" src="{{site.baseurl}}/img/blog/{{post.teaserlist}}"/></a>
+      {% endif %}
 
-        <h3><a href="{{ post.url }}">{{post.title}}</a></h3>
+      <p>{{post.meta}}</p>
+      <a href="{{ post.url }}" ><strong>read more</strong> &rarr;</a>
 
-        <p class="lead">by&nbsp;<u>{{post.author}}</u>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Posted on <u>{{post.date | date:"%B %d, %Y" }}</u></p>
-        <br>
-        <!-- After using Forestry, all images will be stored in uploads/ folder. Previous images were stored in img/blog/ folder -->
-        {% if post.teaserlist contains '/uploads/' %}
-        <img src="{{site.baseurl}}{{post.teaserlist}}"/></a>
-        {% else %}
-        <img src="{{site.baseurl}}/img/blog/{{post.teaserlist}}"/></a>
-        {% endif %}
-        <br>
-        <p>{{post.meta}}</p>
-        <br>
-        <a href="{{ post.url }}" ><strong>read more</strong> &rarr;</a>
-        <br><br>
-        <hr>
-        <br>
-        {% endif %}
-        {% endfor %}
+      <hr>
 
-        <!--<div id="separator"></div> -->
+      {% endif %}
+      {% endfor %}
+    </div>
 
-      </div>
-
+    <div class="col-md-4">
       {% include blog_sidebar.html %}
+    </div> <!-- col -->
 
-    </div> <!-- row -->
-  </div> <!-- container -->
+  </div> <!-- row -->
 </section>
-
-<div class="container" id="separator"></div>
