@@ -1,0 +1,74 @@
+---
+label: New Post Template - 2019
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: Layout
+  hidden: true
+- name: title
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Title
+- type: text
+  name: author
+  label: Author
+- name: type
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - event
+    - fabpro
+    - blog
+    - project
+    - workshop
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Type
+  description: Select the type of the post so it will be featured in the corresponding
+    section
+- type: textarea
+  name: meta
+  label: Meta
+  description: The short description that will be featured at the section page
+- type: datetime
+  name: date
+  label: Date
+- name: category
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - fabtextiles
+    - workshop
+    - fabcity
+    - fab academy
+    - technology
+    - video
+    - news
+    - " program"
+    - event
+    - blog
+    - jobs
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Category
+  description: Select category tag of the post
+- type: file
+  name: teaserlist
+  label: Featured Image
+  description: 'Featured images at the section page '
