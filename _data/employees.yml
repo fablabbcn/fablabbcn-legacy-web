@@ -33,15 +33,8 @@
   twitter: 
   linkedin: https://uk.linkedin.com/pub/jonathan-minchin/23/a0b/971
 
-- name: Marcel Tkocz
-  image: img/team/marcel_.jpg
-  title: Finance & Logistics Manager
-  fb: 
-  twitter: https://twitter.com/marceltkocz?lang=en
-  linkedin: https://es.linkedin.com/in/marceltkocz
-
 - name: Mikel Llobera Guelbenzu
-  image: img/team/temporary.jpg
+  image: img/team/mikel_2.jpg
   title: Fab Lab Barcelona Manager
   fb: https://www.facebook.com/martin.seymour.=ts
   twitter: 
@@ -60,13 +53,6 @@
   fb: https://www.facebook.com/anastasia.pistofidou?fref=ts
   twitter: https://twitter.com/narktect?lang=en
   linkedin: https://es.linkedin.com/in/anastasia-pistofidou-75b17255
-
-- name: Massimo Menichinelli
-  image: img/team/massimo.jpg
-  title: Fablabs.io Project Manager / DDMP Project Manager / Research+Design
-  fb: https://www.facebook.com/massimo.menichinelli
-  twitter: https://twitter.com/openp2pdesign
-  linkedin: https://es.linkedin.com/in/massimomenichinelli
 
 - name: Victor Barberan
   image: img/team/victor_.jpg
