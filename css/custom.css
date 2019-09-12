@@ -39,6 +39,16 @@ nav{
   background-color: #000;
 }
 
+.navbar .dropdown-menu{
+  background-color: #222;
+}
+.navbar .dropdown-menu a{
+  color: white;
+}
+.navbar .dropdown-menu a:hover{
+  background-color: #444;
+}
+
 .btn{
   border-radius: 0px;
 }
