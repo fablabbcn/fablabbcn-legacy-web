@@ -17,42 +17,30 @@ body {
 
 
 h1,h2,h3,h4,h5,h6 {
-	-webkit-font-smoothing: antialiased;
-	text-rendering: optimizelegibility;
 	font-weight: bold;
 }
 
-a:link {
-	color: #29dcd9;
-}
-
-a:visited{
-  color: #29dcd9;
-  text-decoration: underline;
+a{
+  font-weight: bold;
+  color: black;
 }
 
 a:hover {
   text-decoration: underline;
-  color: #29dcd9;
+  color: black;
 }
 
 img{
   max-width: 100%;
 }
 
+/* navbar-dark is not dark enough */
 nav{
   background-color: #000;
 }
 
-.bg-cyan{
-  background-color: #29dcd9
-}
-
-.dropdown-menu {
-  background-color: black;
-}
-.dropdown-item:hover{
-  color: grey;
+.btn{
+  border-radius: 0px;
 }
 
 /* Google Search */

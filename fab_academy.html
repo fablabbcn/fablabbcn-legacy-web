@@ -5,6 +5,38 @@ title: Fab Academy
 
 <div class="container">
 
+    <!-- Modal -->
+  <div class="modal fade" id="applyModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header border-bottom-0">
+          <h5 class="modal-title" id="exampleModalLabel"></h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h4 class="text-center"> Get more info about Fab Academy!</h4>
+          Name <br>
+          Last name <br>
+          Email <br>
+          Country <br>
+
+          <input type="checkbox" name="privacy" id="privacy" required="required" value="agree">
+          <label for="privacy"> I agree to the </label>
+          <a href="/privacy-policy" target="_blank">Privacy Policy</a>
+          <br>
+
+        </div>
+        <div class="modal-footer border-top-0">
+          <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-dark">Send</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
   <section class="row">
     <div class="col-md-6">
       <img src="{{site.baseurl}}/img/fab_academy/fabacademy1.jpg" class="img-responsive"/>
@@ -16,12 +48,19 @@ title: Fab Academy
       <p>Fab Academy is an intensive ﬁve-month program that teaches students to envision, design and prototype projects using digital fabrication tools and machines. It is a multi-disciplinary and hands-on learning experience that empowers students to learn-by-doing and inspires them to make stuff locally to become active participants in sustainable cities and communities.
       </p><br/>
       <p>The course is structured around the attainment of 20 practical certificates such as Digital Fabrication Principals, Embedded programming and machine design. The content of these weekly classes is delivered online live from MIT and practiced hands-on in the Fab Lab.</p>
-      <a class="text-white d-flex" target="_blank" href="https://form.jotformeu.com/FabAcademy/2019-students-application">
-        <h4 class="p-3 bg-cyan">APPLY HERE</h4>
+      <a class="btn btn-dark btn-block" target="_blank" href="https://form.jotformeu.com/FabAcademy/2019-students-application">
+        APPLY HERE (Jotform)
       </a>
-      <p>Need more information?
-      <p>Email us!<a href="mailto:admissions@fabacademy.org">
-        <strong>admissions@fabacademy.org</strong></a></p><br></p>
+
+      <!-- Button trigger modal -->
+      <button type="button" class="btn btn-dark my-3" data-toggle="modal" data-target="#applyModal">
+        APPLY HERE (modal)
+      </button>
+
+      <p>Need more information?</p>
+      <p>Email us!
+        <a href="mailto:admissions@fabacademy.org">admissions@fabacademy.org</a>
+      </p>
     </div>
   </section>
 
@@ -63,8 +102,8 @@ title: Fab Academy
       <li>Project development</li>
       <li>Invention, intellectual property, and income</li>
     </ul>
-    <a class="text-white d-flex" target="_blank" href="https://form.jotformeu.com/FabAcademy/2019-students-application">
-      <h4 class="p-3 bg-cyan">APPLY HERE</h4>
+    <a class="btn btn-dark my-3" target="_blank" href="https://form.jotformeu.com/FabAcademy/2019-students-application">
+      APPLY HERE
     </a>
     <h4>Need more information?<br>
       <p>Email us!<a href="mailto:admissions@fabacademy.org">
@@ -82,7 +121,7 @@ title: Fab Academy
 
     <div>
       <div>
-        <img style="max-width:150px;" class="rounded-circle" src="{{site.baseurl}}/img/team/santi__.jpg" alt="">
+        <img style="max-width:150px;" class="rounded-circle my-3" src="{{site.baseurl}}/img/team/santi__.jpg" alt="">
       </div>
       <h4>Santi Fuentemilla</h4>
     </div>
@@ -100,14 +139,12 @@ title: Fab Academy
       <li><strong>Application Fee:</strong> No fee attributed</li>
       <li><strong>Course Fee:</strong> 6.500 USD</li>
     </ul>
-    <a class="text-white d-flex" target="_blank" href="https://form.jotformeu.com/FabAcademy/2019-students-application">
-      <h4 class="p-3 bg-cyan">APPLY HERE</h4>
+    <a class="btn btn-dark my-3" target="_blank" href="https://form.jotformeu.com/FabAcademy/2019-students-application">
+      APPLY HERE
     </a>
-    <h4>Need more information?<br>
-      <p>Email us!<a href="mailto:admissions@fabacademy.org">
-        <strong>admissions@fabacademy.org</strong></a>
-      </p>
-    </h4>
+    <h4>Need more information?</h4>
+    <p class="mb-5 mt-3">Email us!<a href="mailto:admissions@fabacademy.org">
+      <strong>admissions@fabacademy.org</strong></a>
+    </p>
   </section>
-
 </div>
