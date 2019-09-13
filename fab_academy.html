@@ -25,42 +25,36 @@ title: Fab Academy
         </div>
         <div class="modal-body">
           <h4 class="text-center"> Get more info about Fab Academy!</h4>
-
           <div class="p-3">
-
             <div class="mb-4">
-              <label for="form_name"> First Name</label>
-              <input class="fablab-form-input" type="text" value="" name="" id="form_name" placeholder="First Name" />
-            </div>
-
-
-            <div class="mb-4">
-              Last name <br>
-              <input class="fablab-form-input" type="text" value="" name="" id="" placeholder="Last Name" />
+              <label for="form_name"> First name</label>
+              <input class="fablab-form-input" type="text" value="" name="fname" id="form_name" placeholder="First Name" />
             </div>
 
             <div class="mb-4">
-              Email <br>
-              <input class="fablab-form-input" type="text" value="" name="" id="" placeholder="Email" />
+              <label for="form_last_name"> Last name</label>
+              <input class="fablab-form-input" type="text" value="" name="lname" id="form_last_name" placeholder="Last Name" />
             </div>
 
             <div class="mb-4">
-              Country <br>
-              <input class="fablab-form-input" type="text" value="" name="" id="" placeholder="Country" />
+             <label for="form_email"> Email </label>
+              <input class="fablab-form-input" type="email" value="" name="email" id="form_email" placeholder="Email" />
             </div>
 
             <div class="mb-4">
-              Comments? <br>
-              <textarea rows="4" style="border:1px solid black; width:100%;" type="text" value="" name="" id="">
-              </textarea>
+              <label for="form_country"> Country </label>
+              <input class="fablab-form-input" type="text" value="" name="country" id="form_country" placeholder="Country" />
             </div>
 
+            <div class="mb-4">
+              <label for="form_comments">Comments?</label>
+              <textarea rows="4" style="border:1px solid black; width:100%;" id="form_comments"></textarea>
+            </div>
 
             <input type="checkbox" name="privacy" id="privacy" required="required" value="agree">
             <label for="privacy"> I agree to the </label>
             <a href="/privacy-policy" target="_blank">Privacy Policy</a>
           </div>
-
         </div>
         <div class="modal-footer border-top-0">
           <button type="button" class="btn btn-dark btn-block">Send (FORM DISCONNECTED)</button>
