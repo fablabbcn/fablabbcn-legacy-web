@@ -26,6 +26,11 @@ p{
   font-size: 18px;
 }
 
+.fablab-form-input{
+  border:0;
+  border-bottom: 2px solid black;
+  width: 100%;
+}
 a{
   font-weight: bold;
   color: black;
