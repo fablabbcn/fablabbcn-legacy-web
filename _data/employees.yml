@@ -92,6 +92,13 @@
 - name: Tue Ngo
   image: img/team/tue.jpg
   title: Software Developer
-  fb: img/team/ThonyNava.jpg
+  fb:
   twitter: 
   linkedin: https://www.linkedin.com/in/tue-m-ngo-2b544489/
+
+- name: Thony Nava
+  image: img/team/ThonyNava.jpg
+  title: Software Developer / Designer
+  fb: https://www.facebook.com/ThonyNava.io/
+  twitter: https://twitter.com/ThonyNava_io
+  linkedin: https://www.linkedin.com/in/thonynava/?locale=en_US
