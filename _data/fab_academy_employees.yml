@@ -1,0 +1,46 @@
+- name: Santiago Fuentemilla
+  image: img/team/santi__.jpg
+  title: Fab Academy Barcelona Instructor / Future Learning Unit Leader
+  description: Santi is a professional architect with extensive international experience and is currently undertaking a PhD in digital manufacturing processes at the EGA UPC. Santi joined Fab Lab Barcelona in 2013 and currently coordinates the Future Learning Unit. He has been Fab Guru of Fabacademy from 2014 and from 2017, a professor in IAAC’s Master in Design for Emergent Futures. 
+
+- name: Eduardo Chamorro
+  image:
+  title: Fab Academy Guru
+  description: Eduardo has a Masters in Architecture from CEU San Pablo University, Fab Academy Diploma in Digital Fabrication and a Masters in Advanced Architecture from IAAC. Eduardo has worked as the director of Fab Lab Seoul, several architecture studios and is a regular collaborator with Fab Lab Madrid. He is also an advisory fabrication expert for different architecture collectives.
+
+- name: Xavier Dominguez
+  image:
+  title: Fab Academy Faculty
+  description: Xavier has a degree in Multimedia Engineering from the University of La Salle. He graduated from Fab Academy in 2016 and is currently a creative developer and researcher for Future Learning Unit. He is also an instructor for Fab Academy Barcelona and a professor for the Masters in Design for Emergent Futures.
+
+- name: Oscar Gonzalez
+  image: img/team/oscar_.jpg
+  title: Fab Academy Assistant 
+  description: Oscar is an industrial engineer with over four years of experience in the automotive industry. When working with Nissan Motor Corp. he specialised in vehicles emissions and performance testing. Oscar currently works in the field of numerical simulation, software development and sensor calibration for the Smart Citizen project.
+
+- name: Guillem Camprodon
+  image: img/team/guillem__.jpg
+  title: Fab Academy Faculty
+  description: Guillem is an expert working with emergent technologies, from IoT to Digital Fabrication. In 2010 he began working as a researcher, leading the Smart Citizen project - a global open-source participatory sensing platform. He has worked on multiple EU funded projects - iSCAPE, GROW Observatory, Making Sense, Organicity and DECODE. 
+
+- name: Victor Barberan
+  image: img/team/victor_.jpg
+  title: Fab Academy Faculty
+  description: Victor has over 20 years of experience as a hardware and software developer, including developing custom technology for multidisciplinary art and science projects. Victor is a researcher and developer for the Smart Citizen project and also teaches at the Bachelor of Smart Design at ESDI School of Design and the Master in Design for Emergent Futures.
+
+- name: Mikel Llobera
+  image: img/team/mikel_2.jpg
+  title: Fab Lab Manager
+  description: Mikel is a graphic and animations designer, a digital fabrication expert and teaches fabrication applications, prototyping and electronics design. He is the Lab Manager for Fab Lab Barcelona, supporting students from all IAAC programmes and leading Lab Projects such as OpenSource 3D Printer and a Recycling Plastics project. 
+
+- name: CHIARA DALL’OLIO
+  image: img/team/chiara.jpg
+  title: MDEF Coordinator
+  description: Chiara has a Master in Architecture from UNIFE, a Master in Urban and Territorial Planning and Master in City and Technology. Chiara has worked as an urban designer in Madrid, Burgos and Barcelona, with professional experiences which range from regional planning to urban projects. Chiara has worked on the Making Sense Project, is currently the MDEF Coordinator and part of the Fab Academy Global Coordination Team.
+
+- name: LUCIANA ASINARI
+  image: img/team/luciana.jpg
+  title: Fab Academy Barcelona Coordinator
+  description: Luciana has a degree in Social Sciences and Fine Arts. Her main interest is the impact of Digital Fabrication tools in education and the application of a distributed educational model within the Fab Lab network. Luciana has Coordinator of Fab Lab Barcelona since 2014 and also manages the Higher Education area which contains programmes such as Fab Academy and Fabricademy. 
+
+

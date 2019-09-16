@@ -196,19 +196,22 @@ title: Fab Academy
 
   <hr>
 
-
   <section class="row">
     <div class="col-12">
       <h2>FabAcademy's Barcelona Faculty</h2>
     </div>
 
+    <!-- If you need to add or remove a Fab Academy employee, it is done in this repos _data/fab_academy_employees.yml file! -->
+    {% for item in site.data.fab_academy_employees %}
     <div class="col-md-4 text-center">
       <div>
-        <img style="max-width:150px;" class="rounded-circle my-3" src="{{site.baseurl}}/img/team/santi__.jpg" alt="">
+        <img style="max-width:150px;" class="rounded-circle my-3" src="{{site.baseurl}}/{{item.image}}" alt="">
       </div>
-      <h4>Santi Fuentemilla</h4>
-      <p>Santi holds a Master of Architecture specialising in Architectural Design and Construction. He is a Fab Academy Barcelona Alum and is currently pursuing a PhD in Digital Fabrication Processes. He is Design Director at OPR (Other People’s Rooms) in Barcelona, a multidisciplinary studio based on architectural concept design for enhanced user experiences. He is cofounder of Future Learning Unit at Fab Lab Barcelona, experts in the Future of Education, STEAM eduction and life-long learning advocacy. In this capacity he has collaborated with La Salle, Barcelona City Council, CosmoCaixa and has presented at Colombia University’s Teachers Collage annual Fab Learn conference. </p>
+      <h4>{{ item.name }}</h4>
+      <i>{{ item.title }}</i>
+      <p>{{ item.description }}</p>
     </div>
+    {% endfor %}
   </section>
 
   <hr>
@@ -218,14 +221,33 @@ title: Fab Academy
     <div class="row">
       <div class="col-md-6">
         <h5>What do I need to do before doing Fab Academy?</h5>
-        <p>Ideally, check tutorials on the subjects you don’t know. This will help you familiarize with key concepts and the learning experience will be smooth!</p>
-        <h5>What kind of job I can get after doing FabAcademy? </h5>
-        <p>The job world is changing so rapidly! Fab Academy will give you the chance to broaden your scope of what is possible in your professional scope, or inspire you to nd a new path.Our alumni have open their own labs and become leaders in the network; they have created their own professional revolutionizing the standards of their business; they have written books, papers and improved their Academic environments.</p>
-        <p>Technical assistant in companies, private practices and Universities; Fab Lab Manager and Fab Academy Instructor.</p>
-      </div>
-      <div class="col-md-6">
+        <p>Ideally, check tutorials on the subjects you don’t know. This will help you familiarize with key concepts and the learning experience will be smooth
+        👉 <a href="http://fabacademy.org/2019/docs/FabAcademy-Tutorials/" target="_blank">http://fabacademy.org/2019/docs/FabAcademy-Tutorials/</a> </p>
+
         <h5>What if i never have programmed or 3d printed before? </h5>
-        <p>Don’t worry! Fab Academy can be taken in many levels...if you have no background in the subjects of the course, you will get all the basics to learn and produce your assignments. We denitely suggest that you check some tutorials before coming, that will make you feel more condent at the beginning.</p>
+        <p>Don’t worry! Fab Academy can be taken on many levels… If you have no background in the subjects of the course, you will get all the basics to learn and produce your assignments. We suggest that you check some tutorials before coming, that will make you feel more confident at the beginning
+        👉 <a href="http://fabacademy.org/2019/docs/FabAcademy-Tutorials/" target="_blank">http://fabacademy.org/2019/docs/FabAcademy-Tutorials</a></p>
+
+        <h5>What kind of job I can get after doing FabAcademy? </h5>
+        <p>The job world is changing so rapidly! Fab Academy will give you the chance to broaden your scope of what is possible in your professional scope, or inspire you to find a new path.  </p>
+        <p>Our alumni have opened their own labs and become network leaders; created their own professional standards which have revolutionized businesses; written books, papers and enhanced their Academic environments. Fab Academy can also be the gateway to becoming a technical assistant in companies, private practices and Universities; a Fab Lab Manager or a Fab Academy Instructor.  </p>
+      </div>
+
+      <div class="col-md-6">
+        <h5>Can I get my company to pay for this? </h5>
+        <p>Of course! Many companies support their employees to take crash courses and advance their team’s skill set. Fab Academy is an excellent opportunity to bootstrap your knowledge both in technical matters as well as project management and development.</p>
+
+        <h5>Can I learn Digital Fabrication on my own?</h5>
+        <p>Yes! Fab Academy content is free. All videos and class instructions are posted every year in the <a href="http://www.fabacademy.org/archive/" target="_blank">Fab Academy Archive.</a></p>
+        <p>What we offer with the fee is access to infrastructure and support, you can see the details
+        <a href="http://www.fabacademy.org/apply/cost-breakdown.html#introduction-to-fab-academy-costs" target="_blank">here</a>. Fab Lab Barcelona is one of the largest Fab Labs in Europe - a pioneer within the network and part of a renowned international Institution - the 
+        <a href="https://iaac.net/" target="_blank">Institute for Advanced Architecture of Catalunya.</a> IAAC is a unique environment to build relationships; learn about the latest practices in the innovation and creative setting and to make long-lasting friends.</p>
+
+        <h5>What do I need for the class?...</h5>
+        <p>Bring your laptop and be ready to change your life!</p>
+
+        <h5>Can I bring my own project to develop?</h5>
+        <p>Yes. Fab Academy takes you through a series of principles and practices that you will integrate into a final project. The whole process can be targeted and the results more fulfilling if you already have a project that is in a state of development. If you don’t have a project, don’t worry..we will inspire you enough to find one!</p>
       </div>
     </div>
   </section>
