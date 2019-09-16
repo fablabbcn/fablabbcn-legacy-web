@@ -70,6 +70,9 @@ nav{
 .btn-dark{
   background-color: #000;
 }
+.btn-outline-dark:hover{
+  background-color: #000;
+}
 
 /* Google Search */
 .gsc-control-cse{
