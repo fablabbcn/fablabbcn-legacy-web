@@ -1,28 +1,29 @@
 ---
-layout: section
+layout: default
 title: News
 ---
 
-<section id="blog-post">
-
+<section id="blog-post" class="mt-5">
   <div class="container">
     <div class="row">
 
       <div class="col-md-8">
         <h1>{{page.title}}</h1>
 
-        <p class="lead">by&nbsp;<u>{{page.author}}</u>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Posted on <u>{{ page.date | date:"%B %d, %Y" }}</u></p>
+        <p class="lead">
+          by <u>{{page.author}}</u>
+          &nbsp;&nbsp;&nbsp;
+          <span class="glyphicon glyphicon-time"></span> Posted on <u>{{ page.date | date:"%B %d, %Y" }}</u>
+        </p>
 
         {{content}}
 
-        <br>
-        <hr id="hr-comments">
       </div>  <!-- col -->
 
-      {% include blog_sidebar.html %}
+      <div class="col-md-4">
+        {% include blog_sidebar.html %}
+      </div>  <!-- col -->
 
     </div> <!-- row -->
   </div> <!-- container -->
 </section>
-
-<div class="container" id="separator-pages-top"></div>

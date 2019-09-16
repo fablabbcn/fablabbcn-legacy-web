@@ -1,53 +1,30 @@
 <!-- Blog Sidebar Widgets Column -->
+<div class="">
+  <h4>Search</h4>
 
-<div class="col-md-4">
+  <div class="input-group">
+    <input type="text" class="form-control">
+    <span class="input-group-btn">
+      <button class="btn btn-default" type="button">
+        <span class="glyphicon glyphicon-search"></span>
+      </button>
+    </span>
+    </input>
+  </div><!-- input-group -->
 
-    <br>
-    <div class="">
+</div>
 
-        <h4>Search</h4>
 
-        <div class="input-group">
-            <input type="text" class="form-control">
-            <span class="input-group-btn">
-              <button class="btn btn-default" type="button">
-                <span class="glyphicon glyphicon-search"></span>
-              </button>
-            </span>
-            </input>
-        </div><!-- input-group -->
-
+<div class="mt-4">
+  <h4>Categories</h4>
+  <div class="row">
+    {% for c in site.categories %}
+    <div class="col-lg-6">
+      <ul class="list-unstyled">
+        <li><a href="/tags#{{c | first}}">{{ c | first }}</a>
+        </li>
+      </ul>
     </div>
-
-
-    <br>
-    <div class="">
-
-        <h4>Categories</h4>
-        <div class="row">
-            {% for c in site.categories %}
-            <div class="col-lg-6">
-                <ul class="list-unstyled">
-                    <li><a href="/tags#{{c | first}}">{{ c | first }}</a>
-                    </li>
-                </ul>
-            </div>
-            {% endfor %}
-        </div> <!-- row -->
-
-    </div>
-
-
-    <br>
-    <div class="">
-        <h4>Share this post:</h4>
-        <br>
-        <span class='st_facebook_large' displayText='Facebook'></span>
-        <span class='st_twitter_large' displayText='Tweet'></span>
-        <span class='st_linkedin_large' displayText='LinkedIn'></span>
-        <span class='st_googleplus_large' displayText='Google +'></span>
-        <span class='st_pinterest_large' displayText='Pinterest'></span>
-        <span class='st_email_large' displayText='Email'></span>
-    </div>
-
-</div> <!-- col -->
+    {% endfor %}
+  </div> <!-- row -->
+</div>

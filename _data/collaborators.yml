@@ -1,28 +1,21 @@
 - name: "CBA"
   logo: /img/collaborations/collab_cba.png
   url: "http://cba.mit.edu/"
-  place: above
 - name: "Adjuntament"
   logo: /img/collaborations/collab_adjuntament.png
   url: "http://ajuntament.barcelona.cat"
-  place: above
 - name: "Fab Foundation"
   logo: /img/collaborations/collab_fab_foundation.png
   url: "https://www.fabfoundation.org"
-  place: above
 - name: "EU Commission"
   logo: /img/collaborations/collab_european_com.png
   url: "http://ec.europa.eu/index_en.htm"
-  place: above
 - name: "Organic City"
   logo: /img/collaborations/collab_organicity.png
   url: "http://organicity.eu/"
-  place: below
 - name: "Made EU"
   logo: /img/collaborations/collab_made_eu.png
   url: "http://www.madeat.eu/"
-  place: below
 - name: "EASTN"
   logo: /img/collaborations/collab_eastn.png
   url: "http://www.eastn.eu/"
-  place: below

@@ -3,99 +3,73 @@ layout: default
 meta: One of the leading laboratories of the worldwide network of Fab Labs
 ---
 
-<!-- ==== Navbar ==== -->
-
-<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
-<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
-<script>
-  window.addEventListener("load", function(){
-    window.cookieconsent.initialise({
-      "palette": {
-        "popup": {
-          "background": "#ffffff"
-        },
-        "button": {
-          "background": "#000000"
-        }
-      },
-      "content": {
-        "message": "This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.",
-        "dismiss": "Accept",
-        "link": "Read More",
-        "href": "https://fablabbcn.org/cookies-policy.html"
-      }
-    })});
-</script>
-
-
-<header>
-
-  {% include nav.html %}
-
-</header><!-- site-header -->
-
-<section id="hero">
-
-  <div class="container" id="carousel-container">
-
-    <div id="carousel-fade" class="carousel slide carousel-fade" data-ride="carousel">
-
-      <div class="carousel-inner">
-        {% include carousel-slider.html %}
-      </div> <!-- carousel-inner -->
-
-      <div class="carousel-caption">
-        <img id="main-logo" src="{{site.baseurl}}/img/logos/logo_fablab_bcn_medium_color.png"/>
-        <br><br>
-        <p>One of the leading laboratories of the worldwide network of Fab Labs</p>	
-        <br>
-        {% include social.html %}
-      </div> <!-- carousel-caption -->
-
-    </div> <!-- carousel-fade -->
-
-  </div> <!-- carousel-container -->
-
-</section> <!-- hero -->
-
-<section id="latest-news-banner">
-  <div class="container">
-    <a target="_blank" href="https://barcelona.makerfaire.com/contact/convocatoria-makers/"><img src="{{site.baseurl}}/uploads/makerfair.gif" class="img-responsive"/>  </a>
-  </div> <!-- container -->
-</section>
-
-<section id="latest-news-banner">
-  <div class="container">
-    <a target="_blank" href="https://iaac.net/educational-programmes/masters-programmes/master-in-design-for-emergent-futures-mdef/"><img src="{{site.baseurl}}/uploads/MDEF.gif" class="img-responsive"/>  </a>
-  </div> <!-- container -->
-</section>
-
-<section id="fabri-banner">
-  <div class="container">
-    <a target="_blank" href="https://fablabbcn.org/fabricademy.html"><img src="{{site.baseurl}}/img/fabricademy/fabri19.jpg" class="img-responsive"/>  </a>
-  </div>
-</section>
-
-<section id="latest-news-banner">
-  <div class="container">
-    <a target="_blank" href="http://fab.city/"><img src="{{site.baseurl}}/img/news_banner/banner_fab_city_m.jpg" class="img-responsive"/>  </a>
-  </div> <!-- container -->
-</section> <!-- section -->
-
-{% include eu_projects.html %}
-
-<section id="latest-news-banner">
-  <div class="container">
-    <a target="_blank" href="https://drive.google.com/file/d/0B1vdN85eXUFEbzQzejhLRXlJZGc/view"><img src="{{site.baseurl}}/img/news_banner/internshipbanner.png" class="img-responsive"/>  </a>
-  </div> <!-- container -->
-</section> <!-- section -->
-
-{% include content_blocks.html %}
-
 <div class="container">
-  <div id="separator"></div>
-</div>
 
-{% include collaborators.html %}
+  <section>
+    <div id="carousel-container">
+      <div id="carousel-fade" class="carousel slide carousel-fade" data-ride="carousel">
+
+        <div class="carousel-inner">
+          {% include carousel-slider.html %}
+        </div> <!-- carousel-inner -->
+
+        <div class="carousel-caption">
+          <img class="img-fluid my-5" id="main-logo" src="{{site.baseurl}}/img/logos/logo_fablab_bcn_medium_color.png" />
+          <h3 class="text-white" style="background: #00000075">One of the leading laboratories of the worldwide network of Fab Labs</h3>
+
+          {% include social.html %}
+
+        </div> <!-- carousel-caption -->
+
+      </div> <!-- carousel-fade -->
+    </div> <!-- carousel-container -->
+  </section> <!-- hero -->
+
+
+  <section>
+    <div class="my-4">
+      <a target="_blank" href="https://barcelona.makerfaire.com/contact/convocatoria-makers/">
+        <img src="{{site.baseurl}}/uploads/makerfair.gif" class="img-fluid"/>
+      </a>
+    </div>
+
+    <div class="my-4">
+      <a target="_blank" href="https://iaac.net/educational-programmes/masters-programmes/master-in-design-for-emergent-futures-mdef/">
+        <img src="{{site.baseurl}}/uploads/MDEF.gif" class="img-fluid"/>
+      </a>
+    </div>
+
+    <div class="my-4">
+      <a target="_blank" href="https://fablabbcn.org/fabricademy.html">
+        <img src="{{site.baseurl}}/img/fabricademy/fabri19.jpg" class="img-fluid"/>
+      </a>
+    </div>
+
+    <div class="my-4">
+      <a target="_blank" href="http://fab.city/">
+        <img src="{{site.baseurl}}/img/news_banner/banner_fab_city_m.jpg" class="img-fluid"/>
+      </a>
+    </div>
+  </section>
+
+  {% include eu_projects.html %}
+
+  <section>
+    <div class="my-4">
+      <a target="_blank" href="https://drive.google.com/file/d/0B1vdN85eXUFEbzQzejhLRXlJZGc/view">
+        <img src="{{site.baseurl}}/img/news_banner/internshipbanner.png" class="img-fluid"/>
+      </a>
+    </div>
+  </section>
+
+  {% include content_blocks.html %}
+
+  <div class="container">
+    <div id="separator"></div>
+  </div>
+
+  {% include collaborators.html %}
+
+</div>
 
 {% include footer.html %}

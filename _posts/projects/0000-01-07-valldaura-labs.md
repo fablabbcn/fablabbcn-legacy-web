@@ -11,7 +11,7 @@ date: 0000-01-04
 
 
 
-###Vision
+### Vision
 
 
 
@@ -20,7 +20,7 @@ cities of the world.
 
 
 
-###Mission
+### Mission
 
 
 
@@ -29,7 +29,7 @@ Make a centre financially self-sufficient, from educational, research, and event
 
 
 
-###Values
+### Values
 
 
 
@@ -41,7 +41,7 @@ IaaC’s Valldaura Self Sufficient Labs campus and its three laboratories — Fo
 
 
 
-###Energy Lab
+### Energy Lab
 
 
 
@@ -50,7 +50,7 @@ Using this system we will be able to evaluate energy use, timing, intensities et
 
 
 
-###Food Lab
+### Food Lab
 
 
 
@@ -58,7 +58,7 @@ Humans need the energy we get from food. Valldaura was an agricultural area in t
 
 
 
-###Green Fab Lab
+### Green Fab Lab
 
 
 
