@@ -1,12 +1,12 @@
 <!-- If you need to add or remove a collaborator, it is done in this repos _data/collaborators.yml file! -->
 <section class="row">
 
-  <div class="col-12 text-center my-4">
+  <div class="col-12 text-center my-5">
     <h2>Collaborators</h2>
   </div> <!-- col -->
 
   {% for item in site.data.collaborators %}
-  <div class="col-6 col-md-4 col-lg-3  border">
+  <div class="col-6 col-md-4 col-lg-3 border">
     <a target="_blank" href={{item.url}}><img src="{{site.baseurl}}{{item.logo}}"/></a>
   </div>
   {% endfor %}
