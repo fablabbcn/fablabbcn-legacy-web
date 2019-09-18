@@ -25,39 +25,31 @@ title: Fab Academy
         </div>
         <div class="modal-body">
           <h4 class="text-center"> Get more info about Fab Academy!</h4>
-          <div class="p-3">
-            <div class="mb-4">
-              <label for="form_name"> First name</label>
-              <input class="fablab-form-input" type="text" value="" name="fname" id="form_name" placeholder="First Name" />
+          <form class="p-3" action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST">
+            <input type=hidden name="oid" value="00D0Y0000034nSN">
+            <input type=hidden name="retURL" value="https://fablabbcn.org/fab_academy">
+
+            <input class="fablab-form-input" placeholder="First name" id="first_name" maxlength="40" name="first_name" size="20" type="text" /><br>
+            <input class="fablab-form-input" placeholder="Last name" id="last_name" maxlength="80" name="last_name" size="20" type="text" /><br>
+            <input class="fablab-form-input" placeholder="Email" id="email" maxlength="80" name="email" size="20" type="text" /><br>
+            <input class="fablab-form-input" placeholder="Country" id="country" maxlength="40" name="country" size="20" type="text" /><br>
+
+            <label for="description">Description</label>
+            <textarea class="mb-3" style="border:1px solid black; width:100%;" rows="4" name="description"></textarea><br>
+
+            <select hidden id="Campaign_ID" name="Campaign_ID">
+              <option value="7011n000000P23M">Leads</option>
+              <option value="7011n000000nhuU">Fab Academy 2019-2020</option>
+            </select>
+
+            <div class="my-3">
+              <input type="checkbox" name="privacy" id="privacy" required="required" value="agree" checked required>
+              <label for="privacy"> I agree to the </label>
+              <a href="/privacy-policy" target="_blank">Privacy Policy</a>
             </div>
 
-            <div class="mb-4">
-              <label for="form_last_name"> Last name</label>
-              <input class="fablab-form-input" type="text" value="" name="lname" id="form_last_name" placeholder="Last Name" />
-            </div>
-
-            <div class="mb-4">
-             <label for="form_email"> Email </label>
-              <input class="fablab-form-input" type="email" value="" name="email" id="form_email" placeholder="Email" />
-            </div>
-
-            <div class="mb-4">
-              <label for="form_country"> Country </label>
-              <input class="fablab-form-input" type="text" value="" name="country" id="form_country" placeholder="Country" />
-            </div>
-
-            <div class="mb-4">
-              <label for="form_comments">Comments?</label>
-              <textarea rows="4" style="border:1px solid black; width:100%;" id="form_comments"></textarea>
-            </div>
-
-            <input type="checkbox" name="privacy" id="privacy" required="required" value="agree">
-            <label for="privacy"> I agree to the </label>
-            <a href="/privacy-policy" target="_blank">Privacy Policy</a>
-          </div>
-        </div>
-        <div class="modal-footer border-top-0">
-          <button type="button" class="btn btn-dark btn-block">Send (FORM DISCONNECTED)</button>
+            <input class="btn btn-dark btn-block" type="submit" name="submit">
+          </form>
         </div>
       </div>
     </div>
@@ -105,13 +97,9 @@ title: Fab Academy
       <p class="mb-4">Do you want to apply or get more information?</p>
 
       <!-- Button trigger modal -->
-      <!-- 
       <button type="button" class="btn btn-dark my-3" data-toggle="modal" data-target="#applyModal">
         Get in touch
       </button>
-      -->
-
-      <a href="mailto:info@fablabbcn.org" class="btn btn-dark">Email us!</a>
 
     </div>
     <!--
