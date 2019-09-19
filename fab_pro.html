@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Fab Pro
+permalink: /fab_pro/
 ---
 
 <section id="fabpro-description">
@@ -14,11 +15,15 @@ title: Fab Pro
         <p>¿Estás interesada o interesado en explorar enfoques innovadores para tu compañía, en el contexto de la economía circular, la fabricación digital, las metodologias de diseño, las políticas de desarrollo o la direccion creativa?<p> 
         <p>El equipo de Fab Lab Barcelona ofrece experiencias personalizadas, capacitación a medida y consultoría estratégica en cualquiera de nuestras sedes: Green Fab Lab en Valldaura, o Fab Lab Barcelona en el distrito maker del Poblenou. Nuestros diez años de experiencia como líderes dentro de la Fab Lab Network y el movimiento de fabricación digital harán de su próximo proyecto un referente en innovación.</p>
       </div>
-      <div class="col-md-12" id="fabpro-our-clients">
+      <div class="col-md-12 text-center" id="fabpro-our-clients">
         <h3>Some of our clients</h3>
-        {% for item in site.data.fab-pro-clients %}
-        <img src="{{site.baseurl}}{{item.img}}"/>
-        {% endfor %}
+        <div class="col-12 d-flex align-items-center justify-content flex-column flex-md-row flex-wrap">
+          {% for item in site.data.fab-pro-clients %}
+          <div class="col-10 col-md-4">
+            <img class="h-100 w-auto" src="{{site.baseurl}}{{item.img}}"/>
+          </div>
+          {% endfor %}
+        </div>
       </div>
     </div>  <!-- row -->
   </div>  <!-- container -->
@@ -55,5 +60,3 @@ title: Fab Pro
     <p><strong>Envíenos su consulta a: <a href="mailto:pro@fablabbcn.org"><u>pro@fablabbcn.org</u></a></strong></p></br>
   </div> <!-- container -->
 </section> <!-- fab pro -->
-
-
