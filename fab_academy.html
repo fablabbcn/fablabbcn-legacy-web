@@ -3,17 +3,25 @@ layout: default
 title: Fab Academy
 ---
 
-<div style="background-image: url({{site.baseurl}}/img/fab_academy/fabacademy2.jpg), linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)); background-blend-mode: overlay; height:500px;"
-     class="container-fluid py-5 mb-5 mt-0" />
+<div style="background-image: url({{site.baseurl}}/img/fab_academy/fabacademy2.jpg),
+  linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)); 
+  background-blend-mode: overlay; 
+  height:500px;
+  background-position-x: center;
+  background-position-y: center;
+  background-size: 100%;"
+  class="container-fluid py-5 mb-5 mt-0">
+  <div class=""></div>
   <div class="text-center" style="margin-top: 150px;">
     <h1 class="text-white display-3 font-weight-bold">Fab Academy Barcelona</h1>
     <h2 class="text-white">Open applications for 2020!</h2>
   </div>
 </div>
 
-<div class="container">
+<div class="container mb-5 pt-4">
 
   <!-- Modal for signup form -->
+  <!-- d-flex justify-content-center align-center -->
   <div class="modal fade" id="applyModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog" role="document">
       <div class="modal-content">
@@ -56,18 +64,39 @@ title: Fab Academy
 
 
   <section class="row">
-    <div class="col-md-6">
+    <div class="col-md-6 p-0">
       <h2>Learn how to prototype your ideas into products!</h2>
       <p>Future brings new challenges, and to face them, new careers are surfacing. Soon, we’ll have Drone Experience Designers, Avatar Programmers and Artificial Organ Designers. In Fab Academy, you will get the chance to see how designs become real, how bits become atoms and how your ideas can impact the world.</p>
       <p>Fab Academy is an intensive ﬁve-month program that teaches students to envision, design and prototype projects using digital fabrication tools and machines. It is a multi-disciplinary and hands-on learning experience that empowers students to learn-by-doing and inspires them to make stuff locally to become active participants in sustainable cities and communities.</p>
     </div>
 
-    <div class="col-md-6">
+    <div class="col-md-6 p-0 pl-md-4">
       <img src="{{site.baseurl}}/img/fab_academy/fabacademy1.jpg" class="img-responsive"/>
+    </div>
+
+    <div class="col-12 d-block justify-content-center mt-4"
+    style="position: relative;
+    padding-top: 56.25%;">
+      <iframe 
+      class="d-flex"
+      width="100%" height="100%"
+      src="https://www.youtube-nocookie.com/embed/RjWEN3ejpvE?controls=0" 
+      frameborder="0" 
+      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen
+      style="position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;">
+      </iframe>
     </div>
   </section>
 
-  <hr>
+  <hr
+  style="
+  margin-left:-1rem!important;
+  margin-right:-1rem!important;">
 
   <section class="row">
     <div class="col-12">
@@ -83,47 +112,68 @@ title: Fab Academy
       <p><strong>Classes:</strong> Monday to Friday (15h - 20h) - Assignments: Weekly + final project </p>
       <p><strong>Final project:</strong> Delivered on June 2020 </p>
       <p><strong>Application Fee:</strong> No fee attributed </p>
+      <p><strong>Language:</strong> The course is taught in English </p>
     </div>
     <div class="col-lg-4">
-      <p><strong>Course Fee:</strong> 6.000 €The course is taught in English </p>
+      <p><strong>Course Fee:</strong> 6.000 €</p>
       <p><strong>Graduation:</strong> Fab Academy Graduation will take place in August, during the annual Fab Lab Conference. 2020 students will graduate in the FAB16 Conference, in Canada</p>
     </div>
   </section>
-  <hr>
+    <hr
+  style="
+  margin-left:-1rem!important;
+  margin-right:-1rem!important;">
 
   <section class="row text-center my-5 justify-content-center">
     <div class="col-md-6">
-      <p class="mb-4">Do you want to apply or get more information?</p>
+      <p class="mb-4"
+      style="
+      font-weight: 600;">
+      Do you want to apply or get more information?</p>
 
       <!-- Button trigger modal -->
-      <button type="button" class="btn btn-dark my-3" data-toggle="modal" data-target="#applyModal">
+      
+      <button type="button" 
+      class="btn btn-dark" 
+      style="width: 16rem;"       
+      data-toggle="modal" data-target="#applyModal">
         Get in touch
       </button>
 
+      <!-- <a href="mailto:info@fablabbcn.org" class="btn btn-dark">Email us!</a> -->
+
     </div>
-    <!--
+    
     <div class="col-md-6">
-      <p class="mb-4">Explore the full program and calendar</p>
-      <a href="http://www.url.com" class="btn btn-outline-dark" target="_blank">Download PDF program</a>
+      <p class="mb-4"
+      style="
+      font-weight: 600;">
+      Explore the full program and calendar</p>
+      <a href="/uploads/FabAcademyBarcelona_Program2020.pdf" download
+      style="width: 16rem;"       
+      class="btn btn-outline-dark" target="_blank">Download PDF program</a>
     </div>
-    -->
+   
   </section>
 
-  <hr>
+    <hr
+  style="
+  margin-left:-1rem!important;
+  margin-right:-1rem!important;">
 
   <section class="row my-4">
     <div class="col-lg-6">
       <h2 class="my-4">The Global Classroom</h2>
       <p>Fab Academy consists of both classes online and offline disciplines, a method which we call "distributed education". Students work on two levels - global and local. The global level, otherwise known as the Global Campus, connects a total of 250 students enrolled in Fab Academy in more than 50 cities worldwide.  The students connect weekly for Global Lectures with Professor Neil Gershenfeld - Director of MIT's Center for Bits and Atoms. After every Global Lecture, in which Prof. Gershenfeld explains the content and lays out the assignment for the week, there is a round of reviews that opens the possibility for students to interact with the rest of the global community.  </p>
-      <p>The Fab Academy program is based on MIT’s popular rapid-prototyping course ‘How To Make (Almost) Anything - both courses are taught by Prof. Neil Gershenfeld. The Fab Academy Diploma is awarded by the Fab Academy community with the support of the Fab Lab Network and Fab Foundation. In the past years, numerous institutions hosting the course have started accrediting the skills developed in the course - you can check these institutions 
-      <a href="http://www.fabacademy.org/about/accreditations.html" target="_blank">here. </a></p>
     </div>
-
+    
     <div class="col-lg-6 mt-4">
       <img src="{{site.baseurl}}/img/fab_academy/fabacademy4.png" class="img-responsive"/>
     </div>
-
-    <div class="col-12 my-3">
+    
+    <div class="col-12 my-3 mb-5">
+      <p>The Fab Academy program is based on MIT’s popular rapid-prototyping course ‘How To Make (Almost) Anything - both courses are taught by Prof. Neil Gershenfeld. The Fab Academy Diploma is awarded by the Fab Academy community with the support of the Fab Lab Network and Fab Foundation. In the past years, numerous institutions hosting the course have started accrediting the skills developed in the course - you can check these institutions 
+      <a href="http://www.fabacademy.org/about/accreditations.html" target="_blank">here. </a></p>
       <p>Over ten years, Fab Lab Barcelona has become a global benchmark for the Fab Academy experience. Students come from every continent to study in Barcelona with the Future Learning Unit and experts from Fab Lab Barcelona. Future of Education specialist and Fab Academy Barcelona Alum Santi Fuentemilla leads the hands-on instruction the lab, supported by experts in digital fabrication, robotics, machine learning, coding and materials. Students in Barcelona study in a professional lab environment. In addition, the course is delivered in collaboration with students from the IAAC Master of Design for Emergent Futures which provides an opportunity to expand ones professional and personal experiences. Alumni of the program have used their future-skills to build leading roles in the global Fab Lab network, established their own design studios and become entrepreneurs in the innovation and social design fields.</p>
     </div>
 
@@ -132,16 +182,19 @@ title: Fab Academy
     </div>
     <div class="col-md-6">
       <h2>A (local) Digital Fabrication Playground</h2>
-      <p> Once enrolled in Fab Academy you will learn how to use the Fab Lab’s digital fabrication tools, machines and skills such as: Project management, Computer design, Computer-controlled cutting, Electronics, 3D scanning and printing, Electronics design, Computer-controlled machining, Embedded programming, Molding and casting, Networking and communications, Mechanical design, Interface and application programming and Machine design.  </p>
+      <p> Once enrolled in Fab Academy you will learn how to use the Fab Lab’s digital fabrication tools, machines and skills such as: Project management, Computer design, Computer-controlled cutting, Electronics, 3D scanning and printing, Electronics design, Computer-controlled machining, Embedded programming, Molding and casting, Networking and communications, Mechanical design, Interface and application programming and Machine design. In addition to the Global Lectures, there are two days each week where you will receive specific support for your project and have access to Fab Lab Barcelona’s workshop and digital fabrication equipment.</p>
     </div>
 
     <div class="col-12 my-3">
-      <p>In addition to the Global Lectures, there are two days each week where you will receive specific support for your project and have access to Fab Lab Barcelona’s workshop and digital fabrication equipment. By the end of the course, you will have the essential knowledge to plan, develop and prototype a final project. You will also have a comprehensive understanding of how to plan a sustainable business and how to share cutting-edge designs in an open-source environment.  </p>
+      <p>By the end of the course, you will have the essential knowledge to plan, develop and prototype a final project. You will also have a comprehensive understanding of how to plan a sustainable business and how to share cutting-edge designs in an open-source environment.  </p>
       <p>The course is delivered in collaboration with students from the IAAC Master of Design for Emergent Futures, this provides an excellent opportunity to expand professional and personal experiences. Previous Alumni of the program have used the future-skills gained to build leading roles in the global Fab Lab network, established their own design studios and have also become entrepreneurs in the innovation and social design fields.  </p>
     </div>
   </section>
 
-  <hr>
+    <hr
+  style="
+  margin-left:-1rem!important;
+  margin-right:-1rem!important;">
 
   <section>
     <h2>Who is it for?</h2>
@@ -149,7 +202,10 @@ title: Fab Academy
     <p>Fab  Lab Barcelona’s Academy consists of technical training but also the creative freedom to develop projects with an analyti-cal and logical approach alongside practical design experience. Students will become acquainted with industry standards, last innovation trends and participate in a booming ecosystem of young scientists and entrepreneurs. Fab Academy is an inspiring creative technical environment in which designers and scientist collaborate, looking to create the maximum positive impact for the planet. </p>
   </section>
 
-  <hr>
+    <hr
+  style="
+  margin-left:-1rem!important;
+  margin-right:-1rem!important;">
 
 
   <!--
@@ -157,7 +213,10 @@ title: Fab Academy
     <h2>Some Student's Projects</h2>
   </section>
 
-  <hr>
+    <hr
+  style="
+  margin-left:-1rem!important;
+  margin-right:-1rem!important;">
 
   -->
 
@@ -198,29 +257,34 @@ title: Fab Academy
     </div>
   </section>
 
-  <hr>
+    <hr
+  style="
+  margin-left:-1rem!important;
+  margin-right:-1rem!important;">
 
   <section>
     <h2>An Innovative Environment</h2>
     <p>Fab Lab Barcelona - IAAC is located in Poblenou, at Barcelona’s 22@ District.</p>
-    <p>Within the District, Poblenou neighborhood is one of the most genuine and prolific metropolitan scenarios of Barcelona city, an epicentre of creativity and innovation where ultra-modern buildings such as the Agbar Tower, Media TIC or the Design Hub Barcelona, coexist with old warehouses, art galleries, organizations, design studios, advertising agencies, higher education centres, production companies, hotels and restaurants. </p>
-    <a href="http://www.poblenouurbandistrict.com/en/about-us/poblenou-urban-district-2/" target="_blank">Poblenou Urban District</a>
+    <p>Within the District, Poblenou neighborhood is one of the most genuine and prolific metropolitan scenarios of Barcelona city, an epicentre of creativity and innovation where ultra-modern buildings such as the Agbar Tower, Media TIC or the Design Hub Barcelona, coexist with old warehouses, art galleries, organizations, design studios, advertising agencies, higher education centres, production companies, hotels and restaurants.     <a href="http://www.poblenouurbandistrict.com/en/about-us/poblenou-urban-district-2/" target="_blank"> (Poblenou Urban District)</a></p>
 
-    <h4 class="mt-4">What is 22@ District?</h4>
+    <h4 class="mt-5">What is 22@ District?</h4>
     <p>What began as an urban renewal project is today’s a powerful source of Urban, Economic, and Social renewal: “22@ Districte de la Innovació” or 22@ Innovation District, hosting the recent plan to consolidate a 
     <a href="https://ajuntament.barcelona.cat/digital/ca/innovacio-digital/make-in-bcn/poblenou-maker-district" target="_blank">“Maker’s District”</a>
     in the area.</p>
 
     <p>The Poblenou Maker District aims to foster interaction within the local community and strengthen reindustrialization process-es in the urban fabric with added-value features, such as the use of cutting-edge technologies for local production, training workers to face new challenges in the workplace in the immediate future and fostering Industry 4.0. Based on an internation-al perspective of the “Fab City”, the construction of a new model for cities using the power of the Maker Movement and the global Fab-Lab network.</p>
 
-    <h4>Explore the neighbourhood</h4>
-    <div class="embed-responsive embed-responsive-16by9">
+    <h4 class="mt-5">Explore the neighbourhood</h4>
+    <div class="mt-4 embed-responsive embed-responsive-16by9">
       <iframe class="embed-responsive-item" src="https://www.google.com/maps/d/embed?mid=1p3kmsJjecqJ_tUwINWj1fVaLdsPIJIiI"></iframe>
     </div>
 
   </section>
 
-  <hr>
+    <hr
+  style="
+  margin-left:-1rem!important;
+  margin-right:-1rem!important;">
 
   <section class="row">
     <div class="col-12">
@@ -234,55 +298,76 @@ title: Fab Academy
         <img style="max-width:150px;" class="rounded-circle my-3" src="{{site.baseurl}}/{{item.image}}" alt="">
       </div>
       <h4>{{ item.name }}</h4>
-      <i>{{ item.title }}</i>
+      <p>{{ item.title }}</p>
       <p>{{ item.description }}</p>
     </div>
     {% endfor %}
   </section>
 
-  <hr>
+    <hr
+  style="
+  margin-left:-1rem!important;
+  margin-right:-1rem!important;">
 
   <section>
-    <h2 class="mb-5">FAQ's About the Program</h2>
+    <h2 class="mb-2">FAQ's About the Program</h2>
     <div class="row">
       <div class="col-md-6">
-        <h5 class="mt-4 mb-2">What do I need to do before doing Fab Academy?</h5>
+        <h5 class="mt-5 mb-2">What do I need to do before doing Fab Academy?</h5>
         <p>Ideally, check tutorials on the subjects you don’t know. This will help you familiarize with key concepts and the learning experience will be smooth
-        👉 <a href="http://fabacademy.org/2019/docs/FabAcademy-Tutorials/" target="_blank">http://fabacademy.org/2019/docs/FabAcademy-Tutorials/</a> </p>
+        👉 <a href="http://fabacademy.org/2019/docs/FabAcademy-Tutorials/" target="_blank">Check tutorials</a></p>
 
-        <h5 class="mt-4 mb-2">What if i never have programmed or 3d printed before? </h5>
+        <h5 class="mt-5 mb-2">What if i never have programmed or 3d printed before? </h5>
         <p>Don’t worry! Fab Academy can be taken on many levels… If you have no background in the subjects of the course, you will get all the basics to learn and produce your assignments. We suggest that you check some tutorials before coming, that will make you feel more confident at the beginning
-        👉 <a href="http://fabacademy.org/2019/docs/FabAcademy-Tutorials/" target="_blank">http://fabacademy.org/2019/docs/FabAcademy-Tutorials</a></p>
+        👉 <a href="http://fabacademy.org/2019/docs/FabAcademy-Tutorials/" target="_blank">Check tutorials</a></p>
 
-        <h5 class="mt-4 mb-2">What kind of job I can get after doing FabAcademy? </h5>
+        <h5 class="mt-5 mb-2">What kind of job I can get after doing FabAcademy? </h5>
         <p>The job world is changing so rapidly! Fab Academy will give you the chance to broaden your scope of what is possible in your professional scope, or inspire you to find a new path.  </p>
         <p>Our alumni have opened their own labs and become network leaders; created their own professional standards which have revolutionized businesses; written books, papers and enhanced their Academic environments. Fab Academy can also be the gateway to becoming a technical assistant in companies, private practices and Universities; a Fab Lab Manager or a Fab Academy Instructor.  </p>
+      
+        <h5 class="mt-5 mb-2">What do I need for the class?...</h5>
+        <p>Bring your laptop and be ready to change your life!</p>
+
       </div>
 
       <div class="col-md-6">
-        <h5 class="mt-4 mb-2">Can I get my company to pay for this? </h5>
+        <h5 class="mt-5 mb-2">Can I get my company to pay for this? </h5>
         <p>Of course! Many companies support their employees to take crash courses and advance their team’s skill set. Fab Academy is an excellent opportunity to bootstrap your knowledge both in technical matters as well as project management and development.</p>
 
-        <h5 class="mt-4 mb-2">Can I learn Digital Fabrication on my own?</h5>
+        <h5 class="mt-5 mb-2">Can I learn Digital Fabrication on my own?</h5>
         <p>Yes! Fab Academy content is free. All videos and class instructions are posted every year in the <a href="http://www.fabacademy.org/archive/" target="_blank">Fab Academy Archive.</a></p>
         <p>What we offer with the fee is access to infrastructure and support, you can see the details
         <a href="http://www.fabacademy.org/apply/cost-breakdown.html#introduction-to-fab-academy-costs" target="_blank">here</a>. Fab Lab Barcelona is one of the largest Fab Labs in Europe - a pioneer within the network and part of a renowned international Institution - the 
         <a href="https://iaac.net/" target="_blank">Institute for Advanced Architecture of Catalunya.</a> IAAC is a unique environment to build relationships; learn about the latest practices in the innovation and creative setting and to make long-lasting friends.</p>
 
-        <h5 class="mt-4 mb-2">What do I need for the class?...</h5>
-        <p>Bring your laptop and be ready to change your life!</p>
-
-        <h5 class="mt-4 mb-2">Can I bring my own project to develop?</h5>
+        <h5 class="mt-5 mb-2">Can I bring my own project to develop?</h5>
         <p>Yes. Fab Academy takes you through a series of principles and practices that you will integrate into a final project. The whole process can be targeted and the results more fulfilling if you already have a project that is in a state of development. If you don’t have a project, don’t worry..we will inspire you enough to find one!</p>
       </div>
     </div>
   </section>
 
-  <hr>
+    <hr
+  style="
+  margin-left:-1rem!important;
+  margin-right:-1rem!important;">
 
   <div class="text-center mb-5 mt-4">
-    <p>Are you ready to change your future?</p>
-    <a href="mailto:info@fablabbcn.org" class="btn btn-dark">Request application</a>
-  </div>
+    <p style="
+    font-size: 2rem;">
+    Are you ready to change your future?</p>
+    <button type="button" 
+    class="btn btn-dark" 
+    style="width: 16rem;"       
+    data-toggle="modal" data-target="#applyModal">
+    Request application
+    </button>  </div>
 
 </div>
+
+<!-- <style>
+  div:nth-last-of-type(){
+    margin-bottom: 5rem;
+  }
+</style> -->
+
+{% include footer.html %}
