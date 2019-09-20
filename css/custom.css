@@ -47,8 +47,12 @@ img{
 }
 
 /* navbar-dark is not dark enough */
-nav{
+.bg-black{
   background-color: #000;
+  color: white;
+}
+.bg-black a{
+  color:white;
 }
 
 .navbar .dropdown-menu{
