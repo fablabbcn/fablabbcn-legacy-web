@@ -16,14 +16,12 @@ title: Fab Pro
       </div>
       <div class="col-md-12 text-center" id="fabpro-our-clients">
         <h3>Some of our clients</h3>
-        <div class="col-12 d-flex align-items-center justify-content flex-column flex-md-row flex-wrap">
-          {% for item in site.data.fab-pro-clients %}
-          <div class="col-10 col-md-4">
-            <img class="h-100 w-auto" src="{{site.baseurl}}{{item.img}}"/>
-          </div>
-          {% endfor %}
-        </div>
       </div>
+        {% for item in site.data.fab-pro-clients %}
+        <div class="col-sm-6 col-md-4 text-center">
+          <img class="img-fluid" src="{{site.baseurl}}{{item.img}}"/>
+        </div>
+        {% endfor %}
     </div>  <!-- row -->
   </div>  <!-- container -->
 </section>  <!-- fabpro description -->
