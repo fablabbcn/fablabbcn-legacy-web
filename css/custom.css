@@ -132,3 +132,14 @@ img{
   border-bottom: 3px solid transparent;
   border-top: 3px solid #000000;
 }
+
+@media (max-width: 992px) {
+
+  .fabLab-header{
+    font-size: 3rem;
+  }
+
+  .fablab-subheader{
+    font-size: 1.6rem;
+  }
+}
