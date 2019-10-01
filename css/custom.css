@@ -72,6 +72,30 @@ img{
   font-weight: 600;
 }
 
+.btn-fablab-blue{
+  color: #fff;
+  background-color: #0c1fd6;
+  border-color: #0c1fd6;
+}
+
+.btn-fablab-blue:hover{
+  color: #fff;
+  background-color: #3041DC;
+  border-color: #fff;
+}
+
+.btn-fablab-blue-2{
+  color: #0c1fd6;
+  background-color: #fff;
+  border-color: #0c1fd6;
+}
+
+.btn-fablab-blue-2:hover{
+  color: #fff;
+  background-color: #0c1fd6;
+  border-color: #0c1fd6;
+}
+
 .btn-dark{
   background-color: #000;
 }
@@ -132,6 +156,108 @@ img{
   border-bottom: 3px solid transparent;
   border-top: 3px solid #000000;
 }
+
+/* Sharing Buttons for Social Media */
+.box-btn-media{
+  position: fixed;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.box-btn-media,
+.box-btn-media ul,
+.box-btn-media li {
+  margin: 0;
+  padding: 0;
+  width: fit-content;
+  height: fit-content;
+  list-style: none;
+}
+
+ul li:first-of-type .sm-btn {
+  border-top-right-radius : 5px;
+}
+
+ul li:last-of-type .sm-btn {
+  border-bottom-right-radius : 5px;
+}
+
+.sm-link,
+.sm-btn-icon {
+  margin-right: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.sm-link {
+  width: fit-content;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  color: #fff;
+}
+
+.sm-link:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
+.sm-btn {
+  padding: 0.5em 0.75em;
+  height: 40px;
+  width: 40px;
+  background: #000;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  font-family: "Helvetica nue",Helvetica,Arial,sans-serif;
+  transition: 0.2s;
+}
+
+li:hover .sm-btn {
+  border-top-right-radius : 5px;
+  border-bottom-right-radius : 5px;
+  width: fit-content;
+  transition: 0.2s;
+}
+
+.sm-btn-icon svg {
+  width: 1em;
+  height: 1em;
+  margin-right: 0.4em;
+  vertical-align: top;
+}
+
+.sm-btn-icon {
+  fill: #fff;
+  stroke: none
+}
+
+.sm-btn-facebook:hover,
+.sm-btn-facebook:active {
+  background-color: #3b5998;
+  border-color: #3b5998;
+}
+
+.sm-btn-twitter:hover,
+.sm-btn-twitter:active {
+  background-color: #55acee;
+  border-color: #55acee;
+}
+
+.sm-btn-email:hover,
+.sm-btn-email:active {
+  background-color: #777777;
+  border-color: #777777;
+}
+
+.box-btn-media span{
+  margin-left: 3px;
+  font-size: .9rem;
+}
+/* [END] Sharing Buttons for Social Media */
 
 @media (max-width: 992px) {
 
