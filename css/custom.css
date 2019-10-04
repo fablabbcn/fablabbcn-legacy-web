@@ -166,11 +166,6 @@ img{
   transform: translateY(-50%);
 }
 
-.hw-fit{
-  width: fit-content;
-  height: fit-content;
-}
-
 ul li:first-of-type .social-btn {
   border-top-right-radius : 5px;
 }
@@ -179,15 +174,10 @@ ul li:last-of-type .social-btn {
   border-bottom-right-radius : 5px;
 }
 
-.social-link {
-  width: fit-content;
-}
-
 .social-btn {
   padding: 0.5em 0.75em;
   height: 40px;
   width: 40px;
-  background: #000;
   font-family: "Helvetica nue",Helvetica,Arial,sans-serif;
   transition: 0.1s;
 }
@@ -200,10 +190,7 @@ li:hover .social-btn {
 }
 
 .social-btn-icon svg {
-  width: 1em;
   height: 1em;
-  margin-right: 0.4em;
-  vertical-align: top;
 }
 
 .social-btn-icon {
