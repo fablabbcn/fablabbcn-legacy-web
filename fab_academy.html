@@ -196,6 +196,19 @@ title: Fab Academy
   <hr>
 
   <section>
+    <div id="video-gallery">
+      {% for item in site.data.fabacademy-video-slider-2019 %}
+      <a href="{{ item.url }}" >
+        <img src="img/video-thumb-{{ forloop.index }}" alt="Thumbnail"/>
+        {{foorloop.index}}
+      </a>
+        {% endfor %}
+    </div>
+  </section>
+
+  <hr>
+
+  <section>
 
     <h2> Student’s Projects</h2>
 
