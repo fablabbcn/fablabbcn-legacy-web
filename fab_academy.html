@@ -150,16 +150,15 @@ title: Fab Academy
 
   <hr>
 
-  <div class="mt-4 embed-responsive embed-responsive-16by9">
-    <iframe
-      class="embed-responsive-item"
-      src="https://www.youtube-nocookie.com/embed/RjWEN3ejpvE?controls=0"
-      frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen
-      >
-    </iframe>
-  </div>
+  <section>
+    <div id="video-gallery" class="row">
+      {% for item in site.data.fabacademy-video-slider-2019 %}
+        <a class="col-sm-6 col-lg-4 mb-4" href="{{ item.url }}" >
+          <img src="img/fab_academy/video-thumb{{ forloop.index }}.jpg" alt="Thumbnail"/>
+        </a>
+      {% endfor %}
+    </div>
+  </section>
 
   <hr>
 
@@ -190,19 +189,6 @@ title: Fab Academy
     <div class="col-12 my-3">
       <p>By the end of the course, you will have the essential knowledge to plan, develop and prototype a final project. You will also have a comprehensive understanding of how to plan a sustainable business and how to share cutting-edge designs in an open-source environment.  </p>
       <p>The course is delivered in collaboration with students from the IAAC Master of Design for Emergent Futures, this provides an excellent opportunity to expand professional and personal experiences. Previous Alumni of the program have used the future-skills gained to build leading roles in the global Fab Lab network, established their own design studios and have also become entrepreneurs in the innovation and social design fields.  </p>
-    </div>
-  </section>
-
-  <hr>
-
-  <section>
-    <div id="video-gallery">
-      {% for item in site.data.fabacademy-video-slider-2019 %}
-      <a href="{{ item.url }}" >
-        <img src="img/video-thumb-{{ forloop.index }}" alt="Thumbnail"/>
-        {{foorloop.index}}
-      </a>
-        {% endfor %}
     </div>
   </section>
 
