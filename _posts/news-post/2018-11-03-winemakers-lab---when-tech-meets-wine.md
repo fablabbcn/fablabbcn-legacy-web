@@ -34,7 +34,7 @@ Catalonia has an [ancient relationship with winemaking](https://en.wikipedia.org
 Winemakers Lab focuses on the process of winemaking, and engages maker technology to enable these technical processes at home. Classes cover introduction to viticulture, biology, harvesting and fermentation and are coupled with digital fabrication, Arduino, data capture and analysis, sensor technology. The combination of these two fields present an at-home solution for perfecting wine, it is monitored, analysed and stabilized before being bottled. Of course, classes also cover the appreciation of wine with sommelier skills and tasting to capture the social importance of wine and it's place in the Catalan culture.
 {: .present-before-paste}
 
-More information about the processes covered in Winemakers Lab can be seen on their [github page](https://github.com/winemakers/resources ), or follow Fab Lab Barcelona on [Facebook](https://www.facebook.com/FabLab.BCN), [Instagram](https://www.instagram.com/fablabbcn/) or [Twitter.](https://twitter.com/fablabbcn)
+More information about the processes covered in Winemakers Lab can be seen on their [github page](https://github.com/winemakers/resources), or follow Fab Lab Barcelona on [Facebook](https://www.facebook.com/FabLab.BCN), [Instagram](https://www.instagram.com/fablabbcn/) or [Twitter.](https://twitter.com/fablabbcn)
 {: .present-before-paste}
 
 Photos by Manuela Reyes
