@@ -92,8 +92,6 @@
 - name: Tue Ngo
   image: img/team/tue.jpg
   title: Software Developer
-  fb:
-  twitter: 
   linkedin: https://www.linkedin.com/in/tue-m-ngo-2b544489/
 
 - name: Thony Nava
@@ -106,10 +104,8 @@
 - name: Pablo Muñoz Unceta
   image: img/team/Pablo_.jpg
   title: Researcher
-  fb: 
-  twitter: 
   linkedin: https://www.linkedin.com/in/pablomunozunceta/
-  
+
 - name: Alessandra Schmidt
   image: https://iaac.net/wp-content/uploads/2018/11/Alessandra.jpg
   title: Action Researcher
@@ -121,40 +117,33 @@
   image: https://avatars0.githubusercontent.com/u/49023078?s=460&v=4
   title: Content Writer / Fab City Hub 
   fb: https://www.facebook.com/emily.whyman
-  twitter: 
   linkedin: https://www.linkedin.com/in/emily-whyman-3333a765/
 
 - name: Paula Sánchez Toribio
   image: https://media.licdn.com/dms/image/C4D03AQHXzyc5dfWgyA/profile-displayphoto-shrink_200_200/0?e=1580947200&v=beta&t=BZxYGD54eBvQS6qN8SA_akId-tbo7w384wgnb0lnmME
   title: Communications Manager   
-  fb: 
-  twitter: 
   linkedin: www.linkedin.com/in/paulasancheztoribio
-  
+
 - name: Jessica Guy
   image: img/team/Jessica.jpg
   title: Fab City Hub Manager / Junior Researcher
-  fb: 
-  twitter: 
   linkedin: https://www.linkedin.com/in/jessica-guy-2a9b59168/
-  
-    
+
 - name: Marcel Rodríguez
   image: img/team/Marcel.jpg
   title: Communications & Creative Strategist
   linkedin: https://www.linkedin.com/in/marcel-rodr%C3%ADguez/
-  
+
 - name: Lina Sofía Córdoba
   image: img/team/Lina.JPG
   title: Audiovisual Maker
   linkedin: https://www.linkedin.com/in/lina-sofia-cordoba-flechas-788a3b6a/
-  
-  
+
 - name: Estela 
   image: img/team/estela.jpg
   title: Licker Machine
   instagram: https://www.instagram.com/laestelamaria/
-  
+
 - name: Manuela Reyes Guerrero
   image: img/team/Manuela.jpg
   title: Visual & Production Designer
@@ -163,6 +152,4 @@
 - name: Milena Calvo Juarez
   image: img/team/Milena_.jpg
   title: Sustainability & Action Researcher
-  fb: 
-  twitter: 
   linkedin: https://www.linkedin.com/in/milena-calvo-juarez-b6785baa/
