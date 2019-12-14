@@ -57,9 +57,6 @@
 - name: Victor Barberan
   image: img/team/victor_.jpg
   title: Hardware & Software Developer at Fab Lab Barcelona
-  fb: 
-  twitter: 
-  linkedin: 
 
 - name: Matias Verderau
   image: img/team/matias_.jpg
@@ -93,13 +90,6 @@
   image: img/team/tue.jpg
   title: Software Developer
   linkedin: https://www.linkedin.com/in/tue-m-ngo-2b544489/
-
-- name: Thony Nava
-  image: img/team/ThonyNava_.jpg
-  title: Software Developer / Designer
-  fb: https://www.facebook.com/ThonyNava.io/
-  twitter: https://twitter.com/ThonyNava_io
-  linkedin: https://www.linkedin.com/in/thonynava/?locale=en_US
 
 - name: Pablo Muñoz Unceta
   image: img/team/Pablo_.jpg
