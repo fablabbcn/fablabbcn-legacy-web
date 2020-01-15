@@ -3,7 +3,7 @@
   {% for item in site.data.employees %}
 
   <div class="col-sm-6 col-md-4 col-lg-3 team-item mb-5">
-    <img style="max-width:150px;" class="rounded-circle" src="{{site.baseurl}}{{ item.image }}" alt="">
+    <img style="width:150px; height: 150px; filter: grayscale(100%); object-fit: cover; object-position: center;" class="rounded-circle" src="{{site.baseurl}}{{ item.image }}" alt="">
     <h4 class="mt-2"> {{ item.name }} </h4>
     <p>{{item.title}}</p>
 
@@ -15,6 +15,9 @@
     {% endif %}
     {% if item.linkedin %}
     <a style="color:black; padding:7px;" target="_blank" href="{{item.linkedin}}"><i class="fa fa-linkedin-square fa-lg"></i></a>
+    {% endif %}
+    {% if item.instagram %}
+    <a style="color:black; padding:7px;" target="_blank" href="{{item.instagram}}"><i class="fa fa-instagram fa fa-lg"></i></a>
     {% endif %}
   </div>
 
