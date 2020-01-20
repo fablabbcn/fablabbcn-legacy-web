@@ -91,7 +91,14 @@
   fb:
   twitter:
   linkedin:
-
+  
+- name: Eduardo Chamorro Martin
+  image: img/team/eduardochamorro.jpg
+  title: Fab Academy Barcelona Instructor / Digital Fabrication Researcher
+  fb: https://www.facebook.com/eduardo.chamorromartin
+  instagram: https://www.instagram.com/beans_reels/
+  linkedin: https://es.linkedin.com/in/eduardo-chamorro-33574972
+  
 - name: Tue Ngo
   image: img/team/tue_.jpg
   title: Software Developer
@@ -166,9 +173,4 @@
   twitter: https://twitter.com/irealone
   linkedin: https://www.linkedin.com/in/marion-real-01428935/
   
-- name: Eduardo Chamorro Martin
-  image: img/team/eduardochamorro.jpg
-  title: Fab Academy Barcelona Instructor / Digital Fabrication Researcher
-  fb: https://www.facebook.com/eduardo.chamorromartin
-  twitter: 
-  linkedin: https://es.linkedin.com/in/eduardo-chamorro-33574972
+
