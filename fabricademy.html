@@ -37,17 +37,18 @@ title: Fabricademy
                 </div>
                 <div class="modal-body">
                     <h4 class="text-center"> Get more info about Fabricademy!</h4>
-                    <form class="p-3" action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST">
+
+                    <form name ="submit-to-google-sheet" class="p-3" onSubmit="" >
                         <input type=hidden name="oid" value="00D0Y0000034nSN">
                         <input type=hidden name="retURL" value="https://fablabbcn.org/fab_academy#modal-thanks">
 
-                        <input class="fablab-form-input" placeholder="First name" id="first_name" maxlength="40" name="first_name" size="20" type="text"required/><br>
-                        <input class="fablab-form-input" placeholder="Last name" id="last_name" maxlength="80" name="last_name" size="20" type="text"required/><br>
+                        <input class="fablab-form-input" placeholder="First name" id="first_name" maxlength="40" name="firstName" size="20" type="text"required/><br>
+                        <input class="fablab-form-input" placeholder="Last name" id="last_name" maxlength="80" name="lastName" size="20" type="text"required/><br>
                         <input class="fablab-form-input" placeholder="Email" id="email" maxlength="80" name="email" size="20" type="text"required/><br>
                         <input class="fablab-form-input" placeholder="Country" id="country" maxlength="40" name="country" size="20" type="text"required/><br>
 
                         <label for="description">Description</label>
-                        <textarea class="mb-3" style="border:1px solid black; width:100%;" rows="4" name="description"></textarea><br>
+                        <textarea class="mb-3" style="border:1px solid black; width:100%;" rows="4" name="description" id="description"></textarea><br>
 
                         <input type="hidden" name="Campaign_ID" value="7011n000000SB90AAG" />
                         <input type="hidden" name="member_status" value="Lead" />
@@ -456,3 +457,19 @@ The FAB16 conference consists of both online and offline activities such as even
 
 
 {% include footer.html %}
+
+<script src="https://wzrd.in/standalone/formdata-polyfill"></script>
+<script src="https://wzrd.in/standalone/promise-polyfill@latest"></script>
+<script src="https://wzrd.in/standalone/whatwg-fetch@latest"></script>
+
+<script>
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbzoerSklXD1xC9JUZMdmYN8zVdq1-tVpzM1eqcf/exec'
+    const form = document.forms['submit-to-google-sheet']
+
+    form.addEventListener('submit', e => {
+        e.preventDefault()
+        fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+            .then(response => console.log('Success!', response))
+            .catch(error => console.error('Error!', error.message))
+    })
+</script>
