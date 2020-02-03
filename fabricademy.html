@@ -1,159 +1,475 @@
 ---
 layout: default
+title: Fabricademy
 ---
 
-
-<div class="container">
-
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdI4FeDxY5kiNt6qTU1j-0Fm_Hpp8TcODgGhxre5IynFnxPlA/viewform" target="blank">
-    <img src="{{site.baseurl}}/img/fabricademy/fabri19.jpg" class="img-fluid"/>
-  </a>
-
-  <section id="news" class="row my-5">
-    <div class="col-md-6">
-      <div><img src="{{site.baseurl}}/img/fabricademy/01.jpg" class="img-fluid"/></div>
+<div style="background-image: url({{site.baseurl}}/img/fabricademy/fabri19.jpg),
+  linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+  background-blend-mode: overlay;
+  min-height:500px;
+  background-position-x: center;
+  background-position-y: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: -1rem;"
+     class="container-fluid d-flex align-items-center justify-content-center mt-lg-0">
+    <div class=""></div>
+    <div class="text-center">
+        <h1 class="fabLab-header text-white display-3 font-weight-bold">Fabricademy Barcelona</h1>
+        <h2 class="fablab-subheader text-white">Open applications for 2020!</h2>
+        <button type="button" class="btn btn-secondary mt-3 px-5" data-toggle="modal" data-target="#applyModal">
+            Request application
+        </button>
     </div>
-    <div class="col-md-6 ">
-      <h2>A Journey at the Intersection of Textiles, Digital Fabrication and Biology.</h2>
-      <br/>
-      <p>Fabricademy is a transdisciplinary course that focuses on the development of new technologies for the textile industry, including the fashion industry and the upcoming wearable market.</p>
-      <br/>
-      <p>The six month program is divided into two learning phases: three months of seminars and learning modules delivered via the distributed Textile Academy network and three months of mentored individual project development.</p><br/>
-      <a class="btn btn-dark mb-4" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdI4FeDxY5kiNt6qTU1j-0Fm_Hpp8TcODgGhxre5IynFnxPlA/viewform">
-        APPLY HERE
-      </a>
-      <p>See more information about the global academy program
-        <a target="_blank" href="http://textile-academy.org/about/"><strong>here.</strong></a>
-      </p>
-    </div>
-  </section>
+</div>
 
-  <section>
-    <div class="separator-solid"><h3>WHAT IS FABRICADEMY?</h3></div>
-    <div class="embed-responsive embed-responsive-16by9 mb-4">
-      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/RtBYWS2txjs?autoplay=0&loop=1&playlist=RtBYWS2txjs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen muted autoplay loop playsinline></iframe>
-    </div>
-    <p>The textile industry is in need of more humane, ecologically sound and efficient ways of working. Fabricademy at Fab Lab Barcelona equips students with the skills and knowledge to be key players in shaping this emerging future of textiles.</p>
+<div class="container mb-5 mt-5 pt-4 pb-4">
 
-    <p>The Fabricademy program asks students to rethink industrial processes in an open and experimental laboratory. Merging tradition and advanced technologies, students learn a range of skills from digital fabrication to synthetic biology, and will work across the creation, production and distribution of textile and fashion elements to help them establish their career as future textile professionals. Learning is supported by experts from the field who help students investigate how the textile and fashion industry can benefit from new technologies, processes and business models.</p>
+    <!-- Modal for signup form -->
+    <div class="modal fade" id="applyModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header border-bottom-0">
+                    <h5 class="modal-title" id="exampleModalLabel"></h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <h4 class="text-center"> Get more info about Fabricademy!</h4>
 
-    <img src="{{site.baseurl}}/img/fabricademy/05.jpg" class="img-fluid mb-4"/>
+                    <form name ="submit-to-google-sheet" class="p-3" onSubmit="" >
+                        <input type=hidden name="oid" value="00D0Y0000034nSN">
+                        <input type=hidden name="retURL" value="https://fablabbcn.org/fab_academy#modal-thanks">
 
-    <p>Working in an open laboratory, students experiment with the human body and culture by recycling, hacking and sensing. Rapid prototyping is used to create real-time feedback loops for project development, in which materials, aesthetics, sustainability and customization play equal and important roles. Students use acquired knowledge to develop a final project which may intersect multiple sectors of the future textile and fashion industry.</p>
-  </section>
+                        <input class="fablab-form-input" placeholder="First name" id="first_name" maxlength="40" name="firstName" size="20" type="text"required/><br>
+                        <input class="fablab-form-input" placeholder="Last name" id="last_name" maxlength="80" name="lastName" size="20" type="text"required/><br>
+                        <input class="fablab-form-input" placeholder="Email" id="email" maxlength="80" name="email" size="20" type="text"required/><br>
+                        <input class="fablab-form-input" placeholder="Country" id="country" maxlength="40" name="country" size="20" type="text"required/><br>
 
-  <section id="news">
-    <div class="separator-solid">
-      <h3>FABRICADEMY IN BARCELONA</h3>
-    </div>
-    <p>Studying at Fab Lab Barcelona, students are mentored by Anastasia Pistofidou, leader of Material and Textile research body FabTextiles and the co-founder and director of the global Fabricademy program. With dedicated biomaterial labs, access to two professional Fab Labs and a third Green Fab Lab at Valldaura Campus of IAAC in the Collserola National Park, Fabricademy Barcelona provides an unprecedented experience for students to study in a unique environment. The international IAAC environment welcomes students from 68 countries and over 200 disciplines, which provides all students on campus the opportunity to expand their professional and personal experiences. Alumni of the program have used their future-skills to build leading roles in the global Fab Lab network, established their own design studios and become entrepreneurs in the innovation and new materials fields.</p><br/>
-  </section>
+                        <label for="description">Description</label>
+                        <textarea class="mb-3" style="border:1px solid black; width:100%;" rows="4" name="description" id="description"></textarea><br>
 
-  <section>
-    <h3><strong>Program Competencies</strong></h3>
+                        <input type="hidden" name="Campaign_ID" value="7011n000000SB90AAG" />
+                        <input type="hidden" name="member_status" value="Lead" />
 
-    <p>The Fabricademy program aims to train motivated and passionate professionals with the critical, analytic and practical skills needed to rethink and redesign the systems at play in the global textile industry. Working collaboratively and motivated individually, students learn and practice new skills weekly and apply this knowledge to the development of a final project. Students are trained to be enterprising creative workers capable of innovating for change. Students undertake twenty weeks of core competancies:</p>
+                        <div class="my-3">
+                            <input type="checkbox" name="privacy" id="privacy" required="required" value="agree" checked required>
+                            <label for="privacy"> I agree to the </label>
+                            <a href="/privacy-policy" target="_blank">Privacy Policy</a>
+                        </div>
 
-    <ul>
-      <li>State of the art, project management and documentation</li>
-      <li>Digital Bodies</li>
-      <li>Circular Open Source Fashion</li>
-      <li>Bio dyes & Biofabrics</li>
-      <li>E-textiles & Wearables</li>
-      <li>Computational Couture</li>
-      <li>Textile as Scaffold</li>
-      <li>Open source Hardware- from fibers to fabric</li>
-      <li>E-textiles & Wearables II</li>
-      <li>Implications and applications</li>
-      <li>Soft Robotics</li>
-      <li>Skin electronics</li>
-    </ul>
-
-    <a class="btn btn-dark mb-4" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdI4FeDxY5kiNt6qTU1j-0Fm_Hpp8TcODgGhxre5IynFnxPlA/viewform">
-      APPLY HERE
-    </a>
-    <p>See more information about the global academy program
-    <a target="_blank" href="http://textile-academy.org/about/"><strong>here.</strong></a>
-    </p>
-  </section>
-
-  <section>
-    <h3>PROGRAM DETAILS</h3>
-
-    <h3>Program director</h3>
-
-    <div>
-      <div><img style="max-width:150px;" class="rounded-circle" src="{{site.baseurl}}/img/team/anastasia__.jpg" alt=""></div>
-      <br/>
-      <h4>Anastasia Pistofidou</h4>
-    </div>
-
-    <p>Anastasia is co-founder and directorial faculty of the Fabricademy program and director of Fab Textiles at Fab Lab Barcelona, where she is using advanced technologies to influence the way we think and act towards the fashion industry. She is an expert in digital fabrication and has a practice dedicated to developing and advocating for new materials such as bioplastics. Her work has been featured in VICE Spain, serves on the Scientific Committee of Reshape, is a faculty member of IAAC's Master of Design in Emergent Futures and is a regular curatorial contributor to the global Fab Lab network's Textile Academy annual exhibition.</p>
-
-    <h3><strong>Program assistant</strong></h3>
-    <br/>
-    <div>
-      <div><img style="max-width:150px;" class="rounded-circle" src="{{site.baseurl}}/img/team/ana_correa__.png" alt=""></div>
-      <br/>
-      <h4>Ana Correa</h4>
-    </div>
-    <p>Ana is a Colombian Industrial Designer with experience in creation of textile products for fashion and branding, and project managing. Passionate for digital fabrication technologies focusing in research of 3D printing on textiles as an innovative and sustainable process in the Fashion Industry. She is a member of Fabtextiles at FabLab Barcelona.</p><br/>
-
-    <h3><strong>Program details</strong></h3>
-    <br/>
-    <ul>
-      <li><strong>Duration:</strong> 6 months full time</li>
-      <li><strong>Phase 1:</strong> Mid-September to December 2019</li>
-      <li><strong>Phase 2:</strong> January to May 2020</li>
-      <li><strong>Assignments:</strong> Weekly for the first three months</li>
-      <li><strong>Final project:</strong> Delivered May 2020</li>
-      <li><strong>Graduation:</strong> Fabricademy Graduation will take place in August, during the annual FabLab Conference. 2019-20 students will graduate in the FAB16 Conference, in Canada.</li>
-      <li><strong>Application Fee:</strong> No fee attributed</li>
-      <li><strong>Course Fee:</strong> 6.500 Dollars</li>
-    </ul>
-    <a class="btn btn-dark my-3" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdI4FeDxY5kiNt6qTU1j-0Fm_Hpp8TcODgGhxre5IynFnxPlA/viewform">
-      APPLY HERE
-    </a>
-    <p>See more information about the global academy program
-    <a target="_blank" href="http://textile-academy.org/about/"><strong>here.</strong></a>
-    </p>
-  </section>
-
-  <section>
-    <div class="separator-solid"><h3>CHECK LAST YEARS FABRICADEMY BCN PROJECTS</h3></div>
-
-    <h4><strong>2018 - 2019</strong></h4>
-    <div class="row">
-      <!-- If you need to add or remove a video in class 2018-2019, it is done in this repos _data/fabricademy-slider-2018.yml file! -->
-      {% for item in site.data.fabricademy-slider-2018 %}
-      <div class="col-md-6 mb-2">
-        <div class="embed-responsive embed-responsive-16by9">
-          <iframe class="embed-responsive-item" frameborder="0" allow="autoplay; fullscreen" src="{{site.baseurl}}{{item.video}}"></iframe>
+                        <input class="btn btn-dark btn-block" type="submit" name="submit" value="Send" onclick="fbq('track', 'Lead'); gtag('event', 'FabricademyLead'); ">
+                    </form>
+                </div>
+            </div>
         </div>
-      </div>
-      {% endfor %}
     </div>
 
-    <h4 class="mt-5"><strong>2017 - 2018</strong></h4>
-    <div class="row">
-      <!-- If you need to add or remove a video in class 2017-2018, it is done in this repos _data/fabricademy-slider-2017.yml file! -->
-      {% for item in site.data.fabricademy-slider-2017 %}
-      <div class="col-md-6 mb-2">
-        <div class="embed-responsive embed-responsive-16by9">
-          <iframe class="embed-responsive-item" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" src="{{site.baseurl}}{{item.video}}"></iframe>
+
+    <!-- Modal Thank you -->
+    <div class="modal fade" id="finishModal" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content bg-light">
+                <div class="modal-header border-bottom-0">
+                    <h5 class="modal-title"></h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body text-center">
+                    <h4 class="mb-5">Thank you for your interest in Fabricademy Barcelona!</h4>
+                    <p>We'll get back to you as soon as possible!</p>
+                    <button type="button" class="btn btn-sm btn-dark mt-3" data-dismiss="modal">Close</button>
+                </div>
+            </div>
         </div>
-      </div>
-      {% endfor %}
     </div>
-  </section>
 
-  <section>
-    <h4 class="mt-5">Fabricademy Barcelona has initiated a collaboration with EURECAT technological center and the program of REIMAGINE textiles allowing students to use work at their premises of CRTTT (Canet de Mar).</h4>
-    <br/>
-    <div class="row justify-content-around">
-      <div><a href="https://eurecat.org/"><img style="max-width:150px;" src="{{site.baseurl}}/img/collaborations/logo-eurecat.jpg" alt=""></a></div>
-      <div><a href="https://reimaginetextile.com/"><img style="max-width:150px;" src="{{site.baseurl}}/img/collaborations/logo-reimagine.png" alt=""></a></div>
+    <section class="row">
+        <div class="col-lg-6">
+            <h2>A Journey at the Intersection of Textiles, Digital Fabrication and Biology.</h2>
+            <p>Fabricademy is a transdisciplinary course that focuses on the development of new technologies applied in the textile industry, in its broad range of applications, from the fashion industry to the upcoming wearable market.</p>
+        </div>
+        <div class="col-lg-6 pl-lg-4">
+            <img src="{{site.baseurl}}/img/fabricademy/01.jpg" class="img-responsive"/>
+        </div>
+    </section>
+
+    <hr>
+
+    <section class="row text-center my-5 justify-content-center">
+        <div class="col-lg-6">
+            <p class="mb-3 mb-lg-4 font-weight-bold">
+                Do you want to apply or get more information?
+            </p>
+
+            <!-- Button trigger modal -->
+            <button type="button" class="btn btn-secondary" style="width: 16rem;" data-toggle="modal" data-target="#applyModal">
+                Get in touch
+            </button>
+
+        </div>
+
+        <div class="col-lg-6 mt-5 mt-lg-0">
+            <p class="mb-3 mb-lg-4 font-weight-bold">
+                Explore the full program
+            </p>
+            <a href="https://textile-academy.org/about/" style="width: 16rem;" class="btn btn-outline-secondary" target="_blank">
+                See more information
+            </a>
+        </div>
+    </section>
+
+    <hr>
+
+    <section class="row">
+        <div class="col-12">
+            <h2 class="my-3">Program Details</h2>
+        </div>
+
+        <div class="col-lg-4">
+            <p><strong>Course Length:</strong> Sept 2019 — March 2020 (6 months) </p>
+            <p><strong>Classes:</strong> Mo, Tu, Wed, 15:00-21:00 p.m</p>
+          
+        </div>
+        <div class="col-lg-4">
+            <p><strong>Where?</strong> Where? Fab Lab Barcelona - IAAC</p>
+            <p><strong>Price:</strong> 6.500€ + VAT</p>
+            <p><strong>Application Fee:</strong> No fee attributed </p>
+            <p><strong>Language:</strong> English / Spanish </p>
+        </div>
+        <div class="col-lg-4">
+            <p><strong>Admissions Requirements:</strong> University or college degree in Engineering and Industrial Design, Industrial Engineering, Product Design, Fashion Design, etc.</p>
+        </div>
+    </section>
+
+    <hr>
+
+    <!--<section>
+        <div id="video-gallery" class="row">
+            {% for item in site.data.fabricademy-slider-2018 %}
+            <a class="col-sm-6 col-lg-4 mb-4" href="{{ item.url }}" >
+                <img src="img/fab_academy/video-thumb{{ forloop.index }}.jpg" alt="Thumbnail"/>
+                <img src="img/fab_academy/play.png" class="position-absolute" height="40px" style="top:38%; left: 45%" alt="Play icon"/>
+            </a>
+            {% endfor %}
+        </div>
+    </section>
+
+    <hr>-->
+
+    <section class="row my-4">
+        <div class="col-lg-6">
+            <h2 class="my-4">Change how you think, not just what you wear</h2>
+            <p>The textile industry is in need of more humane, ecologically sound and efficient ways of working. We often buy, consume and throw products without any concept of environmental damage. This can be due to a lack of knowledge and education about materials - from the energy consumed in production, labour and waste produced at the end of the cycle. Fabricademy at Fab Lab Barcelona equips students with the skills and knowledge to become key players in an emerging sustainable future of textiles.
+        </div>
+
+        <div class="col-lg-6 mt-lg-4">
+            <img src="{{site.baseurl}}/img/fabricademy/01.jpg" class="img-responsive"/>
+        </div>
+
+        <div class="col-12 my-3 mb-3 mb-lg-5">
+            <p>The program and educational environment encourages students to rethink industrial processes regarding textile production and design. Merging tradition and advanced technologies, students learn a range of skills from digital fabrication to synthetic biology and work across the creation, production and distribution of textile and fashion elements to help them establish their career as future textile professionals. Learning is supported by experts from the field who help students investigate how the textile and fashion industries can benefit from new technologies, processes and business models.</p>
+            <p>The Fabricademy program asks students to rethink industrial processes in an open and experimental laboratory. Merging tradition and advanced technologies, students learn a range of skills from digital fabrication to synthetic biology, and will work across the creation, production and distribution of textile and fashion elements to help them establish their career as future textile professionals. Learning is supported by experts from the field who help students investigate how the textile and fashion industry can benefit from new technologies, processes and business models.</p>
+            <p>Working in an open laboratory, students experiment with the human body and culture by recycling, hacking and sensing. Rapid prototyping is used to create real-time feedback loops for project development, in which materials, aesthetics, sustainability and customization play equal and important roles. Students use acquired knowledge to develop a final project which may intersect multiple sectors of the future textile and fashion industry.</p>
+        </div>
+
+        <div class="col-lg-6">
+            <img src="{{site.baseurl}}/img/fabricademy/05.jpg" class="img-responsive"/>
+        </div>
+        <div class="col-lg-6 mt-3 mt-lg-0">
+            <h2>An environment which encourages creativity</h2>
+            <p>The possibilities to conduct experimental research in an open laboratory give students the physical and mental space for innovative re-thinking and reframing of today's realities, offering the resources for visions to be materialised, tested, developed and fabricated, not as a linear process, but as a spiral iteration and implementation into reality. Through the program, we are developing and implementing a new approach on how to create, produce and distribute textile and fashion elements, by using distributed manufacturing infrastructures and knowledge networks.</p>
+        </div>
+
+        <div class="col-12 my-3 mb-3 mb-lg-5">
+            <p>Working in an open laboratory, students experiment with the human body and culture by recycling, hacking and sensing. Rapid prototyping is used to create real-time feedback loops for project development, in which materials, aesthetics, sustainability and customization play equal and important roles. Students use acquired knowledge to develop a final project which may intersect multiple sectors of the future textile and fashion industry.</p>
+        </div>
+
+        <div class="col-12 my-3">
+          <h2>From 3D-printed shoes to kombucha fabric</h2>
+            <p>Previous graduates of Fabricademy have worked on creating and fabricating interactive 3D-printed footwear, biodegradable garments, wearable smart hats, energy-harvesting clothing, whole 3D-printed garments, textile microfactory pilots and more. The projects seek to test, envisage and re-establish our production and consumption models in the context of advanced manufacturing. Through hands-on learning techniques and critical reflection, students develop innovative methodologies and designs which work towards creating a compassionate, sustainable future for the textiles industry. The program collaborates with Eurecat and Reimagine Textile project, in which students have access and training to complete the infrastructure of textile manufacturing facilities and testing machines. Students are mentored by Anastasia Pistofidou, co-founder of Material and Textile research body FabTextiles, Fabricademy and academic director of the global Fabricademy program. With dedicated biomaterial labs, access to two professional Fab Labs and a third lab at Valldaura Campus of IAAC in the Collserola National Park, Fabricademy Barcelona provides an unprecedented experience for students to study in a unique environment. The international IAAC environment welcomes students from 68 countries and over 200 disciplines, which provides all students on campus the opportunity to expand their professional and personal experiences. Alumni of the program have used their future-skills to build leading roles in the global Fab Lab network, established their own design studios and become entrepreneurs in the innovation and new materials fields. </p>
+        </div>
+    </section>
+
+    <hr>
+
+    <section>
+
+        <h2> Student's Projects</h2>
+
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+            <!-- <ol class="carousel-indicators">
+              <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            </ol> -->
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img class="d-block w-100" src="{{site.baseurl}}/img/fabricademy/04.jpg" alt="First slide">
+                    <div class="carousel-caption d-none d-lg-block">
+                        <h5>Deconstructive Head</h5>
+                        <p>Betiana Pavon</p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img class="d-block w-100" src="{{site.baseurl}}/img/fabricademy/02.jpg" alt="Second slide">
+                    <div class="carousel-caption d-none d-lg-block">
+                        <h5>E-Shoes</h5>
+                        <p>Ana Correa</p>
+                    </div>
+                </div>
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+
+    </section>
+
+    <hr>
+
+    <section>
+        <h2>Who is it for?</h2>
+        <p>We wish to reach all creative disciplines dealing with design and the Maker Movement: creative players, makers, designers, artists, architects, scientists, students and others.
+
+Fashion Designers
+For existing fashion designers who are seeking new and innovative ways of working with textiles - whether this is with biomaterials, 3D printed clothing, interactive wearables and more. Fabricademy gives the option for fashion designers to become more sustainable in their practice. 
+
+Designers
+We hope to benefit and increase the number of designers and creatives that self-produce goods by integrating resources they don’t have access to. Utilising digital platforms for all aspects of the creation process, to financing and execution.
+
+Makers
+This global movement merges artisanal skills with a digital layer of tools. We hope to benefit from this global community of do-ers by enhancing the connectivity between them and the spaces in which they work such as Fab Labs.</p>
+    </section>
+      
+       <hr>
+
+    <section>
+        <h2>How does it work?</h2>
+        <p>Fabricademy starts in Mid-September 2019. The first phase consists of classes until December and the 2nd phase from January to March.
+
+Fabricademy Graduation will take place in August, during the annual Fab Lab Conference. 2019-20 students will graduate in the FAB16 Conference, in Monteral, Canada.
+
+The FAB16 conference consists of both online and offline activities such as events, resources, workshops, fairs and boot camps that promote and advocate for emerging creative talent in Europe and their business productivity and sustainability.
+</p>
+    </section>
+
+    <hr>
+
+    <!--<section>
+        <h2 class="mb-4">Our Students Say...</h2>
+
+        <div class="row">
+
+            <div class="col-lg-4 text-center">
+                <div>
+                    <img style="max-width:150px;" class="rounded-circle my-3" src="/img/fab_academy/gustavo-abreu-fabacademy.jpg" alt="">
+                </div>
+                <p>
+                    “Lorem ipsum dolo sit amet
+                    Lorem ipsum dolo sit amet
+                    Lorem ipsum dolo sit amet”
+                    <strong> - Student 1</strong>
+                </p>
+            </div>
+            <div class="col-lg-4 text-center">
+                <div>
+                    <img style="max-width:150px;" class="rounded-circle my-3" src="/img/fab_academy/dorota-fab-academy.jpg" alt="">
+                </div>
+                <p>
+                    “Lorem ipsum dolo sit amet
+                    Lorem ipsum dolo sit amet
+                    Lorem ipsum dolo sit amet”
+                    <strong> - Student 2</strong>
+                </p>
+            </div>
+            <div class="col-lg-4 text-center">
+                <div>
+                    <img style="max-width:150px;" class="rounded-circle my-3" src="/img/fab_academy/joris-navarro-fabacademy.jpg" alt="">
+                </div>
+                <p>
+                    “Lorem ipsum dolo sit amet
+                    Lorem ipsum dolo sit amet
+                    Lorem ipsum dolo sit amet”
+                    <strong> - Student 3</strong>
+                </p>
+            </div>
+
+        </div>
+    </section>
+
+    <hr>-->
+
+    <section>
+        <div class="row">
+            <div class="col-lg-6">
+                <h2>An Innovative Environment</h2>
+                <p>Fab Lab Barcelona - IAAC is located in Poblenou, at Barcelona’s 22@ District.</p>
+                <p>Within the District, Poblenou neighborhood is one of the most genuine and prolific metropolitan scenarios of Barcelona city, an epicentre of creativity and innovation where ultra-modern buildings such as the Agbar Tower, Media TIC or the Design Hub Barcelona, coexist with old warehouses, art galleries, organizations, design studios, advertising agencies, higher education centres, production companies, hotels and restaurants.     <a href="http://www.poblenouurbandistrict.com/en/about-us/poblenou-urban-district-2/" target="_blank"> (Poblenou Urban District)</a></p>
+            </div>
+            <div class="col-lg-6 text-center">
+                <img class="img-fluid" src="/img/fab_academy/poblenou-urban-district.jpg" alt="">
+            </div>
+        </div>
+
+        <h4 class="mt-5">What is 22@ District?</h4>
+        <p>What began as an urban renewal project is today’s a powerful source of Urban, Economic, and Social renewal: “22@ Districte de la Innovació” or 22@ Innovation District, hosting the recent plan to consolidate a
+            <a href="https://ajuntament.barcelona.cat/digital/ca/innovacio-digital/make-in-bcn/poblenou-maker-district" target="_blank">“Maker’s District”</a>
+            in the area.</p>
+
+        <p>The Poblenou Maker District aims to foster interaction within the local community and strengthen reindustrialization process-es in the urban fabric with added-value features, such as the use of cutting-edge technologies for local production, training workers to face new challenges in the workplace in the immediate future and fostering Industry 4.0. Based on an internation-al perspective of the “Fab City”, the construction of a new model for cities using the power of the Maker Movement and the global Fab-Lab network.</p>
+
+        <h4 class="mt-5">Explore the neighbourhood</h4>
+        <div class="mt-4 embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.google.com/maps/d/embed?mid=1p3kmsJjecqJ_tUwINWj1fVaLdsPIJIiI"></iframe>
+        </div>
+
+    </section>
+
+    <hr>
+
+    <section class="row">
+        <div class="col-12">
+            <h2>Fabricademy's Barcelona Faculty</h2>
+        </div>
+
+        <!-- If you need to add or remove a Fabricademy employee, it is done in this repos _data/fabricademy_employees.yml file! -->
+        {% for item in site.data.fabricademy_employees %}
+        <div class="col-lg-4 text-center">
+            <div>
+                <img style="max-width:150px;" class="rounded-circle my-3" src="{{site.baseurl}}/{{item.image}}" alt="img">
+            </div>
+            <h4>{{ item.name }}</h4>
+            <p>{{ item.title }}</p>
+            <p>{{ item.description }}</p>
+        </div>
+        {% endfor %}
+    </section>
+
+    <hr>
+
+    <!--<section>
+        <h2 class="mb-2">FAQ's About the Program</h2>
+        <div class="row">
+            <div class="col-lg-6">
+                <h5 class="mt-5 mb-2">What do I need to do before starting Fabricademy?</h5>
+                <p>Ideally, check tutorials on the subjects you don’t know. This will help you familiarize with key concepts and the learning experience will be smooth
+                    👉 <a href="https://textile-academy.org/program/" target="_blank">Check tutorials</a></p>
+
+                <h5 class="mt-5 mb-2">What if I have never done programming or fabrication before?</h5>
+                <p>Don’t worry! Fabricademy can be taken on many levels… If you have no background in the subjects of the course, you will get all the basics to learn and produce your assignments. We suggest that you check some tutorials before coming, that will make you feel more confident at the beginning
+                    👉 <a href="http://fabacademy.org/2019/docs/FabAcademy-Tutorials/" target="_blank">Check tutorials</a></p>
+
+                <h5 class="mt-5 mb-2">What kind of job I can get after doing FabAcademy? </h5>
+                <p>The job world is changing so rapidly! Fab Academy will give you the chance to broaden your scope of what is possible in your professional scope, or inspire you to find a new path.  </p>
+                <p>Our alumni have opened their own labs and become network leaders; created their own professional standards which have revolutionized businesses; written books, papers and enhanced their Academic environments. Fab Academy can also be the gateway to becoming a technical assistant in companies, private practices and Universities; a Fab Lab Manager or a Fab Academy Instructor.  </p>
+
+                <h5 class="mt-5 mb-2">What do I need for the class?...</h5>
+                <p>Bring your laptop and be ready to change your life!</p>
+
+            </div>
+
+            <div class="col-lg-6">
+                <h5 class="mt-5 mb-2">Can I get my company to pay for this? </h5>
+                <p>Of course! Many companies support their employees to take crash courses and advance their team’s skill set. Fab Academy is an excellent opportunity to bootstrap your knowledge both in technical matters as well as project management and development.</p>
+
+                <h5 class="mt-5 mb-2">Can I learn Digital Fabrication on my own?</h5>
+                <p>Yes! Fab Academy content is free. All videos and class instructions are posted every year in the <a href="http://www.fabacademy.org/archive/" target="_blank">Fab Academy Archive.</a></p>
+                <p>What we offer with the fee is access to infrastructure and support, you can see the details
+                    <a href="http://www.fabacademy.org/apply/cost-breakdown.html#introduction-to-fab-academy-costs" target="_blank">here</a>. Fab Lab Barcelona is one of the largest Fab Labs in Europe - a pioneer within the network and part of a renowned international Institution - the
+                    <a href="https://iaac.net/" target="_blank">Institute for Advanced Architecture of Catalunya.</a> IAAC is a unique environment to build relationships; learn about the latest practices in the innovation and creative setting and to make long-lasting friends.</p>
+
+                <h5 class="mt-5 mb-2">Can I bring my own project to develop?</h5>
+                <p>Yes. Fab Academy takes you through a series of principles and practices that you will integrate into a final project. The whole process can be targeted and the results more fulfilling if you already have a project that is in a state of development. If you don’t have a project, don’t worry..we will inspire you enough to find one!</p>
+            </div>
+        </div>
+    </section>
+
+    <hr>-->
+
+    <div class="text-center mb-5 mt-4">
+        <p style="
+    font-size: 2rem;">
+            Are you ready to change your future?</p>
+        <button type="button" class="btn btn-secondary" style="width: 16rem;" data-toggle="modal" data-target="#applyModal">
+            Request application
+        </button>
     </div>
-  </section>
+
+</div>
+
+
+
+<!-- Sharing Buttons for Social Media -->
+<!-- https://gist.github.com/mskinna/6edcbd825aab2ba8fb5c -->
+
+<div class="d-none d-md-flex flex-column box-btn-media m-0 p-0 hw-fit">
+    <span>share</span>
+    <ul class="list-group m-0 p-0 hw-fit">
+
+        <li class="m-0 p-0 hw-fit">
+            <!-- Sharingbutton Facebook -->
+            <a class="social-link text-white d-flex align-items-center text-decoration-none m-0 p-0 mr-2" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ffablabbcn.org%2Ffab_academy.html&amp;src=sdkpreparse" target="_blank" rel="noopener" aria-label="Facebook">
+                <div class="social-btn bg-black overflow-hidden d-flex align-items-center social-btn-facebook">
+                    <div aria-hidden="true" class="social-btn-icon d-flex align-items-center mr-2">
+                        <svg class="mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                            <path d="M18.77 7.46H14.5v-1.9c0-.9.6-1.1 1-1.1h3V.5h-4.33C10.24.5 9.5 3.44 9.5 5.32v2.15h-3v4h3v12h5v-12h3.85l.42-4z"/>
+                        </svg>
+                    </div>Facebook</div>
+            </a>
+        </li>
+
+        <li class="m-0 p-0 hw-fit">
+            <!-- Sharingbutton Twitter -->
+            <a class="social-link text-white d-flex align-items-center text-decoration-none m-0 p-0 mr-2" href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Ffablabbcn.org/fab_academy.html%2F&ref_src=twsrc%5Etfw&text=Did%20you%20know%20about%20Fab%20Academy%20Barcelona%3F%20Fab%20Academy%20is%20an%20intensive%20%EF%AC%81ve-month%20program%20that%20teaches%20students%20to%20envision%2C%20design%20and%20prototype%20projects%20using%20digital%20fabrication%20tools%20and%20machines." target="_blank" rel="noopener" aria-label="Twitter">
+                <div class="social-btn bg-black overflow-hidden d-flex align-items-center social-btn-twitter">
+                    <div aria-hidden="true" class="social-btn-icon d-flex align-items-center mr-2">
+                        <svg class="mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                            <path d="M23.44 4.83c-.8.37-1.5.38-2.22.02.93-.56.98-.96 1.32-2.02-.88.52-1.86.9-2.9 1.1-.82-.88-2-1.43-3.3-1.43-2.5 0-4.55 2.04-4.55 4.54 0 .36.03.7.1 1.04-3.77-.2-7.12-2-9.36-4.75-.4.67-.6 1.45-.6 2.3 0 1.56.8 2.95 2 3.77-.74-.03-1.44-.23-2.05-.57v.06c0 2.2 1.56 4.03 3.64 4.44-.67.2-1.37.2-2.06.08.58 1.8 2.26 3.12 4.25 3.16C5.78 18.1 3.37 18.74 1 18.46c2 1.3 4.4 2.04 6.97 2.04 8.35 0 12.92-6.92 12.92-12.93 0-.2 0-.4-.02-.6.9-.63 1.96-1.22 2.56-2.14z"/>
+                        </svg>
+                    </div>Twitter</div>
+            </a>
+        </li>
+
+        <li class="m-0 p-0 hw-fit">
+            <!-- Sharingbutton E-Mail -->
+            <a class="social-link text-white d-flex align-items-center text-decoration-none m-0 p-0 mr-2" d-flex href="mailto:info@fablabbcn.org?subject=Did%20you%20know%20about%20Fab%20Academy%20Barcelona%3F&body=Fab%20Academy%20is%20an%20intensive%20%EF%AC%81ve-month%20program%20that%20teaches%20students%20to%20envision%2C%20design%20and%20prototype%20projects%20using%20digital%20fabrication%20tools%20and%20machines.%20Go%20to%20this%20link%3A%C2%A0https%3A%2F%2Ffablabbcn.org%2Ffab_academy.html" target="_self" rel="noopener" aria-label="E-Mail">
+                <div class="social-btn bg-black overflow-hidden d-flex align-items-center social-btn-email">
+                    <div aria-hidden="true" class="social-btn-icon d-flex align-items-center mr-2">
+                        <svg class="mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22 4H2C.9 4 0 4.9 0 6v12c0 1.1.9 2 2 2h20c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zM7.25 14.43l-3.5 2c-.08.05-.17.07-.25.07-.17 0-.34-.1-.43-.25-.14-.24-.06-.55.18-.68l3.5-2c.24-.14.55-.06.68.18.14.24.06.55-.18.68zm4.75.07c-.1 0-.2-.03-.27-.08l-8.5-5.5c-.23-.15-.3-.46-.15-.7.15-.22.46-.3.7-.14L12 13.4l8.23-5.32c.23-.15.54-.08.7.15.14.23.07.54-.16.7l-8.5 5.5c-.08.04-.17.07-.27.07zm8.93 1.75c-.1.16-.26.25-.43.25-.08 0-.17-.02-.25-.07l-3.5-2c-.24-.13-.32-.44-.18-.68s.44-.32.68-.18l3.5 2c.24.13.32.44.18.68z"/>
+                        </svg>
+                    </div>Email</div>
+            </a>
+        </li>
+
+    </ul>
+</div>
+<!-- [END] Sharing Buttons for Social Media -->
+
 
 {% include footer.html %}
+
+<script src="https://wzrd.in/standalone/formdata-polyfill"></script>
+<script src="https://wzrd.in/standalone/promise-polyfill@latest"></script>
+<script src="https://wzrd.in/standalone/whatwg-fetch@latest"></script>
+
+<script>
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbzoerSklXD1xC9JUZMdmYN8zVdq1-tVpzM1eqcf/exec'
+    const form = document.forms['submit-to-google-sheet']
+
+    form.addEventListener('submit', e => {
+        e.preventDefault()
+        fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+            .then(response => console.log('Success!', response))
+            .catch(error => console.error('Error!', error.message))
+        $('#applyModal').modal('hide');
+        $('#finishModal').modal('show');
+    })
+</script>
