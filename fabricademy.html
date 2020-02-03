@@ -146,7 +146,7 @@ title: Fabricademy
 
     <hr>
 
-    <section>
+    <!--<section>
         <div id="video-gallery" class="row">
             {% for item in site.data.fabricademy-slider-2018 %}
             <a class="col-sm-6 col-lg-4 mb-4" href="{{ item.url }}" >
@@ -157,7 +157,7 @@ title: Fabricademy
         </div>
     </section>
 
-    <hr>
+    <hr>-->
 
     <section class="row my-4">
         <div class="col-lg-6">
@@ -189,9 +189,7 @@ title: Fabricademy
 
         <div class="col-12 my-3">
           <h2>From 3D-printed shoes to kombucha fabric</h2>
-            <p>Previous graduates of Fabricademy have worked on creating and fabricating interactive 3D-printed footwear, biodegradable garments, wearable smart hats, energy-harvesting clothing, whole 3D-printed garments, textile microfactory pilots and more. The projects seek to test, envisage and re-establish our production and consumption models in the context of advanced manufacturing. Through hands-on learning techniques and critical reflection, students develop innovative methodologies and designs which work towards creating a compassionate, sustainable future for the textiles industry. The program collaborates with Eurecat and Reimagine Textile project, in which students have access and training to complete the infrastructure of textile manufacturing facilities and testing machines.
-
-Students are mentored by Anastasia Pistofidou, co-founder of Material and Textile research body FabTextiles, Fabricademy and academic director of the global Fabricademy program. With dedicated biomaterial labs, access to two professional Fab Labs and a third lab at Valldaura Campus of IAAC in the Collserola National Park, Fabricademy Barcelona provides an unprecedented experience for students to study in a unique environment. The international IAAC environment welcomes students from 68 countries and over 200 disciplines, which provides all students on campus the opportunity to expand their professional and personal experiences. Alumni of the program have used their future-skills to build leading roles in the global Fab Lab network, established their own design studios and become entrepreneurs in the innovation and new materials fields. </p>
+            <p>Previous graduates of Fabricademy have worked on creating and fabricating interactive 3D-printed footwear, biodegradable garments, wearable smart hats, energy-harvesting clothing, whole 3D-printed garments, textile microfactory pilots and more. The projects seek to test, envisage and re-establish our production and consumption models in the context of advanced manufacturing. Through hands-on learning techniques and critical reflection, students develop innovative methodologies and designs which work towards creating a compassionate, sustainable future for the textiles industry. The program collaborates with Eurecat and Reimagine Textile project, in which students have access and training to complete the infrastructure of textile manufacturing facilities and testing machines. Students are mentored by Anastasia Pistofidou, co-founder of Material and Textile research body FabTextiles, Fabricademy and academic director of the global Fabricademy program. With dedicated biomaterial labs, access to two professional Fab Labs and a third lab at Valldaura Campus of IAAC in the Collserola National Park, Fabricademy Barcelona provides an unprecedented experience for students to study in a unique environment. The international IAAC environment welcomes students from 68 countries and over 200 disciplines, which provides all students on campus the opportunity to expand their professional and personal experiences. Alumni of the program have used their future-skills to build leading roles in the global Fab Lab network, established their own design studios and become entrepreneurs in the innovation and new materials fields. </p>
         </div>
     </section>
 
@@ -265,7 +263,7 @@ The FAB16 conference consists of both online and offline activities such as even
 
     <hr>
 
-    <section>
+    <!--<section>
         <h2 class="mb-4">Our Students Say...</h2>
 
         <div class="row">
@@ -307,7 +305,7 @@ The FAB16 conference consists of both online and offline activities such as even
         </div>
     </section>
 
-    <hr>
+    <hr>-->
 
     <section>
         <div class="row">
@@ -357,7 +355,7 @@ The FAB16 conference consists of both online and offline activities such as even
 
     <hr>
 
-    <section>
+    <!--<section>
         <h2 class="mb-2">FAQ's About the Program</h2>
         <div class="row">
             <div class="col-lg-6">
@@ -394,7 +392,7 @@ The FAB16 conference consists of both online and offline activities such as even
         </div>
     </section>
 
-    <hr>
+    <hr>-->
 
     <div class="text-center mb-5 mt-4">
         <p style="
@@ -471,5 +469,7 @@ The FAB16 conference consists of both online and offline activities such as even
         fetch(scriptURL, { method: 'POST', body: new FormData(form)})
             .then(response => console.log('Success!', response))
             .catch(error => console.error('Error!', error.message))
+        $('#applyModal').modal('hide');
+        $('#finishModal').modal('show');
     })
 </script>
