@@ -6,7 +6,7 @@
   linkedin: https://es.linkedin.com/pub/tomas-diez/11/7aa/2b3
 
 - name: Luciana Asinari
-  image: img/team/luciana.jpg
+  image: img/team/luciana.jpghttps://es.linkedin.com/in/eduardo-chamorro-33574972
   title: Fab Lab Barcelona Coordinator / Fab Academy Global Coordinator
   fb: https://www.facebook.com/luciana.asinari?fref=ts
   twitter:
@@ -91,6 +91,13 @@
   fb:
   twitter:
   linkedin:
+  
+- name: Xavi Domínguez
+  image: img/team/Xavi.jpg
+  title: Action Researcher at Future Learning Unit / Fab Academy and MDEF Faculty
+  fb: 
+  twitter: https://twitter.com/xavidominguez
+  linkedin: https://www.linkedin.com/in/xavier-dom%C3%ADnguez-aparicio-021697a/
   
 - name: Eduardo Chamorro Martin
   image: img/team/eduardochamorro.jpg
