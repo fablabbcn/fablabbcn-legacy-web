@@ -45,7 +45,7 @@ title: Fabricademy
                         <input class="fablab-form-input" placeholder="First name" id="first_name" maxlength="40" name="firstName" size="20" type="text"required/><br>
                         <input class="fablab-form-input" placeholder="Last name" id="last_name" maxlength="80" name="lastName" size="20" type="text"required/><br>
                         <input class="fablab-form-input" placeholder="Email" id="email" maxlength="80" name="email" size="20" type="email"required/><br>
-                        <input class="fablab-form-input" placeholder="Country" id="country" maxlength="40" name="country" size="20" type="text"required/><br>
+                        {% include countries.html %}
 
                         <label for="description">Description</label>
                         <textarea class="mb-3" style="border:1px solid black; width:100%;" rows="4" name="description" id="description"></textarea><br>
