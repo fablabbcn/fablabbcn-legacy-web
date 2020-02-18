@@ -14,8 +14,7 @@ title: Machines
 			{% for item in site.data.machines %}
 
 			<div class="col-md-6"><a name={{item.name}}></a>
-				<br>
-				<img src="{{site.baseurl}}{{item.image}}"/><br>
+				<img class="mb-2" src="{{site.baseurl}}{{item.image}}"/>
 			</div> <!-- col -->
 
 			<div class="col-md-6">
@@ -26,15 +25,16 @@ title: Machines
 					{% for prop in item.machineprops %}
 					<li><strong class="text-capitalize">{{prop[0]}}: </strong> {{prop[1]}}</li>
 					{% endfor %}
-					{% if item.use != "" %}<li><strong>About the use:</strong><a target="_blank" href={{item.useurl}}> {{item.use}}</a></li>{% endif %}
-					<br><br><br>
+					{% if item.use != "" %}
+						<li class="mb-2"><strong>About the use:</strong><a target="_blank" href={{item.useurl}}> {{item.use}}</a></li>
+					{% endif %}
 					<!-- test -->
 				</ul>
 			</div> <!-- col -->
 
 			<!--------------------------------- machine list item ----------------------------->
 
-			<div class="container" id="separator-pages-top"></div>
+			<div class="container"></div>
 
 			{% endfor %}
 			
