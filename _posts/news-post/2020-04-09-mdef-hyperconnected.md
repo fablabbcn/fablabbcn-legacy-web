@@ -19,7 +19,7 @@ We are rapidly adjusting to the new reality of working remotely - that’s if ou
 
 ![](/uploads/cnpecover.jpg)
 
-## “It may be the end of the world as we know it, but other worlds are possible” 
+### “It may be the end of the world as we know it, but other worlds are possible” 
 (Superflux)
 
 # Cuba in the ‘90s
@@ -34,20 +34,22 @@ What does the crisis in Cuba in the ’90s have to do with the global crisis we 
 
 The presentations from the students reflected a process of global mitigation, adaptation and reflection of how this crisis has uniquely affected our daily lives. From studying the trends in internet searches it is possible to identify our worries, interests and ways in which we are looking to use our time during our distributed periods of isolation. 
 
-![](/uploads/Screen Shot 2020-04-09 at 12.55.39.png)
+![](/uploads/sourdough.png)
 
 Searches suggest we are looking into ways to make bread with the flour we panic-bought; we are offering food, support and creative inspiration to the elderly, to the lonely and those who find themselves out of work; we are worried about the spread of Coronavirus, searching for reliable news sources; we are quickly developing physical guidelines for ‘social distancing’; we are designing, developing and prototyping Coronavirus handbooks and protective equipment for workers; transforming our bedrooms into playgrounds to keep children entertained; live streaming music sets online and clapping at 20:00h thank those who are dedicating hours to keep others healthy and safe. 
 
-## “We need to keep asking - what is design? What should design be?” 
+### “We need to keep asking - what is design? What should design be?” 
 (Ernesto Oroza)
 
 We have quickly adapted, adjusted and may have even begun to enjoy this new normal. These trends have fed into the responses in the Hyper Domestic x Hyper Local archive. The repository contains sets of guidelines ranging from how to clearly communicate news to avoid misleading audiences, how to care for others whilst maintaining distance, workbooks for children and adults and more. The responses differ in comparison to the responses seen in Cuba in the ‘90s. The response to Coronavirus reflects something which could be considered more psychological. Good collective design acknowledges and responds to the problems and importance of context. In the case of Corona, feelings of loneliness, stress and anxiety are a serious threat to the health of many. The design response reflects this - through the creation of mechanisms which are reacting to social isolation, providing humane support networks and goodwill which overcomes cultural, racial or sexuality biases. 
 
-## “Caring is going to be a skill which is fundamental for the 21st century.” 
+### “Caring is going to be a skill which is fundamental for the 21st century.” 
 (Tomas Diez)
+
+![](/uploads/hyperlocal.gif)
 
 As the students are directly archiving and responding in-situ, the question remains whether these actions will continue post-Corona. Perhaps the increase in bread-making will lead to new local bread-baking businesses, or the desire to be healthy will boost support for local food supply chains. Design will play a key role here as a catalyst in analysing COVID responses and potentially implementing these strategies at a much greater, more permanent scale. This will and already has, transformed the world in which we see today - not just our mobility and resilience, but the way we value societies and communities in the future. 
 
-![](/uploads/hyperlocal.gif)
+
 
 
