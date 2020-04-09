@@ -32,11 +32,7 @@ What does the crisis in Cuba in the ’90s have to do with the global crisis we 
 
 # The new normal 
 
-The presentations from the students reflected a process of global mitigation, adaptation and reflection of how this crisis has uniquely affected our daily lives. From studying the trends in internet searches it is possible to identify our worries, interests and ways in which we are looking to use our time during our distributed periods of isolation. 
-
-![](/uploads/sourdough.png)
-
-Searches suggest we are looking into ways to make bread with the flour we panic-bought; we are offering food, support and creative inspiration to the elderly, to the lonely and those who find themselves out of work; we are worried about the spread of Coronavirus, searching for reliable news sources; we are quickly developing physical guidelines for ‘social distancing’; we are designing, developing and prototyping Coronavirus handbooks and protective equipment for workers; transforming our bedrooms into playgrounds to keep children entertained; live streaming music sets online and clapping at 20:00h thank those who are dedicating hours to keep others healthy and safe. 
+The presentations from the students reflected a process of global mitigation, adaptation and reflection of how this crisis has uniquely affected our daily lives. From studying the trends in internet searches it is possible to identify our worries, interests and ways in which we are looking to use our time during our distributed periods of isolation. Internet search trends suggest we are looking into ways to make bread with the flour we panic-bought; we are offering food, support and creative inspiration to the elderly, to the lonely and those who find themselves out of work; we are worried about the spread of Coronavirus, searching for reliable news sources; we are quickly developing physical guidelines for ‘social distancing’; we are designing, developing and prototyping Coronavirus handbooks and protective equipment for workers; transforming our bedrooms into playgrounds to keep children entertained; live streaming music sets online and clapping at 20:00h thank those who are dedicating hours to keep others healthy and safe. 
 
 ### “We need to keep asking - what is design? What should design be?” 
 (Ernesto Oroza)
@@ -46,10 +42,9 @@ We have quickly adapted, adjusted and may have even begun to enjoy this new norm
 ### “Caring is going to be a skill which is fundamental for the 21st century.” 
 (Tomas Diez)
 
-![](/uploads/hyperlocal.gif)
-
 As the students are directly archiving and responding in-situ, the question remains whether these actions will continue post-Corona. Perhaps the increase in bread-making will lead to new local bread-baking businesses, or the desire to be healthy will boost support for local food supply chains. Design will play a key role here as a catalyst in analysing COVID responses and potentially implementing these strategies at a much greater, more permanent scale. This will and already has, transformed the world in which we see today - not just our mobility and resilience, but the way we value societies and communities in the future. 
 
+![](/uploads/hyperlocal.gif)
 
 
 
