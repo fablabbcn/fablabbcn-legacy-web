@@ -28,7 +28,7 @@ When looking at air pollution in cities, we look mainly at the tailpipe emission
 
 ![](https://i.imgur.com/exoVfv5.jpg)
 
-Although the first weeks of may could tell a different story, the average over the different weeks shows a clear reduction in average PM levels:
+Although the first weeks of March could tell a different story, the average over the different weeks shows a clear reduction in average PM levels:
 
 ![](https://i.imgur.com/iEN8hM3.png)
 
@@ -37,7 +37,7 @@ Luckily in some high-density traffic areas, we have deployed a more advanced ver
 
 ![](https://i.imgur.com/dHX5BFF.jpg)
 
-There, we observed a significant decrease in the carbon monoxide concentrations (CO), which is mainly produced after the incomplete combustion in cars and requires more advanced sensors to measure it. On average, we can see a decrease in CO of roughly 0.5ppm. Before the lockdown, we could observe high peaks where CO levels reached several times more than 2ppm. Meanwhile, during the lockdown, they stayed below 0.7ppm.
+There, we observed a significant decrease in the carbon monoxide concentrations (CO), which is mainly produced by road traffic, and incomplete combustion in engines. This and other pollutants (NO2, O3) require more advanced sensors to measure them and for that reason the Smart Citizen Station includes an additional set of sensors. On average, we can see a decrease in CO of roughly 0.5ppm. Before the lockdown, we could observe high peaks where CO levels reached several times more than 2ppm. Meanwhile, during the lockdown, they stayed below 0.7ppm.
 
 ![](https://i.imgur.com/GhUTDh1.png)
 
@@ -45,7 +45,7 @@ When looking at hourly distributions, we can also see how some peak hours in the
 
 ![](https://i.imgur.com/9nHMBW0.png)
 
-During March and April, climate conditions were significantly variable in Barcelona, thus requiring some caution when looking at air pollution data. In particular, the first week of increased activity due to changes in the lockdown policy, corresponded with a week of rainy and unstable conditions, which might mask the expected air quality changes as we can see an upward trend in the noise pollutions levels.
+During March and April, climate conditions were significantly variable in Barcelona, thus requiring some caution when looking at air pollution data. In particular, the first week of increased activity due to changes in the lockdown policy, corresponded with a week of rainy and unstable conditions, which might mask the expected air quality changes, as we can see an upward trend in the noise pollutions levels for the same period.
 
 If we look again at noise pollution, we can see how citizens across Barcelona have sensed the calmness during the confinement. Even more, we can see how in some areas with higher traffic density, the noise levels are coming back to normal after the confinement measures decreased on the past days.
 
