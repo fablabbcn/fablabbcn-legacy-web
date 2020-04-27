@@ -1,7 +1,7 @@
 ---
 layout: blog_post
 meta: 'The emergent reality of the COVID crisis has led to a new form of distributed education, with students now undertaking the master from their home countries dotted across the world. This is being implemented by the Master in Design for Emergent Futures students in a collaborative project by Fab Lab Barcelona at IAAC and LINK Journal. '
-title: MDEF HYPER DOMESTIC X HYPER GLOBAL IN COLLABORATION WITH LINK JOURNAL
+title: MDEF Hyper Domestic X Hyper Global in collaboration with LINK Journal 
 type: blog
 author: Emily Whyman
 date: 2020-04-09 
