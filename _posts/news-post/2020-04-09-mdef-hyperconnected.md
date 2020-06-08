@@ -40,6 +40,6 @@ We have quickly adapted, adjusted and may have even begun to enjoy this new norm
 Tomas Diez.
 
 As the students are directly archiving and responding in-situ, the question remains whether these actions will continue post-Corona. Perhaps the increase in bread-making will lead to new local bread-baking businesses, or the desire to be healthy will boost support for local food supply chains. Design will play a key role here as a catalyst in analysing COVID responses and potentially implementing these strategies at a much greater, more permanent scale. This will and already has, transformed the world in which we see today - not just our mobility and resilience, but the way we value societies and communities in the future. 
-
-![](/uploads/cnpecover.jpg)
+ 
+The students texts have now been revised into a website and publication - similarly to Con Nuestros Propios Esfuerzos, aiming to be a legacy of the work and encourage further contributors via the [Gitlab](https://gitlab.com/link-journal/link-x-mdef). The texts collate all the information in thematic chapters summarised with images and introductory texts. The website and publication has been curated by LINK Journal. 
 
