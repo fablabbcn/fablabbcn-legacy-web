@@ -50,8 +50,13 @@ Not only did the students get to watch their designs come to life, but they also
 
 👉 **The SPML Machine - Six-Pack-Mobile Lab**
 
+<div class="row">
+  <div class="col-6">
 ![](/uploads/spml-hero.jpg)
 ![](/uploads/spml-circuit.jpg)
+  </div>
+</div>
+
 Introducing the ‘SPML’ - an open-source mini CNC laser machine the same size as a 6-pack which only costs around €60 to make. Designed by the FLU research team at Fab Lab Barcelona.
 
 The SPML was created due to the students’ inability to work physically inside Fab Lab Barcelona, and therefore, use the CNC, laser, and other tools. This has enabled students of the Barcelona Fab Academy and Master in Design for Emergent Futures to continue their learning by doing and making from home during this time of uncertainty and for classes in the ‘new normal’. The SPML is a multitool machine that can CNC and laser, is the same size as a six-pack, costs around €60, can all be fabricated within a Fab Lab, and is fully open source! 
