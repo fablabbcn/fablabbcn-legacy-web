@@ -11,9 +11,10 @@ teaserlatest: "/uploads/spml-hero.jpg"
 teaserlist: "/uploads/spml-hero.jpg"
 ---
 
+![](/uploads/cnc-cover.jpg)
+
+
 The Future Learning Unit ([FLU](https://www.instagram.com/futurelearningu/?hl=en)) at Fab Lab Barcelona hasve created the ‘SPML Machine and ‘CNC by the Sea’ - for distributed creating, learning, and building for remote working. 
-
-
 
 
 ## Remote <s>working</s> learning
