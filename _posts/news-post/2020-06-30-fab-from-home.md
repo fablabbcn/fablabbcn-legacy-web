@@ -7,8 +7,8 @@ author: Emily Whyman
 date: 2020-06-30 
 category:
 - news
-teaserlatest: "/uploads/spml-hero.jpg"
-teaserlist: "/uploads/spml-hero.jpg"
+teaserlatest: "/uploads/cnc-cover.jpg"
+teaserlist: "/uploads/cnc-cover.jpg"
 ---
 
 ![](/uploads/cnc-cover.jpg)
