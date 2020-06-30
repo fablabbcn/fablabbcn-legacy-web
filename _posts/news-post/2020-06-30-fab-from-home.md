@@ -52,8 +52,10 @@ Not only did the students get to watch their designs come to life, but they also
 
 <div class="row">
   <div class="col-6">
-![](/uploads/spml-hero.jpg)
-![](/uploads/spml-circuit.jpg)
+    <img src="/uploads/spml-hero.jpg">
+  </div>
+  <div class="col-6">
+    <img src="/uploads/spml-circuit.jpg">
   </div>
 </div>
 
