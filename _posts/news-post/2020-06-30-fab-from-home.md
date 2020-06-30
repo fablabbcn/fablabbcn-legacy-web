@@ -61,7 +61,7 @@ The SPML was created due to the students’ inability to work physically inside 
 
 
 
-The two machines were created out of a necessity for the students to be able to continue their learning whilst remaining safe during the COVID-19 outbreak. Amongst disruptive times, innovation often accelerates - these open source tools will continue to be used in our ‘new normal’ society and are available for the Barcelona Fab Academy, Master in Design for Emergent Futures and anyone else who wishes to build their own [‘CNC by the Sea’])(https://gitlab.com/fablabbcn-projects/cnc-machines/six-pack-cnc) or [SMPL](https://gitlab.com/fablabbcn-projects/learning/the-cnc-by-the-sea). 
+The two machines were created out of a necessity for the students to be able to continue their learning whilst remaining safe during the COVID-19 outbreak. Amongst disruptive times, innovation often accelerates - these open source tools will continue to be used in our ‘new normal’ society and are available for the Barcelona Fab Academy, Master in Design for Emergent Futures and anyone else who wishes to build their own [‘CNC by the Sea’](https://gitlab.com/fablabbcn-projects/cnc-machines/six-pack-cnc) or [SMPL](https://gitlab.com/fablabbcn-projects/learning/the-cnc-by-the-sea). 
 
 Projects like this have supplied new learning dimensions to the educational space. They provide a hyperconnected learning ecosystem that provides feedback whilst navigating between home, Fab Labs and University. This project reflects how it is possible to learn almost anything in a lab, school or at home, whilst building skills and key competencies to meet social challenges in an uncertain future.
 
