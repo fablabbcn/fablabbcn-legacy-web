@@ -14,6 +14,7 @@ teaserlist: "/uploads/gardenfit.jpg"
 
 
 ![](/uploads/gardenfit.jpg)
+
 The projects Organic Matters, Gardenfit and Pangea are delving into emergent futures. Cover image - 'Gardenfit' (Stefan Sajda, Warsaw 2020). 
 
 
