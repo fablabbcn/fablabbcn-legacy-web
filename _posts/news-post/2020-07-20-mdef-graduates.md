@@ -11,9 +11,11 @@ teaserlatest: "/uploads/gardenfit.jpg"
 teaserlist: "/uploads/gardenfit.jpg"
 ---
 
-The projects Organic Matters, Gardenfit and Pangea are delving into emergent futures. Cover image - 'Gardenfit' (Stefan Sajda, Warsaw 2020). 
+
 
 ![](/uploads/gardenfit.jpg)
+The projects Organic Matters, Gardenfit and Pangea are delving into emergent futures. Cover image - 'Gardenfit' (Stefan Sajda, Warsaw 2020). 
+
 
 2020 has been a hard year so far, so we’re here to lighten up your news feed with some inspirational projects from this year’s Master in Design for Emergent Futures class of 2020 graduates. Despite graduating (online) the students have gone above and beyond with their projects to establish themselves as impactful creatives in the design and maker world 💻 Below lists a selection of some of the students’ projects this year, and how they are continuing their projects.
 
