@@ -27,9 +27,9 @@ The projects Organic Matters, Gardenfit and Pangea are delving into emergent fut
 
 Laura, during her Master’s study, focused on connecting local producers, material designers and industry to identify regenerative and compostable strategies for circular systems with her [Organic Matters](https://laurafreixas.gitlab.io/laura.freixas/-/organicmatters.html) platform. Laura is continuing her focus on materials, running the ‘De la Molecula al Objeto’ workshops with Cristina Noguer, hosted at the [TMDC Makerspace and Workshop](https://www.tmdc.es/casaldestiutalleres/de-la-molcula-al-objeto?fbclid=IwAR3dofIj23MQuQ2BycFOPh-Ki4QUplZHliweeEdGJSQ_dBDZcMCyYUisHck) in Barcelona, Spain. The workshop created an air diffuser with natural Pine tree by-products, whilst exploring and questioning the importance of material knowledge, sensitivity and discoverability. 
 
-
-![](/uploads/organic-matters.jpg)
-(Organic Matters, Barcelona, 2020).
+![](/uploads/organic-matters2.jpg)
+![](/uploads/organic-matters3.jpg)
+(Isabell Thrun, Barcelona, 2020)
 
 
 
