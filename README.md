@@ -1,5 +1,5 @@
 # fablabbcn-web
-This is the repo for the [FabLabBCN website](https://fablabbcn.org)
+This is the repo for the [FabLabBCN legacy website](https://fablabbcn.github.io/fablabbcn-web/)
 
 ## Info
 * This page is hosted on Github Pages .
