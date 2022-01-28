@@ -1,5 +1,13 @@
-# fablabbcn-web
-This is the repo for the [FabLabBCN legacy website](https://fablabbcn.github.io/fablabbcn-web/)
+# fablabbcn-legacy-web
+
+Legacy Fab Lab Barcelona website available at:
+
+https://legacy.fablabbcn.org/
+
+For the new website see:
+
+http://fablabbcn.org/
+
 
 ## Info
 * This page is hosted on Github Pages .
